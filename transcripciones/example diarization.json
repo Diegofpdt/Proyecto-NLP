@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "model": "openai/whisper-small",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "diarization_model": "pyannote/speaker-diarization-3.1",
+    "device": "cpu",
+    "dtype": "float32"
+  },
+  "text": "Y en el transcurso del tiempo han aumentado los partidos políticos y tú propones un acuerdo de nuevo pacto político de diálogo entre las distintas entidades políticas. Cada vez hay más partidos tuvimos una modificación que aumentó el número parlamentarios, tuvimos una crisis hace seis años donde algunos estuvieron en la calle protestando, espero que eso no vuelva a ocurrir, hay el compromiso hacia adelante, ¿cómo lo harías para generar ese nuevo pacto? Macino. Gracias por la pregunta. Yo estoy convencido que efectivamente la ley de partidos políticos que se hizo en el 2014 por ahí fue mala. Yo tenía un partido, lo lideré y lo disolví. Hoy preferí estar como independiente porque creo que sobra los partidos políticos. Son entes vacíos. Y no lo digo como predicador, sino como pecador. Nuestro partido, como el suyo, José Antonio Caso, No, no, no, no, no, no, no, no, no, no, no, no, norupción o de clientelismo en el más sano de los casos, son partidos desastrosos. Yo creo que debemos que cambiar el sistema político, José Antonio, y una cosa que se distancia mucho de tu visión es que yo no hay un problema democrático, ahora el 16 de noviembre, ustedes van a votar por dos cosas, por el Ejecutivo y el Legislativo, y hace 25 años que el país ha elegido un empate, le ha dado el poder a un color y le ha dado el poder a otro. Eso se llama la crisis de la doble legitimidad, la neurosis, nuestra neurosis, nuestra incapacidad de la mayoría. Yo haría un sistema menos presidencialista, donde el jefe de Estado no sea jefe de gobierno ni jefe de coalición, para que la economía crezca necesitamos que el presidente legítimo oye el presidente no, esto es un presidente en crisis permanentemente y producto de allende es que nos quedamos traumatizados para crisis de gobierno, es normal que los gobiernos tengan crisis, no que sean incompetentes. Ahora, yo quiero aprovechar los 15 segundos, José Antonio. Yo te escucho hablar de seguridad con mucha fuerza. Lo que no logro ver es la solución. Veo síntomas. Veo manipulación de los medios, de los miedos de los chilenos, sin solución. La seguridad es un tema técnico, José Antonio. No es un tema ideológico. Muchas gracias, Marco, Enrique Dominami.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 35.24,
+      "text": "Y en el transcurso del tiempo han aumentado los partidos políticos y tú propones un acuerdo de nuevo pacto político de diálogo entre las distintas entidades políticas. Cada vez hay más partidos tuvimos una modificación que aumentó el número parlamentarios, tuvimos una crisis hace seis años donde algunos estuvieron en la calle protestando, espero que eso no vuelva a ocurrir, hay el compromiso hacia adelante, ¿cómo lo harías para generar ese nuevo pacto? Macino. Gracias por la pregunta.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 35.24,
+      "end": 37.96,
+      "text": "Yo estoy convencido que efectivamente la ley de partidos",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 37.96,
+      "end": 41.56,
+      "text": "políticos que se hizo en el 2014 por ahí fue mala.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 41.56,
+      "end": 44.64,
+      "text": "Yo tenía un partido, lo lideré y lo disolví.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 44.64,
+      "end": 46.96,
+      "text": "Hoy preferí estar como independiente porque creo que",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 46.96,
+      "end": 48.28,
+      "text": "sobra los partidos políticos.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 48.28,
+      "end": 49.72,
+      "text": "Son entes vacíos.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 49.72,
+      "end": 98.56,
+      "text": "Y no lo digo como predicador, sino como pecador. Nuestro partido, como el suyo, José Antonio Caso, No, no, no, no, no, no, no, no, no, no, no, no, norupción o de clientelismo en el más sano de los casos, son partidos desastrosos. Yo creo que debemos que cambiar el sistema político, José Antonio, y una cosa que se distancia mucho de tu visión es que yo no hay un problema democrático, ahora el 16 de noviembre, ustedes van a votar por dos cosas, por el Ejecutivo y el Legislativo, y hace 25 años que el país ha elegido un empate, le ha dado el poder a un color y le ha dado el poder a otro. Eso se llama la crisis de la doble legitimidad, la neurosis, nuestra neurosis, nuestra incapacidad de la mayoría. Yo haría un sistema menos presidencialista, donde el jefe de Estado no sea jefe de gobierno ni jefe de coalición, para que la economía crezca necesitamos que el presidente legítimo",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 98.56,
+      "end": 102.4,
+      "text": "oye el presidente no, esto es un presidente en crisis permanentemente y producto de allende",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 102.4,
+      "end": 106.16,
+      "text": "es que nos quedamos traumatizados para crisis de gobierno, es normal que los gobiernos tengan",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 106.16,
+      "end": 107.6,
+      "text": "crisis, no que sean incompetentes.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 107.6,
+      "end": 110.4,
+      "text": "Ahora, yo quiero aprovechar los 15 segundos, José Antonio.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 110.4,
+      "end": 112.88,
+      "text": "Yo te escucho hablar de seguridad con mucha fuerza.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 112.88,
+      "end": 115.0,
+      "text": "Lo que no logro ver es la solución.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 115.0,
+      "end": 116.4,
+      "text": "Veo síntomas.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 116.4,
+      "end": 119.36,
+      "text": "Veo manipulación de los medios, de los miedos de los chilenos,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 119.36,
+      "end": 120.08,
+      "text": "sin solución.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 120.08,
+      "end": 121.92,
+      "text": "La seguridad es un tema técnico, José Antonio.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 121.92,
+      "end": 123.28,
+      "text": "No es un tema ideológico.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 123.28,
+      "end": 125.24,
+      "text": "Muchas gracias, Marco, Enrique Dominami.",
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01"
+  ]
+}
