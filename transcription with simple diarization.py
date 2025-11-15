@@ -1,4 +1,3 @@
-# diarize_by_embeddings_batch.py
 import os
 import json
 import numpy as np
@@ -16,7 +15,8 @@ OUTPUT_DIR = "transcripciones_diarized/"   # aquí se guardarán los _diarized.j
 SAMPLE_RATE = 16000               # trabajamos en 16 kHz mono
 MIN_SEG_DUR = 0.1                 # seg mínimos para un embedding fiable
 PAD = 0.01                        # padding (seg) a cada lado del segmento
-SIM_THRESHOLD = 0.5              # umbral similitud coseno para "mismo hablante"
+SIM_THRESHOLD = 0.5               # umbral similitud coseno para "mismo hablante"
+MAX_SPEAKERS = 10                  # máximo número de hablantes permitidos
 # ==========================
 
 def safe_stem(path: str) -> str:
@@ -50,9 +50,10 @@ def embed_segment(spk_model, sig_seg: torch.Tensor, device: str):
     vec = vec / (np.linalg.norm(vec) + 1e-8)    # L2 norm
     return vec
 
-def assign_speakers_by_embeddings(segments, sig16k, sr, spk_model, spk_device):
+def assign_speakers_by_embeddings(segments, sig16k, sr, spk_model, spk_device, max_speakers=None):
     """
     Asigna 'speaker' a cada segmento usando embeddings (ECAPA) y clustering por similitud.
+    Si max_speakers no es None, no se crean más hablantes que ese máximo.
     Devuelve (segments_con_speaker, lista_speakers_ordenados_por_duración).
     """
     speakers = []  # {"id": "SPEAKER_00", "centroid": np.array, "embs": [np.array], "dur": float}
@@ -80,17 +81,28 @@ def assign_speakers_by_embeddings(segments, sig16k, sr, spk_model, spk_device):
 
         if not speakers:
             spk_id = f"SPEAKER_{next_id:02d}"
-            speakers.append({"id": spk_id, "centroid": emb.copy(), "embs": [emb], "dur": seg["end"] - seg["start"]})
+            speakers.append({
+                "id": spk_id,
+                "centroid": emb.copy(),
+                "embs": [emb],
+                "dur": seg["end"] - seg["start"]
+            })
             seg["speaker"] = spk_id
             next_id += 1
             continue
 
         # comparar contra centroides
-
         centroids = np.vstack([sp["centroid"] for sp in speakers])
         sims = cosine_similarity([emb], centroids)[0]
         j = int(np.argmax(sims))
-        if sims[j] >= SIM_THRESHOLD:
+        best_sim = sims[j]
+
+        # ¿podemos crear un nuevo hablante?
+        can_create_new = (max_speakers is None) or (len(speakers) < max_speakers)
+
+        if best_sim >= SIM_THRESHOLD or not can_create_new:
+            # Asignar al hablante más similar
+            # (si ya llegamos al máximo, forzamos a agrupar aquí aunque la similitud sea baja)
             sp = speakers[j]
             sp["embs"].append(emb)
             sp["dur"] += (seg["end"] - seg["start"])
@@ -98,8 +110,14 @@ def assign_speakers_by_embeddings(segments, sig16k, sr, spk_model, spk_device):
             sp["centroid"] = new_c / (np.linalg.norm(new_c) + 1e-8)
             seg["speaker"] = sp["id"]
         else:
+            # Crear nuevo hablante (solo si no alcanzamos el máximo y la similitud es baja)
             spk_id = f"SPEAKER_{next_id:02d}"
-            speakers.append({"id": spk_id, "centroid": emb.copy(), "embs": [emb], "dur": seg["end"] - seg["start"]})
+            speakers.append({
+                "id": spk_id,
+                "centroid": emb.copy(),
+                "embs": [emb],
+                "dur": seg["end"] - seg["start"]
+            })
             seg["speaker"] = spk_id
             next_id += 1
 
@@ -140,8 +158,10 @@ def process_one(audio_path: str):
         run_opts={"device": spk_device}
     )
 
-    # Asignar speakers
-    segments, spk_names = assign_speakers_by_embeddings(segments, sig16k, sr, spk_model, spk_device)
+    # Asignar speakers con límite máximo
+    segments, spk_names = assign_speakers_by_embeddings(
+        segments, sig16k, sr, spk_model, spk_device, max_speakers=MAX_SPEAKERS
+    )
 
     # Escribir salida
     payload = {
@@ -153,6 +173,7 @@ def process_one(audio_path: str):
             "pad_s": PAD,
             "sim_threshold": SIM_THRESHOLD,
             "device_spk": spk_device,
+            "max_speakers": MAX_SPEAKERS,
         },
         "text": data.get("text", ""),
         "segments": segments,
@@ -169,7 +190,7 @@ def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     valid_ext = (".mp3", ".wav", ".m4a", ".flac", ".ogg")
 
-    files = [os.path.join(AUDIO_DIR, f) for f in os.listdir(AUDIO_DIR) if f.lower().endswith(valid_ext) and f.lower().endswith('a_02-10.mp3')]
+    files = [os.path.join(AUDIO_DIR, f) for f in os.listdir(AUDIO_DIR) if f.lower().endswith(valid_ext) and f.lower().endswith("ara_02-10.mp3")]
     if not files:
         print("No se encontraron audios.")
         return

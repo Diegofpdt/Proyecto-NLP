@@ -1,0 +1,21 @@
+audios/
+
+# gitignore for python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+.env/
+# Ignore IDE specific files
+.vscode/
+.idea/
+# Ignore system files
+.DS_Store
+Thumbs.db
+# Ignore log files
+*.log
