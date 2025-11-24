@@ -1,0 +1,4509 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "Cristian, quiero en Cristian representar a un tremendo equipo de trabajo que hoy día nos acompañan. Está aquí el almirante Parga, está el coronel González, está el general Basaletti, el general Tapia, está también Beatriz Evia, que ha conducido todo el trabajo técnico de este grupo, y también están de otros equipos. Perdón, está también Rodolfo Carter, que ha sido parte fundamental en el tema de la seguridad. Gracias, Rodolfo, que nos diste ese empuje, esa fuerza que mostraste siendo alcalde en la Florida, combatiendo al narcotráfico. Y eso, lo técnico, lo específico, se ha ido complementando también con el trabajo de otros equipos. Aquí está Iván Poduje, que nos ha ayudado mucho con todo lo que son los mapas satelitales, los mapas de calor, que también conoce perfectamente la zona. Está aparte el equipo económico con Bernardo Fontén, que tiene uno de los desafíos más grandes, ya que en 90 días todo esto tiene que estar funcionando. Y veo también a Carmen Sosa, por ahí, que ha liderado todos los equipos de nuestro centro de estudio y que tiene un gran desafío porque algunas de las medidas que vamos a tomar también requieren modificaciones legislativas. Como ustedes se dan cuenta, este es un trabajo serio, es un trabajo colaborativo, es un trabajo que no termina en esta presentación. Cristian nos hablaba de tres fases y la fase final es entregar un país normalizado, un país donde vivamos tranquilos y seguros. Tiene etapas porque no todo se puede hacer el primer día. Todos sabemos que no hay una solución automática ni mágica. Esto tiene mucho trabajo, al igual que cada uno de nuestros planes. En cada uno de los planes que hemos ido desarrollando, sea planes de vivienda, planes de salud, planes de educación, hay un trabajo serio y responsable que vamos a ir presentando en las próximas semanas para que la gente pueda tomar una decisión informada. Y agradezco, Cristian, el trabajo. Y voy ahora con una parte un poco más política. Y nosotros hemos visto que este gobierno ha sido el gobierno donde más inmigrantes irregulares han llegado a nuestra patria. 125.000 personas han usado a nuestra patria 125 mil personas han usado alguno de estos recorridos para llegar a chile bien lo decía cristian no solamente es la frontera terrestre la vulnerada sino que también hay personas que llegan vía marítima otros llegan vía aérea y este es un plan integral más de 300 mil personas están hoy día en Chile y son migrantes irregulares. Y esos son datos reales. No es un relato, son datos que hoy día existen y el mismo gobierno ha ratificado. Y ese es el legado del gobierno del presidente Boric. Ese es el fracaso del señor Gabriel Boric. Y aquí también lo vamos a anticipar, lo vamos a anunciar y lo vamos a recordar cada día que quedan 133 días, 133 días para que suma un nuevo gobierno. Son 133 días que tienen los inmigrantes irregulares para partir, dejar nuestra patria. Porque si no lo hacen voluntariamente, los vamos a buscar y van a haber sanciones. Hoy día tienen la libertad, como la tuvieron para entrar por la ventana Chile, para salir por la puerta y dejar registro de que se fueron. Y eso también marca una diferencia, porque si alguien no sale voluntariamente y nosotros tenemos que proceder a expulsarlo, a retenerlo, esa persona nunca más va a entrar a suelo chileno. Nunca más. Por lo tanto, si alguien hoy día está en una situación irregular y quiere volver en algún momento en el futuro, ordenando sus documentos, planteando si es que va a trabajar, que tiene un contrato ya definido con su pasaje de regreso financiado por el empleador y con todas las normas legales y laborales establecidas, no va a tener problema. Pero si nosotros tenemos que hacer el esfuerzo de buscarlos, de plantearle que tienen que ir forzosamente, bueno, no va a volver a entrar a Chile. Por lo tanto, estamos dando una oportunidad muy importante de que las personas lo tomen a bien y solucionen el problema antes de que tengamos que solucionarlo nosotros. Porque aquí ya no van a haber más gobiernos débiles. Aquí lo que va a haber no es perdonazos, no es regularizaciones masivas. Nosotros vamos a aplicar la ley y vamos a cuidar y velar por los derechos de las personas. Aquí también hay muchos niños que han sido vulnerados, niños que han sido utilizados para que ingresen adultos a Chile y vuelven a salir y vuelven a entrar. Eso es parte del crimen organizado que vamos a perseguir. Y ustedes ven que a partir de esto en Chile va a volver a imperar la ley, el orden y va a haber seguridad. Nosotros vamos a cerrar las fronteras en todos aquellos lugares donde haya pasos irregulares. Los vamos a cerrar de manera física, como vieron ahí ustedes, con obstáculos físicos, sea zanjas, camellones, rejas. Lo vamos a cerrar de manera tecnológica, como vieron ahí. Hay lugares donde hay cobertura de radar, donde vamos a poder detectar cualquier movimiento. En otros lugares va a haber cobertura de radar, donde vamos a poder detectar cualquier movimiento, en otros lugares va a haber cobertura de cámaras, de distintos tipos de cámaras, no solamente la que ustedes pueden ver normalmente, no son cámaras fotográficas, no son drones comunes y corrientes, son elementos técnicos muy bien definidos que se ocupan en estas situaciones. Y también va a haber un cierre diplomático. Hoy día nos alegramos del cambio de rumbo que va a tener Bolivia, eso va a colaborar mucho. Hemos visto algunas medidas importantes que han tomado en Perú para perseguir al crimen organizado y hemos visto también con satisfacción el resultado en Argentina que le va a permitir seguramente al gobierno de Javier Milei seguir tomando medidas drásticas en contra del crimen organizado......como ya hemos visto a su ministra Bullrich realizarlo. Y los que tengan problemas con la justicia en Chile, también les decimos......ellos no salgan como quieran, antes de los 133 días, porque cualquiera que tenga hoy día un problema con la justicia, a ese no lo vamos a expulsar, a ese lo vamos a encerrar, y va a cumplir lo que corresponda, lo que la justicia haya señalado aquí completamente. Nosotros no vamos a expulsar a nadie que hoy día se encuentre en una cárcel, aunque sea por un delito menor. Todos van a cumplir la pena completa aquí en Chile y después van a ser expulsados y van a estar instalados en un registro para que nunca más vuelvan a entrar a Chile, nunca más. Por lo tanto, también a esas personas les estamos dando una advertencia que las cárceles van a ser ocupadas por ellas y no van a seguir intimidando a los chilenos. Hoy día en la mañana quiero felicitar a Carabineros de Chile por la detención que realizaron, por la valentía de ese funcionario de Carabineros que bloqueó el paso de estos delincuentes que habían asaltado a una familia chilena y después con el refuerzo necesario fueron detenidos. Bueno, esas personas van a cumplir la pena en Chile y nosotros nos vamos a aplicar a que se le aplique el mayor rigor, el peso de la ley. Como les digo, algunas de estas cosas van a necesitar reformas legislativas, como por ejemplo que la inmigración irregular nunca más se considere un delito, perdón, una falta. Va a ser un delito, un delito grave para ir desincentivando a las personas. Esto, alguno dirá, oiga, pero esto va a ser fácil. No, va a ser muy difícil, va a ser fácil. No, va a ser muy difícil, va a ser muy duro, va a ser complejo, pero lo vamos a hacer. Nosotros vamos a regular, vamos a regular el ingreso y nunca más vamos a hacer regulaciones masivas de las personas que hoy día están acá, a diferencia de lo que hacen otras candidaturas. Y en temas más de detalle, no van a haber más remesas al extranjero de alguien que no tenga una residencia regular en Chile. No vamos a darle ningún beneficio a las personas que estén de manera irregular en Chile, salvo la atención de urgencia en salud. Entendemos que alguien puede sufrir una herida grave, que necesite una atención médica urgente, solo eso van a tener. Aquí no van a haber posibilidades de que les arrienden viviendas. Aquí no va a haber posibilidad de que trabajen en Chile, porque esto es un tema conjunto de distintos organismos del Estado. Aquí el Ministerio del Trabajo va a tener un rol, la Dirección del Trabajo va a tener un rol importante la Dirección del Trabajo va a tener un rol importante, el Ministerio de Salud va a tener un rol importante porque hay que tomar medidas sanitarias, donde hay hacinamiento de personas, porque algún inescrupuloso arrienda camas o arrienda piezas a un alto valor para que ellos duerman hacinados. Y como la necesidad de la persona es alta, están ahí. Todo esto, como les digo, va a ser una realidad y las personas tendrán que optar si se van libremente con todos sus recursos, porque nosotros no queremos retener ningún recurso de nadie. Por lo tanto, si alguien tiene ahorro, si alguien tiene algunos bienes, bueno, tiene 133 días para definir si quiere partir con todas sus cosas o si quiere partir con lo puesto. Nosotros le vamos a resguardar sus bienes para que cuando alguien venga y acredite que puede retirar sus bienes más adelante, no tenemos ningún problema. Pero se van a ir con lo puesto. Por lo tanto, necesitamos que las personas entiendan que nosotros en esto vamos muy en serio. Que a Chile se entra por la puerta, no se entra por la ventana. Y el que entró por la ventana infringió nuestras normas. Hoy día puede ser que sea una falta, más adelante va a ser un delito. Y como bien decía el General Vial, estos son fases, son tres fases que las vamos a hallar adelante una por una en los plazos establecidos y reiterar que el 14 de diciembre los chilenos tienen dos opciones. Una es votar por la candidata del gobierno, la candidata de la continuidad, la candidata Janet Jara, que ha planteado la regularización masiva de inmigrantes ilegales, que ha planteado la expulsión de delincuentes que hoy día están en nuestras cárceles, o la opción nuestra, que es una opción clara y definida, donde no van a haber más regularizaciones masivas, donde no van a haber más beneficios para los inmigrantes irregulares y donde va a haber retención y expulsión de todas las personas que intenten entrar por alguna ventana que puede haber quedado porque a esas personas las vamos a detener, las vamos a llevar a centros de refugio, a centros de retención, y los vamos a expulsar. Y no van a poder entrar nunca más a Chile. Eso también que les quede claro. El que ingresa por la ventana y es sorprendido y es expulsado, nunca más entra a Chile. Se ha producido toda una discusión desde el día domingo sobre los vuelos imaginarios. Yo les diría que solo algunas personas viven en un país imaginario, como un país de las maravillas, un país de fantasía, donde pareciera ser que la inmigración irregular no afecta a nadie. Quiere decir que no conocen la realidad en nuestros centros de salud. Quiere decir que no conocen cuánto sale hoy día el arriendo de una vivienda, de una pieza, en un CIT. Pareciera ser que no la conocen. Más allá de que el presidente haya hecho un día un punto de prensa en un CIT, pareciera que fue solo a un CIT que estaba arreglado, amononado. Pero esa no es la realidad de miles de personas que viven hoy día situaciones de vulnerabilidad en temas habitacionales y que son inmigrantes irregulares. Hoy día tienen la posibilidad de salir libremente. No conocen la realidad de la atención en educación a la primera infancia. No conocen parte de lo que hoy día sufren los chilenos en temas de transporte. Y pueden ir viendo ustedes todas las realidades que hoy día viven las personas que están regularmente en Chile y las personas que nacieron y son compatriotas nuestras por nacimiento. En esto, la única candidatura que plantea cosas imaginarias es la de Janet Jara, que habla de violencia rural en la Araucanía. Y está en testimonios gráficos de Ruth Hurtado, de Rodolfo Carter, mostrando cuál es la realidad, que viven nuestras fuerzas armadas y que viven nuestros carabineros en la macro zona sur. Eso no va a seguir siendo así. Nosotros vamos a enfrentar el terrorismo con toda la fuerza de la ley, para que también vayan tomando consideración esas personas, que va a haber un antes y un después. Nosotros, como les digo, vamos a usar todas las herramientas administrativas, legislativas, judiciales, diplomáticas, tecnológicas, y vamos a llevar todos los recursos necesarios para que esto sea una realidad. Un ejemplo claro de lo que ha ocurrido en el mundo, hoy día ustedes lo pueden apreciar en Estados Unidos, donde se detuvo a cerca de 500.000 personas en un país muy grande, de otras dimensiones en habitantes, pero la detención de esas 500.000 personas hizo que otro millón y medio dejara voluntariamente el país. Es una especie de 3x1. Nosotros aquí creemos que puede ser el cuatro por uno. Que por cada persona, o cinco por uno, por cada persona que nosotros tengamos que ir a buscar, detener y expulsar, esperamos que antes de eso se hayan ido al menos cinco. Nosotros ya no vamos a usar, y les pido que me... Nosotros no hacemos maquetas, no hacemos presentaciones, no nos vamos a sacar fotos con algo inventado. Yo les pediría que ustedes vayan a Colchane y vean cuántos de estos megáfonos están funcionando. Si alguna vez lo ocuparon. Eso es una apuesta en escena. Nosotros vamos de verdad. Por lo tanto, les quiero agradecer a todos los que han participado en este equipo de seguridad, a todos los que han participado en los otros equipos, vamos a ir mostrándoles los avances de las distintas tareas que vamos a ir desarrollando para que la ciudadanía tenga claro esto de que el 14 de diciembre solo hay dos opciones una, el continuismo de un gobierno fracasado y otra, que va a enfrentar la recuperación y la reconstrucción de Chile en base al orden, la seguridad y la justicia muchas gracias y le voy a pedir de Chile en base al orden, la seguridad y la justicia. Muchas gracias. Y le voy a pedir a Arturo, a Judith, no sé, primero no, primero si hay consultas técnicas, Cristian, si te puedes acercar. Enrique, almirante, coronel, Rodolfo, Beatriz, general. Si hay alguna pregunta técnica en temas de seguridad o del plan que ustedes vieron, felices de contestarlo, después vamos a hacer la segunda parte más política, pero las personas que están aquí han colaborado en el desarrollo de este plan. Así que si hay alguna consulta técnica, felices de que aquí Cristian conteste esa parte. Bueno, candidato, muy buenas tardes, también buenas tardes a todos los presentes. Quería consultarle a propósito de lo que usted planteó en el reciente debate de esta posibilidad de que los propios migrantes cancelen parte del costo que signifique sacarlos del país. ¿Cómo operaría esta fórmula y bajo qué características de personas que se encuentren en el país? ¿Cuáles van a ser los análisis que se van a hacer para aplicar este tipo de medidas? Y lo otro, ¿qué va a ocurrir con aquellos países donde no existen relaciones diplomáticas como para que puedan ser recibidas estas personas que sean expulsadas del país? Bueno, lo primero es apelar a la voluntariedad de las personas que quieran partir con todos sus bienes y sus recursos. Hay muchas personas que tienen un vehículo que ya no lo van a poder seguir ocupando más adelante. Algunas personas que tienen tecnología que utilizan todos los días, como un teléfono, un iPad, un computador. Si ellos quieren volver a su país con todos sus bienes, tienen 133 días para hacerlo. Después pueden tener la opción de, si quieren colabor colaborar con su pasaje de regreso junto con la disposición de aviones que nosotros vamos a poner a disposición. Hoy día Chile tiene un par de aviones que puede utilizar para traslado a pasajeros y ahí habrán alternativas para que las personas colaboren para partir a una situación más cómoda o una situación más incómoda, con bienes o sin bienes. Y donde no tengamos relaciones diplomáticas, que yo espero que a esa altura se produzcan cambios democráticos en todos los países donde hoy día hay dictaduras y la ciudadanía sea libre, espero que eso ocurra más pronto que tarde, yo creo que debiera estar solucionado. Y si no está solucionado, habrán centros de refugio, donde estarán esas personas hasta que el gobierno respectivo envíe un avión para llevar a sus compatriotas de regreso a su patria. Por lo tanto, le aseguro que la inversión que nosotros vamos a hacer en vuelos después del 11 de marzo no va a ser tan alta como algunos plantean. Y si tuviera que ser alta, le aseguro que todos los chilenos van a decir que estamos dispuestos a gastar 10 millones de dólares, 100 millones de dólares, 300 millones de dólares si fuera necesario, para que todas las personas que han entrado de manera irregular salgan. Pero antes de gastarnos esos recursos, tenemos bastantes alternativas para no tener que usar los recursos de los chilenos para proceder a esas expulsiones. Candidato, buenas tardes también a todos los presentes Sobre el tema puntual Sobre fronteras Tiene que ver con un proyecto de ley que presentó el gobierno de despliegue de militares en las fronteras sin la necesidad de que el presidente pase por el congreso de esta medida. Quería preguntarle a usted, candidato, específicamente respecto de... Usted como líder republicano, ¿van a apoyar esta iniciativa que está en el Congreso? ¿Pretenden hacerle modificaciones? ¿Cuál es la postura que tienen? Preferiría que primero técnicamente conteste Cristian Vial que hizo una presentación y explicó que nosotros lo que buscamos es fortalecer la unidad fronteriza de carabineros pero en el intertanto vamos a tener que recurrir al apoyo logístico humano de las distintas ramas de las Fuerzas Armadas. Actualmente el despliegue de las Fuerzas Armadas, el Ejército específicamente, en la frontera norte terrestre, desde febrero del 2023 está al amparo de la infraestructura crítica, que pregunta usted. Eso, el decreto 6.8 le da cobertura y funciona bien. Lo que nosotros vamos a hacer es una actualización y una mejora, una optimización de ese decreto. No para entregarle más facultades, porque eso está. Nos hemos dado cuenta que lo que necesitamos es integración, una sincronización de los medios, como les decía, con una autoridad civil y eso va a estar contenido en un decreto. No es necesario, aparte de las modificaciones a la ley que actualmente se encuentran en la infraestructura crítica en comisión mixta, hacer más reparos sobre ella. Eso dará la cobertura a las Fuerzas Armadas para poder seguir operando conjuntamente con carabineros y con la entidad civil en la frontera. Candidato, perdón. Yo le quería preguntar justamente también por lo que usted decía de que colaboren, se paguen sus propios pasajes y así también salgan con sus bienes. Ayer Evelyn Matei decía que eso solo aplicaría entonces para personas, para narcotraficantes, porque la situación de los migrantes en Chile no les da muchas veces para pagar un pasaje. Eso por una parte. ¿Cómo se podría asegurar que ellos podrían pagar su propio pasaje? Que le responda Matei en ese sentido y también desde el gobierno han dicho que por ejemplo en Venezuela no están recibiendo a personas expulsadas entonces cómo se hace cargo su propuesta también de ese tema si quiero invitar a Iván Poduje para que nos acompañe para hacerle unas consultas técnicas. Le voy a contestar, de todas maneras yo, pero quiero que después me ayude a complementar. Párate por el lado acá, para buscar el promedio de altura. Eh... párate por el lado acá para buscar el promedio de altura primero porque le pedí a Iván que venga para que después ustedes le puedan hacer las consultas nosotros conocemos los campamentos los conocemos todos, Iván literalmente yo le diría que los conoce todoscemos los campamentos, los conocemos todos. Iván, literalmente yo le diría que los conoce todos. En esos campamentos, sí, hay crimen organizado, pero también hay personas que están habitando ahí de manera irregular, que son inmigrantes irregulares y que trabajan. Y nosotros hemos visto los vehículos, hemos visto los locales comerciales, hemos visto las peluquerías, hemos visto ventas de gas, hemos visto construcciones sólidas. Por lo tanto, no son personas que vivan debajo de un puente. Son personas que todos los días se alimentan. Son personas que todos los días hacen alguna labor. La gente no vive del aire. La gente hace alguna labor que generalmente no es una labor formal, es una labor informal. Yo creo que todos ustedes han usado el transporte público y han visto cómo dentro de los carros del metro se vende todo tipo de artículos. Eso es muy rentable. Hay personas que desde la informalidad tienen más recursos de lo que uno se imagina y no son narcotraficantes, no son delincuentes. Son personas que trabajan, pero que cometieron una falta y que en nuestro gobierno va a ser un delito haber entrado por la ventana. A esas personas nadie puede decir que no tienen recursos. Nosotros ese estudio lo hemos hecho y Iván, quiero solamente que después ratifique, y pueden leer el libro de Iván, Chile Tomado, donde hay imágenes gráficas de cómo a partir del año 2021, 2019 incluso, fueron aumentando los tamaños de los campamentos. Está gráficamente ahí señalado. Respecto de los países que no tienen relación con Chile, está gráficamente ahí señalado. Respecto de los países que no tienen relación con Chile, Venezuela, lo he señalado. Las personas que no salgan antes y pueden ir a cualquier país. Esas personas, cuando llegaron a Chile, muchas pasaron por Colombia, pasaron por Ecuador, pasaron por Perú, pasaron por Bolivia, que elijan el destino. Lo que tienen que tener claro es que en Chile no van a poder estar y que tienen una gran alternativa de salir y de a futuro intentar regularizar sus documentos para que sepamos quiénes son, que estén enrolados, pero desde fuera. Y la decisión va a ser nuestra de quién puede entrar a Chile o no. Por lo tanto, tienen destinos. Y si no hay destino, y se dicen, yo no tengo ningún destino, bueno, va a haber un centro de refugios para ello. Hasta que decidan partir. Y los medios para salir van a estar, y el resguardo de sus bienes va a estar, salvo que se produzca una situación más conflictiva, donde podrían quedarse sin sus bienes, porque si resisten a la fuerza pública, bueno, nosotros no vamos a responder por algún daño material que pueda ocurrir y que a alguien se le rompa su celular, que se le rompa su computador, eso ya será responsabilidad de las personas. Cuando llegue la fuerza policial, con todo el apoyo necesario de las instituciones que sean requeridas, ellos, si quieren resistir el desalojo, serán responsables de los daños materiales que puedan ocurrir. Nosotros en esto vamos a ser muy claros y vamos a aplicar la fuerza en base a la ley y la constitución. Y respecto de los campamentos, Iván, solo para que tú puedas explicarme un poquitito la lógica de esto, y de las usurpaciones, y del negocio del crimen organizado dentro de esto, donde las personas compran el agua. No hay agua potable. Compran el agua. No hay agua potable, compran el agua. Gracias, Jack. Bueno, nosotros tenemos detectados 29 megacampamentos, que son campamentos con algún tipo de control del crimen organizado, y hemos calculado que al año el monto del negocio ilegal de venta de tierra robada alcanza los 50 millones de dólares. Esos grupos no necesariamente tienen que ver con crimen organizado vinculado al narcotráfico. Son bandas que se dedican a robar la tierra, a atizarla, a trazarla, a venderla y a arrendarla. Tenemos más de 1.500 locales comerciales en estos 29 megacampamentos, algunos de gran tamaño. Tenemos negocios ilegales de agua, provisión de agua, de luz y además de cierre de casas con albillenería, con concreto, estamos hablando en el caso de Alto Hospicio, en el caso de Antofagasta, en el caso de Arica, de verdad las fortalezas que tienen un costo de edificación significativo. Pero lo concreto estamos hablando de mafias que ganan 50 millones de dólares por año a costa de la pobreza y a costa de la marginalidad de las personas que están ahí. Por lo tanto, no solo el narcotráfico, como decía José Antonio, sino que hay una serie de negocios ilícitos vinculados al control que ejercen estas bandas sobre el crimen organizado. Además de eso, hemos detectado situaciones de alta vulnerabilidad, zonas de riego en los campamentos, en Antofagasta, zonas de riego en los campamentos también en San Antonio, en Valparaíso, en Viña del Mar, riego quiere decir que están asentados en zonas de riego y que están generando descargas de aguas servidas sobre quebradas, sobre humedales, etc. Esa es la magnitud del problema. Y para que ustedes vean que no solamente temas de narcotráfico, crimen organizado y que hay venta y comercio ilegal, le quiero pedir a Rodolfo que nos explique cómo él enfrentó el tema del comercio ilegal irregular en la florida cuando fue alcalde y hoy día tiene otro rol va de candidato al senado pero su experiencia en local también es relevante muy buenas tardes a todos Quería primero hacer una una mención a la pregunta previa respecto a lo que señaló del IMATEC ¿Qué deporte nacional es esto a que no se puede? El mundo se divide entre dos tipos de políticos, los que explican las cosas que existen y hay otros pocos, José Antonio es de esos que se imaginan las cosas que todavía no existen y las hacen posibles esa es la diferencia con la candidata de Chile dedicarse como deporte nacional a criticarlo todo, a encontrar todo imposible bueno, no hagamos nada entonces dedicámonos como ha sido los últimos 10 años a encontrar todo imposible, bueno, no hagamos nada entonces. Dediquémonos, como han sido los últimos 10 años, a comentar los problemas. Y los chilenos con el agua al cuello. ¿Podrán ser todas las medidas perfectibles? Desde luego. Todo es perfectible. Pero lo que no puede ser es que este deporte nacional, alguien levanta la mano con una idea y el coro completo, y lo entendemos de un gobierno mediocre y papas nata como este que todo lo encuentre malo, si se equivocan hasta con los números de la luz ni siquiera ellos tienen claro lo que quieren hacer pero que la oposición hagamos este tipo de juegos es impresentable me hago responsable de esta declaración personal porque estoy harto de que frente al dolor de los chilenos, el club de los políticos es lo único que se llega a comentar. Y esto es respecto a lo que José Antonio me pedía explicar. Hay un tema de actitud frente al delito. Quiero decirles una cosa. Ayer el alcalde, creo que Renca, estaba demoliendo casas de narcos. ¿Se acuerdan ustedes mismos los periodistas que ahora están mirando su WhatsApp? Que me decían, populista, ¿qué responde al gobierno populista? Inepto. se demoraron 24 horas en cambiar de opinión ya sabemos que este gobierno un gobierno inversionista se invierte la chaqueta todos los días pero pero tengamos mejor histórica todos dijimos siempre que las casas narcos no eran la solución a los problemas era una llamada de esperanza para la gente que está harta que la aguja no se mueve de eso se trata un gobierno efectivo de ponerse al lado de la gente hay un tema de actitud queridos amigos a propósito de la pregunta de José Antonio Kast y es el 80% del tema es actitud. Porque los delincuentes, efectivamente, vienen lo que pasó en la toma de dignidad en la Florida. El día antes el alcalde Reyes recibió amenazas de que iban a quemar la municipalidad, que se iban a quemar las casas, de que iba a haber gente muerta. Cero. Porque cuando los delincuentes o los violentos ven a la autoridad con pantalones, se rinden. Y eso es lo que el pueblo chileno ha hecho siempre. Frente a las preguntas de la candidata de Chile Vamos, habría que decirle que le pregunta a la gente de los campamentos, ¿cómo ven que los inmigrantes ilegales tienen teléfonos satelitales, televisión satelital, autos más caros que los de ellos? El buenismo del que no conoce un campamento es bastante útil para opinar sin conocer. Por tanto, lo relevante para esto, y es lo que tengo que decir al respecto, un 80% de la actitud, no, 50% de la actitud, porque acabamos de escuchar una de las exposiciones más notables de Cristian Vidal al respecto. Este trabajo, ¿dónde lo habían visto? ¿Dónde habían visto algo así? Primero comenten esto, no ustedes muchachos, sino que los que se dedican a criticar a todo aquel que tiene los pantalones para elegir Chile. Y es el único José Antonio Acácer. Y ahora, las preguntas políticas que ustedes estimen. Les agradezco a todos habernos acompañado en esta parte más técnica. Ya vendrá el plan Canserbero y ahí el coronel González también los va a sorprender. Y Arturo, Judith, si me pueden acompañar porque esta parte les corresponde más a ustedes. A ti como secretaria general, candidata a diputada también y a ti como presidente del Partido Republicano y como candidato al Senado de la República. Porque tenemos que tener un parlamento para Chile. Eso es lo que más nos importa por lo que hemos planteado. Muchas de las cosas que necesitamos que el legislativo saque adelante es pensando en todos los chilenos, no en un partido político determinado. Así que las consultas más políticas que tengan pueden hacerselas allí al presidente del Partido Republicano, a la secretaria general nacional del Partido Social Cristiano. Y a mí también sé que... Sí, ¿cómo está, candidato? Esta pregunta es para usted y también para sus colegas de partido, sus compañeros de partido. Usted coincide con el jefe de campaña de Evelyn Matei sobre el concepto de gobierno atorrante. ¿Y qué le parece que el comando de la candidata de Chile Vamos esté endureciendo el tono contra el Ejecutivo? ¿Es una estrategia para igualar su disputa contra la moneda, tomar protagonismo? ¿Cómo lo observan desde el comando? Nosotros en general, y ustedes lo han visto, nunca hemos comentado los dichos de alguna candidatura de oposición. Porque estamos todos en la misma línea, de sacar a este gobierno fracasado. Por lo tanto, yo no me quedaría en las formas, sino iría al fondo. Y el fondo que nos ocupa es que todos los índices en temas de salud, en temas de educación, en temas de vivienda, en temas de seguridad, son un desastre. Para qué hablar de las cuentas públicas, de lo que hoy día vemos en la discusión de presupuesto, donde ni siquiera el gobierno se pone de acuerdo con sus propios parlamentarios, donde no saben qué van a recortar, qué van a proponer. Por lo tanto, en el fondo, nosotros compartimos que este es un gobierno fracasado, es un gobierno que nos va a dejar un legado de más homicidios, de más inmigración ilegal, de menos vivienda, de más personas que fallecen esperando una atención médica, de más jóvenes sin esperanza de salir adelante en temas de educación. Por lo tanto, en el fondo, los que estamos en la oposición a este gobierno coincidimos y respetamos lo que cada uno plantea. No lo comentamos. No sé si Arturo... ¿Coincide en que es un gobierno torrante? Vuelvo a insistir. Nosotros no vamos a comentar los dichos de otras candidaturas, sea de la candidata o del vocero, en que este es un gobierno fracasado, en que este es un gobierno que no ha enfrentado el terrorismo, que este es un gobierno que no ha parado la inmigración ilegal, que este es un gobierno que va a dejar una deuda gigantesca en déficit habitacional, que es un gobierno que ha destruido la educación pública por la cual marcharon en las calles, que es un gobierno que ha ahogado a los emprendedores, es un gobierno que no ha colaborado con los agricultores. Puedo seguir, la lista es enorme. Por eso decimos que este es un gobierno fracasado del señor Boric. Candidato Judith Arturo, muy buenas tardes. Ha sido el propio Chile Vamos, candidato. Somos los tres candidatos es verdad, es verdad candidato a la presidencia ha sido la propia coalición de Chile Vamos la que los ha criticado a ustedes constantemente, los ha tildado como un comando que insta a la odiosidad los ha apuntado como un extremo haciendo un símil con Janet Harris, fueron muy críticos de hecho hace un par de semanas atrás por el uso del concepto parásitos en una columna de opinión. ¿Consideran que es incongruente que ellos mismos que critican a los otros comandos por el concepto de odiosidad hoy utilicen la palabra atorrante para referirse al Ejecutivo? ¿Es incongruente que los critiquen a ustedes pero utilicen calificativos como ese? Mire, nosotros estamos concentrados en el 16 de noviembre y como bien decía José Antonio Kast, en el 14 de diciembre principalmente. No porque ahí termine la tarea, sino porque es el principio de lo que va a empezar a ocurrir el 11 de marzo. Lo que ustedes vieron en la presentación de Cristian Vial se replica en cada una de las áreas en donde estamos en una zona crítica, en donde estamos atravesando problemas, situaciones que se traducen en una angustia muy profunda para cada uno de los chilenos que tiene puesta la esperanza en que desde el 11 de marzo en adelante empiece a cambiar la historia. Desde ese punto de vista entiendo las palabras de Diego Paulsen porque a nosotros, quienes estamos de candidatos en la calle conversando con las personas, la verdad es que lo que escuchamos es bastante más subido tono que la palabra que él dijo, refiriéndose digamos a la mala administración que hemos tenido durante estos cuatro años. Hay muchas personas que han perdido todo lo que tenían simplemente por el exceso de ideología que lamentablemente le ha impreso este gobierno a cada una de las decisiones. Piense usted que una de cada cuatro personas que mueren en Chile se encontraba en alguna lista de espera. Y eso es, en definitiva, sobredosis de ideología. Perfectamente podrían haber seguido el rumbo de derivar a la red privada y no lo hacen por ideología. A eso se refieren. Entonces, cuando tenemos personas que con una parafernalia tiempo atrás tratan de decir que van a repartir gas y termina subiendo el costo en x por ciento, sólo la producción, ahí uno se va dando cuenta que de repente haya quienes esa indignación la transforman en una palabra que a algunos los escandaliza y a otros no, y yo soy de la idea de no quedarme en las formas, sino que ir al fondo, y en el fondo lo compartimos, tal como decía José Antonio Kast, tenemos y estamos frente, y afortunadamente nos quedan sólo 133 días de esta pesadilla que se traduce, digamos, en miles de malas decisiones que han hecho la vida imposible para los chilenos. José Antonio. Yo también le quería preguntar......si es que usted ve en esto, en la subida de tono......desde el comando de Matei, una estrategia......considerando que ha sido usted quien ha estado en constante disputa......con el gobierno. Y además, si es que esa subida de tono se condice con el discurso que ha tenido Chile Vamos, el discurso de la unidad, de no hacer campañas de odiosidad o no. Eso, si es una estrategia, y se lo pregunto porque, por ejemplo, el propio Johannes Kaiser criticaba que el gobierno de los atorrantes, entre comillas, es el gobierno con el que Chile llevó acuerdos. Bueno, vuelvo a reiterar que nosotros no comentamos las estrategias o las políticas que plantean candidaturas de la oposición y en eso ustedes nos han visto desde un inicio, desde que yo fui proclamado por el Partido Republicano y fui apoyado por el Partido Social Cristiano, nosotros nunca nos hemos referido a otras candidaturas. Yo siempre los he convocado para explicar un plan determinado. Ustedes han tenido la posibilidad de hacer todas las consultas en nuestros puntos de prensa, que son largos y extensos. Yo les agradezco siempre la paciencia que nos tienen para poder explicar el plan y después contestar las preguntas. Pero aquí hay un gran responsable de lo que está ocurriendo hoy en Chile, que es el señor Boric. Él decidió libremente convertirse en el jefe de campaña de la candidata de la continuidad y de salir a promover logros imaginarios, usando el concepto que se puso de moda gracias a Janet Jara. Y ahí decirles que así como él se hizo jefe de campaña del primer proceso constituyente y dejó abandonado el cargo para el cual fue electo, hoy día no hay instancia que él no trate de utilizar para una campaña política, no de resguardo a los chilenos, sino que fue a hacer a Colchane, es una imagen política, podría haber inaugurado la unidad policial que prometió en su primer viaje y en eso no se avanzó nada. Fue para allá y hizo otra apuesta en escena, como a las que nos tiene acostumbrados. Va a inaugurar un recinto para la primera infancia y le habla a los apoderados de ahí de lo importante y lo bueno que ha sido su gobierno y de lo malo que sería un cambio de línea en el gobierno. Es un jefe de campaña. Por lo tanto, el gobierno, incluso la vocera que cuestiona una acusación constitucional por uno de los hechos más graves que han tenido conocimiento los chilenos, de ocultación en información relevante para la fijación de algo tan esencial como es la luz. Y ella dice, ¿cómo en este momento tan crítico hace una acusación constitucional? ¿Y qué actitud tuvieron ellos en los últimos meses de gobierno de Sebastián Piñera? Peor aún. Incluso ellos, que hoy día son, como dice el alcalde de Carte, grandes inversionistas. Porque se invierten la chaqueta, en cada punto de prensa que hacen. Por lo tanto, lo que, como decía Arturo, la ciudadanía usa conceptos mucho más duros y radicales para referirse a Gabriel Boric y a su gobierno fracasado. Sí, candidato, yo finalmente le quiero insistir en la pregunta. Ustedes están secundando, estamos en vivo a esta hora para 24 horas, ustedes están secundando lo que dice el comando de Evelyn Matei en relación a esta hora para 24 horas. Ustedes están secundando lo que dice el comando de Evelyn Matei en relación a esto. Desde el Ejecutivo han señalado que el nivel del debate ha tocado lo más bajo y dicen que este concepto de gobierno atorrante que plantean desde el comando de Belén Matei es clasista. ¿Lo están secundando? ¿Qué le parecen estas declaraciones de parte de ese comando? Y le quiero preguntar por declaraciones de parlamentarios de su partido. Por ejemplo, dicen que hay una dicotomía de este nuevo trato cuando ellos mismos, Chile Vamos, son ellos mismos y Paulsen lo que tiene que hacer es responder a sus dichos. Dicen que es incongruente el hecho de haber llegado a acuerdo con ese gobierno que tildan de atorrante. Sí, vuelvo a reiterar ahora en vivo lo que señalé hace unos momentos atrás extensamente. Nosotros no comentamos los dichos de otras candidaturas de oposición. Nosotros vamos al fondo. Y el fondo es que el presidente de la república, don Gabriel Boric, ha llevado a una crisis terminal a nuestro país, de la cual nos tenemos que recuperar. Y por eso es lo que nosotros estamos planteando aquí, de que él se dedique a gobernar, no a ser jefe de campaña. La ciudadanía tiene una imagen clara de lo que ha sido el fracaso de este gobierno. Si alguien desde el gobierno nos trata de clasistas, yo les diría que el clasista es el que no quiere usar corbata en la ceremonia más importante para los carabineros. La ceremonia más importante de graduación para las Fuerzas Armadas, que es la parada militar para el Ejército. La ceremonia más importante de la graduación de los cadetes de la Escuela Naval. La situación más importante para una familia en Chile, cuando se gradúan sus hijos de cuarto medio o cuando salen con un título universitario o un título técnico profesional. Todas las familias en Chile se preparan para ese momento especial de su familia. Clasista es no usar corbata porque dice que las corbatas lo usan los ricos la gente más humilde la gente más vulnerable se distingue se luce se prepara para una ceremonia como esa incluso para nuestras fiestas patrias todos sacan a relucir lo mejor que tengan sea la persona más sencilla para una ceremonia como esa, incluso para nuestras fiestas patrias. Todos sacan a revolucionar lo mejor que tengan, sea la persona más sencilla o la persona con más recursos. El presidente no se ha dignado jamás a reconocer a las personas en su dignidad. Por lo tanto aquí, si alguien es clasista, a la inversa es el presidente, porque incluso sus candidatos hoy día usan corbata. Su pupilo, el señor Vinter, descubrió las bondades de la corbata. Su ministro de Hacienda descubrió las bondades de la corbata para ir a encuentros internacionales. Al menos yo me avergüenzo cuando veo a todos los líderes de la izquierda radical cuando van a un encuentro internacional que usan la corbata y nuestro presidente no es capaz de representarnos dignamente en esas situaciones. Por lo tanto, más allá de la forma, nosotros respaldamos el fondo de que este es un gobierno fracasado, incompetente, y que le quedan 133 días. Y estamos convencidos de que vamos a ganar en la primera vuelta y en la segunda vuelta. Y por eso le digo que los chilenos el 14 de diciembre tienen dos opciones. El continuismo con la candidata Janet Jara o el cambio real con nosotros que somos la fuerza del cambio. Candidato, buenas tardes. Pasando a otro tema. ¿También en directo? Sí, le quiero preguntar por el voto femenino. ¿Cree que le puede jugar en contra el voto femenino cuando usted en el pasado se opuso al aborto, al Ministerio de la Mujer, a la píldora del día después? ¿Y se ha dejado de lado todos estos temas valóricos para precisamente no alejar al electorado femenino, teniendo en cuenta que desde el comando de Janet Jara dicen que en segunda vuelta los votos de Matei se van a ir para Janet Jara porque un gobierno de usted, dicen desde ese comando, es retroceder en derechos a las mujeres. Yo les pido que hagan algunos ejercicios prácticos antes de decir por quién van a votar los chilenos. ¿Cuál es el pacto que en algún distrito no lleva una candidata mujer a la elección? ¿Cuál ha sido el gobierno donde es el pacto que en algún distrito no lleva a una candidata mujer a la elección? ¿Cuál ha sido el gobierno donde hay un subsecretario del interior con medidas precautorias y esperando una sentencia para ver si hubo abuso? Y el señor Gabriel Boric, que dijo que iba a ser un gobierno feminista, vulneró los derechos más esenciales al proteger a una persona acusada de abuso sexual. No solamente lo protegió, le dio la posibilidad de despedirse a los chilenos en la moneda. Una cosa inconcebible. Y después, ¿a quién maltrató en público? A la persona que lo asesoraba en temas comunicacionales, que era una mujer. Si vemos en el tema del desempleo, ¿cuál ha sido el gobierno que más desempleo ha generado en los últimos 15 años? Este gobierno. ¿Y a quién promueven como candidata de este gobierno? A quien ocupó ese cargo y que, como he señalado, no va a ser recordada como la ministra del Trabajo, sino como la ministra del Desempleo, porque son datos reales y concretos. Por lo tanto, a mi juicio, las personas tienen clara cuáles son hoy día las urgencias que afectan a Chile. En primer lugar, el tema de la seguridad. Con todas las derivadas que han visto en este plan, con lo que van a ver próximamente en el plan Cancerbero, con el tema del barrido total, con el tema de la destrucción de los bienes públicos, para el cual tenemos un registro único de vándalos, que lo mencioné el domingo e hice alusión a una persona que estaba dispuesta a salir a desconocer la democracia en Chile y a unirse con los que destruyen los bienes públicos. Ahí tenemos ese registro. Por lo tanto, la gente ya tiene definido que va a votar por orden, por seguridad, por empleo, por vivienda, por mejor calidad de salud. Y dejo a Judith, que es parte de nuestras candidatas, y vuelvo a insistir, revisen ustedes si en todos los distritos los otros pactos llevan una candidata mujer para representar a los vecinos de esas comunas o de esas regiones Gracias Bueno, como representante del área femenina del Partido Social Cristiano y también de muchas candidatas que estamos compitiendo en estas elecciones a lo largo del país, es importante poder desmentir todas esas, valga la redundancia, mentiras que se van levantando en torno a la candidatura porque efectivamente quien ha dañado y no supo dignificar el trabajo femenino fue la ex ministra Janet Jara y que hoy además quiere ser presidenta. Yo no sé cuál puede ser su motivación si no pudo reivindicarnos en el área laboral, querer aspirar incluso a gobernar el resto del país. La verdad es que del lado de José Antonio, al menos sí se promueve el rol de la mujer y no solamente eso, sino que especialmente yo lo apunto en materia laboral, por ejemplo con la propuesta de la sala cuna universal y además con la flexibilización del trabajo para la mujer donde podamos complementar nuestro rol de maternidad, por ejemplo, y también laboral, que es sumamente importante y por qué no mencionar también el área de la seguridad, que para nosotras es súper importante, porque qué mayor tranquilidad para una mujer el poder ir a trabajar tranquila, qué mayor seguridad para una mujer es tener un entorno laboral seguro, donde las autoridades te respeten, donde las autoridades te defiendan también. No así como lo hemos visto en este abandono de este gobierno contra los casos que ya se mencionaron, el caso Monsalve, o para qué decir, el de Nabil Arrifo, donde ni siquiera se pudo llegar a la audiencia a tiempo. Yo creo que aquí hay casos muy puntuales donde el desamparo de la mujer ha estado en manos del gobierno actual y no así de la propuesta de cambio que se propone junto a José Antonio Kast, donde las mujeres no solamente tenemos un lugar, sino que somos parte fundamental de todo el desarrollo del país y del futuro gobierno. Sí, Radio Portales, siempre presente. Ya que mencionaba los países limítrofes, las situaciones políticas, ¿cómo contempla coordinarse con el gobierno de Bolivia? Puesto que de vez en cuando hay problemas en la seguridad con ellos. Si se pasa un dron chileno a la frontera boliviana, si vienen policías bolivianos también acá a nuestro país. Y además, ¿contempla, como ya lo han planteado otros candidatos por otros temas, salirse de tratados en materia migratoria. Sí. Cuando uno recorre el altiplano, se da cuenta de que los límites no siempre están claros. Y es una línea imaginaria. Y sobre todo en los lugares que son esas mesetas por donde circulan los vehículos. Hay un antes y un después. Nosotros mostramos ahí, Cristian Vial mostró los lugares específicos donde se puede producir un cruce vehicular, porque uno no alcanza a distinguir la línea imaginaria. Esa línea imaginaria ahora va a tener un límite real que puede ser un camellón, puede ser una zanja, puede ser una valla. Incluso el vehículo policial puede tener un detector de sensor, que si se acerca o si cruza del paso se enciende una alarma. Hoy día los vehículos de arriendo incluso tienen sensores de GPS que cuando uno ya está cerca del límite fronterizo se detiene. ¿O no, General? Para que vean el conocimiento práctico que tenemos de las situaciones que vivimos en el día a día con Bolivia. Y vuelvo a insistir, el cambio el día a día con Bolivia. Y vuelvo a insistir, el cambio que se impuso en Bolivia creo que va a favorecer con mucho las relaciones internacionales. Nosotros queremos mantener buenas relaciones con nuestros vecinos. Nosotros queremos que siga saliendo el mineral de Bolivia por Ollagüe y vaya a los puertos chilenos. Queremos que eso siga, pero vamos a fiscalizar lo que va dentro de esos contenedores. Al menos vamos a tener un escáner para ver si viene algo vegetal dentro de lo mineral. No va a ser cosa que se les haya caído una hojita de marihuana adentro, una hojita de coca dentro del carro. Porque a ese nivel de vulnerabilidad estamos. Pasan trenes completos, cargados, y nadie los revisa. Nadie. No sabemos lo que viene por ahí dentro del mineral. Por lo tanto, de nuevo, hay un antes y un después. Esperamos mantener las mejores relaciones con Bolivia......así como con los otros países, porque tenemos claro que nuestra vocación es hacia el Asia-Pacífico. Y nosotros tenemos todas las posibilidades de infraestructura y logística para atender y hacer que Bolivia vuelva a ser un país rico, pero rico en producción de cosas sanas. Ellos producen muchas ollas, tienen mucho más cabezas de ganado que nosotros. Tienen que tener acceso al mar, necesitan que el petróleo llegue rápido. Y nosotros somos grandes prestadores de servicios, pero esperamos que todos cumplan la ley. Y necesitamos que ellos hagan cumplir la ley en su país y nosotros les vamos a colaborar. Ellos son el puente para que la exportación brasilera llegue a puertos chilenos y no a los puertos que están más al norte. Nosotros tenemos una vocación marítima, y aquí nos acompaña el almirante Vargas, que podrá decir todo lo que nosotros podemos hacer a nivel portuario, si ordenamos los puertos, si ordenamos las aduanas, si ordenamos tesorería. Ustedes se imaginan que a Viviri llegan camiones cargados con alimento para mascotas, a Vivi sin número. Yo los invito a ir y ver cuántas mascotas alimentan con un camión con carro, como 40 toneladas de alimento para animales. No hay tantas mascotas en Bisbiri. ¿Qué es lo que hay ahí? Hay un problema de aduana, hay un problema del servicio impuesto interno, hay un problema de aduana. Hay un problema del servicio de impuestos internos. Hay un problema de fiscalización, porque claro, puede ir con una guía de libre tránsito. Carabineros no tienen ninguna alternativa de cuestionar la validez de ese documento, salvo que esté el inspector de impuestos internos ahí, salvo que aduana revise bien lo que está. Y para mayor vergüenza aún, carabineros hacen trabajo, detienen el camión, el contrabando, y después llega el comerciante como si nada y dice, pagué los derechos de aduana, devuélvame la mercadería. Y se la lleva. Y sí le deja el camión ahí a la unidad policial. Y usted ve ahí en la unidad de Tacora, nosotros lo fotografiamos de distancia, cuatro camiones detenidos. Tres de ellos desde el año 2016. Bajo la custodia de Carabineros de Chile. ¿Qué pasa si le roban un camión a Carabineros de Chile? Sumario, baja. ¿Es responsabilidad de Carabineros de tener que cuidar los camiones de los contrabandistas? ¿Y qué ha sucedido cuando se los han entregado a aduanas? Porque es su responsabilidad, se los han robado. ¿Y usted ha visto alguna denuncia o una querella de las autoridades de aduanas diciéndome que robaron cuatro camiones que tenía aquí retenidos? Yo no la vi. Puede ser que la hayan presentado, pero no la he visto. Chile no funciona. Y gran parte de la responsabilidad que Chile hoy día no está funcionando es del señor Gabriel Boric muchas gracias Chile vigila listo para responder escudo fronterizo firme y preciso Chile no cede mantiene el aviso escudo fronterizo, firme y preciso, file, no cede, mantiene el aviso Escudo fronterizo, fuerte y macizo, el que no cumple no tiene permiso Escudo fronterizo, sin dilación, Chile defiende toda su nación. Chile cumple, no tiene permiso, escudo porterizo, sin dilación, Chile defiende toda su nación. ¡Suscríbete al canal!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.16,
+      "text": "Cristian, quiero en Cristian representar a un tremendo equipo de trabajo que hoy día nos acompañan.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 18.44,
+      "end": 21.74,
+      "text": "Está aquí el almirante Parga, está el coronel González,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 21.94,
+      "end": 31.3,
+      "text": "está el general Basaletti, el general Tapia, está también Beatriz Evia, que ha conducido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 31.3,
+      "end": 39.12,
+      "text": "todo el trabajo técnico de este grupo, y también están de otros equipos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 39.72,
+      "end": 44.96,
+      "text": "Perdón, está también Rodolfo Carter, que ha sido parte fundamental en el tema de la seguridad.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 45.58,
+      "end": 53.76,
+      "text": "Gracias, Rodolfo, que nos diste ese empuje, esa fuerza que mostraste siendo alcalde en la Florida,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 53.94,
+      "end": 60.0,
+      "text": "combatiendo al narcotráfico. Y eso, lo técnico, lo específico,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 61.06,
+      "end": 64.4,
+      "text": "se ha ido complementando también con el trabajo de otros equipos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 67.36,
+      "end": 73.82,
+      "text": "Aquí está Iván Poduje, que nos ha ayudado mucho con todo lo que son los mapas satelitales, los mapas de calor, que también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 73.82,
+      "end": 79.9,
+      "text": "conoce perfectamente la zona. Está aparte el equipo económico con Bernardo Fontén, que tiene",
+      "speaker": "Kast"
+    },
+    {
+      "start": 79.9,
+      "end": 80.14,
+      "text": "uno de los",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 80.14,
+      "end": 85.16,
+      "text": "desafíos más grandes, ya que en 90 días todo esto tiene que estar funcionando. Y veo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 85.16,
+      "end": 91.54,
+      "text": "también a Carmen Sosa, por ahí, que ha liderado todos los equipos de nuestro centro de estudio",
+      "speaker": "Kast"
+    },
+    {
+      "start": 91.54,
+      "end": 100.96,
+      "text": "y que tiene un gran desafío porque algunas de las medidas que vamos a tomar también requieren modificaciones legislativas. Como ustedes se dan cuenta, este es un trabajo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 100.96,
+      "end": 106.94,
+      "text": "serio, es un trabajo colaborativo, es un trabajo que no termina en esta presentación. Cristian nos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 106.94,
+      "end": 128.2,
+      "text": "hablaba de tres fases y la fase final es entregar un país normalizado, un país donde vivamos tranquilos y seguros. Tiene etapas porque no todo se puede hacer el primer día. Todos sabemos que no hay una solución automática ni mágica. Esto tiene mucho trabajo, al igual que cada",
+      "speaker": "Kast"
+    },
+    {
+      "start": 128.2,
+      "end": 132.84,
+      "text": "uno de nuestros planes. En cada uno de los planes que hemos ido desarrollando, sea planes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 132.84,
+      "end": 139.06,
+      "text": "de vivienda, planes de salud, planes de educación, hay un trabajo serio y responsable que vamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 139.06,
+      "end": 141.64,
+      "text": "a ir presentando en las próximas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 141.64,
+      "end": 147.98,
+      "text": "semanas para que la gente pueda tomar una decisión informada. Y agradezco, Cristian,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 148.26,
+      "end": 156.56,
+      "text": "el trabajo. Y voy ahora con una parte un poco más política.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 158.56,
+      "end": 168.24,
+      "text": "Y nosotros hemos visto que este gobierno ha sido el gobierno donde más inmigrantes irregulares han llegado a nuestra patria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 168.88,
+      "end": 171.88,
+      "text": "125.000 personas han usado a nuestra patria 125 mil personas han",
+      "speaker": "Kast"
+    },
+    {
+      "start": 171.88,
+      "end": 175.5,
+      "text": "usado alguno de estos recorridos para llegar a chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 175.5,
+      "end": 179.7,
+      "text": "bien lo decía cristian no solamente es la frontera terrestre la vulnerada sino",
+      "speaker": "Kast"
+    },
+    {
+      "start": 179.7,
+      "end": 184.8,
+      "text": "que también hay personas que llegan vía marítima otros llegan vía aérea y este",
+      "speaker": "Kast"
+    },
+    {
+      "start": 184.8,
+      "end": 190.4,
+      "text": "es un plan integral más de 300 mil personas están hoy día en Chile y son",
+      "speaker": "Kast"
+    },
+    {
+      "start": 190.4,
+      "end": 198.32,
+      "text": "migrantes irregulares. Y esos son datos reales. No es un relato, son datos que hoy",
+      "speaker": "Kast"
+    },
+    {
+      "start": 198.32,
+      "end": 203.06,
+      "text": "día existen y el mismo gobierno ha ratificado. Y ese es el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 203.06,
+      "end": 212.38,
+      "text": "legado del gobierno del presidente Boric. Ese es el fracaso del señor Gabriel Boric. Y aquí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 212.38,
+      "end": 218.36,
+      "text": "también lo vamos a anticipar, lo vamos a anunciar y lo vamos a recordar cada día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 218.36,
+      "end": 228.48,
+      "text": "que quedan 133 días, 133 días para que suma un nuevo gobierno. Son 133 días que tienen los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 228.48,
+      "end": 232.28,
+      "text": "inmigrantes irregulares para partir, dejar nuestra patria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 232.98,
+      "end": 238.48,
+      "text": "Porque si no lo hacen voluntariamente, los vamos a buscar y van a haber sanciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 239.74,
+      "end": 247.28,
+      "text": "Hoy día tienen la libertad, como la tuvieron para entrar por la ventana Chile, para salir por la puerta y dejar registro de que se fueron.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 248.12,
+      "end": 253.28,
+      "text": "Y eso también marca una diferencia, porque si alguien no sale voluntariamente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 253.28,
+      "end": 257.08,
+      "text": "y nosotros tenemos que proceder a expulsarlo, a retenerlo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 257.6,
+      "end": 261.0,
+      "text": "esa persona nunca más va a entrar a suelo chileno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 261.82,
+      "end": 265.32,
+      "text": "Nunca más. Por lo tanto, si alguien hoy día está en una situación irregular",
+      "speaker": "Kast"
+    },
+    {
+      "start": 265.32,
+      "end": 271.0,
+      "text": "y quiere volver en algún momento en el futuro, ordenando sus documentos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 272.14,
+      "end": 276.22,
+      "text": "planteando si es que va a trabajar, que tiene un contrato ya definido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 276.22,
+      "end": 282.54,
+      "text": "con su pasaje de regreso financiado por el empleador y con todas las normas legales y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 282.54,
+      "end": 287.58,
+      "text": "laborales establecidas, no va a tener problema. Pero si nosotros tenemos que hacer el esfuerzo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 287.58,
+      "end": 292.24,
+      "text": "de buscarlos, de plantearle que tienen que ir forzosamente,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 292.78,
+      "end": 294.18,
+      "text": "bueno, no va a volver a entrar a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 294.88,
+      "end": 301.06,
+      "text": "Por lo tanto, estamos dando una oportunidad muy importante de que las personas lo tomen a bien",
+      "speaker": "Kast"
+    },
+    {
+      "start": 301.06,
+      "end": 306.04,
+      "text": "y solucionen el problema antes de que tengamos que solucionarlo nosotros.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 306.72,
+      "end": 310.64,
+      "text": "Porque aquí ya no van a haber más gobiernos débiles.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 311.44,
+      "end": 316.88,
+      "text": "Aquí lo que va a haber no es perdonazos, no es regularizaciones masivas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 317.54,
+      "end": 321.16,
+      "text": "Nosotros vamos a aplicar la ley y vamos a cuidar y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 321.16,
+      "end": 325.7,
+      "text": "velar por los derechos de las personas. Aquí también hay muchos niños que han sido vulnerados,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 326.14,
+      "end": 331.32,
+      "text": "niños que han sido utilizados para que ingresen adultos a Chile y vuelven a salir y vuelven",
+      "speaker": "Kast"
+    },
+    {
+      "start": 331.32,
+      "end": 339.22,
+      "text": "a entrar. Eso es parte del crimen organizado que vamos a perseguir. Y ustedes ven que a partir de esto en Chile va a volver a imperar la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 339.22,
+      "end": 345.96,
+      "text": "ley, el orden y va a haber seguridad. Nosotros vamos a cerrar las fronteras en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 345.96,
+      "end": 349.84,
+      "text": "todos aquellos lugares donde haya pasos irregulares. Los vamos a cerrar de manera",
+      "speaker": "Kast"
+    },
+    {
+      "start": 349.84,
+      "end": 357.92,
+      "text": "física, como vieron ahí ustedes, con obstáculos físicos, sea zanjas, camellones, rejas. Lo vamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 357.92,
+      "end": 364.0,
+      "text": "a cerrar de manera tecnológica, como vieron ahí. Hay lugares donde hay cobertura de radar,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 364.72,
+      "end": 366.38,
+      "text": "donde vamos a poder detectar cualquier movimiento. En otros lugares va a haber cobertura de radar, donde vamos a poder detectar cualquier",
+      "speaker": "Kast"
+    },
+    {
+      "start": 366.38,
+      "end": 372.36,
+      "text": "movimiento, en otros lugares va a haber cobertura de cámaras, de distintos tipos de cámaras,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 372.5,
+      "end": 379.76,
+      "text": "no solamente la que ustedes pueden ver normalmente, no son cámaras fotográficas, no son drones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 379.76,
+      "end": 382.5,
+      "text": "comunes y corrientes, son elementos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 382.5,
+      "end": 387.48,
+      "text": "técnicos muy bien definidos que se ocupan en estas situaciones. Y también va a haber un cierre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 387.48,
+      "end": 394.82,
+      "text": "diplomático. Hoy día nos alegramos del cambio de rumbo que va a tener Bolivia, eso va a colaborar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 394.82,
+      "end": 395.16,
+      "text": "mucho.",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 395.68,
+      "end": 398.54,
+      "text": "Hemos visto algunas medidas importantes que han tomado en Perú",
+      "speaker": "Kast"
+    },
+    {
+      "start": 398.54,
+      "end": 403.48,
+      "text": "para perseguir al crimen organizado y hemos visto también con satisfacción",
+      "speaker": "Kast"
+    },
+    {
+      "start": 403.48,
+      "end": 407.68,
+      "text": "el resultado en Argentina que le va a permitir seguramente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 407.68,
+      "end": 413.2,
+      "text": "al gobierno de Javier Milei seguir tomando medidas drásticas en contra del crimen organizado...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 413.2,
+      "end": 415.94,
+      "text": "...como ya hemos visto a su ministra Bullrich realizarlo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 417.22,
+      "end": 424.0,
+      "text": "Y los que tengan problemas con la justicia en Chile, también les decimos...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 424.6,
+      "end": 427.12,
+      "text": "...ellos no salgan como quieran,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 427.26,
+      "end": 432.38,
+      "text": "antes de los 133 días, porque cualquiera que tenga hoy día un problema con la justicia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 432.58,
+      "end": 438.06,
+      "text": "a ese no lo vamos a expulsar, a ese lo vamos a encerrar, y va a cumplir lo que corresponda,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 438.44,
+      "end": 440.7,
+      "text": "lo que la justicia haya señalado aquí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 440.7,
+      "end": 445.38,
+      "text": "completamente. Nosotros no vamos a expulsar a nadie que hoy día se encuentre en una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 445.38,
+      "end": 450.78,
+      "text": "cárcel, aunque sea por un delito menor. Todos van a cumplir la pena completa aquí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 450.78,
+      "end": 458.08,
+      "text": "en Chile y después van a ser expulsados y van a estar instalados en un registro para que nunca más vuelvan a entrar a Chile, nunca más.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 459.02,
+      "end": 462.0,
+      "text": "Por lo tanto, también a esas personas les estamos dando una advertencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 462.68,
+      "end": 467.2,
+      "text": "que las cárceles van a ser ocupadas por ellas y no van a seguir intimidando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 467.2,
+      "end": 476.62,
+      "text": "a los chilenos. Hoy día en la mañana quiero felicitar a Carabineros de Chile por la detención que realizaron, por la valentía de ese funcionario",
+      "speaker": "Kast"
+    },
+    {
+      "start": 476.62,
+      "end": 482.1,
+      "text": "de Carabineros que bloqueó el paso de estos delincuentes que habían asaltado a una familia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 482.1,
+      "end": 485.66,
+      "text": "chilena y después con el refuerzo necesario fueron detenidos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 486.58,
+      "end": 493.06,
+      "text": "Bueno, esas personas van a cumplir la pena en Chile y nosotros nos vamos a aplicar a que se le aplique",
+      "speaker": "Kast"
+    },
+    {
+      "start": 493.06,
+      "end": 498.9,
+      "text": "el mayor rigor, el peso de la ley. Como les digo, algunas de estas cosas van a necesitar reformas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 498.9,
+      "end": 503.08,
+      "text": "legislativas, como por ejemplo que la inmigración irregular nunca más se",
+      "speaker": "Kast"
+    },
+    {
+      "start": 503.08,
+      "end": 508.62,
+      "text": "considere un delito, perdón, una falta. Va a ser un delito, un delito grave para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 508.62,
+      "end": 514.54,
+      "text": "ir desincentivando a las personas. Esto, alguno dirá, oiga, pero esto va a ser",
+      "speaker": "Kast"
+    },
+    {
+      "start": 514.54,
+      "end": 515.72,
+      "text": "fácil. No, va a ser muy difícil, va a ser fácil. No, va a ser muy",
+      "speaker": "Kast"
+    },
+    {
+      "start": 515.72,
+      "end": 518.82,
+      "text": "difícil, va a ser muy duro, va a ser",
+      "speaker": "Kast"
+    },
+    {
+      "start": 518.82,
+      "end": 521.34,
+      "text": "complejo, pero lo vamos a hacer. Nosotros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 521.34,
+      "end": 524.2,
+      "text": "vamos a regular, vamos a regular el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 524.2,
+      "end": 526.2,
+      "text": "ingreso y nunca más vamos a hacer",
+      "speaker": "Kast"
+    },
+    {
+      "start": 526.2,
+      "end": 528.4,
+      "text": "regulaciones masivas de las personas que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 528.4,
+      "end": 530.84,
+      "text": "hoy día están acá,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 533.36,
+      "end": 534.22,
+      "text": "a diferencia de lo que hacen otras candidaturas.",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 538.34,
+      "end": 542.08,
+      "text": "Y en temas más de detalle, no van a haber más remesas al extranjero de alguien que no tenga una residencia regular en Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 542.8,
+      "end": 546.18,
+      "text": "No vamos a darle ningún beneficio a las personas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 546.18,
+      "end": 549.82,
+      "text": "que estén de manera irregular en Chile, salvo la atención de urgencia en salud.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 550.54,
+      "end": 554.6,
+      "text": "Entendemos que alguien puede sufrir una herida grave, que necesite una atención",
+      "speaker": "Kast"
+    },
+    {
+      "start": 554.6,
+      "end": 563.72,
+      "text": "médica urgente, solo eso van a tener. Aquí no van a haber posibilidades de que les arrienden viviendas. Aquí no va a haber posibilidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 563.72,
+      "end": 568.22,
+      "text": "de que trabajen en Chile, porque esto es un tema conjunto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 568.22,
+      "end": 574.16,
+      "text": "de distintos organismos del Estado. Aquí el Ministerio del Trabajo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 574.16,
+      "end": 577.4,
+      "text": "va a tener un rol, la Dirección del Trabajo va a tener un rol importante la Dirección del Trabajo va a tener un rol importante,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 578.0,
+      "end": 582.1,
+      "text": "el Ministerio de Salud va a tener un rol importante porque hay que tomar medidas sanitarias,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 582.1,
+      "end": 591.52,
+      "text": "donde hay hacinamiento de personas, porque algún inescrupuloso arrienda camas o arrienda piezas a un alto valor para que ellos duerman",
+      "speaker": "Kast"
+    },
+    {
+      "start": 591.52,
+      "end": 598.62,
+      "text": "hacinados. Y como la necesidad de la persona es alta, están ahí. Todo esto, como les digo, va a ser una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 598.62,
+      "end": 604.36,
+      "text": "realidad y las personas tendrán que optar si se van libremente con todos sus recursos, porque nosotros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 604.36,
+      "end": 611.04,
+      "text": "no queremos retener ningún recurso de nadie. Por lo tanto, si alguien tiene ahorro, si alguien tiene algunos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 611.04,
+      "end": 617.94,
+      "text": "bienes, bueno, tiene 133 días para definir si quiere partir con todas sus cosas o si quiere partir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 617.94,
+      "end": 624.6,
+      "text": "con lo puesto. Nosotros le vamos a resguardar sus bienes para que cuando alguien venga y acredite",
+      "speaker": "Kast"
+    },
+    {
+      "start": 624.6,
+      "end": 627.78,
+      "text": "que puede retirar sus bienes más adelante, no tenemos ningún problema.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 628.34,
+      "end": 629.6,
+      "text": "Pero se van a ir con lo puesto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 630.3,
+      "end": 637.88,
+      "text": "Por lo tanto, necesitamos que las personas entiendan que nosotros en esto vamos muy en serio.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 638.32,
+      "end": 641.12,
+      "text": "Que a Chile se entra por la puerta, no se entra por la ventana.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 641.28,
+      "end": 644.16,
+      "text": "Y el que entró por la ventana infringió nuestras normas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 644.72,
+      "end": 648.36,
+      "text": "Hoy día puede ser que sea una falta, más adelante va a ser un delito.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 649.44,
+      "end": 655.7,
+      "text": "Y como bien decía el General Vial, estos son fases, son tres fases",
+      "speaker": "Kast"
+    },
+    {
+      "start": 655.7,
+      "end": 659.1,
+      "text": "que las vamos a hallar adelante una por una en los plazos establecidos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 659.1,
+      "end": 664.36,
+      "text": "y reiterar que el 14 de diciembre los chilenos tienen dos opciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 665.48,
+      "end": 670.58,
+      "text": "Una es votar por la candidata del gobierno, la candidata de la continuidad, la candidata",
+      "speaker": "Kast"
+    },
+    {
+      "start": 670.58,
+      "end": 677.62,
+      "text": "Janet Jara, que ha planteado la regularización masiva de inmigrantes ilegales, que ha",
+      "speaker": "Kast"
+    },
+    {
+      "start": 677.62,
+      "end": 682.1,
+      "text": "planteado la expulsión de delincuentes que hoy día están en nuestras",
+      "speaker": "Kast"
+    },
+    {
+      "start": 682.1,
+      "end": 689.8,
+      "text": "cárceles, o la opción nuestra, que es una opción clara y definida, donde no van a haber",
+      "speaker": "Kast"
+    },
+    {
+      "start": 689.8,
+      "end": 697.06,
+      "text": "más regularizaciones masivas, donde no van a haber más beneficios para los inmigrantes irregulares y donde va a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 697.06,
+      "end": 699.68,
+      "text": "haber retención y expulsión de todas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 699.68,
+      "end": 702.22,
+      "text": "las personas que intenten entrar por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 702.22,
+      "end": 704.72,
+      "text": "alguna ventana que puede haber quedado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 704.72,
+      "end": 706.48,
+      "text": "porque a esas personas las vamos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 706.48,
+      "end": 709.26,
+      "text": "detener, las vamos a llevar a centros de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 709.26,
+      "end": 712.58,
+      "text": "refugio, a centros de retención, y los vamos a expulsar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 714.52,
+      "end": 716.84,
+      "text": "Y no van a poder entrar nunca más a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 717.36,
+      "end": 718.62,
+      "text": "Eso también que les quede claro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 718.9,
+      "end": 724.02,
+      "text": "El que ingresa por la ventana y es sorprendido y es expulsado, nunca más entra a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 724.92,
+      "end": 732.4,
+      "text": "Se ha producido toda una discusión desde el día domingo sobre los vuelos imaginarios.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 733.32,
+      "end": 739.16,
+      "text": "Yo les diría que solo algunas personas viven en un país imaginario, como un país de las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 739.16,
+      "end": 740.18,
+      "text": "maravillas, un país",
+      "speaker": "Kast"
+    },
+    {
+      "start": 740.18,
+      "end": 747.12,
+      "text": "de fantasía, donde pareciera ser que la inmigración irregular no afecta a nadie. Quiere decir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 747.12,
+      "end": 751.98,
+      "text": "que no conocen la realidad en nuestros centros de salud. Quiere decir que no conocen cuánto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 751.98,
+      "end": 755.32,
+      "text": "sale hoy día el arriendo de una vivienda, de una pieza, en un CIT.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 755.78,
+      "end": 757.08,
+      "text": "Pareciera ser que no la conocen.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 757.24,
+      "end": 760.16,
+      "text": "Más allá de que el presidente haya hecho un día un punto de prensa en un CIT,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 760.72,
+      "end": 765.68,
+      "text": "pareciera que fue solo a un CIT que estaba arreglado, amononado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 766.46,
+      "end": 770.78,
+      "text": "Pero esa no es la realidad de miles de personas que viven hoy día situaciones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 770.78,
+      "end": 775.52,
+      "text": "de vulnerabilidad en temas habitacionales y que son inmigrantes irregulares. Hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 775.52,
+      "end": 781.2,
+      "text": "tienen la posibilidad de salir libremente. No conocen la realidad de la atención en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 781.2,
+      "end": 788.86,
+      "text": "educación a la primera infancia. No conocen parte de lo que hoy día sufren los chilenos en temas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 788.86,
+      "end": 790.72,
+      "text": "de transporte.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 790.72,
+      "end": 794.88,
+      "text": "Y pueden ir viendo ustedes todas las realidades que hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 794.88,
+      "end": 798.24,
+      "text": "viven las personas que están regularmente en Chile y las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 798.24,
+      "end": 800.4,
+      "text": "personas que nacieron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 800.4,
+      "end": 803.48,
+      "text": "y son compatriotas nuestras por nacimiento.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 804.68,
+      "end": 811.22,
+      "text": "En esto, la única candidatura que plantea cosas imaginarias es la de Janet Jara,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 811.62,
+      "end": 814.04,
+      "text": "que habla de violencia rural en la Araucanía.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 814.98,
+      "end": 819.4,
+      "text": "Y está en testimonios gráficos de Ruth Hurtado, de Rodolfo Carter,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 820.0,
+      "end": 823.3,
+      "text": "mostrando cuál es la realidad, que viven nuestras fuerzas armadas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 823.3,
+      "end": 826.08,
+      "text": "y que viven nuestros carabineros en la macro zona sur.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 826.96,
+      "end": 828.18,
+      "text": "Eso no va a seguir siendo así.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 828.94,
+      "end": 831.9,
+      "text": "Nosotros vamos a enfrentar el terrorismo con toda la fuerza de la ley,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 832.34,
+      "end": 837.02,
+      "text": "para que también vayan tomando consideración esas personas, que va a haber un antes y un después.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 838.98,
+      "end": 844.9,
+      "text": "Nosotros, como les digo, vamos a usar todas las herramientas administrativas, legislativas, judiciales,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 847.42,
+      "end": 853.02,
+      "text": "diplomáticas, tecnológicas, y vamos a llevar todos los recursos necesarios para que esto sea una realidad. Un ejemplo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 853.02,
+      "end": 856.28,
+      "text": "claro de lo que ha ocurrido en el mundo, hoy día ustedes lo pueden apreciar en Estados",
+      "speaker": "Kast"
+    },
+    {
+      "start": 856.28,
+      "end": 860.42,
+      "text": "Unidos, donde se detuvo a cerca de 500.000",
+      "speaker": "Kast"
+    },
+    {
+      "start": 860.42,
+      "end": 866.22,
+      "text": "personas en un país muy grande, de otras dimensiones en habitantes, pero la detención",
+      "speaker": "Kast"
+    },
+    {
+      "start": 866.22,
+      "end": 871.94,
+      "text": "de esas 500.000 personas hizo que otro millón y medio dejara voluntariamente el país. Es",
+      "speaker": "Kast"
+    },
+    {
+      "start": 871.94,
+      "end": 875.78,
+      "text": "una especie de 3x1. Nosotros aquí creemos que puede ser el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 875.78,
+      "end": 877.1,
+      "text": "cuatro por uno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 878.04,
+      "end": 879.9,
+      "text": "Que por cada persona, o cinco por uno,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 879.98,
+      "end": 882.18,
+      "text": "por cada persona que nosotros tengamos que ir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 882.18,
+      "end": 884.28,
+      "text": "a buscar, detener y expulsar,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 884.66,
+      "end": 886.14,
+      "text": "esperamos que antes de eso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 886.14,
+      "end": 887.56,
+      "text": "se hayan ido al menos cinco.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 889.64,
+      "end": 897.0,
+      "text": "Nosotros ya no vamos a usar, y les pido que me...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 897.0,
+      "end": 901.0,
+      "text": "Nosotros no hacemos maquetas, no hacemos presentaciones,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 902.06,
+      "end": 904.0,
+      "text": "no nos vamos a sacar fotos con algo inventado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 905.32,
+      "end": 910.4,
+      "text": "Yo les pediría que ustedes vayan a Colchane y vean cuántos de estos megáfonos están funcionando.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 911.26,
+      "end": 914.82,
+      "text": "Si alguna vez lo ocuparon. Eso es una apuesta en escena.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 916.1,
+      "end": 916.96,
+      "text": "Nosotros vamos de verdad.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 918.26,
+      "end": 921.32,
+      "text": "Por lo tanto, les quiero agradecer a todos los que han participado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 921.32,
+      "end": 926.0,
+      "text": "en este equipo de seguridad, a todos los que han participado en los otros equipos, vamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 926.0,
+      "end": 932.44,
+      "text": "a ir mostrándoles los avances de las distintas tareas que vamos a ir desarrollando para que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 932.44,
+      "end": 936.94,
+      "text": "la ciudadanía tenga claro esto de que el 14 de diciembre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 936.94,
+      "end": 938.42,
+      "text": "solo hay dos opciones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 938.42,
+      "end": 942.0,
+      "text": "una, el continuismo de un gobierno fracasado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 942.0,
+      "end": 945.96,
+      "text": "y otra, que va a enfrentar la recuperación y la reconstrucción de Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 945.96,
+      "end": 948.64,
+      "text": "en base al orden, la seguridad y la justicia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 948.64,
+      "end": 949.92,
+      "text": "muchas gracias",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 949.92,
+      "end": 953.72,
+      "text": "y le voy a pedir de Chile en base al orden, la seguridad y la justicia. Muchas gracias.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 958.7,
+      "end": 958.8,
+      "text": "Y le voy a pedir a Arturo, a Judith, no sé, primero no,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 962.8,
+      "end": 964.78,
+      "text": "primero si hay consultas técnicas, Cristian, si te puedes acercar.",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 973.28,
+      "end": 974.3,
+      "text": "Enrique, almirante, coronel, Rodolfo, Beatriz,",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 996.28,
+      "end": 996.62,
+      "text": "general. Si hay alguna pregunta técnica en temas de seguridad o del plan que ustedes vieron, felices de contestarlo, después vamos a hacer la segunda parte más política, pero las personas que están aquí han colaborado en el desarrollo de este plan.",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 1002.5,
+      "end": 1003.46,
+      "text": "Así que si hay alguna consulta técnica, felices de que aquí Cristian conteste esa parte.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1006.18,
+      "end": 1006.28,
+      "text": "Bueno, candidato, muy buenas tardes, también buenas tardes a todos los presentes.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1009.44,
+      "end": 1014.12,
+      "text": "Quería consultarle a propósito de lo que usted planteó en el reciente debate de esta posibilidad de que los propios migrantes cancelen parte del costo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1014.12,
+      "end": 1016.0,
+      "text": "que signifique sacarlos del país.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1016.0,
+      "end": 1020.04,
+      "text": "¿Cómo operaría esta fórmula y bajo qué características de personas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1020.04,
+      "end": 1020.94,
+      "text": "que se encuentren en el país?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1021.04,
+      "end": 1023.42,
+      "text": "¿Cuáles van a ser los análisis que se van a hacer para aplicar este tipo de medidas?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1023.76,
+      "end": 1028.38,
+      "text": "Y lo otro, ¿qué va a ocurrir con aquellos países donde no existen relaciones diplomáticas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1028.38,
+      "end": 1033.3,
+      "text": "como para que puedan ser recibidas estas personas que sean expulsadas del país?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1034.32,
+      "end": 1039.62,
+      "text": "Bueno, lo primero es apelar a la voluntariedad de las personas que quieran partir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1039.62,
+      "end": 1041.6,
+      "text": "con todos sus bienes y sus recursos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1042.16,
+      "end": 1049.32,
+      "text": "Hay muchas personas que tienen un vehículo que ya no lo van a poder seguir ocupando más adelante.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1049.54,
+      "end": 1056.46,
+      "text": "Algunas personas que tienen tecnología que utilizan todos los días, como un teléfono, un iPad, un computador.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1056.96,
+      "end": 1062.82,
+      "text": "Si ellos quieren volver a su país con todos sus bienes, tienen 133 días para hacerlo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1064.7,
+      "end": 1072.44,
+      "text": "Después pueden tener la opción de, si quieren colabor colaborar con su pasaje de regreso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1072.44,
+      "end": 1077.56,
+      "text": "junto con la disposición de aviones que nosotros vamos a poner a disposición.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1077.86,
+      "end": 1083.56,
+      "text": "Hoy día Chile tiene un par de aviones que puede utilizar para traslado a pasajeros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1083.56,
+      "end": 1089.0,
+      "text": "y ahí habrán alternativas para que las personas colaboren",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1089.0,
+      "end": 1094.0,
+      "text": "para partir a una situación más cómoda o una situación más incómoda,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": "con bienes o sin bienes.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1096.0,
+      "end": 1098.0,
+      "text": "Y donde no tengamos relaciones diplomáticas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1098.0,
+      "end": 1104.38,
+      "text": "que yo espero que a esa altura se produzcan cambios democráticos en todos los países donde hoy día hay dictaduras",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1104.38,
+      "end": 1109.58,
+      "text": "y la ciudadanía sea libre, espero que eso ocurra más pronto que tarde,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1111.32,
+      "end": 1113.0,
+      "text": "yo creo que debiera estar solucionado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1113.7,
+      "end": 1116.0,
+      "text": "Y si no está solucionado, habrán centros de refugio,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1116.82,
+      "end": 1121.44,
+      "text": "donde estarán esas personas hasta que el gobierno respectivo envíe un avión",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1121.44,
+      "end": 1124.88,
+      "text": "para llevar a sus compatriotas de regreso a su patria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1125.88,
+      "end": 1131.0,
+      "text": "Por lo tanto, le aseguro que la inversión que nosotros vamos a hacer en vuelos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1131.0,
+      "end": 1135.4,
+      "text": "después del 11 de marzo no va a ser tan alta como algunos plantean.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1135.82,
+      "end": 1139.92,
+      "text": "Y si tuviera que ser alta, le aseguro que todos los chilenos van a decir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1139.92,
+      "end": 1143.52,
+      "text": "que estamos dispuestos a gastar 10 millones de dólares, 100 millones de dólares,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1143.9,
+      "end": 1148.48,
+      "text": "300 millones de dólares si fuera necesario, para que todas las personas que han entrado de manera irregular",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1148.48,
+      "end": 1154.7,
+      "text": "salgan. Pero antes de gastarnos esos recursos, tenemos bastantes alternativas para no tener",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1154.7,
+      "end": 1158.84,
+      "text": "que usar los recursos de los chilenos para proceder a esas expulsiones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1161.26,
+      "end": 1162.1,
+      "text": "Candidato, buenas tardes también a todos los presentes",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1162.1,
+      "end": 1163.48,
+      "text": "Sobre el tema puntual",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1163.48,
+      "end": 1165.28,
+      "text": "Sobre fronteras",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1165.28,
+      "end": 1168.22,
+      "text": "Tiene que ver con un proyecto de ley que presentó",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1168.22,
+      "end": 1170.2,
+      "text": "el gobierno de despliegue de militares en las fronteras",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1170.2,
+      "end": 1171.92,
+      "text": "sin la necesidad de que el presidente",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1171.92,
+      "end": 1173.98,
+      "text": "pase por el congreso",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1173.98,
+      "end": 1178.06,
+      "text": "de esta medida. Quería preguntarle a usted, candidato, específicamente respecto de...",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1178.06,
+      "end": 1181.52,
+      "text": "Usted como líder republicano, ¿van a apoyar esta iniciativa que está en el Congreso?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1181.9,
+      "end": 1183.94,
+      "text": "¿Pretenden hacerle modificaciones? ¿Cuál es la postura que tienen?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1184.36,
+      "end": 1190.58,
+      "text": "Preferiría que primero técnicamente conteste Cristian Vial que hizo una presentación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1190.58,
+      "end": 1193.28,
+      "text": "y explicó que nosotros lo que buscamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1193.28,
+      "end": 1194.2,
+      "text": "es fortalecer",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1194.2,
+      "end": 1197.5,
+      "text": "la unidad fronteriza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1197.5,
+      "end": 1198.44,
+      "text": "de carabineros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1198.44,
+      "end": 1201.1,
+      "text": "pero en el intertanto vamos a tener",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1201.1,
+      "end": 1202.76,
+      "text": "que recurrir al apoyo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1202.76,
+      "end": 1204.42,
+      "text": "logístico humano",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1204.42,
+      "end": 1205.96,
+      "text": "de las distintas ramas de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1205.96,
+      "end": 1206.78,
+      "text": "las Fuerzas Armadas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1210.04,
+      "end": 1214.3,
+      "text": "Actualmente el despliegue de las Fuerzas Armadas, el Ejército específicamente, en la frontera",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1214.3,
+      "end": 1220.98,
+      "text": "norte terrestre, desde febrero del 2023 está al amparo de la infraestructura crítica, que pregunta usted.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1221.74,
+      "end": 1224.62,
+      "text": "Eso, el decreto 6.8 le da cobertura y funciona bien.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1225.14,
+      "end": 1230.42,
+      "text": "Lo que nosotros vamos a hacer es una actualización y una mejora, una optimización de ese decreto.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1230.76,
+      "end": 1232.64,
+      "text": "No para entregarle más facultades, porque eso está.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1233.26,
+      "end": 1239.54,
+      "text": "Nos hemos dado cuenta que lo que necesitamos es integración, una sincronización de los medios, como les decía, con una autoridad",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1239.54,
+      "end": 1247.6,
+      "text": "civil y eso va a estar contenido en un decreto. No es necesario, aparte de las modificaciones",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1247.6,
+      "end": 1253.48,
+      "text": "a la ley que actualmente se encuentran en la infraestructura crítica en comisión mixta, hacer más reparos sobre ella.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1254.22,
+      "end": 1257.58,
+      "text": "Eso dará la cobertura a las Fuerzas Armadas para poder seguir operando",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1257.58,
+      "end": 1260.92,
+      "text": "conjuntamente con carabineros y con la entidad civil en la frontera.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1262.44,
+      "end": 1263.88,
+      "text": "Candidato, perdón.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1268.24,
+      "end": 1273.0,
+      "text": "Yo le quería preguntar justamente también por lo que usted decía de que colaboren, se paguen sus propios pasajes",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1273.0,
+      "end": 1274.74,
+      "text": "y así también salgan con sus bienes.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1275.32,
+      "end": 1278.4,
+      "text": "Ayer Evelyn Matei decía que eso solo aplicaría entonces",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1278.4,
+      "end": 1280.4,
+      "text": "para personas, para narcotraficantes,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1280.5,
+      "end": 1288.66,
+      "text": "porque la situación de los migrantes en Chile no les da muchas veces para pagar un pasaje.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1289.04,
+      "end": 1294.24,
+      "text": "Eso por una parte. ¿Cómo se podría asegurar que ellos podrían pagar su propio pasaje?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1294.76,
+      "end": 1296.38,
+      "text": "Que le responda Matei en ese sentido",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1296.38,
+      "end": 1298.24,
+      "text": "y también desde el gobierno han dicho",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1298.24,
+      "end": 1299.8,
+      "text": "que por ejemplo en Venezuela",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1299.8,
+      "end": 1301.86,
+      "text": "no están recibiendo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1301.86,
+      "end": 1304.52,
+      "text": "a personas expulsadas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1304.52,
+      "end": 1305.66,
+      "text": "entonces cómo se hace cargo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1305.66,
+      "end": 1307.6,
+      "text": "su propuesta también de ese tema",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1307.6,
+      "end": 1309.76,
+      "text": "si quiero invitar a Iván Poduje",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1309.76,
+      "end": 1313.1,
+      "text": "para que nos acompañe para hacerle unas consultas técnicas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1313.18,
+      "end": 1318.0,
+      "text": "Le voy a contestar, de todas maneras yo, pero quiero que después me ayude a complementar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1319.84,
+      "end": 1323.5,
+      "text": "Párate por el lado acá, para buscar el promedio de altura.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1330.44,
+      "end": 1333.72,
+      "text": "Eh... párate por el lado acá para buscar el promedio de altura primero porque le pedí a Iván que venga",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1333.72,
+      "end": 1335.52,
+      "text": "para que después ustedes le puedan hacer las consultas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1335.52,
+      "end": 1337.44,
+      "text": "nosotros conocemos los campamentos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1337.44,
+      "end": 1339.7,
+      "text": "los conocemos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1339.7,
+      "end": 1340.4,
+      "text": "todos, Iván literalmente yo le diría que los conoce todoscemos los campamentos, los conocemos todos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1340.52,
+      "end": 1343.36,
+      "text": "Iván, literalmente yo le diría que los conoce todos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1344.12,
+      "end": 1347.36,
+      "text": "En esos campamentos, sí, hay crimen organizado,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1348.1,
+      "end": 1352.0,
+      "text": "pero también hay personas que están habitando ahí de manera irregular,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1352.86,
+      "end": 1355.2,
+      "text": "que son inmigrantes irregulares y que trabajan.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1356.16,
+      "end": 1360.16,
+      "text": "Y nosotros hemos visto los vehículos, hemos visto los locales comerciales,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1360.4,
+      "end": 1366.42,
+      "text": "hemos visto las peluquerías, hemos visto ventas de gas, hemos visto construcciones sólidas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1367.8,
+      "end": 1373.58,
+      "text": "Por lo tanto, no son personas que vivan debajo de un puente. Son personas que todos los días",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1373.58,
+      "end": 1381.46,
+      "text": "se alimentan. Son personas que todos los días hacen alguna labor. La gente no vive del aire. La gente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1381.46,
+      "end": 1387.12,
+      "text": "hace alguna labor que generalmente no es una labor formal, es una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1387.12,
+      "end": 1394.02,
+      "text": "labor informal. Yo creo que todos ustedes han usado el transporte público y han visto cómo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1394.02,
+      "end": 1401.94,
+      "text": "dentro de los carros del metro se vende todo tipo de artículos. Eso es muy rentable. Hay personas que desde la informalidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1401.94,
+      "end": 1408.12,
+      "text": "tienen más recursos de lo que uno se imagina y no son narcotraficantes, no son delincuentes. Son",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1408.12,
+      "end": 1413.42,
+      "text": "personas que trabajan, pero que cometieron una falta y que en nuestro gobierno va a ser un delito",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1413.42,
+      "end": 1415.22,
+      "text": "haber entrado por la ventana.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1419.3,
+      "end": 1419.84,
+      "text": "A esas personas nadie puede decir que no tienen recursos.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1424.56,
+      "end": 1425.12,
+      "text": "Nosotros ese estudio lo hemos hecho y Iván, quiero solamente que después ratifique,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1427.86,
+      "end": 1428.86,
+      "text": "y pueden leer el libro de Iván, Chile Tomado,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1433.34,
+      "end": 1442.76,
+      "text": "donde hay imágenes gráficas de cómo a partir del año 2021, 2019 incluso, fueron aumentando los tamaños de los campamentos. Está gráficamente ahí señalado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1443.32,
+      "end": 1445.36,
+      "text": "Respecto de los países que no tienen relación con Chile, está gráficamente ahí señalado. Respecto de los países que no tienen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1445.36,
+      "end": 1452.6,
+      "text": "relación con Chile, Venezuela, lo he señalado. Las personas que no salgan antes y pueden ir a cualquier",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1452.6,
+      "end": 1458.2,
+      "text": "país. Esas personas, cuando llegaron a Chile, muchas pasaron por Colombia, pasaron por Ecuador,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1458.66,
+      "end": 1462.64,
+      "text": "pasaron por Perú, pasaron por Bolivia, que elijan el destino.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1463.62,
+      "end": 1473.46,
+      "text": "Lo que tienen que tener claro es que en Chile no van a poder estar y que tienen una gran alternativa de salir y de a futuro intentar regularizar sus documentos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1473.46,
+      "end": 1475.36,
+      "text": "para que sepamos quiénes son,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1475.62,
+      "end": 1478.4,
+      "text": "que estén enrolados, pero desde fuera.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1478.54,
+      "end": 1481.88,
+      "text": "Y la decisión va a ser nuestra de quién puede entrar a Chile o no.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1483.0,
+      "end": 1484.08,
+      "text": "Por lo tanto, tienen destinos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1484.6,
+      "end": 1487.22,
+      "text": "Y si no hay destino, y se dicen, yo no tengo ningún destino,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1487.58,
+      "end": 1489.46,
+      "text": "bueno, va a haber un centro de refugios para ello.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1498.42,
+      "end": 1504.32,
+      "text": "Hasta que decidan partir. Y los medios para salir van a estar, y el resguardo de sus bienes va a estar, salvo que se produzca una situación más conflictiva, donde podrían quedarse",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1504.32,
+      "end": 1510.3,
+      "text": "sin sus bienes, porque si resisten a la fuerza pública, bueno, nosotros no vamos a responder por algún",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1510.3,
+      "end": 1515.42,
+      "text": "daño material que pueda ocurrir y que a alguien se le rompa su celular, que se le rompa su",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1515.42,
+      "end": 1518.8,
+      "text": "computador, eso ya será responsabilidad de las personas. Cuando llegue la fuerza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1518.8,
+      "end": 1521.72,
+      "text": "policial, con todo el apoyo necesario",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1521.72,
+      "end": 1527.36,
+      "text": "de las instituciones que sean requeridas, ellos, si quieren resistir el desalojo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1528.02,
+      "end": 1530.92,
+      "text": "serán responsables de los daños materiales que puedan ocurrir.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1531.62,
+      "end": 1534.62,
+      "text": "Nosotros en esto vamos a ser muy claros y vamos a aplicar la fuerza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1534.62,
+      "end": 1535.56,
+      "text": "en base a la ley",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1535.56,
+      "end": 1537.7,
+      "text": "y la constitución. Y respecto de los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1537.7,
+      "end": 1539.68,
+      "text": "campamentos, Iván, solo para que tú puedas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1539.68,
+      "end": 1541.84,
+      "text": "explicarme un poquitito la lógica",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1541.84,
+      "end": 1543.84,
+      "text": "de esto, y de las usurpaciones, y del",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1543.84,
+      "end": 1545.84,
+      "text": "negocio del crimen organizado dentro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1545.84,
+      "end": 1548.0,
+      "text": "de esto, donde las personas compran el agua.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1548.58,
+      "end": 1550.38,
+      "text": "No hay agua potable. Compran el agua. No hay agua potable, compran el agua.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1552.58,
+      "end": 1553.86,
+      "text": "Gracias, Jack.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1554.2,
+      "end": 1557.94,
+      "text": "Bueno, nosotros tenemos detectados 29 megacampamentos,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1558.08,
+      "end": 1560.66,
+      "text": "que son campamentos con algún tipo de control del crimen organizado,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1561.34,
+      "end": 1566.26,
+      "text": "y hemos calculado que al año el monto del negocio ilegal de venta de tierra robada",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1566.26,
+      "end": 1571.02,
+      "text": "alcanza los 50 millones de dólares. Esos grupos no necesariamente tienen que ver con crimen",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1571.02,
+      "end": 1577.1,
+      "text": "organizado vinculado al narcotráfico. Son bandas que se dedican a robar la tierra, a atizarla, a",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1577.1,
+      "end": 1580.2,
+      "text": "trazarla, a venderla y a arrendarla.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1580.98,
+      "end": 1584.0,
+      "text": "Tenemos más de 1.500 locales comerciales en estos 29 megacampamentos,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1584.94,
+      "end": 1585.98,
+      "text": "algunos de gran tamaño.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1586.64,
+      "end": 1589.96,
+      "text": "Tenemos negocios ilegales de agua, provisión de agua, de luz",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1589.96,
+      "end": 1596.72,
+      "text": "y además de cierre de casas con albillenería, con concreto, estamos hablando en el caso de Alto",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1596.72,
+      "end": 1602.04,
+      "text": "Hospicio, en el caso de Antofagasta, en el caso de Arica, de verdad las fortalezas que tienen un",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1602.04,
+      "end": 1608.64,
+      "text": "costo de edificación significativo. Pero lo concreto estamos hablando de mafias que ganan 50 millones de",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1608.64,
+      "end": 1614.22,
+      "text": "dólares por año a costa de la pobreza y a costa de la marginalidad de las personas que están ahí.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1614.82,
+      "end": 1617.9,
+      "text": "Por lo tanto, no solo el narcotráfico, como decía José Antonio,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1618.32,
+      "end": 1620.72,
+      "text": "sino que hay una serie de negocios ilícitos vinculados al control",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1620.72,
+      "end": 1622.54,
+      "text": "que ejercen estas bandas sobre el crimen organizado.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1623.36,
+      "end": 1629.62,
+      "text": "Además de eso, hemos detectado situaciones de alta vulnerabilidad, zonas de riego en los campamentos, en Antofagasta,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1630.06,
+      "end": 1633.98,
+      "text": "zonas de riego en los campamentos también en San Antonio, en Valparaíso, en Viña del Mar, riego",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1633.98,
+      "end": 1638.1,
+      "text": "quiere decir que están asentados en zonas de riego y que están generando descargas de aguas servidas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1638.1,
+      "end": 1641.9,
+      "text": "sobre quebradas, sobre humedales, etc. Esa es la magnitud del problema.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1643.34,
+      "end": 1660.08,
+      "text": "Y para que ustedes vean que no solamente temas de narcotráfico, crimen organizado y que hay venta y comercio ilegal, le quiero pedir a Rodolfo que nos explique cómo él enfrentó el tema del comercio ilegal irregular en la florida cuando fue alcalde y hoy día tiene otro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1660.08,
+      "end": 1664.14,
+      "text": "rol va de candidato al senado pero su experiencia en local también es",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1664.14,
+      "end": 1673.9,
+      "text": "relevante muy buenas tardes a todos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1673.9,
+      "end": 1676.06,
+      "text": "Quería primero hacer una",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1676.06,
+      "end": 1678.02,
+      "text": "una mención a la pregunta previa",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1678.02,
+      "end": 1679.72,
+      "text": "respecto a lo que señaló del IMATEC",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1679.72,
+      "end": 1681.86,
+      "text": "¿Qué deporte nacional es esto a que no se puede?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1682.92,
+      "end": 1684.14,
+      "text": "El mundo se divide entre dos tipos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1684.14,
+      "end": 1686.0,
+      "text": "de políticos, los que explican las cosas que existen",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1686.0,
+      "end": 1688.22,
+      "text": "y hay otros pocos, José Antonio",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1688.22,
+      "end": 1690.14,
+      "text": "es de esos que se imaginan las cosas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1690.14,
+      "end": 1691.6,
+      "text": "que todavía no existen y las hacen posibles",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1691.6,
+      "end": 1693.78,
+      "text": "esa es la diferencia con la candidata de Chile",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1693.78,
+      "end": 1696.02,
+      "text": "dedicarse como deporte",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1696.02,
+      "end": 1698.28,
+      "text": "nacional a criticarlo todo, a encontrar todo imposible",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1698.28,
+      "end": 1699.48,
+      "text": "bueno, no hagamos nada entonces",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1699.48,
+      "end": 1700.34,
+      "text": "dedicámonos como ha sido los últimos 10 años a encontrar todo imposible, bueno, no hagamos nada entonces.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1702.46,
+      "end": 1703.36,
+      "text": "Dediquémonos, como han sido los últimos 10 años, a comentar los problemas.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1704.44,
+      "end": 1705.86,
+      "text": "Y los chilenos con el agua al cuello.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1707.82,
+      "end": 1708.64,
+      "text": "¿Podrán ser todas las medidas perfectibles? Desde luego.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1709.38,
+      "end": 1710.58,
+      "text": "Todo es perfectible.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1713.06,
+      "end": 1713.2,
+      "text": "Pero lo que no puede ser es que este deporte nacional,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1715.54,
+      "end": 1718.38,
+      "text": "alguien levanta la mano con una idea y el coro completo, y lo entendemos de un gobierno mediocre y papas nata como este",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1718.38,
+      "end": 1721.8,
+      "text": "que todo lo encuentre malo, si se equivocan hasta con los números de la luz",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1721.8,
+      "end": 1723.94,
+      "text": "ni siquiera ellos tienen claro lo que quieren hacer",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1723.94,
+      "end": 1727.7,
+      "text": "pero que la oposición hagamos este tipo de juegos es impresentable",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1727.7,
+      "end": 1734.24,
+      "text": "me hago responsable de esta declaración personal porque estoy harto de que frente al dolor de los chilenos, el club de los políticos es lo único que",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1734.24,
+      "end": 1741.58,
+      "text": "se llega a comentar. Y esto es respecto a lo que José Antonio me pedía explicar. Hay un tema de actitud",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1741.58,
+      "end": 1747.16,
+      "text": "frente al delito. Quiero decirles una cosa. Ayer el alcalde, creo",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1747.16,
+      "end": 1753.26,
+      "text": "que Renca, estaba demoliendo casas de narcos. ¿Se acuerdan ustedes mismos los periodistas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1753.26,
+      "end": 1758.72,
+      "text": "que ahora están mirando su WhatsApp? Que me decían, populista, ¿qué responde al gobierno",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1758.72,
+      "end": 1763.16,
+      "text": "populista? Inepto. se demoraron 24 horas en cambiar",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1763.16,
+      "end": 1767.16,
+      "text": "de opinión ya sabemos que este gobierno un gobierno inversionista se invierte la chaqueta todos los",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1767.16,
+      "end": 1774.42,
+      "text": "días pero pero tengamos mejor histórica todos dijimos siempre que las casas narcos no eran la",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1774.42,
+      "end": 1775.32,
+      "text": "solución a los problemas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1775.32,
+      "end": 1777.34,
+      "text": "era una llamada",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1777.34,
+      "end": 1778.02,
+      "text": "de esperanza",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1778.02,
+      "end": 1778.56,
+      "text": "para la gente",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1778.56,
+      "end": 1779.26,
+      "text": "que está harta",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1779.26,
+      "end": 1780.34,
+      "text": "que la aguja no se mueve",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1780.34,
+      "end": 1781.68,
+      "text": "de eso se trata",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1781.68,
+      "end": 1782.64,
+      "text": "un gobierno efectivo",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1782.64,
+      "end": 1783.92,
+      "text": "de ponerse al lado",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1783.92,
+      "end": 1784.38,
+      "text": "de la gente",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1784.38,
+      "end": 1785.4,
+      "text": "hay un tema",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1785.4,
+      "end": 1785.82,
+      "text": "de actitud",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1785.82,
+      "end": 1786.5,
+      "text": "queridos amigos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1786.5,
+      "end": 1787.84,
+      "text": "a propósito de la pregunta",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1787.84,
+      "end": 1788.6,
+      "text": "de José Antonio Kast",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1788.6,
+      "end": 1789.42,
+      "text": "y es",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1789.42,
+      "end": 1791.34,
+      "text": "el 80% del tema es actitud.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1792.26,
+      "end": 1795.22,
+      "text": "Porque los delincuentes, efectivamente, vienen lo que pasó en la toma de dignidad en la Florida.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1796.26,
+      "end": 1799.26,
+      "text": "El día antes el alcalde Reyes recibió amenazas de que iban a quemar la municipalidad,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1799.36,
+      "end": 1801.36,
+      "text": "que se iban a quemar las casas, de que iba a haber gente muerta.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1801.82,
+      "end": 1802.06,
+      "text": "Cero.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1803.52,
+      "end": 1806.22,
+      "text": "Porque cuando los delincuentes o los",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1806.22,
+      "end": 1811.1,
+      "text": "violentos ven a la autoridad con pantalones, se rinden. Y eso es lo que el",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1811.1,
+      "end": 1814.36,
+      "text": "pueblo chileno ha hecho siempre. Frente a las preguntas de la candidata de Chile Vamos,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1815.5,
+      "end": 1819.42,
+      "text": "habría que decirle que le pregunta a la gente de los campamentos, ¿cómo ven que los",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1819.42,
+      "end": 1823.68,
+      "text": "inmigrantes ilegales tienen teléfonos satelitales, televisión satelital,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1824.22,
+      "end": 1825.3,
+      "text": "autos más caros que los de ellos?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1825.74,
+      "end": 1829.56,
+      "text": "El buenismo del que no conoce un campamento es bastante útil para opinar sin conocer.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1830.22,
+      "end": 1833.82,
+      "text": "Por tanto, lo relevante para esto, y es lo que tengo que decir al respecto,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1834.38,
+      "end": 1842.94,
+      "text": "un 80% de la actitud, no, 50% de la actitud, porque acabamos de escuchar una de las exposiciones más notables de Cristian Vidal al respecto.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1843.3,
+      "end": 1847.06,
+      "text": "Este trabajo, ¿dónde lo habían visto? ¿Dónde habían visto algo así?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1849.5,
+      "end": 1852.76,
+      "text": "Primero comenten esto, no ustedes muchachos, sino que los que se dedican a criticar",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1852.76,
+      "end": 1854.84,
+      "text": "a todo aquel que tiene los pantalones para elegir Chile.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1855.1,
+      "end": 1856.2,
+      "text": "Y es el único José Antonio Acácer.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1858.28,
+      "end": 1862.02,
+      "text": "Y ahora, las preguntas políticas que ustedes estimen.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1862.18,
+      "end": 1866.36,
+      "text": "Les agradezco a todos habernos acompañado en esta parte más técnica.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1867.84,
+      "end": 1871.92,
+      "text": "Ya vendrá el plan Canserbero y ahí el coronel González también los va a sorprender.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1872.9,
+      "end": 1878.36,
+      "text": "Y Arturo, Judith, si me pueden acompañar porque esta parte les corresponde más a ustedes.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1878.9,
+      "end": 1885.92,
+      "text": "A ti como secretaria general, candidata a diputada también y a ti como presidente del Partido Republicano y como",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1885.92,
+      "end": 1892.46,
+      "text": "candidato al Senado de la República. Porque tenemos que tener un parlamento para Chile. Eso es lo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1892.46,
+      "end": 1896.2,
+      "text": "más nos importa por lo que hemos planteado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1896.92,
+      "end": 1903.44,
+      "text": "Muchas de las cosas que necesitamos que el legislativo saque adelante es pensando en todos los chilenos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1903.76,
+      "end": 1909.88,
+      "text": "no en un partido político determinado. Así que las consultas más políticas que tengan pueden hacerselas allí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1909.88,
+      "end": 1916.02,
+      "text": "al presidente del Partido Republicano, a la secretaria general nacional del Partido Social Cristiano.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1916.8,
+      "end": 1917.86,
+      "text": "Y a mí también sé que...",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1917.86,
+      "end": 1927.28,
+      "text": "Sí, ¿cómo está, candidato? Esta pregunta es para usted y también para sus colegas de partido, sus compañeros de partido.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1927.96,
+      "end": 1934.98,
+      "text": "Usted coincide con el jefe de campaña de Evelyn Matei sobre el concepto de gobierno atorrante.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1935.5,
+      "end": 1940.94,
+      "text": "¿Y qué le parece que el comando de la candidata de Chile Vamos esté endureciendo el tono contra el Ejecutivo?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1941.04,
+      "end": 1944.24,
+      "text": "¿Es una estrategia para igualar su disputa contra la moneda,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1944.58,
+      "end": 1947.2,
+      "text": "tomar protagonismo? ¿Cómo lo observan desde el comando?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1948.28,
+      "end": 1951.22,
+      "text": "Nosotros en general, y ustedes lo han visto,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1951.44,
+      "end": 1956.04,
+      "text": "nunca hemos comentado los dichos de alguna candidatura de oposición.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1956.54,
+      "end": 1961.94,
+      "text": "Porque estamos todos en la misma línea, de sacar a este gobierno fracasado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1962.8,
+      "end": 1967.24,
+      "text": "Por lo tanto, yo no me quedaría en las formas, sino iría al fondo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1967.94,
+      "end": 1972.02,
+      "text": "Y el fondo que nos ocupa es que todos los índices en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1972.02,
+      "end": 1977.32,
+      "text": "temas de salud, en temas de educación, en temas de vivienda, en temas de seguridad,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1977.72,
+      "end": 1986.24,
+      "text": "son un desastre. Para qué hablar de las cuentas públicas, de lo que hoy día vemos en la discusión de presupuesto,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1986.68,
+      "end": 1990.14,
+      "text": "donde ni siquiera el gobierno se pone de acuerdo con sus propios parlamentarios, donde no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1990.14,
+      "end": 1993.02,
+      "text": "saben qué van a recortar, qué van a proponer.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1993.8,
+      "end": 1999.26,
+      "text": "Por lo tanto, en el fondo, nosotros compartimos que este es un gobierno fracasado, es un gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1999.26,
+      "end": 2005.48,
+      "text": "que nos va a dejar un legado de más homicidios, de más inmigración ilegal, de menos vivienda,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2005.96,
+      "end": 2010.46,
+      "text": "de más personas que fallecen esperando una atención médica, de más jóvenes sin esperanza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2010.46,
+      "end": 2015.22,
+      "text": "de salir adelante en temas de educación. Por lo tanto, en el fondo, los que estamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2015.22,
+      "end": 2021.32,
+      "text": "en la oposición a este gobierno coincidimos y respetamos lo que cada uno plantea. No lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2021.32,
+      "end": 2023.24,
+      "text": "comentamos. No sé si Arturo...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2023.24,
+      "end": 2024.86,
+      "text": "¿Coincide en que es un gobierno torrante?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2026.28,
+      "end": 2033.5,
+      "text": "Vuelvo a insistir. Nosotros no vamos a comentar los dichos de otras candidaturas, sea de la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2033.5,
+      "end": 2038.38,
+      "text": "candidata o del vocero, en que este es un gobierno fracasado, en que este es un gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2038.38,
+      "end": 2041.44,
+      "text": "que no ha enfrentado el terrorismo, que este es un gobierno que no ha parado la inmigración",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2041.44,
+      "end": 2048.26,
+      "text": "ilegal, que este es un gobierno que va a dejar una deuda gigantesca en déficit habitacional, que es un gobierno que ha destruido la educación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2048.26,
+      "end": 2054.94,
+      "text": "pública por la cual marcharon en las calles, que es un gobierno que ha ahogado a los emprendedores,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2055.38,
+      "end": 2060.36,
+      "text": "es un gobierno que no ha colaborado con los agricultores. Puedo seguir, la lista es enorme.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2060.56,
+      "end": 2063.78,
+      "text": "Por eso decimos que este es un gobierno fracasado del señor Boric.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2066.5,
+      "end": 2068.8,
+      "text": "Candidato Judith Arturo, muy buenas tardes.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2069.42,
+      "end": 2072.44,
+      "text": "Ha sido el propio Chile Vamos, candidato.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2074.14,
+      "end": 2075.26,
+      "text": "Somos los tres candidatos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2075.26,
+      "end": 2076.8,
+      "text": "es verdad, es verdad",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2076.8,
+      "end": 2078.6,
+      "text": "candidato a la presidencia",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2078.6,
+      "end": 2082.0,
+      "text": "ha sido la propia coalición",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2082.0,
+      "end": 2083.82,
+      "text": "de Chile Vamos la que los ha criticado a ustedes",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2083.82,
+      "end": 2085.74,
+      "text": "constantemente, los ha tildado como",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2085.74,
+      "end": 2087.78,
+      "text": "un comando que insta a la odiosidad",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2087.78,
+      "end": 2089.92,
+      "text": "los ha apuntado como un extremo haciendo un símil",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2089.92,
+      "end": 2093.14,
+      "text": "con Janet Harris, fueron muy críticos de hecho hace un par de semanas atrás",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2093.14,
+      "end": 2099.48,
+      "text": "por el uso del concepto parásitos en una columna de opinión. ¿Consideran que es incongruente que",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2099.48,
+      "end": 2107.6,
+      "text": "ellos mismos que critican a los otros comandos por el concepto de odiosidad hoy utilicen la palabra atorrante para referirse al Ejecutivo?",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2107.74,
+      "end": 2111.88,
+      "text": "¿Es incongruente que los critiquen a ustedes pero utilicen calificativos como ese?",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2113.28,
+      "end": 2116.32,
+      "text": "Mire, nosotros estamos concentrados en el 16 de noviembre",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2116.32,
+      "end": 2124.94,
+      "text": "y como bien decía José Antonio Kast, en el 14 de diciembre principalmente. No porque ahí termine la tarea, sino porque es el principio de lo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2124.94,
+      "end": 2130.0,
+      "text": "que va a empezar a ocurrir el 11 de marzo. Lo que ustedes vieron en la presentación",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2130.0,
+      "end": 2134.16,
+      "text": "de Cristian Vial se replica en cada una de las áreas en donde estamos en una zona",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2134.16,
+      "end": 2138.1,
+      "text": "crítica, en donde estamos atravesando problemas, situaciones",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2138.1,
+      "end": 2142.9,
+      "text": "que se traducen en una angustia muy profunda para cada uno de los chilenos",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2142.9,
+      "end": 2146.12,
+      "text": "que tiene puesta la esperanza en que desde el 11 de marzo en adelante",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2146.12,
+      "end": 2148.6,
+      "text": "empiece a cambiar la historia.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2149.12,
+      "end": 2151.48,
+      "text": "Desde ese punto de vista entiendo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2151.48,
+      "end": 2157.86,
+      "text": "las palabras de Diego Paulsen porque a nosotros, quienes estamos de candidatos en la calle",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2157.86,
+      "end": 2162.0,
+      "text": "conversando con las personas, la verdad es que lo que escuchamos es bastante más subido",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2162.0,
+      "end": 2165.12,
+      "text": "tono que la palabra que él dijo, refiriéndose",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2165.12,
+      "end": 2169.24,
+      "text": "digamos a la mala administración que hemos tenido durante estos cuatro años. Hay muchas personas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2169.24,
+      "end": 2174.06,
+      "text": "que han perdido todo lo que tenían simplemente por el exceso de ideología que lamentablemente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2174.06,
+      "end": 2179.94,
+      "text": "le ha impreso este gobierno a cada una de las decisiones. Piense usted que una de cada cuatro",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2179.94,
+      "end": 2181.44,
+      "text": "personas que mueren en Chile",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2181.44,
+      "end": 2183.14,
+      "text": "se encontraba en alguna lista de espera.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2183.76,
+      "end": 2186.92,
+      "text": "Y eso es, en definitiva, sobredosis de ideología.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2187.42,
+      "end": 2190.62,
+      "text": "Perfectamente podrían haber seguido el rumbo de derivar a la red privada",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2190.62,
+      "end": 2192.0,
+      "text": "y no lo hacen por ideología.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2193.34,
+      "end": 2194.26,
+      "text": "A eso se refieren.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2194.66,
+      "end": 2196.16,
+      "text": "Entonces, cuando tenemos personas que",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2196.16,
+      "end": 2203.5,
+      "text": "con una parafernalia tiempo atrás tratan de decir que van a repartir gas y termina subiendo el costo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2203.5,
+      "end": 2209.74,
+      "text": "en x por ciento, sólo la producción, ahí uno se va dando cuenta que de repente haya quienes esa",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2209.74,
+      "end": 2212.82,
+      "text": "indignación la transforman en una palabra que a algunos los escandaliza",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2212.82,
+      "end": 2216.0,
+      "text": "y a otros no, y yo soy de la idea de no quedarme en las formas,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2216.0,
+      "end": 2220.3,
+      "text": "sino que ir al fondo, y en el fondo lo compartimos, tal como decía",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2220.3,
+      "end": 2224.32,
+      "text": "José Antonio Kast, tenemos y estamos frente, y afortunadamente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2224.32,
+      "end": 2225.22,
+      "text": "nos quedan",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2225.22,
+      "end": 2234.12,
+      "text": "sólo 133 días de esta pesadilla que se traduce, digamos, en miles de malas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2234.12,
+      "end": 2237.78,
+      "text": "decisiones que han hecho la vida imposible para los chilenos.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2238.44,
+      "end": 2240.66,
+      "text": "José Antonio.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2242.0,
+      "end": 2243.34,
+      "text": "Yo también le quería preguntar...",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2248.1,
+      "end": 2250.0,
+      "text": "...si es que usted ve en esto, en la subida de tono......desde el comando de Matei, una estrategia...",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2250.6,
+      "end": 2254.0,
+      "text": "...considerando que ha sido usted quien ha estado en constante disputa...",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2254.62,
+      "end": 2255.92,
+      "text": "...con el gobierno.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2256.12,
+      "end": 2262.54,
+      "text": "Y además, si es que esa subida de tono se condice con el discurso que ha tenido Chile Vamos,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2262.88,
+      "end": 2266.3,
+      "text": "el discurso de la unidad, de no hacer campañas de odiosidad o no.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2266.72,
+      "end": 2270.34,
+      "text": "Eso, si es una estrategia, y se lo pregunto porque, por ejemplo,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2270.44,
+      "end": 2276.72,
+      "text": "el propio Johannes Kaiser criticaba que el gobierno de los atorrantes, entre comillas,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2276.94,
+      "end": 2278.78,
+      "text": "es el gobierno con el que Chile llevó acuerdos.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2279.82,
+      "end": 2290.26,
+      "text": "Bueno, vuelvo a reiterar que nosotros no comentamos las estrategias o las políticas que plantean candidaturas de la oposición",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2290.26,
+      "end": 2294.04,
+      "text": "y en eso ustedes nos han visto desde un inicio,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2294.48,
+      "end": 2299.14,
+      "text": "desde que yo fui proclamado por el Partido Republicano",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2299.14,
+      "end": 2301.98,
+      "text": "y fui apoyado por el Partido Social Cristiano,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2302.6,
+      "end": 2306.3,
+      "text": "nosotros nunca nos hemos referido a otras candidaturas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2307.1,
+      "end": 2311.42,
+      "text": "Yo siempre los he convocado para explicar un plan determinado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2312.24,
+      "end": 2315.5,
+      "text": "Ustedes han tenido la posibilidad de hacer todas las consultas en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2315.5,
+      "end": 2320.5,
+      "text": "nuestros puntos de prensa, que son largos y extensos. Yo les agradezco siempre la paciencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2320.5,
+      "end": 2325.04,
+      "text": "que nos tienen para poder explicar el plan y después contestar las preguntas. Pero aquí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2325.04,
+      "end": 2329.14,
+      "text": "hay un gran responsable de lo que está ocurriendo hoy en Chile, que es el señor Boric. Él",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2329.14,
+      "end": 2335.14,
+      "text": "decidió libremente convertirse en el jefe de campaña de la candidata de la continuidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2335.14,
+      "end": 2344.26,
+      "text": "y de salir a promover logros imaginarios, usando el concepto que se puso de moda gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2344.26,
+      "end": 2345.38,
+      "text": "a Janet Jara.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2346.48,
+      "end": 2352.68,
+      "text": "Y ahí decirles que así como él se hizo jefe de campaña del primer proceso constituyente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2352.68,
+      "end": 2355.74,
+      "text": "y dejó abandonado el cargo para el cual fue electo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2355.74,
+      "end": 2361.64,
+      "text": "hoy día no hay instancia que él no trate de utilizar para una campaña",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2361.64,
+      "end": 2367.7,
+      "text": "política, no de resguardo a los chilenos, sino que fue a hacer a Colchane, es una imagen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2367.7,
+      "end": 2372.3,
+      "text": "política, podría haber inaugurado la unidad policial que prometió en su primer viaje",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2372.3,
+      "end": 2377.02,
+      "text": "y en eso no se avanzó nada. Fue para allá y hizo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2377.02,
+      "end": 2382.84,
+      "text": "otra apuesta en escena, como a las que nos tiene acostumbrados. Va a inaugurar un recinto para la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2382.84,
+      "end": 2388.58,
+      "text": "primera infancia y le habla a los apoderados de ahí de lo importante y lo bueno que ha sido su",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2388.58,
+      "end": 2390.96,
+      "text": "gobierno y de lo malo que sería un cambio",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2390.96,
+      "end": 2397.92,
+      "text": "de línea en el gobierno. Es un jefe de campaña. Por lo tanto, el gobierno, incluso la vocera",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2397.92,
+      "end": 2403.14,
+      "text": "que cuestiona una acusación constitucional por uno de los hechos más graves que han tenido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2403.14,
+      "end": 2408.14,
+      "text": "conocimiento los chilenos, de ocultación en información relevante para la fijación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2408.14,
+      "end": 2413.62,
+      "text": "de algo tan esencial como es la luz. Y ella dice, ¿cómo en este momento tan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2413.62,
+      "end": 2419.8,
+      "text": "crítico hace una acusación constitucional? ¿Y qué actitud tuvieron ellos en los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2419.8,
+      "end": 2424.0,
+      "text": "últimos meses de gobierno de Sebastián Piñera?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2424.0,
+      "end": 2433.0,
+      "text": "Peor aún. Incluso ellos, que hoy día son, como dice el alcalde de Carte, grandes inversionistas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2433.0,
+      "end": 2437.0,
+      "text": "Porque se invierten la chaqueta, en cada",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2437.0,
+      "end": 2445.76,
+      "text": "punto de prensa que hacen. Por lo tanto, lo que, como decía Arturo, la ciudadanía usa",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2445.76,
+      "end": 2452.76,
+      "text": "conceptos mucho más duros y radicales para referirse a Gabriel Boric y a su",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2452.76,
+      "end": 2458.14,
+      "text": "gobierno fracasado. Sí, candidato, yo finalmente le quiero insistir en la pregunta.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2458.56,
+      "end": 2463.8,
+      "text": "Ustedes están secundando, estamos en vivo a esta hora para 24 horas, ustedes están",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2463.8,
+      "end": 2466.02,
+      "text": "secundando lo que dice el comando de Evelyn Matei en relación a esta hora para 24 horas. Ustedes están secundando lo que dice el comando",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2466.02,
+      "end": 2473.56,
+      "text": "de Evelyn Matei en relación a esto. Desde el Ejecutivo han señalado que el nivel",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2473.56,
+      "end": 2480.8,
+      "text": "del debate ha tocado lo más bajo y dicen que este concepto de gobierno atorrante",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2480.8,
+      "end": 2484.04,
+      "text": "que plantean desde el comando de Belén Matei es clasista.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2484.56,
+      "end": 2489.66,
+      "text": "¿Lo están secundando? ¿Qué le parecen estas declaraciones de parte de ese comando?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2490.1,
+      "end": 2493.64,
+      "text": "Y le quiero preguntar por declaraciones de parlamentarios de su partido.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2493.82,
+      "end": 2497.48,
+      "text": "Por ejemplo, dicen que hay una dicotomía de este nuevo trato",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2497.48,
+      "end": 2500.58,
+      "text": "cuando ellos mismos, Chile Vamos, son ellos mismos",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2500.58,
+      "end": 2503.58,
+      "text": "y Paulsen lo que tiene que hacer es responder a sus dichos.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2503.94,
+      "end": 2507.48,
+      "text": "Dicen que es incongruente el hecho de haber llegado a acuerdo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2507.48,
+      "end": 2510.22,
+      "text": "con ese gobierno que tildan de atorrante.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2510.34,
+      "end": 2516.48,
+      "text": "Sí, vuelvo a reiterar ahora en vivo lo que señalé hace unos momentos atrás extensamente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2517.16,
+      "end": 2521.92,
+      "text": "Nosotros no comentamos los dichos de otras candidaturas de oposición.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2522.44,
+      "end": 2523.5,
+      "text": "Nosotros vamos al fondo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2523.9,
+      "end": 2525.78,
+      "text": "Y el fondo es que el presidente de la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2525.78,
+      "end": 2532.78,
+      "text": "república, don Gabriel Boric, ha llevado a una crisis terminal a nuestro país, de la cual nos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2532.78,
+      "end": 2538.08,
+      "text": "tenemos que recuperar. Y por eso es lo que nosotros estamos planteando aquí, de que él se dedique a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2538.08,
+      "end": 2540.28,
+      "text": "gobernar, no a ser jefe de campaña.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2540.86,
+      "end": 2546.18,
+      "text": "La ciudadanía tiene una imagen clara de lo que ha sido el fracaso de este gobierno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2546.78,
+      "end": 2552.28,
+      "text": "Si alguien desde el gobierno nos trata de clasistas, yo les diría que el clasista es el que no quiere usar corbata",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2552.28,
+      "end": 2555.74,
+      "text": "en la ceremonia más importante para los carabineros.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2556.38,
+      "end": 2559.76,
+      "text": "La ceremonia más importante de graduación para las Fuerzas Armadas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2560.2,
+      "end": 2562.06,
+      "text": "que es la parada militar para el Ejército.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2562.52,
+      "end": 2566.46,
+      "text": "La ceremonia más importante de la graduación de los cadetes de la Escuela Naval.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2567.1,
+      "end": 2569.94,
+      "text": "La situación más importante para una familia en Chile,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2570.58,
+      "end": 2575.78,
+      "text": "cuando se gradúan sus hijos de cuarto medio o cuando salen con un título universitario o un título",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2575.78,
+      "end": 2583.24,
+      "text": "técnico profesional. Todas las familias en Chile se preparan para ese momento especial de su familia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2584.36,
+      "end": 2586.12,
+      "text": "Clasista es no usar corbata",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2586.12,
+      "end": 2587.48,
+      "text": "porque dice que las corbatas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2587.48,
+      "end": 2588.42,
+      "text": "lo usan los ricos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2588.42,
+      "end": 2590.32,
+      "text": "la gente más humilde",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2590.32,
+      "end": 2591.62,
+      "text": "la gente más vulnerable",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2591.62,
+      "end": 2593.34,
+      "text": "se distingue",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2593.34,
+      "end": 2594.16,
+      "text": "se luce",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2594.16,
+      "end": 2594.94,
+      "text": "se prepara",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2594.94,
+      "end": 2596.56,
+      "text": "para una ceremonia como esa",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2596.56,
+      "end": 2598.54,
+      "text": "incluso para nuestras fiestas patrias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2598.54,
+      "end": 2600.16,
+      "text": "todos sacan a relucir lo mejor que tengan sea la persona más sencilla para una ceremonia como esa, incluso para nuestras fiestas patrias.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2603.06,
+      "end": 2603.8,
+      "text": "Todos sacan a revolucionar lo mejor que tengan,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2607.18,
+      "end": 2607.64,
+      "text": "sea la persona más sencilla o la persona con más recursos.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2612.62,
+      "end": 2613.8,
+      "text": "El presidente no se ha dignado jamás a reconocer a las personas en su dignidad.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2615.44,
+      "end": 2615.78,
+      "text": "Por lo tanto aquí, si alguien es clasista,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2622.26,
+      "end": 2622.56,
+      "text": "a la inversa es el presidente, porque incluso sus candidatos hoy día usan corbata. Su pupilo,",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2629.02,
+      "end": 2631.0,
+      "text": "el señor Vinter, descubrió las bondades de la corbata. Su ministro de Hacienda descubrió las bondades de la corbata para ir a encuentros internacionales.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2632.24,
+      "end": 2637.52,
+      "text": "Al menos yo me avergüenzo cuando veo a todos los líderes de la izquierda radical",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2637.52,
+      "end": 2640.82,
+      "text": "cuando van a un encuentro internacional que usan la corbata",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2640.82,
+      "end": 2645.18,
+      "text": "y nuestro presidente no es capaz de representarnos dignamente en esas situaciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2645.94,
+      "end": 2649.54,
+      "text": "Por lo tanto, más allá de la forma, nosotros respaldamos el fondo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2649.54,
+      "end": 2655.18,
+      "text": "de que este es un gobierno fracasado, incompetente, y que le quedan 133 días.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2655.76,
+      "end": 2661.78,
+      "text": "Y estamos convencidos de que vamos a ganar en la primera vuelta y en la segunda vuelta.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2661.96,
+      "end": 2664.88,
+      "text": "Y por eso le digo que los chilenos el 14 de diciembre tienen dos opciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2665.4,
+      "end": 2672.4,
+      "text": "El continuismo con la candidata Janet Jara o el cambio real con nosotros que somos la fuerza del cambio.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2673.12,
+      "end": 2675.68,
+      "text": "Candidato, buenas tardes. Pasando a otro tema.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2675.76,
+      "end": 2676.42,
+      "text": "¿También en directo?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2676.72,
+      "end": 2679.5,
+      "text": "Sí, le quiero preguntar por el voto femenino.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2679.94,
+      "end": 2684.56,
+      "text": "¿Cree que le puede jugar en contra el voto femenino cuando usted en el pasado",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2684.56,
+      "end": 2688.4,
+      "text": "se opuso al aborto, al Ministerio de la Mujer, a la píldora del día después?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2688.88,
+      "end": 2693.02,
+      "text": "¿Y se ha dejado de lado todos estos temas valóricos para precisamente no alejar",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2693.02,
+      "end": 2696.86,
+      "text": "al electorado femenino, teniendo en cuenta que desde el comando de Janet Jara",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2696.86,
+      "end": 2700.94,
+      "text": "dicen que en segunda vuelta los votos de Matei se van a ir para Janet Jara",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2700.94,
+      "end": 2709.32,
+      "text": "porque un gobierno de usted, dicen desde ese comando, es retroceder en derechos a las mujeres. Yo les pido que hagan algunos ejercicios prácticos antes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2709.32,
+      "end": 2716.7,
+      "text": "de decir por quién van a votar los chilenos. ¿Cuál es el pacto que en algún distrito",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2716.7,
+      "end": 2721.06,
+      "text": "no lleva una candidata mujer a la elección? ¿Cuál ha sido el gobierno donde es el pacto que en algún distrito no lleva a una candidata mujer a la elección?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2728.4,
+      "end": 2732.24,
+      "text": "¿Cuál ha sido el gobierno donde hay un subsecretario del interior con medidas precautorias y esperando una sentencia para ver si hubo abuso?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2733.46,
+      "end": 2736.0,
+      "text": "Y el señor Gabriel Boric, que dijo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2736.0,
+      "end": 2741.98,
+      "text": "que iba a ser un gobierno feminista, vulneró los derechos más esenciales al proteger a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2741.98,
+      "end": 2748.88,
+      "text": "una persona acusada de abuso sexual. No solamente lo protegió, le dio la posibilidad de despedirse",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2748.88,
+      "end": 2750.68,
+      "text": "a los chilenos en la moneda.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2751.52,
+      "end": 2752.86,
+      "text": "Una cosa inconcebible.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2754.18,
+      "end": 2756.06,
+      "text": "Y después, ¿a quién maltrató en público?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2756.52,
+      "end": 2761.18,
+      "text": "A la persona que lo asesoraba en temas comunicacionales, que era una mujer.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2763.22,
+      "end": 2767.5,
+      "text": "Si vemos en el tema del desempleo, ¿cuál ha sido el gobierno que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2767.5,
+      "end": 2774.5,
+      "text": "más desempleo ha generado en los últimos 15 años? Este gobierno. ¿Y a quién promueven",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2774.5,
+      "end": 2781.34,
+      "text": "como candidata de este gobierno? A quien ocupó ese cargo y que, como he señalado, no va a ser recordada",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2781.34,
+      "end": 2784.46,
+      "text": "como la ministra del Trabajo, sino como la ministra del Desempleo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2784.96,
+      "end": 2788.28,
+      "text": "porque son datos reales y concretos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2789.56,
+      "end": 2793.22,
+      "text": "Por lo tanto, a mi juicio, las personas tienen clara",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2793.22,
+      "end": 2797.98,
+      "text": "cuáles son hoy día las urgencias que afectan a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2798.4,
+      "end": 2802.64,
+      "text": "En primer lugar, el tema de la seguridad. Con todas las derivadas que han visto en este",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2802.64,
+      "end": 2807.24,
+      "text": "plan, con lo que van a ver próximamente en el plan Cancerbero, con el tema del barrido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2807.24,
+      "end": 2813.58,
+      "text": "total, con el tema de la destrucción de los bienes públicos, para el cual tenemos un registro único de vándalos, que lo mencioné el domingo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2813.58,
+      "end": 2817.58,
+      "text": "e hice alusión a una persona que estaba dispuesta a salir a desconocer la democracia en Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2817.58,
+      "end": 2824.64,
+      "text": "y a unirse con los que destruyen los bienes públicos. Ahí tenemos ese registro. Por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2824.64,
+      "end": 2827.42,
+      "text": "lo tanto, la gente ya tiene definido que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2827.42,
+      "end": 2831.96,
+      "text": "va a votar por orden, por seguridad, por empleo, por vivienda, por mejor calidad de salud.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2832.4,
+      "end": 2839.22,
+      "text": "Y dejo a Judith, que es parte de nuestras candidatas, y vuelvo a insistir, revisen ustedes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2839.22,
+      "end": 2841.26,
+      "text": "si en todos los distritos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2841.26,
+      "end": 2843.28,
+      "text": "los otros pactos llevan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2843.28,
+      "end": 2845.64,
+      "text": "una candidata mujer para representar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2845.64,
+      "end": 2847.2,
+      "text": "a los vecinos de esas comunas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2847.2,
+      "end": 2848.34,
+      "text": "o de esas regiones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2848.34,
+      "end": 2850.66,
+      "text": "Gracias",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2850.66,
+      "end": 2853.4,
+      "text": "Bueno, como",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2853.4,
+      "end": 2854.62,
+      "text": "representante",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2854.62,
+      "end": 2857.96,
+      "text": "del área femenina del Partido Social Cristiano",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2857.96,
+      "end": 2862.82,
+      "text": "y también de muchas candidatas que estamos compitiendo en estas elecciones a lo largo del país,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2863.48,
+      "end": 2869.7,
+      "text": "es importante poder desmentir todas esas, valga la redundancia, mentiras que se van levantando",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2869.7,
+      "end": 2871.1,
+      "text": "en torno a la candidatura",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2871.1,
+      "end": 2875.9,
+      "text": "porque efectivamente quien ha dañado y no supo dignificar el trabajo femenino",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2875.9,
+      "end": 2880.0,
+      "text": "fue la ex ministra Janet Jara y que hoy además quiere ser presidenta.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2881.0,
+      "end": 2886.0,
+      "text": "Yo no sé cuál puede ser su motivación si no pudo reivindicarnos en el área laboral,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2886.86,
+      "end": 2890.24,
+      "text": "querer aspirar incluso a gobernar el resto del país.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2890.64,
+      "end": 2898.0,
+      "text": "La verdad es que del lado de José Antonio, al menos sí se promueve el rol de la mujer",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2898.0,
+      "end": 2900.24,
+      "text": "y no solamente eso, sino que especialmente yo lo apunto",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2900.24,
+      "end": 2902.04,
+      "text": "en materia laboral, por ejemplo",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2902.04,
+      "end": 2903.84,
+      "text": "con la propuesta de la sala cuna universal",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2903.84,
+      "end": 2905.9,
+      "text": "y además con la flexibilización",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2905.9,
+      "end": 2908.06,
+      "text": "del trabajo para la mujer donde podamos",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2908.06,
+      "end": 2909.82,
+      "text": "complementar nuestro rol",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2909.82,
+      "end": 2912.1,
+      "text": "de maternidad, por ejemplo, y también",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2912.1,
+      "end": 2913.84,
+      "text": "laboral, que es sumamente importante",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2913.84,
+      "end": 2919.18,
+      "text": "y por qué no mencionar también el área de la seguridad, que para nosotras es súper importante, porque",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2919.18,
+      "end": 2924.56,
+      "text": "qué mayor tranquilidad para una mujer el poder ir a trabajar tranquila, qué mayor",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2924.56,
+      "end": 2931.04,
+      "text": "seguridad para una mujer es tener un entorno laboral seguro, donde las autoridades te respeten,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2931.14,
+      "end": 2935.88,
+      "text": "donde las autoridades te defiendan también. No así como lo hemos visto en este abandono",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2935.88,
+      "end": 2939.28,
+      "text": "de este gobierno contra los casos que ya se mencionaron, el caso Monsalve,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2939.62,
+      "end": 2945.1,
+      "text": "o para qué decir, el de Nabil Arrifo, donde ni siquiera se pudo llegar a la audiencia a tiempo.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2945.92,
+      "end": 2952.76,
+      "text": "Yo creo que aquí hay casos muy puntuales donde el desamparo de la mujer ha estado en manos del gobierno actual",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2952.76,
+      "end": 2956.92,
+      "text": "y no así de la propuesta de cambio que se propone junto a José Antonio Kast,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2956.92,
+      "end": 2964.42,
+      "text": "donde las mujeres no solamente tenemos un lugar, sino que somos parte fundamental de todo el desarrollo del país y del futuro gobierno.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2968.3,
+      "end": 2971.0,
+      "text": "Sí, Radio Portales, siempre presente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2972.92,
+      "end": 2975.9,
+      "text": "Ya que mencionaba los países limítrofes, las situaciones políticas,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2976.04,
+      "end": 2977.94,
+      "text": "¿cómo contempla coordinarse con el gobierno de Bolivia?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2978.04,
+      "end": 2980.2,
+      "text": "Puesto que de vez en cuando hay problemas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2980.2,
+      "end": 2982.12,
+      "text": "en la seguridad con ellos.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2982.7,
+      "end": 2984.06,
+      "text": "Si se pasa un dron chileno",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2984.06,
+      "end": 2985.84,
+      "text": "a la frontera boliviana, si vienen policías",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2985.84,
+      "end": 2987.6,
+      "text": "bolivianos también acá a nuestro país.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2987.74,
+      "end": 2991.16,
+      "text": "Y además, ¿contempla, como ya lo han planteado otros candidatos por otros temas,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2991.3,
+      "end": 2992.9,
+      "text": "salirse de tratados en materia migratoria.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2993.8,
+      "end": 3001.38,
+      "text": "Sí. Cuando uno recorre el altiplano, se da cuenta de que los límites no siempre están claros.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3001.48,
+      "end": 3002.74,
+      "text": "Y es una línea imaginaria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3004.28,
+      "end": 3008.24,
+      "text": "Y sobre todo en los lugares que son esas mesetas por donde circulan los vehículos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3009.02,
+      "end": 3010.36,
+      "text": "Hay un antes y un después.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3011.34,
+      "end": 3015.96,
+      "text": "Nosotros mostramos ahí, Cristian Vial mostró los lugares específicos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3015.96,
+      "end": 3018.72,
+      "text": "donde se puede producir un cruce vehicular,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3019.38,
+      "end": 3020.46,
+      "text": "porque uno no alcanza a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3020.46,
+      "end": 3025.72,
+      "text": "distinguir la línea imaginaria. Esa línea imaginaria ahora va a tener un límite real",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3025.72,
+      "end": 3032.84,
+      "text": "que puede ser un camellón, puede ser una zanja, puede ser una valla. Incluso el vehículo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3032.84,
+      "end": 3039.5,
+      "text": "policial puede tener un detector de sensor, que si se acerca",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3039.5,
+      "end": 3046.38,
+      "text": "o si cruza del paso se enciende una alarma. Hoy día los vehículos de arriendo incluso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3046.38,
+      "end": 3053.02,
+      "text": "tienen sensores de GPS que cuando uno ya está cerca del límite fronterizo se detiene.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3053.44,
+      "end": 3053.92,
+      "text": "¿O no, General?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3056.98,
+      "end": 3064.86,
+      "text": "Para que vean el conocimiento práctico que tenemos de las situaciones que vivimos en el día a día con Bolivia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3064.86,
+      "end": 3065.24,
+      "text": "Y vuelvo a insistir, el cambio el día a día con Bolivia.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3074.04,
+      "end": 3074.26,
+      "text": "Y vuelvo a insistir, el cambio que se impuso en Bolivia creo que va a favorecer con mucho las relaciones internacionales.",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 3077.9,
+      "end": 3078.46,
+      "text": "Nosotros queremos mantener buenas relaciones con nuestros vecinos.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3085.12,
+      "end": 3085.94,
+      "text": "Nosotros queremos que siga saliendo el mineral de Bolivia por Ollagüe y vaya a los puertos chilenos.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3089.92,
+      "end": 3090.74,
+      "text": "Queremos que eso siga, pero vamos a fiscalizar lo que va dentro de esos contenedores.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3094.24,
+      "end": 3094.52,
+      "text": "Al menos vamos a tener un escáner para ver si viene algo vegetal dentro de lo mineral.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3098.14,
+      "end": 3098.26,
+      "text": "No va a ser cosa que se les haya caído una hojita de marihuana adentro,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3100.46,
+      "end": 3101.12,
+      "text": "una hojita de coca dentro del carro.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3103.46,
+      "end": 3103.62,
+      "text": "Porque a ese nivel de vulnerabilidad estamos.",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 3106.4,
+      "end": 3107.04,
+      "text": "Pasan trenes completos, cargados, y nadie los revisa.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3107.36,
+      "end": 3108.08,
+      "text": "Nadie.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3111.36,
+      "end": 3111.9,
+      "text": "No sabemos lo que viene por ahí dentro del mineral.",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 3118.04,
+      "end": 3123.0,
+      "text": "Por lo tanto, de nuevo, hay un antes y un después. Esperamos mantener las mejores relaciones con Bolivia......así como con los otros países, porque tenemos claro que nuestra vocación es hacia el Asia-Pacífico.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3123.8,
+      "end": 3126.46,
+      "text": "Y nosotros tenemos todas las posibilidades",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3126.46,
+      "end": 3132.82,
+      "text": "de infraestructura y logística para atender y hacer que Bolivia vuelva a ser un país",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3132.82,
+      "end": 3141.14,
+      "text": "rico, pero rico en producción de cosas sanas. Ellos producen muchas ollas, tienen mucho más cabezas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3141.14,
+      "end": 3145.7,
+      "text": "de ganado que nosotros. Tienen que tener acceso al mar, necesitan que el petróleo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3145.7,
+      "end": 3149.14,
+      "text": "llegue rápido. Y nosotros somos grandes prestadores de servicios, pero esperamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3149.14,
+      "end": 3153.8,
+      "text": "que todos cumplan la ley. Y necesitamos que ellos hagan cumplir la ley en su país",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3153.8,
+      "end": 3155.0,
+      "text": "y nosotros les vamos a colaborar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3156.0,
+      "end": 3166.82,
+      "text": "Ellos son el puente para que la exportación brasilera llegue a puertos chilenos y no a los puertos que están más al norte.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3167.04,
+      "end": 3173.76,
+      "text": "Nosotros tenemos una vocación marítima, y aquí nos acompaña el almirante Vargas, que podrá decir todo lo que nosotros podemos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3173.76,
+      "end": 3178.6,
+      "text": "hacer a nivel portuario, si ordenamos los puertos, si ordenamos las aduanas, si ordenamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3178.6,
+      "end": 3183.8,
+      "text": "tesorería. Ustedes se imaginan que a Viviri llegan camiones cargados con alimento para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3183.8,
+      "end": 3187.62,
+      "text": "mascotas, a Vivi sin número. Yo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3187.62,
+      "end": 3193.32,
+      "text": "los invito a ir y ver cuántas mascotas alimentan con un camión con carro, como 40 toneladas de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3193.32,
+      "end": 3199.4,
+      "text": "alimento para animales. No hay tantas mascotas en Bisbiri. ¿Qué es lo que hay ahí? Hay un problema de aduana,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3200.12,
+      "end": 3201.76,
+      "text": "hay un problema del servicio impuesto interno, hay un problema de aduana. Hay un problema del servicio de impuestos internos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3202.64,
+      "end": 3206.26,
+      "text": "Hay un problema de fiscalización, porque claro, puede ir con una guía de libre tránsito.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3206.66,
+      "end": 3211.24,
+      "text": "Carabineros no tienen ninguna alternativa de cuestionar la validez de ese documento,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3211.3,
+      "end": 3218.8,
+      "text": "salvo que esté el inspector de impuestos internos ahí, salvo que aduana revise bien lo que está. Y para mayor vergüenza aún, carabineros hacen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3218.8,
+      "end": 3225.78,
+      "text": "trabajo, detienen el camión, el contrabando, y después llega el comerciante como si nada",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3225.78,
+      "end": 3230.26,
+      "text": "y dice, pagué los derechos de aduana, devuélvame la mercadería. Y se la lleva.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3231.18,
+      "end": 3233.74,
+      "text": "Y sí le deja el camión ahí a la unidad policial.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3234.12,
+      "end": 3238.46,
+      "text": "Y usted ve ahí en la unidad de Tacora, nosotros lo fotografiamos de distancia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3238.94,
+      "end": 3240.0,
+      "text": "cuatro camiones detenidos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3241.08,
+      "end": 3242.94,
+      "text": "Tres de ellos desde el año 2016.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3244.52,
+      "end": 3247.02,
+      "text": "Bajo la custodia de Carabineros de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3247.96,
+      "end": 3250.6,
+      "text": "¿Qué pasa si le roban un camión a Carabineros de Chile?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3250.96,
+      "end": 3251.82,
+      "text": "Sumario, baja.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3252.86,
+      "end": 3255.76,
+      "text": "¿Es responsabilidad de Carabineros de tener que cuidar los camiones de los contrabandistas?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3256.18,
+      "end": 3258.16,
+      "text": "¿Y qué ha sucedido cuando se los han entregado a aduanas?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3258.18,
+      "end": 3259.92,
+      "text": "Porque es su responsabilidad, se los han robado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3261.14,
+      "end": 3263.16,
+      "text": "¿Y usted ha visto alguna denuncia o una querella",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3263.16,
+      "end": 3264.8,
+      "text": "de las autoridades de aduanas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3264.8,
+      "end": 3266.98,
+      "text": "diciéndome que robaron cuatro camiones que tenía aquí retenidos?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3268.16,
+      "end": 3268.7,
+      "text": "Yo no la vi.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3268.92,
+      "end": 3270.9,
+      "text": "Puede ser que la hayan presentado, pero no la he visto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3272.02,
+      "end": 3272.78,
+      "text": "Chile no funciona.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3273.1,
+      "end": 3274.86,
+      "text": "Y gran parte de la responsabilidad que Chile hoy día no está",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3274.86,
+      "end": 3275.38,
+      "text": "funcionando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3275.38,
+      "end": 3276.42,
+      "text": "es del señor Gabriel Boric",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3276.42,
+      "end": 3278.0,
+      "text": "muchas gracias",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 3278.0,
+      "end": 3284.12,
+      "text": "Chile vigila",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3284.12,
+      "end": 3285.5,
+      "text": "listo para responder",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3285.5,
+      "end": 3287.72,
+      "text": "escudo fronterizo",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3287.72,
+      "end": 3289.82,
+      "text": "firme y preciso",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3289.82,
+      "end": 3294.22,
+      "text": "Chile no cede mantiene el aviso escudo fronterizo, firme y preciso, file, no cede, mantiene el aviso",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3294.22,
+      "end": 3302.98,
+      "text": "Escudo fronterizo, fuerte y macizo, el que no cumple no tiene permiso",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3302.98,
+      "end": 3312.08,
+      "text": "Escudo fronterizo, sin dilación, Chile defiende toda su nación.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3312.08,
+      "end": 3339.94,
+      "text": "Chile cumple, no tiene permiso, escudo porterizo, sin dilación, Chile defiende toda su nación. ¡Suscríbete al canal!",
+      "speaker": "SPK5"
+    }
+  ],
+  "speakers": [
+    "Kast",
+    "SPK2",
+    "SPK3",
+    "SPK4",
+    "SPK5",
+    "SPK6",
+    "SPK7",
+    "SPK8",
+    "SPK9",
+    "SPK10"
+  ]
+}

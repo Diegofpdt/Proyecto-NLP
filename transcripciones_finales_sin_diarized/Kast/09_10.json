@@ -1,0 +1,2819 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ]
+  },
+  "text": "Gracias por esa paciencia infinita que nos han tenido, hemos tenido algunos percances, pero no se pasó pena, no pasaron pena, porque teníamos unos tremendos animadores y como somos solucionadores de todo tipo de problemas, no nos detiene nada. Se puede cortar la luz, se puede poner a llover, puede granizar, pero no se prenderá el megáfono. El mismo megáfono... Bueno, miren la potencia del megáfono. Es tremendo el megáfono, tremendo, tremendo. Bueno, miren la potencia del megáfono. Es tremendo el megáfono, tremendo, tremendo. Bueno, quiero agradecerles de verdad estar aquí, pero quiero agradecerles mucho a Pía. Ahora pueden decir, igual que en Viña, ¡eso! Le quiero dar las gracias a ella y a cada uno de nuestros hijos, porque nos han apoyado el 2017, el 2021 y ahora también nos están bancando. Así que gracias, Mungel, por todo. Muchas gracias a ti y muchas gracias a todos por estar aquí acompañándonos. Los queremos mucho. ¡Viva el amor! ¡Sí! Y ahora, sí, quiero agradecerle en primer lugar a un grande, a un grande, a Diego Paco. Estimado Diego, estimado Diego, no sé dónde está Diego. Diego Paco, muchas gracias por asumir un tremendo desafío, que es hacerte cargo de una región completa, Arica-Parinacota, una región que ha estado abandonada, una región que no ha sido bien gobernada. Y tú, que llevas a Arica en la piel, que llevas a Arica en el alma, en el corazón, vas a mostrar que sí se puede gobernar a pesar de las dificultades y que sí se puede recuperar una tremenda región. Una región que contigo a la cabeza va a brillar y va a volver a tener el sitial que corresponde en todo Chile. Así que, Diego, Paco, ahí estamos. Gracias por el apoyo, gracias por tu trabajo y gracias también por la animación y por cantar a voz en cuello el himno de Arica. Muchas gracias. Y también nos acompañan hoy día nuestros cores. Por ahí en alguna parte vi a Ignacio, a Romina que están. ¿Dónde está Ignacio? Ahí está Ignacio. Ustedes lo pueden ver en las redes sociales. ¡El mejor cuequero de Chile! Romina, no sé si está por ahí. ¡Ahí está, Rominas y Fuentes! Con Romina fui la primera vez a Bisbiri. Y ayer fuimos de nuevo y decimos, hay que hacer muchas cosas más para que mejore la calidad de vida de todos nuestros compatriotas en la zona de General Lagos, en la zona de Putre, en todo lo que es Parinacota. Y seguiremos trabajando para que se haga realidad ese sueño de que el altiplano tenga la misma calidad de vida que podemos tener los que estamos aquí en la ciudad capital. Muchas gracias. También veo por ahí a Víctor Sepúlveda, nuestro concejal republicano. Gracias, Víctor. Y veo por ahí a alguien que nos ha ayudado permanentemente, una tremenda mujer, Jacqueline Boero. Jacqueline, muchas gracias por tu espíritu, por tu sencillez, por tu trabajo abnegado, por ese espíritu de servicio que lo has llevado siempre y que te hizo decir en algún momento no, yo no, mira, no creo que sea la persona indicada. Eras la persona indicada y ahí estás trabajando por todos tus vecinos de esta gran ciudad de Arica. Así que muchas gracias. Y también nos acompaña, porque hay una elección que ustedes saben que tenemos la elección presidencial, pero también tenemos la elección parlamentaria. Y por ahí está la candidata al Senado, Sandra Cepeda. Estimada Sandra, ponte de pie. Aplaudamos. Zapata. Sí, Sandra Zapata. Te quiero dar las gracias por tu esfuerzo, tu espíritu y por todo lo que vas a trabajar en estos días. Para que también sea una realidad que recuperemos el Parlamento para Chile junto con nuestros parlamentarios. Muchas gracias, Sandra. Ustedes ya vieron ahí a José Lee, a Poliana, a Estefanía. Me ha corregido todo el día, porque yo le digo, aquí está Tepa, Estefanía. Aquí está Tepa, Estefanía. Así que, Poliana, gracias. Estefanía, gracias. José Lí, muchas gracias. Y también nos acompañan aquellas personas que partieron y han hecho un trabajo para que aquí somos mucho más que el Partido Republicano, pero para que pudiéramos estar acá, para que pudiéramos avanzar en política, hay personas que fueron claves, y hay un equipo. Ese equipo hoy día lo lidera Carla Kepic, te quiero dar las gracias, Carla, por ese trabajo que representa a todo el equipo republicano. No los puedo mencionar a todos, pero gracias por ese esfuerzo, por ese trabajo que representa a todo el equipo republicano. No los puedo mencionar a todos, pero gracias por ese esfuerzo, por ese trabajo que nos ha dado tantas alegrías. Hemos tenido algunas penas, pero las penas las vamos superando después con alegrías y con trabajo bien hecho. Así que muchas gracias. Y también hay otras personas que nos acompañan y que conozco hace mucho tiempo. Está por ahí el Pastor Fidel Arenas. En alguna parte está el Pastor Fidel Arenas. Amigo, gracias. gracias por tu oración permanente por la patria, gracias por el acompañamiento a tantas familias que lo necesitan. Nos conocimos hace muchos años atrás y también me abrió las puertas para poder entender mejor todo lo que es la claridad de que todo está en manos de Dios, así que muchas gracias Y ustedes ya los conocieron, los vieron, se rieron, cantaron, bailaron Si, habían dos, era como un dúo, era como un como muy bien armonizado y las coreografías estaban impecables. Ensayaron mucho para estar aquí. Y hablo del general Enrique Basaleti. ¿Dónde estará? Está ahí? Don Enrique. Enrique ha hecho un trabajo increíble y le ha dedicado parte de su tiempo, de su vida, a trabajar por nosotros en seguridad. Fue un general muy destacado y sirvió para Carabineros de Chile, para quien pide un aplauso, esa noble institución que nos cuida, nos protege, que literalmente salvó a Chile después de ese estallido. Y también estuvo aquí en la frontera, junto con un gran equipo, recorriendo desde Viviri hasta Colchane, por el altiplano......viendo cómo va a ser ese escudo fronterizo que vamos a tener para evitar la inmigración ilegal y el contrabando. Y junto con él, en este dúo, ¿no es cierto?, hay otro hombre que está ahí......que también asumió un desafío de combatir el terrorismo de combatir el narcotráfico de combatir el crimen organizado lo hizo en su comuna y ahora lo está haciendo también dando la cara en la Araucanía don Rodolfo Carter muchas gracias no lo escucho, no lo escucho ¿qué dicen? es para hacerle un poquitito para molestarle un poquitito muestren la libreta Es para hacerle un poquitito... Para molestarle un poquitito a él. ¡Ah! ¡Muestren la libreta! ¿Qué dijo? ¿Que era su marido? Pero estaban pensando en la pensión. ¡Déjale! Bueno, para mí es de verdad un orgullo estar aquí hoy día con ustedes. Es ser parte de ustedes y recordar muchos tiempos. De pequeño me tocaba venir en otra actividad, en una actividad comercial, acompañando a mis padres, acompañando a mis hermanos, porque teníamos un local aquí en la calle Colón al llegar a 21 de mayo. Y quizás los mayores se acuerdan de cuando llegaba el camión de Cecina Favaria y traía Cecina fresca. Y a lo mejor más de alguien pololeó en la cafetería de Favaria que estaba en el segundo piso. Decorada por mi madre, esos cardenales, porque parecía una casita alemana, los cardenales, porque parecía una casita alemana......los cardenales que estaban ahí delante de las ventanas, los puso mi mamá......y eso era para nosotros un orgullo, ser parte de una familia emprendedora......que recorría Chile, en toda la zona norte, tratando de llevar lo que nosotros hacíamos......a las personas, para que tuvieran también posibilidad de ver, acceder...... llevar lo que nosotros hacíamos a las personas para que tuvieran también posibilidad de ver, acceder a productos que nosotros encontrábamos que eran de buena calidad y frescos. Y esta es una zona donde hay tierras, hay una zona de personas nobles, valientes. El norte ha sido testigo de héroes que han entregado la vida por la patria. Héroes como Arturo Prat, que en Iquique nos dio una muestra de lo que es la entrega total por la patria. Y héroes como el coronel Lagos, que ahí el 7 de junio, en 55 minutos, con todos sus muchachos, se tomó el morro. Y nos cambió la vida. Nos cambió la vida a todos porque nos mostró que con valentía, con coraje, arrojo, hay cosas que no son imposibles. Parecía imposible y fue posible. Y conquistamos esta zona que hoy día nos abre la puerta al mundo, nos abre la puerta al desarrollo, nos abre la puerta a la buena calidad de vida en la medida de que hagamos las cosas bien. Porque Arica no es un punto en el mapa. Arica es la puerta de entrada a nuestra nación. Hay veces que no lo percibimos así. Y hay muchos que nos dicen, pucha, Arica pareciera ser la puerta de entrada por la parte de atrás de la casa, que no es la más bonita, no es la que está más arreglada, no es la que nosotros aspiramos. Pero si hacemos las cosas bien, Arica volverá a ser la puerta de entrada a esta tierra maravillosa, a esta tierra generosa, a esta patria que todos aspiramos y anhelamos podamos recuperar. Y ese abandono con la dirección de Diego Paco, ese abandono con un buen gobierno, con un buen parlamento va a quedar atrás. Y lo decimos fuerte y claro. Nuestra preocupación, nuestra ocupación estará en devolverle a Arica la paz, la seguridad y el orden. Y eso se hará con fuerza, con coraje, con decisión. Pero ustedes merecen una ciudad limpia, una ciudad ordenada, una ciudad en paz. Para que ese himno, Arica siempre Arica, siga resonando en sus corazones, siga sonando fuerte y claro para que a nivel del país todos conozcamos lo que son los ariqueños. Así que para allá vamos. Y como ustedes saben, como ustedes saben, hemos ido presentando a lo largo de esta campaña y a lo largo de este año distintos planes. Planes que se van complementando con las opiniones que ustedes nos van dando. Porque no es un plan cerrado. Nosotros podemos tener ciertas propuestas, pero esas propuestas siempre son mejorables. Y aquí en Arica queremos presentar el plan Arica Siempre Arica. Y ese plan tiene cinco ejes. Todo lo hacemos en base al cinco, para que me digan, tíramo un cinco. Todo en base a un cinco, pero que se complementa y se multiplica. Cinco por cinco, veinticinco. Cinco por diez, cincuenta. Todo el múltiplo de cinco. Para que tengamos claro que esto no es todo, sino que es el comienzo de lo que nosotros buscamos. Nuestro programa de gobierno tiene tres ejes y 33 medidas. Y luego yo les pregunto, ¿por qué serán 33? Y todos van a tener una teoría distinta. Pero para nosotros el 33 es de nuevo vencer lo imposible. Los 33 mineros de la mina San José. Y es un homenaje, un recordatorio. De para aquellos que decían que era imposible rescatar a los 33. Ahí están. Ahí están de nuevo con sus familias. Así que todo tiene un sentido. Y lo primero que tenemos que decir es que en el país vecino, por años, ha primado una ideología. Una ideología que ha contaminado otros países. Una ideología de izquierda radical. Una ideología indigenista. Una ideología que nos busca el bien de las personas. Porque el bien de las personas es que tengan mejor calidad de vida. Es que termine o se combata la pobreza. Y podemos ver la realidad de muchas personas que viven en Bolivia y viven y sufren la pobreza. Y eso va a cambiar. y Bolivia se prepara para un gran cambio y nosotros queremos colaborar desde nuestra posibilidad, si llegamos a ganar, a que haya una muy buena relación diplomática con el vecino país de Bolivia. Puede haber un antes y un después con un gobierno que se inspire en la libertad y que ayude a sacar adelante a las personas más vulnerables, que le ayude a sacar adelante el desarrollo y el progreso de Bolivia, si es que nosotros nos comprometemos y ayudamos en ese trabajo. Y así como nosotros decimos que vamos a cerrar nuestra frontera, tenemos que decir que podemos dejar atrás nuestras divisiones y pensar en el futuro, no quedarnos pegados en el pasado, en todas las dificultades que hemos tenido en las relaciones internacionales con aquellos líderes ideológicamente de izquierda que han hecho lo posible e imposible por decir que todo lo que ocurre en Bolivia es responsabilidad nuestra. No lo es y ustedes lo saben. Por lo tanto, decir que así como ayer estuve en Bisbiri y pude estar en la triple frontera, espero, si soy electo presidente, poder estar nuevamente en Biviri, poder estar en Charaña y ahí reunirme con quien sea electo presidente de Bolivia, darnos la mano y reestablecer las relaciones diplomáticas en pleno con Chile. Para que pueda progresar Bolivia y para que nosotros tengamos paz también, desarrollo y progreso. Porque si a ellos les va bien, a nosotros también nos va a ir bien. Y eso es algo que nosotros tenemos que ir proponiendo y planteando desde ahora. Para que allá también el pueblo boliviano entienda que las disputas, las peleas, el odio no llevan a ninguna parte. La amistad, el respeto mutuo y el desarrollo económico los va a llevar a ellos a una mejor posición para su calidad de vida y también a nosotros nos va a permitir darle los servicios necesarios para que ellos puedan surgir como país. El segundo punto es algo que hemos venido transmitiendo hace mucho tiempo. Ya lo decía Rodolfo en su intervención. Si hay alguien que habló por largo tiempo de las fronteras seguras, fui yo. Y fui objeto de burlas. El año 2017 no eran tantas porque teníamos pocas expectativas. La gente pensaba, no, mira, es una aventura y ahí va a quedar. Pero ya el año 2017, habiendo recorrido el altiplano, decíamos, aquí se requiere un cierre a las fronteras. ¿Y cuál es el cierre más económico, más directo? La zanja. Y se reían. El año 2021 me bautizaron como Pepe Zanja. Yo decía que me podrían bautizar como Pepe Lefou, porque soy un enamorado permanente. Bueno, pero Pepe Zanja, dije, bueno, sí, lo soy, lo asumo, y ojalá lo pueda lograr. Pero no se dio por un tiempo, hasta que ellos mismos se empezaron a dar cuenta. Y, oh sorpresa este gobierno que renegaba de esto y que decía son todos bienvenidos hay espacio para todos hay vivienda para todos hay salud para todos hay educación para todos y nos colapsaron hoy día están cambiando de actitud de forma yo veo cada día más rubio al presidente. Es una cosa sorprendente. Y se va dando unas vueltas increíbles, tanto que el profesor Artés dice, haber competido de nuevo con él le habría dicho de nuevo, dale una vuelta, carnero. Porque el profe Artés lo bautizó en un debate público. El profe es muy respetuoso. El profe siempre saluda amablemente, a mí me saluda todas las veces que me ve. Y me dice, te vamos a mandar al Tribunal Popular. Y yo le digo, ya, vos, profe. Pero es importante ya el cambio de actitud del gobierno. Y aquí les damos las gracias, porque nos están ayudando. Porque están avanzando y después ya no se van a poder echar pie atrás. Y decir una cosa, después de decir toda la contraria, bueno, ahora van a tener que mantener la línea y se van a tener que mantener en esa. Y ayer, miren las vueltas de la vida. El presidente se vio en un avión desde Santiago, a Iquique, tomó un helicóptero, se fue a Colchane, fue a revisar las obras de construcción y cortar la cinta. No, perdón, no había ni una cinta que cortar. Yo pensé que si venía para acá iba a cortar la cinta del nuevo cuartel policial en Colchan, el que anunció hace como tres años. Oh, sorpresa, no han puesto ni una viga, nada. Pero lo que sí estuvo muy bueno es que dijo que iba a mandar una reforma constitucional para que el despliegue de las fuerzas militares no tuviera que pasar por el Congreso. Eso es un avance civilizatorio. Así como es un avance civilizatorio que ya no hablen de los pacos, perdón, que ya no hablen de los carabineros, que me confundo con mi gobernador, porque ellos hablan, refiriéndose a los carabineros de Chile, de una manera distinta a la que tienen que referirse, y ellos hablan de los carabineros de Chile, levantan la bandera chilena, cantan, se aprendieron el himno nacional, es una cosa increíble. Bueno, esos son los chiles. No les pagan ni los vi otro Chile. No, si se los pagan. A ellos se los pagan. A ellos. Ah, los carabineros. Pensé, estamos hablando de los funcionarios públicos. No, a carabineros les pagan las asignaciones de riego, no les pagan los viáticos. No, estamos de acuerdo. Pero ellos, cada vez que suben, no le pagan los viáticos. No, estamos de acuerdo, pero ellos cada vez que suben se pagan sus buenos viáticos. Pero a lo que voy es que nosotros tenemos que cerrar nuestra frontera y la vamos a cerrar de manera física, tecnológica y diplomática. Y no solo eso, vamos a proponer cambios legislativos para que la inmigración ilegal, el que entre ilegalmente, ya no sea considerado como alguien que cometió una falta. Eso va a ser un delito, un delito grave. Y el que entre ilegalmente ya no sea considerado como alguien que cometió una falta, eso va a ser un delito, un delito grave. Y el que entre ilegalmente tiene dos opciones, tiene tres, se puede devolver por donde entró, puede alojarse en el refugio que le vamos a hacer o puede irse en un vuelo directo a su país de origen. Así que ni uno más va a ser el dicho, ni uno más entrando por la ventana. El que quiera entrar a Chile será bienvenido si entra por la puerta con sus papeles al día y nos dice a qué es lo que viene. Nosotros no queremos cerrarle la puerta a todos. Si alguien quiere venir a trabajar, bien. Si alguien quiere venir a colaborar en temas de salud, bien. Y lo están haciendo y les damos las gracias a nuestros Cefam. No podrían tener la cobertura que tienen si no tuviéramos médicos extranjeros. Pero aquel que entra por la ventana nunca más va a poder hacerlo. Va a estar bien cerrada esa ventana. Lo tercero es que vamos a dar la batalla total y frontal en contra del crimen organizado. Ustedes aquí lo han vivido, lo han sufrido. Ustedes aquí han ido en la previa a lo que ha pasado en Chile. Y Arica ya no puede seguir siendo un laboratorio para el narcotráfico, no puede ser un laboratorio para el crimen organizado. Chile se ha esforzado, se ha comprometido en sacar adelante a las familias y aquí cerquita el Cerro Chuño. El Cerro Chuño fue un lugar donde se construyó y no se podía construir. Y a mí me tocó encontrarme con las dirigentes del Cerro Chuño cuando se movilizaban en contra de los polimetales. Llegaban al Congreso con mucho esfuerzo y lograron, al final de una larga lucha, que las escucharan en otras casas. Gracias, joven. Ahí el joven... No. Tengo el megáfono, así que no se preocupen. Si se corta la luz, seguimos con el megáfono. Y ustedes prenden los celulares y esto se va a ver increíble. Pero ese Cerro Chuño fue erradicado. Porque ahí no se permite que alguien viva y arriesgue la vida y la salud de otras personas. Si hay adultos que están con menores de edad, están atentando contra la salud de esos menores de edad. Y eso es inaceptable. Por lo tanto, les decimos desde ya, desalojen. Salgan de ahí. Porque si no, nosotros los vamos a invitar a salir y va a ser duro, va a ser complejo. Nosotros siempre vamos a dar las advertencias necesarias. Nosotros no queremos usar la fuerza ni la violencia, pero tenemos que decir las cosas claras. Si ustedes no entregan, si esas personas no entregan las viviendas, vamos a tener que ir a recuperar esas viviendas para demolerlas. Porque en ese lugar no puede vivir nadie, no pueden arriesgar la vida de menores de edad que no tienen por qué responder por la irresponsabilidad de sus padres. Y aquellos que usan ese lugar para cometer delitos, a ellos no les vamos a invitar a salir, no los vamos a invitar a nada, sino que solamente a irse a la cárcel. Y cada uno de los que han ido cometiendo delitos en Chile, que tengan claro que vamos a ir por cada uno de ellos. Nos vamos a demorar un poco, pero los vamos a encontrar, los vamos a juzgar y los vamos a ir por cada uno de ellos. Nos vamos a demorar un poco, pero los vamos a encontrar, los vamos a juzgar y los vamos a encerrar. Y aquí también marcar una diferencia, porque hay una candidata que no solamente quiere regularizar a los inmigrantes irregulares, son más de 300.000, sino que quiere expulsar a todos aquellos delincuentes que están presos por la ley antidrogas. Nosotros no vamos a expulsar a ningún delincuente. Les vamos a hacer una cárcel especial, solo para ellos, y van a cumplir hasta el último día de su condena. Y cuando la hayan cumplido, los vamos a expulsar. Y no van a poder volver a entrar porque nuestra frontera va a estar cerrada. Así que, es que hay algunos que ni siquiera pueden distraerse trabajando. Porque aquí me dicen, tienen que trabajar. Hay algunos que no tienen derecho a distraerse. Hay algunos que solo van a poder mirarse las caras. Y van a poder jugar al cachipún. Eso es lo que van a poder hacer. Porque no van a tener un juego de naipes. No van a tener un libro, ni una foto. Y para qué decir, no van a tener ningún medio tecnológico para que se entretengan, pero que se entretengan entre ellos sin comunicarse con el exterior, que se coman la comida y usen el uniforme. El cuarto punto, porque esto sigue avanzando, es que Arica tiene que recuperar la conectividad total. Me corro para la cámara de sombra. Miren, soy funcional. Soy un buen para focos. Porque le llega el foco. Miren ahí soy funcional. Soy un buen para focos. Porque le llega el foco, miren ahí. Ahí. De nada. Bueno, Arika merece. Yo también. Pero más para allá. Bueno, Aririca merece, yo también, pero más para allá Bueno, Arica merece conectividad total y real Lo que ustedes están viviendo en la cuesta Camarones es algo que no vive nadie en Chile Y esto requiere que ustedes mismos levanten la voz. Yo les pediría que a partir de mañana en sus redes sociales vayan planteando cada vez Arica merece libertad. Ah, ¿qué pasó? Algo me perdí. Al Arica... Arica merece libertad. Y la libertad de desplazamiento incluye poder circular las 24 horas del día por la Ruta 5 para llegar a Iquique, para llegar a Santiago. ¡Aéjale! Merece esa libertad. ¡Eso! Merece libertad para llegar a todo Chile. No puede ser que la ciudad, puerta de entrada de Chile, esté aislada entre las 10 de la noche y las 6 de la mañana. ¿Qué pasa con el transporte de carga? ¿Qué pasa con el transporte pasajero? Tuvieron que readecuar todo el transporte para poder rearmar los turnos, para poder rearmar las salidas de la mercadería que sale de aquí del Valle de Azapa, del Valle de Utah a Santiago. Eso es inaceptable y la autoridad es bien gracia. ¿Había una alternativa? Sí. Pero dijeron, no, esto lo vamos a solucionar en tres días, así que no vale la pena invertir en una ruta alternativa. Siempre hay que tener una ruta alternativa. Siempre hay que pensar en que esto puede volver a ocurrir. Cuando fue el primer corte, no fueron capaces de pensar en un puente aéreo. Nosotros tenemos aviones para tener en Iquique y para tener en Arica y solucionar los problemas de las personas que requieren urgentemente llegar a otro destino a través de un puente aéreo. Eso se ha hecho en otras épocas y se puede volver a hacer. Soluciones prácticas y reales para problemas graves que atienden, que afectan a las personas. Y la conectividad no es solamente vial, sino que también hay un problema de conectividad digital. Claro, en Arica es mejor, pero para el altiplano las personas no tienen conectividad digital. Y no voy a olvidar nunca lo que me dijo la señora Esperanza. Y de ese nombre es difícil olvidarse, porque tenemos que tener esperanza siempre. Y ella me dijo, yo quiero que nunca más esté aislada aquí en Bisbiri por no tener conectividad telefónica durante una semana. Imagínense que pasa esto en Santiago, pasa esto en Arica y se arma una revolución, porque estamos acostumbrados a estar conectados. Pero la señora Esperanza me dice, mire, cada cierto tiempo pierdo la señal por dos días, por una semana. Porque no da la capacidad. El Estado tiene una obligación geopolítica de que las personas que viven en altiplano tengan luz, tengan agua, tengan conectividad digital y conectividad terrestre. No solamente por ellos, sino por Chile. Nuestros vecinos fomentan las fronteras vivas y nosotros ahí los tenemos abandonados. Eso no puede ser y también les aseguro que va a cambiar. Y le dije, señora Esperanza, yo voy a volver a Bisbiri. Y voy a volver, si es que gano como presidente y será hermoso. Y voy a volver como su amigo, si es que no gano y también será hermoso. Pero uno tiene que estar siempre preparado para todas las situaciones que se puedan dar. Ellos no tienen luz, están los postes puestos, una cosa bien increíble. Ustedes van a vivir y están todas las luces del alumbrado público puestos. Y no no se aprendió en 16 años. Es increíble. Bueno, vamos a ir avanzando en el punto quinto. Nosotros tenemos que potenciar toda iniciativa de desarrollo económico y desarrollo turístico. Arica es una ciudad, una región maravillosa. Pero si queremos fomentar el turismo, no podemos vivir más, nunca más, la indignidad de haber tenido un aeropuerto en carpas, mal construido, por años, 5 años en una carpa, nadie merece eso. ¿Qué turista va a venir feliz si sabe que cuando llegue al aeropuerto o cuando se tenga que ir va a tener que estar parado? No van a haber ni sillas, los servicios higiénicos van a ser malitos. Bueno, eso es inaceptable. Ahora uno está feliz porque ya se terminó el nuevo aeropuerto, pero curiosamente llegamos anteanoche y había unas carpas en la mitad del edificio. Y yo digo, pero ¿hasta cuándo las carpas? Bueno, eso tiene que terminar. Ustedes tienen que tener un servicio de aeropuerto de primer nivel para que los turistas vengan, disfruten y gasten su plata allí. Porque todo eso es desarrollo y progreso. Los paisajes son preciosos. Las playas son increíbles. ¡Un aplauso para el hombre de las luces! Ahora nos vemos. Bueno, si nosotros generamos desarrollo, si nosotros aprovechamos el mar que está aquí esta es una muy buena localidad para practicar el surf es un destino mundial donde podríamos al igual que se hizo en Salvador que se hizo en la ciudad Surf City bueno, aquí también puede ser Surf Arica. Y es una posibilidad real. Ayer cuando veníamos bajando al altiplano alguien me dice, hay personas que recorren el mundo buscando aves. Y aquí hay aves que esas personas no tienen. Y vienen a hacer una especie de ruta de fotografía de aves. Y aquí hay aves que esas personas no tienen. Y vienen a hacer una especie de ruta de fotografía de aves. Bueno, ahí hay un nicho turístico enorme, enorme, que nadie conoce. Podemos hacer la ruta de los volcanes o la ruta de las altas cumbres. Todo eso es posible si tenemos un buen gobierno. Así que el desarrollo se viene, la seguridad se viene. Y quiero también aprovechar esta instancia, esta tribuna, para hablarle a todos aquellos que son candidatos al Parlamento, al Senado, al Parlamento, a la Cámara de Diputados, que son de oposición a este gobierno. Esto nosotros lo tenemos claro, los que estamos aquí, los republicanos, tenemos claro que somos oposición al gobierno, que el adversario está al frente nuestro, pero lamentablemente no todos lo tienen claro. Y queremos hacerle una invitación a todos aquellos candidatos, incluidos los candidatos presidenciales que son de oposición a este gobierno, que demos una señal clara, que nosotros tenemos que mirar al frente, donde está el adversario. Cada uno tiene el legítimo derecho de presentarse de candidato a la presidencia. Cada uno tiene el legítimo derecho de presentar sus propuestas. Algunas son con desafíos grandes. Generar un millón de empleos es un tremendo desafío. Generar un Estado eficiente es un tremendo desafío. Generar un millón de empleo es un tremendo desafío. Generar un Estado eficiente es un tremendo desafío. Generar un compromiso de gastar menos en los apitutados es un tremendo compromiso. Cerrar las fronteras es un tremendo compromiso. Cada uno de los cuatro que están, tenemos desafíos enormes. Y tenemos que velar porque la gente conozca nuestras propuestas. Si la gente al final vota por el que tiene convicción, por el que sabe lo que está haciendo, por el que habla de frente, mira a los ojos y plantea con corrección y con fundamentos y argumentos lo que está en la propuesta presidencial. Así que yo les quiero pedir un aplauso para aquellos candidatos presidenciales. Franco Parisi, Johannes Keiser y Evelyn Matei. Para los tres, un aplauso grande y fuerte. Que se escuche que los que estamos aquí tenemos claro que el desafío está al frente, que nuestra meta es que se vayan del gobierno los que han abusado del gobierno, los que se han aprovechado, los que mintieron al pueblo chileno, los que dijeron que no iban a haber más apitutados, los que dijeron que nadie iba a tener un sueldo más alto que el presidente, los que dijeron que no iban a haber más apitutados, los que dijeron que nadie iba a tener un sueldo más alto que el presidente, los que dijeron que iban a defender a nuestras fuerzas policiales y nuestras fuerzas militares, los que hoy día están diciendo que van a cerrar las fronteras. Pero nosotros no competimos para dividir nosotros competimos para sumar y todos somos importantes y tenemos que sumar para que se acabe ese mal gobierno que hoy día... También, se han robado la plata con las fundaciones, se han robado plata aquí. Cada uno de ustedes sabe que aquí hay funcionarios. No, no eran funcionarios, eran aprovechadores que estaban en un servicio público que aquí hay funcionarios. No, no eran funcionarios. Eran aprovechadores que estaban en un servicio público, que era el tema del MOP, y ya están presos. ¿Y quiénes son los que más sufren? Los que viven en altiplano. Porque se lo ahorraron todo. Y se han demorado años en terminar un camino Pero ellos no se demoraron nada En pavimentar la entrada a su casa En mejorar la vereda delante de su casa En pintar la casa En cambiar el jardín Bueno, ahí está la plata de todos los chilenos En la casa de ellos Y eso es algo que nosotros tenemos que cambiar. Y nosotros también queremos decir que los vamos a derrotar, no solamente a los que hoy día usan la moneda y las reparticiones públicas como un comando de campaña, porque eso es lo que están haciendo. Usan la moneda como un comando de campaña, porque eso es lo que están haciendo. Usan la moneda como un comando de campaña para la candidata de la continuidad. La candidata que tuvo una responsabilidad importante en el gobierno, ella era la responsable de que tuviéramos más empleo, y va a ser recordada como la ministra del desempleo, porque hay un millón de personas sin trabajo, sobre todo mujeres, y ella siempre ha hablado de la defensa de las mujeres. Y la mayor cantidad de desempleados que hay hoy día, y sobre todo en mujeres, es bajo su dirección en el Ministerio del Trabajo. La informalidad ha crecido como nunca. Arica tiene más informalidad que el resto del país. Y eso es por malas políticas públicas. Y porque los ministros, los subsecretarios y los políticos no están haciendo la pega en las funciones que les corresponde. Y a esos ministros, a esos subsecretarios, a esos funcionarios o pseudo funcionarios, les decimos, pónganse a trabajar por Chile, dejen de trabajar y politizar todo por una candidatura de la continuidad, hagan la pega, no hablen más de política desde la moneda o de sus ministerios, háblenle a Chile, háblenle al chileno que sufre, háblenle a esa familia sus ministerios, háblenle a Chile, háblenle al chileno que sufre, háblenle a esa familia que tiene miedo, háblenle a ese joven que no tiene esperanza de salir adelante porque no tiene calidad de educación, háblenle al PYME que no sabe cómo emprender porque lo ahogan con reglamentos, con requisitos especiales. Háblenle a aquellas personas que hoy día sufren porque no tienen salud, porque el hospital, porque el Cefam está colapsado. Hagan la pega, tan sencillo como eso. Les quedan seis meses, déjense de politiquear y pónganse a trabajar. Mensaje claro, directo. Y nosotros, por el contrario, queremos plantear un gobierno de emergencia. ¿Y por qué un gobierno de emergencia? Porque no vamos a ser capaces de abordar todas las temáticas, todos los temas que hoy día ocupan o nos preocupan. Y nos hemos enfocado en algunos ejes. El primer eje es el de la seguridad. Tenemos poco tiempo para sacar adelante la seguridad. Nos enfocamos en el empleo. Tenemos poco tiempo para que haya empleo digno para ese millón de personas que hoy día no tienen trabajo. Nos queremos enfocar en lo social que implica mejorar la calidad de la enseñanza hoy día, claro, nos regalaron los SLEP a lo mejor aquí en Arica no se nota tanto pero en Putre, antes si se quebraba un vidrio lo podían cambiar de inmediato porque el alcalde decía bueno, yo respondo por el vidrio, lo podían cambiar de inmediato, porque el alcalde decía, bueno, yo respondo por el vidrio, lo cambio. Hoy día que depende del SLEP, si se quebra un vidrio, tienen que mandar un oficio, que tienen que bajar físicamente, porque no sé si todavía le ha llegado al internet al SLEP allá arriba todavía es difícil tienen que leer el oficio, pensarlo hacer una licitación, comprar y después mandar al maestro con el vidrio para que lo vaya a poner dos semanas, tres semanas hasta que hagan un cambio básico de un vidrio eso lo vamos a cambiar y vamos a seguir avanzando en un gobierno, y aquí les voy a ir pidiendo su colaboración activa, vamos a avanzar en un gobierno sin corrupción, vamos a avanzar en un gobierno sin complejos, vamos a avanzar en un gobierno sin cobardía, vamos a avanzar en un gobierno sin continuidad y vamos a avanzar en un gobierno sin comunismo. Y eso lo vamos a hacer con carácter, con decisión, con voluntad. Muchas gracias. Arica no está condenada al fracaso, Arica no está condenada al miedo, Arica no está condenada al desierto abandonado. Arica puede llegar a florecer, puede llegar a crecer nuevamente. Esa es la Arica que nosotros queremos. Esa es la Arica que ustedes, algunos, vivieron y quieren volver a vivir. Y aquí que nadie les diga que es imposible. No hay imposibles. Así como nosotros les recordamos con las 33 propuestas, lo imposible que era rescatar a los mineros, no hay imposibles. Y eso es algo que tenemos que grabar en nuestra mente, en nuestro corazón. Nada es imposible cuando uno tiene la voluntad, la decisión, la valentía de enfrentar situaciones críticas. Y si ustedes miran, ahora ya no porque está algo oscuro, van a ver un símbolo increíble. El símbolo del morro. ¡Qué orgullo! ¡Qué orgullo cuando uno viene a Arica y pasa ahí por delante de la estación, por delante de la plaza, mira hacia arriba y dice, qué hermoso, qué increíble lo que estoy viendo. A uno se le encoge el corazón de ver la valentía de esos soldados chilenos que en 55 minutos, guiados por el coronel Lagos, tomaron el morro y dijeron, aquí vamos a partir con un desafío más grande, que es potenciar a Chile desde Arica. Y como dice el himno, y eso lo tuve que anotar el imponente morro de Arica besado por el mar símbolo de la gloria, patria y lealtad parte del himno que cantó con tanta energía partió parece que fui yo el culpable y nosotros lo que tenemos que decir es que ahora nos ponemos en marcha. Ahora empezamos a caminar. Lo dijo Rodolfo. Estos días que quedan son de trabajo intenso. Ojalá cada uno de ustedes, cuando pueda, se pare en una esquina, en un semáforo y levante la bandera chilena. Ellos saben que cuando alguien levanta la bandera chilena, somos nosotros. Somos los del cambio, porque somos fuerza y somos cambio, porque somos la fuerza del cambio. ¡Viva Arica! ¡Viva Chile! Y que Dios nos acompañe en este tremendo desafío que tenemos. Así que muchas gracias por estar acá, muchas gracias por la paciencia que nos han tenido y vamos a ir después sacándonos, ese poncho se lo regalaron hoy día a la pía y se siente muy orgullosa de ese gran regalo. Vamos a ir sacando algunas fotos, porque no podemos hacer selfies con todos, pero vamos a tomar una foto y le vamos a entregar una tarjeta. Y después cada uno en esa tarjeta tiene un código QR Y va a poder bajar su propia fotografía Así que les pido la comprensión Vamos a dar otras instrucciones Somos la fuerza, la fuerza del cambio, del cambio, la fuerza del cambio, somos la fuerza, la fuerza del cambio. Vamos a dar otras instrucciones, el que tenga un poquito de paciencia, vamos a hacer una fila y vamos a hacer unas fotos en seguida, así en secuencia, donde cada uno puede ir sacándose la foto. Las filas los van a ir organizando por ahí, para que todos puedan llevarse una foto que va a estar después descargable en una página web a través de un código QR. Así que les pido paciencia a los que quieran tomarse esa foto ya mi gente una piel acá por favor para que se puedan sacar una foto con el candidato que les va a entregar una tarjeta que contiene un código QR en donde ustedes van a poder escanearlo y descargar su foto. No es necesario que ustedes saquen el celular. Va a haber un fotógrafo con una cámara profesional sacando una gran fotografía con un gran recuerdo. OK, una fila acá, por favor, para quienes se quieran sacar una foto con el candidato. Una foto por acá, por favor, una fila por acá.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 24.34,
+      "text": "Gracias por esa paciencia infinita que nos han tenido, hemos tenido algunos percances, pero no se pasó pena, no pasaron pena, porque teníamos unos tremendos animadores y como somos solucionadores de todo tipo de problemas, no nos detiene nada."
+    },
+    {
+      "start": 25.1,
+      "end": 38.9,
+      "text": "Se puede cortar la luz, se puede poner a llover, puede granizar, pero no se prenderá el megáfono."
+    },
+    {
+      "start": 41.62,
+      "end": 43.0,
+      "text": "El mismo megáfono..."
+    },
+    {
+      "start": 45.32,
+      "end": 48.9,
+      "text": "Bueno, miren la potencia del megáfono."
+    },
+    {
+      "start": 50.02,
+      "end": 53.26,
+      "text": "Es tremendo el megáfono, tremendo, tremendo. Bueno, miren la potencia del megáfono. Es tremendo el megáfono, tremendo, tremendo."
+    },
+    {
+      "start": 54.26,
+      "end": 57.52,
+      "text": "Bueno, quiero agradecerles de verdad estar aquí,"
+    },
+    {
+      "start": 59.14,
+      "end": 61.6,
+      "text": "pero quiero agradecerles mucho a Pía."
+    },
+    {
+      "start": 63.8,
+      "end": 68.8,
+      "text": "Ahora pueden decir, igual que en Viña, ¡eso!"
+    },
+    {
+      "start": 73.34,
+      "end": 82.3,
+      "text": "Le quiero dar las gracias a ella y a cada uno de nuestros hijos, porque nos han apoyado el 2017, el 2021"
+    },
+    {
+      "start": 82.3,
+      "end": 84.56,
+      "text": "y ahora también nos están bancando."
+    },
+    {
+      "start": 84.88,
+      "end": 87.86,
+      "text": "Así que gracias, Mungel, por todo."
+    },
+    {
+      "start": 88.02,
+      "end": 90.32,
+      "text": "Muchas gracias a ti y muchas gracias a todos"
+    },
+    {
+      "start": 90.32,
+      "end": 92.0,
+      "text": "por estar aquí acompañándonos."
+    },
+    {
+      "start": 92.84,
+      "end": 100.46,
+      "text": "Los queremos mucho."
+    },
+    {
+      "start": 101.74,
+      "end": 102.16,
+      "text": "¡Viva el amor!"
+    },
+    {
+      "start": 102.32,
+      "end": 105.58,
+      "text": "¡Sí!"
+    },
+    {
+      "start": 116.0,
+      "end": 116.66,
+      "text": "Y ahora, sí, quiero agradecerle en primer lugar a un grande, a un grande, a Diego Paco."
+    },
+    {
+      "start": 123.0,
+      "end": 124.62,
+      "text": "Estimado Diego, estimado Diego, no sé dónde está Diego."
+    },
+    {
+      "start": 130.2,
+      "end": 130.86,
+      "text": "Diego Paco, muchas gracias por asumir un tremendo desafío,"
+    },
+    {
+      "start": 137.0,
+      "end": 140.78,
+      "text": "que es hacerte cargo de una región completa, Arica-Parinacota, una región que ha estado abandonada, una región que no ha sido bien gobernada."
+    },
+    {
+      "start": 141.42,
+      "end": 146.58,
+      "text": "Y tú, que llevas a Arica en la piel, que llevas a Arica en el alma, en el corazón,"
+    },
+    {
+      "start": 147.3,
+      "end": 154.84,
+      "text": "vas a mostrar que sí se puede gobernar a pesar de las dificultades y que sí se puede recuperar una tremenda región."
+    },
+    {
+      "start": 155.36,
+      "end": 162.98,
+      "text": "Una región que contigo a la cabeza va a brillar y va a volver a tener el sitial que corresponde en todo Chile."
+    },
+    {
+      "start": 163.44,
+      "end": 168.62,
+      "text": "Así que, Diego, Paco, ahí estamos. Gracias por el apoyo, gracias por tu trabajo"
+    },
+    {
+      "start": 168.62,
+      "end": 174.52,
+      "text": "y gracias también por la animación y por cantar a voz en cuello el himno de Arica. Muchas gracias."
+    },
+    {
+      "start": 178.68,
+      "end": 185.38,
+      "text": "Y también nos acompañan hoy día nuestros cores. Por ahí en alguna parte vi a Ignacio, a Romina"
+    },
+    {
+      "start": 185.38,
+      "end": 194.3,
+      "text": "que están. ¿Dónde está Ignacio? Ahí está Ignacio. Ustedes lo pueden ver en las redes"
+    },
+    {
+      "start": 194.3,
+      "end": 201.46,
+      "text": "sociales. ¡El mejor cuequero de Chile!"
+    },
+    {
+      "start": 205.72,
+      "end": 206.62,
+      "text": "Romina, no sé si está por ahí. ¡Ahí está, Rominas y Fuentes!"
+    },
+    {
+      "start": 210.06,
+      "end": 210.98,
+      "text": "Con Romina fui la primera vez a Bisbiri."
+    },
+    {
+      "start": 217.3,
+      "end": 222.96,
+      "text": "Y ayer fuimos de nuevo y decimos, hay que hacer muchas cosas más para que mejore la calidad de vida de todos nuestros compatriotas en la zona de General Lagos, en la zona de Putre, en todo lo que es Parinacota."
+    },
+    {
+      "start": 223.18,
+      "end": 229.9,
+      "text": "Y seguiremos trabajando para que se haga realidad ese sueño de que el altiplano tenga la misma calidad de vida"
+    },
+    {
+      "start": 229.9,
+      "end": 230.76,
+      "text": "que podemos tener"
+    },
+    {
+      "start": 230.76,
+      "end": 234.82,
+      "text": "los que estamos aquí en la ciudad capital. Muchas gracias."
+    },
+    {
+      "start": 237.08,
+      "end": 244.06,
+      "text": "También veo por ahí a Víctor Sepúlveda, nuestro concejal republicano. Gracias, Víctor."
+    },
+    {
+      "start": 247.86,
+      "end": 255.42,
+      "text": "Y veo por ahí a alguien que nos ha ayudado permanentemente, una tremenda mujer, Jacqueline Boero. Jacqueline, muchas gracias"
+    },
+    {
+      "start": 255.42,
+      "end": 263.86,
+      "text": "por tu espíritu, por tu sencillez, por tu trabajo abnegado, por ese espíritu de servicio que lo has llevado siempre y que te hizo decir en algún momento"
+    },
+    {
+      "start": 263.86,
+      "end": 267.1,
+      "text": "no, yo no, mira, no creo que sea la persona indicada."
+    },
+    {
+      "start": 267.26,
+      "end": 273.04,
+      "text": "Eras la persona indicada y ahí estás trabajando por todos tus vecinos de esta gran ciudad de Arica."
+    },
+    {
+      "start": 273.16,
+      "end": 274.22,
+      "text": "Así que muchas gracias."
+    },
+    {
+      "start": 276.72,
+      "end": 281.78,
+      "text": "Y también nos acompaña, porque hay una elección que ustedes saben"
+    },
+    {
+      "start": 281.78,
+      "end": 284.94,
+      "text": "que tenemos la elección presidencial, pero también tenemos la elección parlamentaria."
+    },
+    {
+      "start": 285.58,
+      "end": 288.68,
+      "text": "Y por ahí está la candidata al Senado, Sandra Cepeda."
+    },
+    {
+      "start": 289.1,
+      "end": 290.66,
+      "text": "Estimada Sandra, ponte de pie."
+    },
+    {
+      "start": 291.16,
+      "end": 291.76,
+      "text": "Aplaudamos."
+    },
+    {
+      "start": 292.4,
+      "end": 292.78,
+      "text": "Zapata."
+    },
+    {
+      "start": 293.46,
+      "end": 294.44,
+      "text": "Sí, Sandra Zapata."
+    },
+    {
+      "start": 295.84,
+      "end": 302.58,
+      "text": "Te quiero dar las gracias por tu esfuerzo, tu espíritu y por todo lo que vas a trabajar"
+    },
+    {
+      "start": 302.58,
+      "end": 303.5,
+      "text": "en estos días."
+    },
+    {
+      "start": 303.88,
+      "end": 309.24,
+      "text": "Para que también sea una realidad que recuperemos el Parlamento para Chile"
+    },
+    {
+      "start": 309.24,
+      "end": 311.0,
+      "text": "junto con nuestros parlamentarios."
+    },
+    {
+      "start": 311.12,
+      "end": 312.28,
+      "text": "Muchas gracias, Sandra."
+    },
+    {
+      "start": 314.74,
+      "end": 319.5,
+      "text": "Ustedes ya vieron ahí a José Lee, a Poliana, a Estefanía."
+    },
+    {
+      "start": 320.18,
+      "end": 323.14,
+      "text": "Me ha corregido todo el día, porque yo le digo, aquí está Tepa, Estefanía."
+    },
+    {
+      "start": 323.24,
+      "end": 324.38,
+      "text": "Aquí está Tepa, Estefanía."
+    },
+    {
+      "start": 327.02,
+      "end": 330.0,
+      "text": "Así que, Poliana, gracias."
+    },
+    {
+      "start": 331.0,
+      "end": 331.98,
+      "text": "Estefanía, gracias."
+    },
+    {
+      "start": 332.14,
+      "end": 333.5,
+      "text": "José Lí, muchas gracias."
+    },
+    {
+      "start": 337.48,
+      "end": 344.06,
+      "text": "Y también nos acompañan aquellas personas que partieron y han hecho un trabajo"
+    },
+    {
+      "start": 344.06,
+      "end": 347.0,
+      "text": "para que aquí somos mucho más que el Partido Republicano,"
+    },
+    {
+      "start": 347.62,
+      "end": 355.28,
+      "text": "pero para que pudiéramos estar acá, para que pudiéramos avanzar en política, hay personas que fueron claves, y hay un equipo."
+    },
+    {
+      "start": 355.66,
+      "end": 361.76,
+      "text": "Ese equipo hoy día lo lidera Carla Kepic, te quiero dar las gracias, Carla, por ese"
+    },
+    {
+      "start": 361.76,
+      "end": 365.92,
+      "text": "trabajo que representa a todo el equipo republicano. No los puedo mencionar a todos, pero gracias por ese esfuerzo, por ese trabajo que representa a todo el equipo republicano."
+    },
+    {
+      "start": 366.54,
+      "end": 372.44,
+      "text": "No los puedo mencionar a todos, pero gracias por ese esfuerzo, por ese trabajo que nos ha dado tantas alegrías."
+    },
+    {
+      "start": 372.62,
+      "end": 377.84,
+      "text": "Hemos tenido algunas penas, pero las penas las vamos superando después con alegrías y con trabajo bien hecho."
+    },
+    {
+      "start": 377.94,
+      "end": 378.98,
+      "text": "Así que muchas gracias."
+    },
+    {
+      "start": 382.3,
+      "end": 387.58,
+      "text": "Y también hay otras personas que nos acompañan y que conozco hace mucho tiempo. Está por ahí el Pastor Fidel Arenas."
+    },
+    {
+      "start": 388.18,
+      "end": 396.8,
+      "text": "En alguna parte está el Pastor Fidel Arenas. Amigo, gracias. gracias por tu oración permanente por la patria,"
+    },
+    {
+      "start": 397.26,
+      "end": 401.92,
+      "text": "gracias por el acompañamiento a tantas familias que lo necesitan. Nos conocimos hace muchos"
+    },
+    {
+      "start": 401.92,
+      "end": 409.02,
+      "text": "años atrás y también me abrió las puertas para poder entender mejor todo lo que es la"
+    },
+    {
+      "start": 409.02,
+      "end": 412.66,
+      "text": "claridad de que todo está en manos de Dios, así que muchas gracias"
+    },
+    {
+      "start": 412.66,
+      "end": 418.58,
+      "text": "Y ustedes ya los conocieron, los vieron, se rieron, cantaron, bailaron"
+    },
+    {
+      "start": 418.58,
+      "end": 426.34,
+      "text": "Si, habían dos, era como un dúo, era como un como muy bien armonizado y las coreografías estaban"
+    },
+    {
+      "start": 426.34,
+      "end": 435.78,
+      "text": "impecables. Ensayaron mucho para estar aquí. Y hablo del general Enrique Basaleti. ¿Dónde"
+    },
+    {
+      "start": 435.78,
+      "end": 440.52,
+      "text": "estará? Está ahí? Don Enrique."
+    },
+    {
+      "start": 449.0,
+      "end": 449.52,
+      "text": "Enrique ha hecho un trabajo increíble y le ha dedicado parte de su tiempo, de su vida, a trabajar por nosotros en seguridad."
+    },
+    {
+      "start": 460.26,
+      "end": 461.82,
+      "text": "Fue un general muy destacado y sirvió para Carabineros de Chile, para quien pide un aplauso, esa noble institución que nos cuida, nos protege, que literalmente salvó a Chile después de ese estallido."
+    },
+    {
+      "start": 463.04,
+      "end": 468.88,
+      "text": "Y también estuvo aquí en la frontera, junto con un gran equipo, recorriendo desde Viviri"
+    },
+    {
+      "start": 468.88,
+      "end": 471.34,
+      "text": "hasta Colchane, por el altiplano..."
+    },
+    {
+      "start": 471.34,
+      "end": 478.68,
+      "text": "...viendo cómo va a ser ese escudo fronterizo que vamos a tener para evitar la inmigración ilegal y el contrabando."
+    },
+    {
+      "start": 479.32,
+      "end": 484.08,
+      "text": "Y junto con él, en este dúo, ¿no es cierto?, hay otro hombre que está ahí..."
+    },
+    {
+      "start": 484.08,
+      "end": 485.36,
+      "text": "...que también asumió un desafío"
+    },
+    {
+      "start": 485.36,
+      "end": 486.34,
+      "text": "de combatir"
+    },
+    {
+      "start": 486.34,
+      "end": 487.0,
+      "text": "el terrorismo"
+    },
+    {
+      "start": 487.0,
+      "end": 487.58,
+      "text": "de combatir"
+    },
+    {
+      "start": 487.58,
+      "end": 488.42,
+      "text": "el narcotráfico"
+    },
+    {
+      "start": 488.42,
+      "end": 488.9,
+      "text": "de combatir"
+    },
+    {
+      "start": 488.9,
+      "end": 489.82,
+      "text": "el crimen organizado"
+    },
+    {
+      "start": 489.82,
+      "end": 490.74,
+      "text": "lo hizo en su comuna"
+    },
+    {
+      "start": 490.74,
+      "end": 491.86,
+      "text": "y ahora lo está haciendo"
+    },
+    {
+      "start": 491.86,
+      "end": 492.84,
+      "text": "también dando la cara"
+    },
+    {
+      "start": 492.84,
+      "end": 493.58,
+      "text": "en la Araucanía"
+    },
+    {
+      "start": 493.58,
+      "end": 494.88,
+      "text": "don Rodolfo Carter"
+    },
+    {
+      "start": 494.88,
+      "end": 496.18,
+      "text": "muchas gracias"
+    },
+    {
+      "start": 496.18,
+      "end": 505.6,
+      "text": "no lo escucho, no lo escucho"
+    },
+    {
+      "start": 505.6,
+      "end": 506.12,
+      "text": "¿qué dicen?"
+    },
+    {
+      "start": 509.12,
+      "end": 511.2,
+      "text": "es para hacerle un poquitito"
+    },
+    {
+      "start": 511.2,
+      "end": 512.38,
+      "text": "para molestarle un poquitito"
+    },
+    {
+      "start": 512.38,
+      "end": 516.48,
+      "text": "muestren la libreta Es para hacerle un poquitito... Para molestarle un poquitito a él."
+    },
+    {
+      "start": 517.08,
+      "end": 518.4,
+      "text": "¡Ah!"
+    },
+    {
+      "start": 519.58,
+      "end": 521.28,
+      "text": "¡Muestren la libreta!"
+    },
+    {
+      "start": 522.7,
+      "end": 526.22,
+      "text": "¿Qué dijo? ¿Que era su marido?"
+    },
+    {
+      "start": 528.52,
+      "end": 529.42,
+      "text": "Pero estaban pensando en la pensión."
+    },
+    {
+      "start": 535.22,
+      "end": 545.06,
+      "text": "¡Déjale! Bueno, para mí es de verdad un orgullo estar aquí hoy día con ustedes. Es ser parte de ustedes y recordar muchos tiempos."
+    },
+    {
+      "start": 549.32,
+      "end": 549.52,
+      "text": "De pequeño me tocaba venir en otra actividad, en una actividad comercial,"
+    },
+    {
+      "start": 552.06,
+      "end": 552.48,
+      "text": "acompañando a mis padres, acompañando a mis hermanos,"
+    },
+    {
+      "start": 556.12,
+      "end": 556.72,
+      "text": "porque teníamos un local aquí en la calle Colón al llegar a 21 de mayo."
+    },
+    {
+      "start": 560.22,
+      "end": 568.6,
+      "text": "Y quizás los mayores se acuerdan de cuando llegaba el camión de Cecina Favaria y traía Cecina fresca. Y a lo mejor más de alguien pololeó en la cafetería"
+    },
+    {
+      "start": 568.6,
+      "end": 574.68,
+      "text": "de Favaria que estaba en el segundo piso. Decorada por mi madre, esos cardenales, porque parecía una"
+    },
+    {
+      "start": 574.68,
+      "end": 575.46,
+      "text": "casita alemana, los cardenales, porque parecía una casita alemana..."
+    },
+    {
+      "start": 575.46,
+      "end": 578.0,
+      "text": "...los cardenales que estaban ahí delante de las ventanas, los puso mi mamá..."
+    },
+    {
+      "start": 578.68,
+      "end": 583.46,
+      "text": "...y eso era para nosotros un orgullo, ser parte de una familia emprendedora..."
+    },
+    {
+      "start": 583.46,
+      "end": 588.16,
+      "text": "...que recorría Chile, en toda la zona norte, tratando de llevar lo que nosotros hacíamos..."
+    },
+    {
+      "start": 588.16,
+      "end": 590.1,
+      "text": "...a las personas, para que tuvieran también posibilidad de ver, acceder...... llevar lo que nosotros hacíamos a las personas para que tuvieran"
+    },
+    {
+      "start": 590.1,
+      "end": 595.86,
+      "text": "también posibilidad de ver, acceder a productos que nosotros encontrábamos que eran de buena"
+    },
+    {
+      "start": 595.86,
+      "end": 603.24,
+      "text": "calidad y frescos. Y esta es una zona donde hay tierras, hay"
+    },
+    {
+      "start": 603.24,
+      "end": 607.48,
+      "text": "una zona de personas nobles, valientes. El norte"
+    },
+    {
+      "start": 607.48,
+      "end": 614.52,
+      "text": "ha sido testigo de héroes que han entregado la vida por la patria. Héroes como Arturo"
+    },
+    {
+      "start": 614.52,
+      "end": 622.0,
+      "text": "Prat, que en Iquique nos dio una muestra de lo que es la entrega total por la patria."
+    },
+    {
+      "start": 623.0,
+      "end": 630.0,
+      "text": "Y héroes como el coronel Lagos, que ahí el 7 de junio, en 55 minutos,"
+    },
+    {
+      "start": 631.14,
+      "end": 633.58,
+      "text": "con todos sus muchachos, se tomó el morro."
+    },
+    {
+      "start": 634.38,
+      "end": 636.4,
+      "text": "Y nos cambió la vida. Nos cambió"
+    },
+    {
+      "start": 636.4,
+      "end": 645.02,
+      "text": "la vida a todos porque nos mostró que con valentía, con coraje, arrojo, hay cosas que"
+    },
+    {
+      "start": 645.02,
+      "end": 650.9,
+      "text": "no son imposibles. Parecía imposible y fue posible. Y conquistamos esta zona que hoy"
+    },
+    {
+      "start": 650.9,
+      "end": 656.88,
+      "text": "día nos abre la puerta al mundo, nos abre la puerta al desarrollo, nos abre la puerta"
+    },
+    {
+      "start": 656.88,
+      "end": 663.06,
+      "text": "a la buena calidad de vida en la medida de que hagamos las cosas bien. Porque Arica no"
+    },
+    {
+      "start": 663.06,
+      "end": 665.46,
+      "text": "es un punto en el mapa."
+    },
+    {
+      "start": 668.06,
+      "end": 668.9,
+      "text": "Arica es la puerta de entrada a nuestra nación."
+    },
+    {
+      "start": 671.38,
+      "end": 672.26,
+      "text": "Hay veces que no lo percibimos así."
+    },
+    {
+      "start": 673.6,
+      "end": 673.9,
+      "text": "Y hay muchos que nos dicen,"
+    },
+    {
+      "start": 679.6,
+      "end": 681.54,
+      "text": "pucha, Arica pareciera ser la puerta de entrada por la parte de atrás de la casa, que no es la más bonita,"
+    },
+    {
+      "start": 681.6,
+      "end": 685.96,
+      "text": "no es la que está más arreglada, no es la que nosotros aspiramos. Pero si hacemos las"
+    },
+    {
+      "start": 685.96,
+      "end": 691.54,
+      "text": "cosas bien, Arica volverá a ser la puerta de entrada a esta tierra maravillosa, a esta"
+    },
+    {
+      "start": 691.54,
+      "end": 695.92,
+      "text": "tierra generosa, a esta patria que todos aspiramos y anhelamos"
+    },
+    {
+      "start": 695.92,
+      "end": 697.22,
+      "text": "podamos recuperar."
+    },
+    {
+      "start": 699.1,
+      "end": 707.28,
+      "text": "Y ese abandono con la dirección de Diego Paco, ese abandono con un buen gobierno, con"
+    },
+    {
+      "start": 707.28,
+      "end": 709.1,
+      "text": "un buen parlamento va a quedar atrás."
+    },
+    {
+      "start": 709.88,
+      "end": 710.48,
+      "text": "Y lo decimos"
+    },
+    {
+      "start": 710.48,
+      "end": 717.14,
+      "text": "fuerte y claro. Nuestra preocupación, nuestra ocupación estará en devolverle a Arica la"
+    },
+    {
+      "start": 717.14,
+      "end": 725.12,
+      "text": "paz, la seguridad y el orden. Y eso se hará con fuerza, con coraje, con decisión."
+    },
+    {
+      "start": 730.3,
+      "end": 730.68,
+      "text": "Pero ustedes merecen una ciudad limpia, una ciudad ordenada, una ciudad en paz."
+    },
+    {
+      "start": 735.84,
+      "end": 736.5,
+      "text": "Para que ese himno, Arica siempre Arica, siga resonando en sus corazones,"
+    },
+    {
+      "start": 741.0,
+      "end": 741.66,
+      "text": "siga sonando fuerte y claro para que a nivel del país todos conozcamos"
+    },
+    {
+      "start": 745.42,
+      "end": 746.2,
+      "text": "lo que son los ariqueños. Así que para allá vamos."
+    },
+    {
+      "start": 753.56,
+      "end": 756.98,
+      "text": "Y como ustedes saben, como ustedes saben, hemos ido presentando a lo largo de esta campaña y a lo largo de este año distintos planes."
+    },
+    {
+      "start": 757.88,
+      "end": 760.16,
+      "text": "Planes que se van complementando"
+    },
+    {
+      "start": 760.16,
+      "end": 762.88,
+      "text": "con las opiniones que ustedes nos van dando."
+    },
+    {
+      "start": 763.26,
+      "end": 764.52,
+      "text": "Porque no es un plan cerrado."
+    },
+    {
+      "start": 765.12,
+      "end": 767.04,
+      "text": "Nosotros podemos tener ciertas propuestas,"
+    },
+    {
+      "start": 767.38,
+      "end": 769.92,
+      "text": "pero esas propuestas siempre son mejorables."
+    },
+    {
+      "start": 770.84,
+      "end": 776.1,
+      "text": "Y aquí en Arica queremos presentar el plan Arica Siempre Arica."
+    },
+    {
+      "start": 777.26,
+      "end": 780.84,
+      "text": "Y ese plan tiene cinco ejes."
+    },
+    {
+      "start": 781.96,
+      "end": 788.6,
+      "text": "Todo lo hacemos en base al cinco, para que me digan, tíramo un cinco. Todo"
+    },
+    {
+      "start": 788.6,
+      "end": 793.58,
+      "text": "en base a un cinco, pero que se complementa y se multiplica. Cinco por cinco, veinticinco."
+    },
+    {
+      "start": 794.3,
+      "end": 799.32,
+      "text": "Cinco por diez, cincuenta. Todo el múltiplo de cinco. Para que tengamos claro que esto"
+    },
+    {
+      "start": 799.32,
+      "end": 801.38,
+      "text": "no es todo, sino que es el"
+    },
+    {
+      "start": 801.38,
+      "end": 806.6,
+      "text": "comienzo de lo que nosotros buscamos. Nuestro programa de gobierno tiene tres ejes y 33"
+    },
+    {
+      "start": 806.6,
+      "end": 812.88,
+      "text": "medidas. Y luego yo les pregunto, ¿por qué serán 33? Y todos van a tener una teoría"
+    },
+    {
+      "start": 812.88,
+      "end": 818.0,
+      "text": "distinta. Pero para nosotros el 33 es de nuevo vencer lo imposible."
+    },
+    {
+      "start": 819.06,
+      "end": 820.96,
+      "text": "Los 33 mineros de la mina San José."
+    },
+    {
+      "start": 821.88,
+      "end": 823.84,
+      "text": "Y es un homenaje, un recordatorio."
+    },
+    {
+      "start": 824.38,
+      "end": 827.6,
+      "text": "De para aquellos que decían que era imposible rescatar a los 33."
+    },
+    {
+      "start": 828.34,
+      "end": 828.98,
+      "text": "Ahí están."
+    },
+    {
+      "start": 829.92,
+      "end": 831.7,
+      "text": "Ahí están de nuevo"
+    },
+    {
+      "start": 831.7,
+      "end": 840.84,
+      "text": "con sus familias. Así que todo tiene un sentido. Y lo primero que tenemos que decir es que"
+    },
+    {
+      "start": 840.84,
+      "end": 849.78,
+      "text": "en el país vecino, por años, ha primado una ideología. Una ideología que"
+    },
+    {
+      "start": 849.78,
+      "end": 855.52,
+      "text": "ha contaminado otros países. Una ideología de izquierda radical. Una ideología"
+    },
+    {
+      "start": 855.52,
+      "end": 860.46,
+      "text": "indigenista. Una ideología que nos busca el bien de las personas. Porque"
+    },
+    {
+      "start": 860.46,
+      "end": 865.66,
+      "text": "el bien de las personas es que tengan mejor calidad de vida. Es que termine o se combata"
+    },
+    {
+      "start": 865.66,
+      "end": 872.7,
+      "text": "la pobreza. Y podemos ver la realidad de muchas personas que viven en Bolivia y viven y sufren"
+    },
+    {
+      "start": 872.7,
+      "end": 878.38,
+      "text": "la pobreza. Y eso va a cambiar. y Bolivia se prepara para un gran cambio"
+    },
+    {
+      "start": 878.38,
+      "end": 887.68,
+      "text": "y nosotros queremos colaborar desde nuestra posibilidad, si llegamos a ganar, a que haya una muy buena"
+    },
+    {
+      "start": 887.68,
+      "end": 891.22,
+      "text": "relación diplomática con el vecino país de Bolivia."
+    },
+    {
+      "start": 891.6,
+      "end": 896.98,
+      "text": "Puede haber un antes y un después con un gobierno que se inspire en la libertad"
+    },
+    {
+      "start": 896.98,
+      "end": 901.94,
+      "text": "y que ayude a sacar adelante a las personas más vulnerables,"
+    },
+    {
+      "start": 902.3,
+      "end": 905.54,
+      "text": "que le ayude a sacar adelante el desarrollo y el progreso"
+    },
+    {
+      "start": 905.54,
+      "end": 913.84,
+      "text": "de Bolivia, si es que nosotros nos comprometemos y ayudamos en ese trabajo. Y así como nosotros"
+    },
+    {
+      "start": 913.84,
+      "end": 918.42,
+      "text": "decimos que vamos a cerrar nuestra frontera, tenemos que decir que podemos dejar atrás"
+    },
+    {
+      "start": 918.42,
+      "end": 925.2,
+      "text": "nuestras divisiones y pensar en el futuro, no quedarnos pegados en el pasado, en todas las dificultades que"
+    },
+    {
+      "start": 925.2,
+      "end": 930.98,
+      "text": "hemos tenido en las relaciones internacionales con aquellos líderes ideológicamente de"
+    },
+    {
+      "start": 930.98,
+      "end": 936.22,
+      "text": "izquierda que han hecho lo posible e imposible por decir que todo lo que ocurre"
+    },
+    {
+      "start": 936.22,
+      "end": 942.1,
+      "text": "en Bolivia es responsabilidad nuestra. No lo es y ustedes lo saben. Por lo tanto, decir"
+    },
+    {
+      "start": 942.1,
+      "end": 948.48,
+      "text": "que así como ayer estuve en Bisbiri y pude estar en la triple frontera, espero, si soy"
+    },
+    {
+      "start": 948.48,
+      "end": 955.14,
+      "text": "electo presidente, poder estar nuevamente en Biviri, poder estar en Charaña"
+    },
+    {
+      "start": 955.14,
+      "end": 959.6,
+      "text": "y ahí reunirme con quien sea electo presidente de Bolivia,"
+    },
+    {
+      "start": 960.18,
+      "end": 965.16,
+      "text": "darnos la mano y reestablecer las relaciones diplomáticas en pleno con Chile."
+    },
+    {
+      "start": 965.48,
+      "end": 972.94,
+      "text": "Para que pueda progresar Bolivia y para que nosotros tengamos paz también, desarrollo y progreso."
+    },
+    {
+      "start": 973.58,
+      "end": 976.7,
+      "text": "Porque si a ellos les va bien, a nosotros también nos va a ir bien."
+    },
+    {
+      "start": 977.44,
+      "end": 985.88,
+      "text": "Y eso es algo que nosotros tenemos que ir proponiendo y planteando desde ahora. Para que allá también el pueblo boliviano entienda que las disputas,"
+    },
+    {
+      "start": 985.96,
+      "end": 992.88,
+      "text": "las peleas, el odio no llevan a ninguna parte. La amistad, el respeto mutuo y el desarrollo"
+    },
+    {
+      "start": 992.88,
+      "end": 997.56,
+      "text": "económico los va a llevar a ellos a una mejor posición para su calidad de vida"
+    },
+    {
+      "start": 997.56,
+      "end": 1004.4,
+      "text": "y también a nosotros nos va a permitir darle los servicios necesarios para que ellos puedan surgir como país."
+    },
+    {
+      "start": 1004.88,
+      "end": 1009.96,
+      "text": "El segundo punto es algo que hemos venido transmitiendo hace mucho tiempo."
+    },
+    {
+      "start": 1010.16,
+      "end": 1014.28,
+      "text": "Ya lo decía Rodolfo en su intervención."
+    },
+    {
+      "start": 1015.44,
+      "end": 1019.78,
+      "text": "Si hay alguien que habló por largo tiempo de las fronteras seguras, fui yo."
+    },
+    {
+      "start": 1020.9,
+      "end": 1022.12,
+      "text": "Y fui objeto de burlas."
+    },
+    {
+      "start": 1022.76,
+      "end": 1026.0,
+      "text": "El año 2017 no eran tantas porque teníamos pocas expectativas."
+    },
+    {
+      "start": 1026.9,
+      "end": 1030.12,
+      "text": "La gente pensaba, no, mira, es una aventura y ahí va a quedar."
+    },
+    {
+      "start": 1030.7,
+      "end": 1037.9,
+      "text": "Pero ya el año 2017, habiendo recorrido el altiplano, decíamos, aquí se requiere un cierre a las fronteras."
+    },
+    {
+      "start": 1038.12,
+      "end": 1040.32,
+      "text": "¿Y cuál es el cierre más económico, más directo?"
+    },
+    {
+      "start": 1040.76,
+      "end": 1041.28,
+      "text": "La zanja."
+    },
+    {
+      "start": 1042.12,
+      "end": 1042.82,
+      "text": "Y se reían."
+    },
+    {
+      "start": 1043.04,
+      "end": 1046.02,
+      "text": "El año 2021 me bautizaron como Pepe Zanja."
+    },
+    {
+      "start": 1047.34,
+      "end": 1052.22,
+      "text": "Yo decía que me podrían bautizar como Pepe Lefou, porque soy un enamorado permanente."
+    },
+    {
+      "start": 1056.96,
+      "end": 1062.2,
+      "text": "Bueno, pero Pepe Zanja, dije, bueno, sí, lo soy, lo asumo, y ojalá lo pueda lograr."
+    },
+    {
+      "start": 1062.72,
+      "end": 1068.18,
+      "text": "Pero no se dio por un tiempo, hasta que ellos mismos se empezaron a dar cuenta."
+    },
+    {
+      "start": 1068.92,
+      "end": 1070.86,
+      "text": "Y, oh sorpresa este gobierno"
+    },
+    {
+      "start": 1070.86,
+      "end": 1072.78,
+      "text": "que renegaba de esto"
+    },
+    {
+      "start": 1072.78,
+      "end": 1073.66,
+      "text": "y que decía"
+    },
+    {
+      "start": 1073.66,
+      "end": 1074.72,
+      "text": "son todos bienvenidos"
+    },
+    {
+      "start": 1074.72,
+      "end": 1075.76,
+      "text": "hay espacio para todos"
+    },
+    {
+      "start": 1075.76,
+      "end": 1076.78,
+      "text": "hay vivienda para todos"
+    },
+    {
+      "start": 1076.78,
+      "end": 1077.64,
+      "text": "hay salud para todos"
+    },
+    {
+      "start": 1077.64,
+      "end": 1078.62,
+      "text": "hay educación para todos"
+    },
+    {
+      "start": 1078.62,
+      "end": 1079.44,
+      "text": "y nos colapsaron"
+    },
+    {
+      "start": 1079.44,
+      "end": 1080.56,
+      "text": "hoy día"
+    },
+    {
+      "start": 1080.56,
+      "end": 1082.5,
+      "text": "están cambiando de actitud"
+    },
+    {
+      "start": 1082.5,
+      "end": 1083.6,
+      "text": "de forma"
+    },
+    {
+      "start": 1083.6,
+      "end": 1086.6,
+      "text": "yo veo cada día más rubio al presidente."
+    },
+    {
+      "start": 1087.78,
+      "end": 1089.46,
+      "text": "Es una cosa sorprendente."
+    },
+    {
+      "start": 1091.34,
+      "end": 1097.46,
+      "text": "Y se va dando unas vueltas increíbles, tanto que el profesor Artés dice,"
+    },
+    {
+      "start": 1097.76,
+      "end": 1101.82,
+      "text": "haber competido de nuevo con él le habría dicho de nuevo, dale una vuelta, carnero."
+    },
+    {
+      "start": 1102.28,
+      "end": 1105.64,
+      "text": "Porque el profe Artés lo bautizó en un debate público."
+    },
+    {
+      "start": 1106.22,
+      "end": 1107.38,
+      "text": "El profe es muy respetuoso."
+    },
+    {
+      "start": 1108.2,
+      "end": 1112.1,
+      "text": "El profe siempre saluda amablemente, a mí me saluda todas las veces que me ve."
+    },
+    {
+      "start": 1113.4,
+      "end": 1116.04,
+      "text": "Y me dice, te vamos a mandar al Tribunal Popular."
+    },
+    {
+      "start": 1116.48,
+      "end": 1117.54,
+      "text": "Y yo le digo, ya, vos, profe."
+    },
+    {
+      "start": 1118.62,
+      "end": 1123.26,
+      "text": "Pero es importante ya el cambio de actitud del gobierno."
+    },
+    {
+      "start": 1124.26,
+      "end": 1127.22,
+      "text": "Y aquí les damos las gracias, porque nos están ayudando."
+    },
+    {
+      "start": 1128.14,
+      "end": 1131.04,
+      "text": "Porque están avanzando y después ya no se van a"
+    },
+    {
+      "start": 1131.04,
+      "end": 1135.82,
+      "text": "poder echar pie atrás. Y decir una cosa, después de decir toda la contraria, bueno,"
+    },
+    {
+      "start": 1135.92,
+      "end": 1139.16,
+      "text": "ahora van a tener que mantener la línea y se van a tener que mantener en esa."
+    },
+    {
+      "start": 1139.86,
+      "end": 1144.0,
+      "text": "Y ayer, miren las vueltas de la vida. El presidente se vio en un avión desde Santiago,"
+    },
+    {
+      "start": 1144.9,
+      "end": 1147.5,
+      "text": "a Iquique, tomó un helicóptero, se fue a Colchane,"
+    },
+    {
+      "start": 1148.02,
+      "end": 1151.72,
+      "text": "fue a revisar las obras de construcción y cortar la cinta."
+    },
+    {
+      "start": 1151.8,
+      "end": 1153.48,
+      "text": "No, perdón, no había ni una cinta que cortar."
+    },
+    {
+      "start": 1154.58,
+      "end": 1160.24,
+      "text": "Yo pensé que si venía para acá iba a cortar la cinta del nuevo cuartel policial en Colchan,"
+    },
+    {
+      "start": 1160.3,
+      "end": 1168.28,
+      "text": "el que anunció hace como tres años. Oh, sorpresa, no han puesto ni una viga, nada. Pero lo que"
+    },
+    {
+      "start": 1168.28,
+      "end": 1174.16,
+      "text": "sí estuvo muy bueno es que dijo que iba a mandar una reforma constitucional para que"
+    },
+    {
+      "start": 1174.16,
+      "end": 1178.3,
+      "text": "el despliegue de las fuerzas militares no tuviera que pasar por el Congreso."
+    },
+    {
+      "start": 1179.2,
+      "end": 1180.82,
+      "text": "Eso es un avance civilizatorio."
+    },
+    {
+      "start": 1181.66,
+      "end": 1188.16,
+      "text": "Así como es un avance civilizatorio que ya no hablen de los pacos, perdón, que ya no hablen de los carabineros,"
+    },
+    {
+      "start": 1188.42,
+      "end": 1190.68,
+      "text": "que me confundo con mi gobernador,"
+    },
+    {
+      "start": 1191.42,
+      "end": 1195.86,
+      "text": "porque ellos hablan, refiriéndose a los carabineros de Chile, de una manera distinta a la que"
+    },
+    {
+      "start": 1195.86,
+      "end": 1198.78,
+      "text": "tienen que referirse, y ellos hablan de los carabineros de Chile, levantan la bandera"
+    },
+    {
+      "start": 1198.78,
+      "end": 1203.92,
+      "text": "chilena, cantan, se aprendieron el himno nacional, es una cosa increíble. Bueno, esos son los"
+    },
+    {
+      "start": 1203.92,
+      "end": 1207.5,
+      "text": "chiles. No les pagan ni los vi otro Chile. No, si se los pagan."
+    },
+    {
+      "start": 1207.7,
+      "end": 1213.58,
+      "text": "A ellos se los pagan. A ellos. Ah, los carabineros. Pensé, estamos hablando de los funcionarios"
+    },
+    {
+      "start": 1213.58,
+      "end": 1218.5,
+      "text": "públicos. No, a carabineros les pagan las asignaciones de riego, no les pagan los viáticos."
+    },
+    {
+      "start": 1218.9,
+      "end": 1225.42,
+      "text": "No, estamos de acuerdo. Pero ellos, cada vez que suben, no le pagan los viáticos. No, estamos de acuerdo, pero ellos cada vez que suben se pagan sus buenos viáticos. Pero a lo que"
+    },
+    {
+      "start": 1225.42,
+      "end": 1230.12,
+      "text": "voy es que nosotros tenemos que cerrar nuestra frontera y la vamos a cerrar de"
+    },
+    {
+      "start": 1230.12,
+      "end": 1242.1,
+      "text": "manera física, tecnológica y diplomática. Y no solo eso, vamos a proponer cambios legislativos"
+    },
+    {
+      "start": 1242.1,
+      "end": 1246.26,
+      "text": "para que la inmigración ilegal, el que entre ilegalmente,"
+    },
+    {
+      "start": 1246.44,
+      "end": 1249.4,
+      "text": "ya no sea considerado como alguien que cometió una falta."
+    },
+    {
+      "start": 1250.68,
+      "end": 1257.02,
+      "text": "Eso va a ser un delito, un delito grave. Y el que entre ilegalmente ya no sea considerado como alguien que cometió una falta, eso va a ser un delito, un delito grave. Y el que entre ilegalmente tiene dos opciones, tiene tres,"
+    },
+    {
+      "start": 1257.88,
+      "end": 1262.18,
+      "text": "se puede devolver por donde entró, puede alojarse en el refugio que le vamos a hacer"
+    },
+    {
+      "start": 1262.18,
+      "end": 1266.08,
+      "text": "o puede irse en un vuelo directo a"
+    },
+    {
+      "start": 1266.08,
+      "end": 1273.18,
+      "text": "su país de origen. Así que ni uno más va a ser el dicho, ni uno más entrando por la"
+    },
+    {
+      "start": 1273.18,
+      "end": 1278.14,
+      "text": "ventana. El que quiera entrar a Chile será bienvenido si entra por la puerta con sus"
+    },
+    {
+      "start": 1278.14,
+      "end": 1280.6,
+      "text": "papeles al día y nos dice a qué es lo que viene."
+    },
+    {
+      "start": 1281.36,
+      "end": 1284.36,
+      "text": "Nosotros no queremos cerrarle la puerta a todos."
+    },
+    {
+      "start": 1284.5,
+      "end": 1286.2,
+      "text": "Si alguien quiere venir a trabajar, bien."
+    },
+    {
+      "start": 1286.58,
+      "end": 1289.44,
+      "text": "Si alguien quiere venir a colaborar en temas de salud, bien."
+    },
+    {
+      "start": 1289.56,
+      "end": 1291.72,
+      "text": "Y lo están haciendo y les damos las gracias a nuestros Cefam."
+    },
+    {
+      "start": 1292.18,
+      "end": 1298.0,
+      "text": "No podrían tener la cobertura que tienen si no tuviéramos médicos extranjeros. Pero aquel que entra por la ventana nunca"
+    },
+    {
+      "start": 1298.64,
+      "end": 1302.06,
+      "text": "más va a poder hacerlo. Va a estar bien cerrada esa ventana."
+    },
+    {
+      "start": 1303.22,
+      "end": 1316.0,
+      "text": "Lo tercero es que vamos a dar la batalla total y frontal en contra del crimen organizado."
+    },
+    {
+      "start": 1316.0,
+      "end": 1319.0,
+      "text": "Ustedes aquí lo han vivido, lo han sufrido."
+    },
+    {
+      "start": 1319.0,
+      "end": 1323.0,
+      "text": "Ustedes aquí han ido en la previa a lo que ha pasado en Chile."
+    },
+    {
+      "start": 1323.0,
+      "end": 1326.16,
+      "text": "Y Arica ya no puede seguir siendo un"
+    },
+    {
+      "start": 1326.16,
+      "end": 1330.78,
+      "text": "laboratorio para el narcotráfico, no puede ser un laboratorio para el crimen organizado."
+    },
+    {
+      "start": 1331.42,
+      "end": 1337.62,
+      "text": "Chile se ha esforzado, se ha comprometido en sacar adelante a las familias y aquí cerquita"
+    },
+    {
+      "start": 1337.62,
+      "end": 1344.3,
+      "text": "el Cerro Chuño. El Cerro Chuño fue un lugar donde"
+    },
+    {
+      "start": 1344.3,
+      "end": 1349.68,
+      "text": "se construyó y no se podía construir. Y a mí me tocó encontrarme con las dirigentes"
+    },
+    {
+      "start": 1349.68,
+      "end": 1355.26,
+      "text": "del Cerro Chuño cuando se movilizaban en contra de los polimetales. Llegaban al Congreso con"
+    },
+    {
+      "start": 1355.26,
+      "end": 1362.38,
+      "text": "mucho esfuerzo y lograron, al final de una larga lucha, que las escucharan en otras casas."
+    },
+    {
+      "start": 1362.5,
+      "end": 1368.4,
+      "text": "Gracias, joven. Ahí el joven... No. Tengo el megáfono, así que no se preocupen. Si"
+    },
+    {
+      "start": 1368.4,
+      "end": 1370.56,
+      "text": "se corta la luz, seguimos con el megáfono."
+    },
+    {
+      "start": 1370.98,
+      "end": 1373.88,
+      "text": "Y ustedes prenden los celulares y esto se va a ver increíble."
+    },
+    {
+      "start": 1376.2,
+      "end": 1379.24,
+      "text": "Pero ese Cerro Chuño fue erradicado."
+    },
+    {
+      "start": 1380.0,
+      "end": 1386.78,
+      "text": "Porque ahí no se permite que alguien viva y arriesgue la vida y la salud de otras personas."
+    },
+    {
+      "start": 1387.5,
+      "end": 1392.98,
+      "text": "Si hay adultos que están con menores de edad, están atentando contra la salud de esos menores de edad."
+    },
+    {
+      "start": 1393.66,
+      "end": 1394.74,
+      "text": "Y eso es inaceptable."
+    },
+    {
+      "start": 1395.28,
+      "end": 1398.34,
+      "text": "Por lo tanto, les decimos desde ya, desalojen."
+    },
+    {
+      "start": 1399.4,
+      "end": 1407.36,
+      "text": "Salgan de ahí. Porque si no, nosotros los vamos a invitar a salir y va a ser duro, va a ser complejo."
+    },
+    {
+      "start": 1408.74,
+      "end": 1412.74,
+      "text": "Nosotros siempre vamos a dar las advertencias necesarias."
+    },
+    {
+      "start": 1414.28,
+      "end": 1419.84,
+      "text": "Nosotros no queremos usar la fuerza ni la violencia, pero tenemos que decir las cosas claras."
+    },
+    {
+      "start": 1420.56,
+      "end": 1424.38,
+      "text": "Si ustedes no entregan, si esas personas no entregan las viviendas,"
+    },
+    {
+      "start": 1424.86,
+      "end": 1429.0,
+      "text": "vamos a tener que ir a recuperar esas viviendas para demolerlas."
+    },
+    {
+      "start": 1432.56,
+      "end": 1438.28,
+      "text": "Porque en ese lugar no puede vivir nadie, no pueden arriesgar la vida de menores de edad que no tienen por qué responder"
+    },
+    {
+      "start": 1438.28,
+      "end": 1444.16,
+      "text": "por la irresponsabilidad de sus padres. Y aquellos que usan ese lugar para cometer delitos,"
+    },
+    {
+      "start": 1446.84,
+      "end": 1451.64,
+      "text": "a ellos no les vamos a invitar a salir, no los vamos a invitar a nada, sino que solamente a irse a la cárcel."
+    },
+    {
+      "start": 1452.46,
+      "end": 1457.72,
+      "text": "Y cada uno de los que han ido cometiendo delitos en Chile, que tengan claro que vamos a ir"
+    },
+    {
+      "start": 1457.72,
+      "end": 1459.02,
+      "text": "por cada uno de ellos."
+    },
+    {
+      "start": 1459.48,
+      "end": 1460.28,
+      "text": "Nos vamos a demorar un poco, pero los vamos a encontrar, los vamos a juzgar y los vamos a ir por cada uno de ellos. Nos vamos a demorar un"
+    },
+    {
+      "start": 1460.28,
+      "end": 1464.74,
+      "text": "poco, pero los vamos a encontrar, los vamos a juzgar y los vamos a encerrar."
+    },
+    {
+      "start": 1466.12,
+      "end": 1476.8,
+      "text": "Y aquí también marcar una diferencia, porque hay una candidata que no solamente quiere regularizar"
+    },
+    {
+      "start": 1476.8,
+      "end": 1485.92,
+      "text": "a los inmigrantes irregulares, son más de 300.000, sino que quiere expulsar a todos"
+    },
+    {
+      "start": 1485.92,
+      "end": 1491.12,
+      "text": "aquellos delincuentes que están presos por la ley antidrogas. Nosotros"
+    },
+    {
+      "start": 1491.12,
+      "end": 1493.22,
+      "text": "no vamos a expulsar a ningún delincuente."
+    },
+    {
+      "start": 1494.32,
+      "end": 1495.22,
+      "text": "Les vamos a hacer una cárcel"
+    },
+    {
+      "start": 1495.22,
+      "end": 1497.16,
+      "text": "especial, solo para ellos,"
+    },
+    {
+      "start": 1497.58,
+      "end": 1499.24,
+      "text": "y van a cumplir hasta el último"
+    },
+    {
+      "start": 1499.24,
+      "end": 1500.42,
+      "text": "día de su condena."
+    },
+    {
+      "start": 1501.26,
+      "end": 1503.06,
+      "text": "Y cuando la hayan cumplido,"
+    },
+    {
+      "start": 1503.24,
+      "end": 1504.32,
+      "text": "los vamos a expulsar."
+    },
+    {
+      "start": 1504.82,
+      "end": 1508.86,
+      "text": "Y no van a poder volver a entrar porque nuestra frontera va a estar cerrada."
+    },
+    {
+      "start": 1509.8,
+      "end": 1514.84,
+      "text": "Así que, es que hay algunos que ni siquiera pueden distraerse trabajando."
+    },
+    {
+      "start": 1515.86,
+      "end": 1517.5,
+      "text": "Porque aquí me dicen, tienen que trabajar."
+    },
+    {
+      "start": 1518.1,
+      "end": 1520.24,
+      "text": "Hay algunos que no tienen derecho a distraerse."
+    },
+    {
+      "start": 1520.98,
+      "end": 1523.12,
+      "text": "Hay algunos que solo van a poder mirarse las caras."
+    },
+    {
+      "start": 1523.78,
+      "end": 1525.2,
+      "text": "Y van a poder jugar al cachipún."
+    },
+    {
+      "start": 1526.76,
+      "end": 1527.92,
+      "text": "Eso es lo que van a poder hacer."
+    },
+    {
+      "start": 1528.42,
+      "end": 1530.06,
+      "text": "Porque no van a tener un juego de naipes."
+    },
+    {
+      "start": 1530.6,
+      "end": 1532.52,
+      "text": "No van a tener un libro, ni una foto."
+    },
+    {
+      "start": 1532.64,
+      "end": 1543.76,
+      "text": "Y para qué decir, no van a tener ningún medio tecnológico para que se entretengan, pero que se entretengan entre ellos sin comunicarse con el exterior,"
+    },
+    {
+      "start": 1544.54,
+      "end": 1546.84,
+      "text": "que se coman la comida y usen el uniforme."
+    },
+    {
+      "start": 1548.64,
+      "end": 1550.2,
+      "text": "El cuarto punto,"
+    },
+    {
+      "start": 1551.84,
+      "end": 1553.02,
+      "text": "porque esto sigue avanzando,"
+    },
+    {
+      "start": 1553.8,
+      "end": 1556.38,
+      "text": "es que Arica tiene que recuperar"
+    },
+    {
+      "start": 1556.38,
+      "end": 1557.82,
+      "text": "la conectividad total."
+    },
+    {
+      "start": 1558.82,
+      "end": 1560.14,
+      "text": "Me corro para la cámara de sombra."
+    },
+    {
+      "start": 1560.92,
+      "end": 1562.42,
+      "text": "Miren, soy funcional."
+    },
+    {
+      "start": 1563.2,
+      "end": 1565.44,
+      "text": "Soy un buen para focos. Porque le llega el foco. Miren ahí soy funcional. Soy un buen para focos."
+    },
+    {
+      "start": 1566.36,
+      "end": 1567.52,
+      "text": "Porque le llega el foco, miren ahí."
+    },
+    {
+      "start": 1571.26,
+      "end": 1572.1,
+      "text": "Ahí."
+    },
+    {
+      "start": 1573.32,
+      "end": 1573.72,
+      "text": "De nada."
+    },
+    {
+      "start": 1576.08,
+      "end": 1578.36,
+      "text": "Bueno, Arika merece."
+    },
+    {
+      "start": 1579.02,
+      "end": 1579.68,
+      "text": "Yo también."
+    },
+    {
+      "start": 1581.62,
+      "end": 1588.08,
+      "text": "Pero más para allá. Bueno, Aririca merece, yo también, pero más para allá Bueno, Arica merece conectividad total y real"
+    },
+    {
+      "start": 1588.08,
+      "end": 1594.04,
+      "text": "Lo que ustedes están viviendo en la cuesta Camarones es algo que no vive nadie en Chile"
+    },
+    {
+      "start": 1594.04,
+      "end": 1597.72,
+      "text": "Y esto requiere que"
+    },
+    {
+      "start": 1597.72,
+      "end": 1604.32,
+      "text": "ustedes mismos levanten la voz. Yo les pediría que a partir de mañana en sus redes sociales"
+    },
+    {
+      "start": 1604.32,
+      "end": 1610.16,
+      "text": "vayan planteando cada vez Arica merece libertad. Ah, ¿qué pasó?"
+    },
+    {
+      "start": 1611.96,
+      "end": 1613.18,
+      "text": "Algo me perdí."
+    },
+    {
+      "start": 1614.92,
+      "end": 1616.0,
+      "text": "Al Arica..."
+    },
+    {
+      "start": 1616.6,
+      "end": 1619.88,
+      "text": "Arica merece libertad."
+    },
+    {
+      "start": 1620.32,
+      "end": 1626.12,
+      "text": "Y la libertad de desplazamiento incluye poder circular las 24 horas del día por la Ruta"
+    },
+    {
+      "start": 1626.12,
+      "end": 1645.02,
+      "text": "5 para llegar a Iquique, para llegar a Santiago. ¡Aéjale! Merece esa libertad. ¡Eso! Merece libertad para llegar a todo Chile. No puede ser que la ciudad, puerta de entrada"
+    },
+    {
+      "start": 1645.02,
+      "end": 1650.58,
+      "text": "de Chile, esté aislada entre las 10 de la noche y las 6 de la mañana. ¿Qué pasa con"
+    },
+    {
+      "start": 1650.58,
+      "end": 1654.7,
+      "text": "el transporte de carga? ¿Qué pasa con el transporte pasajero? Tuvieron que readecuar"
+    },
+    {
+      "start": 1654.7,
+      "end": 1660.58,
+      "text": "todo el transporte para poder rearmar los turnos,"
+    },
+    {
+      "start": 1660.7,
+      "end": 1664.96,
+      "text": "para poder rearmar las salidas de la mercadería que sale de aquí del Valle de Azapa,"
+    },
+    {
+      "start": 1665.04,
+      "end": 1666.36,
+      "text": "del Valle de Utah a Santiago."
+    },
+    {
+      "start": 1666.48,
+      "end": 1668.48,
+      "text": "Eso es inaceptable y la autoridad es bien gracia."
+    },
+    {
+      "start": 1669.16,
+      "end": 1673.24,
+      "text": "¿Había una alternativa? Sí. Pero dijeron, no, esto lo vamos a solucionar en tres días,"
+    },
+    {
+      "start": 1673.32,
+      "end": 1675.28,
+      "text": "así que no vale la pena invertir en una ruta alternativa."
+    },
+    {
+      "start": 1675.8,
+      "end": 1680.6,
+      "text": "Siempre hay que tener una ruta alternativa. Siempre hay que pensar en que esto puede volver a ocurrir."
+    },
+    {
+      "start": 1681.04,
+      "end": 1684.36,
+      "text": "Cuando fue el primer corte, no fueron capaces de pensar en un puente aéreo."
+    },
+    {
+      "start": 1685.08,
+      "end": 1690.32,
+      "text": "Nosotros tenemos aviones para tener en Iquique y para tener en Arica y solucionar los problemas"
+    },
+    {
+      "start": 1690.32,
+      "end": 1695.0,
+      "text": "de las personas que requieren urgentemente llegar a otro destino a través de un puente"
+    },
+    {
+      "start": 1695.0,
+      "end": 1699.72,
+      "text": "aéreo. Eso se ha hecho en otras épocas y se puede volver a hacer. Soluciones prácticas"
+    },
+    {
+      "start": 1699.72,
+      "end": 1704.12,
+      "text": "y reales para problemas graves que atienden, que afectan a las personas."
+    },
+    {
+      "start": 1705.06,
+      "end": 1709.88,
+      "text": "Y la conectividad no es solamente vial, sino que también hay un problema de conectividad"
+    },
+    {
+      "start": 1709.88,
+      "end": 1716.08,
+      "text": "digital. Claro, en Arica es mejor, pero para el altiplano las personas no tienen conectividad digital."
+    },
+    {
+      "start": 1716.66,
+      "end": 1719.42,
+      "text": "Y no voy a olvidar nunca lo que me dijo la señora Esperanza."
+    },
+    {
+      "start": 1719.92,
+      "end": 1724.0,
+      "text": "Y de ese nombre es difícil olvidarse, porque tenemos que tener esperanza siempre."
+    },
+    {
+      "start": 1724.0,
+      "end": 1731.04,
+      "text": "Y ella me dijo, yo quiero que nunca más esté aislada aquí en Bisbiri por no tener conectividad"
+    },
+    {
+      "start": 1731.04,
+      "end": 1738.52,
+      "text": "telefónica durante una semana. Imagínense que pasa esto en Santiago, pasa esto en Arica"
+    },
+    {
+      "start": 1738.52,
+      "end": 1743.04,
+      "text": "y se arma una revolución, porque estamos acostumbrados a estar conectados. Pero la"
+    },
+    {
+      "start": 1743.04,
+      "end": 1747.58,
+      "text": "señora Esperanza me dice, mire, cada cierto tiempo pierdo la señal por dos días, por una semana."
+    },
+    {
+      "start": 1748.38,
+      "end": 1749.42,
+      "text": "Porque no da la capacidad."
+    },
+    {
+      "start": 1750.2,
+      "end": 1761.32,
+      "text": "El Estado tiene una obligación geopolítica de que las personas que viven en altiplano tengan luz, tengan agua, tengan conectividad digital y conectividad terrestre."
+    },
+    {
+      "start": 1761.9,
+      "end": 1763.58,
+      "text": "No solamente por ellos, sino por Chile."
+    },
+    {
+      "start": 1764.44,
+      "end": 1770.26,
+      "text": "Nuestros vecinos fomentan las fronteras vivas y nosotros ahí los tenemos abandonados."
+    },
+    {
+      "start": 1770.82,
+      "end": 1774.22,
+      "text": "Eso no puede ser y también les aseguro que va a cambiar."
+    },
+    {
+      "start": 1774.22,
+      "end": 1777.0,
+      "text": "Y le dije, señora Esperanza, yo voy a volver a Bisbiri."
+    },
+    {
+      "start": 1777.7,
+      "end": 1781.0,
+      "text": "Y voy a volver, si es que gano como presidente y será hermoso."
+    },
+    {
+      "start": 1781.56,
+      "end": 1788.7,
+      "text": "Y voy a volver como su amigo, si es que no gano y también será hermoso."
+    },
+    {
+      "start": 1789.56,
+      "end": 1790.28,
+      "text": "Pero uno tiene que"
+    },
+    {
+      "start": 1790.28,
+      "end": 1795.72,
+      "text": "estar siempre preparado para todas las situaciones que se puedan dar. Ellos no tienen luz, están"
+    },
+    {
+      "start": 1795.72,
+      "end": 1800.1,
+      "text": "los postes puestos, una cosa bien increíble. Ustedes van a vivir y están todas las luces"
+    },
+    {
+      "start": 1800.1,
+      "end": 1805.46,
+      "text": "del alumbrado público puestos. Y no no se aprendió en 16 años. Es increíble."
+    },
+    {
+      "start": 1806.78,
+      "end": 1813.76,
+      "text": "Bueno, vamos a ir avanzando en el punto quinto. Nosotros tenemos que potenciar toda iniciativa"
+    },
+    {
+      "start": 1813.76,
+      "end": 1823.0,
+      "text": "de desarrollo económico y desarrollo turístico. Arica es una ciudad, una región maravillosa. Pero"
+    },
+    {
+      "start": 1823.0,
+      "end": 1829.08,
+      "text": "si queremos fomentar el turismo, no podemos vivir más, nunca más, la indignidad de haber"
+    },
+    {
+      "start": 1829.08,
+      "end": 1837.48,
+      "text": "tenido un aeropuerto en carpas, mal construido, por años, 5 años en una carpa, nadie merece eso."
+    },
+    {
+      "start": 1837.86,
+      "end": 1843.74,
+      "text": "¿Qué turista va a venir feliz si sabe que cuando llegue al aeropuerto o cuando se tenga que ir va a tener que estar parado?"
+    },
+    {
+      "start": 1843.96,
+      "end": 1848.48,
+      "text": "No van a haber ni sillas, los servicios higiénicos van a ser malitos."
+    },
+    {
+      "start": 1849.04,
+      "end": 1850.3,
+      "text": "Bueno, eso es inaceptable."
+    },
+    {
+      "start": 1850.82,
+      "end": 1854.56,
+      "text": "Ahora uno está feliz porque ya se terminó el nuevo aeropuerto,"
+    },
+    {
+      "start": 1855.12,
+      "end": 1859.72,
+      "text": "pero curiosamente llegamos anteanoche y había unas carpas en la mitad del edificio."
+    },
+    {
+      "start": 1859.72,
+      "end": 1861.5,
+      "text": "Y yo digo, pero ¿hasta cuándo las carpas?"
+    },
+    {
+      "start": 1862.44,
+      "end": 1863.94,
+      "text": "Bueno, eso tiene que terminar."
+    },
+    {
+      "start": 1864.14,
+      "end": 1872.18,
+      "text": "Ustedes tienen que tener un servicio de aeropuerto de primer nivel para que los turistas vengan, disfruten y"
+    },
+    {
+      "start": 1872.18,
+      "end": 1880.7,
+      "text": "gasten su plata allí. Porque todo eso es desarrollo y progreso. Los paisajes son preciosos."
+    },
+    {
+      "start": 1880.78,
+      "end": 1882.24,
+      "text": "Las playas son increíbles."
+    },
+    {
+      "start": 1883.08,
+      "end": 1885.88,
+      "text": "¡Un aplauso para el hombre de las luces!"
+    },
+    {
+      "start": 1887.48,
+      "end": 1888.64,
+      "text": "Ahora nos vemos."
+    },
+    {
+      "start": 1891.4,
+      "end": 1897.06,
+      "text": "Bueno, si nosotros generamos desarrollo, si nosotros aprovechamos el mar que está aquí"
+    },
+    {
+      "start": 1897.06,
+      "end": 1899.54,
+      "text": "esta es una muy buena"
+    },
+    {
+      "start": 1899.54,
+      "end": 1901.52,
+      "text": "localidad para practicar el surf"
+    },
+    {
+      "start": 1901.52,
+      "end": 1903.32,
+      "text": "es un destino mundial"
+    },
+    {
+      "start": 1903.32,
+      "end": 1904.92,
+      "text": "donde podríamos"
+    },
+    {
+      "start": 1904.92,
+      "end": 1906.52,
+      "text": "al igual que se hizo en Salvador"
+    },
+    {
+      "start": 1906.52,
+      "end": 1909.08,
+      "text": "que se hizo en la ciudad Surf City"
+    },
+    {
+      "start": 1909.08,
+      "end": 1910.6,
+      "text": "bueno, aquí también"
+    },
+    {
+      "start": 1910.6,
+      "end": 1917.98,
+      "text": "puede ser Surf Arica. Y es una posibilidad real. Ayer cuando veníamos bajando al altiplano"
+    },
+    {
+      "start": 1917.98,
+      "end": 1923.84,
+      "text": "alguien me dice, hay personas que recorren el mundo buscando aves. Y aquí hay aves que"
+    },
+    {
+      "start": 1923.84,
+      "end": 1925.76,
+      "text": "esas personas no tienen. Y vienen a hacer una especie de ruta de fotografía de aves. Y aquí hay aves que esas personas no tienen. Y vienen a hacer"
+    },
+    {
+      "start": 1925.76,
+      "end": 1932.86,
+      "text": "una especie de ruta de fotografía de aves. Bueno, ahí hay un nicho turístico enorme,"
+    },
+    {
+      "start": 1933.1,
+      "end": 1938.08,
+      "text": "enorme, que nadie conoce. Podemos hacer la ruta de los volcanes o la ruta de las altas"
+    },
+    {
+      "start": 1938.08,
+      "end": 1942.54,
+      "text": "cumbres. Todo eso es posible si tenemos un buen gobierno."
+    },
+    {
+      "start": 1943.0,
+      "end": 1946.98,
+      "text": "Así que el desarrollo se viene, la seguridad se viene."
+    },
+    {
+      "start": 1951.7,
+      "end": 1958.32,
+      "text": "Y quiero también aprovechar esta instancia, esta tribuna,"
+    },
+    {
+      "start": 1958.82,
+      "end": 1966.02,
+      "text": "para hablarle a todos aquellos que son candidatos al Parlamento, al Senado,"
+    },
+    {
+      "start": 1966.66,
+      "end": 1971.46,
+      "text": "al Parlamento, a la Cámara de Diputados, que son de oposición a este gobierno."
+    },
+    {
+      "start": 1972.5,
+      "end": 1978.16,
+      "text": "Esto nosotros lo tenemos claro, los que estamos aquí, los republicanos, tenemos claro que"
+    },
+    {
+      "start": 1978.16,
+      "end": 1983.0,
+      "text": "somos oposición al gobierno, que el adversario está al frente nuestro, pero lamentablemente"
+    },
+    {
+      "start": 1983.64,
+      "end": 1985.36,
+      "text": "no todos lo tienen claro."
+    },
+    {
+      "start": 1994.3,
+      "end": 1994.9,
+      "text": "Y queremos hacerle una invitación a todos aquellos candidatos, incluidos los candidatos presidenciales que son de oposición a este gobierno,"
+    },
+    {
+      "start": 2000.2,
+      "end": 2000.9,
+      "text": "que demos una señal clara, que nosotros tenemos que mirar al frente, donde está el adversario."
+    },
+    {
+      "start": 2005.78,
+      "end": 2011.46,
+      "text": "Cada uno tiene el legítimo derecho de presentarse de candidato a la presidencia. Cada uno tiene el legítimo derecho de presentar sus propuestas. Algunas son con desafíos grandes. Generar"
+    },
+    {
+      "start": 2011.46,
+      "end": 2015.4,
+      "text": "un millón de empleos es un tremendo desafío. Generar un Estado eficiente es un tremendo desafío. Generar un millón de empleo es un tremendo desafío. Generar un Estado"
+    },
+    {
+      "start": 2015.4,
+      "end": 2021.6,
+      "text": "eficiente es un tremendo desafío. Generar un compromiso de gastar menos en los"
+    },
+    {
+      "start": 2021.6,
+      "end": 2026.66,
+      "text": "apitutados es un tremendo compromiso. Cerrar las fronteras es un tremendo"
+    },
+    {
+      "start": 2026.66,
+      "end": 2033.06,
+      "text": "compromiso. Cada uno de los cuatro que están, tenemos desafíos enormes."
+    },
+    {
+      "start": 2033.8,
+      "end": 2038.3,
+      "text": "Y tenemos que velar porque la gente conozca nuestras propuestas."
+    },
+    {
+      "start": 2039.22,
+      "end": 2043.98,
+      "text": "Si la gente al final vota por el que tiene convicción, por el que sabe lo que está haciendo,"
+    },
+    {
+      "start": 2043.98,
+      "end": 2050.06,
+      "text": "por el que habla de frente, mira a los ojos y plantea con corrección y con fundamentos"
+    },
+    {
+      "start": 2050.06,
+      "end": 2058.2,
+      "text": "y argumentos lo que está en la propuesta presidencial. Así que yo les quiero pedir"
+    },
+    {
+      "start": 2058.2,
+      "end": 2062.0,
+      "text": "un aplauso para aquellos candidatos presidenciales."
+    },
+    {
+      "start": 2063.0,
+      "end": 2067.0,
+      "text": "Franco Parisi, Johannes Keiser y Evelyn Matei."
+    },
+    {
+      "start": 2067.0,
+      "end": 2070.0,
+      "text": "Para los tres, un aplauso grande y fuerte."
+    },
+    {
+      "start": 2070.0,
+      "end": 2073.0,
+      "text": "Que se escuche que los que estamos aquí"
+    },
+    {
+      "start": 2073.0,
+      "end": 2076.66,
+      "text": "tenemos claro que el desafío está al frente, que"
+    },
+    {
+      "start": 2076.66,
+      "end": 2083.68,
+      "text": "nuestra meta es que se vayan del gobierno los que han abusado del gobierno, los que"
+    },
+    {
+      "start": 2083.68,
+      "end": 2088.78,
+      "text": "se han aprovechado, los que mintieron al pueblo chileno, los que dijeron que no iban a haber"
+    },
+    {
+      "start": 2088.78,
+      "end": 2090.1,
+      "text": "más apitutados, los que dijeron que nadie iba a tener un sueldo más alto que el presidente, los que dijeron que no iban a haber más apitutados,"
+    },
+    {
+      "start": 2094.92,
+      "end": 2099.28,
+      "text": "los que dijeron que nadie iba a tener un sueldo más alto que el presidente, los que dijeron que iban a defender a nuestras fuerzas policiales y nuestras fuerzas militares, los que hoy"
+    },
+    {
+      "start": 2099.28,
+      "end": 2102.28,
+      "text": "día están diciendo que van a cerrar las fronteras."
+    },
+    {
+      "start": 2102.82,
+      "end": 2105.48,
+      "text": "Pero nosotros no competimos para dividir"
+    },
+    {
+      "start": 2105.48,
+      "end": 2108.56,
+      "text": "nosotros competimos para sumar"
+    },
+    {
+      "start": 2108.56,
+      "end": 2110.72,
+      "text": "y todos somos importantes"
+    },
+    {
+      "start": 2110.72,
+      "end": 2112.64,
+      "text": "y tenemos que sumar"
+    },
+    {
+      "start": 2112.64,
+      "end": 2116.5,
+      "text": "para que se acabe"
+    },
+    {
+      "start": 2116.5,
+      "end": 2121.0,
+      "text": "ese mal gobierno que hoy día..."
+    },
+    {
+      "start": 2122.5,
+      "end": 2130.36,
+      "text": "También, se han robado la plata con las fundaciones, se han robado plata aquí."
+    },
+    {
+      "start": 2130.98,
+      "end": 2133.0,
+      "text": "Cada uno de ustedes sabe que aquí hay funcionarios."
+    },
+    {
+      "start": 2134.08,
+      "end": 2135.22,
+      "text": "No, no eran funcionarios, eran aprovechadores que estaban en un servicio público que aquí hay funcionarios. No, no eran funcionarios."
+    },
+    {
+      "start": 2135.6,
+      "end": 2141.78,
+      "text": "Eran aprovechadores que estaban en un servicio público, que era el tema del MOP, y ya están presos."
+    },
+    {
+      "start": 2142.36,
+      "end": 2143.64,
+      "text": "¿Y quiénes son los que más sufren?"
+    },
+    {
+      "start": 2143.7,
+      "end": 2144.72,
+      "text": "Los que viven en altiplano."
+    },
+    {
+      "start": 2145.24,
+      "end": 2146.58,
+      "text": "Porque se lo ahorraron todo."
+    },
+    {
+      "start": 2146.96,
+      "end": 2151.58,
+      "text": "Y se han demorado años en terminar un camino Pero ellos no se demoraron nada"
+    },
+    {
+      "start": 2151.58,
+      "end": 2153.46,
+      "text": "En pavimentar la entrada a su casa"
+    },
+    {
+      "start": 2153.46,
+      "end": 2155.02,
+      "text": "En mejorar la vereda delante de su casa"
+    },
+    {
+      "start": 2155.02,
+      "end": 2156.24,
+      "text": "En pintar la casa"
+    },
+    {
+      "start": 2156.24,
+      "end": 2157.8,
+      "text": "En cambiar el jardín"
+    },
+    {
+      "start": 2157.8,
+      "end": 2159.7,
+      "text": "Bueno, ahí está la plata de todos los chilenos"
+    },
+    {
+      "start": 2159.7,
+      "end": 2161.14,
+      "text": "En la casa de ellos"
+    },
+    {
+      "start": 2161.14,
+      "end": 2169.88,
+      "text": "Y eso es algo que nosotros tenemos que cambiar. Y nosotros también queremos decir"
+    },
+    {
+      "start": 2169.88,
+      "end": 2176.78,
+      "text": "que los vamos a derrotar, no solamente a los que hoy día usan la moneda y las reparticiones públicas"
+    },
+    {
+      "start": 2176.78,
+      "end": 2182.12,
+      "text": "como un comando de campaña, porque eso es lo que están haciendo. Usan la moneda como un comando de campaña, porque eso es lo que están haciendo."
+    },
+    {
+      "start": 2182.64,
+      "end": 2188.16,
+      "text": "Usan la moneda como un comando de campaña para la candidata de la continuidad."
+    },
+    {
+      "start": 2189.24,
+      "end": 2200.22,
+      "text": "La candidata que tuvo una responsabilidad importante en el gobierno, ella era la responsable"
+    },
+    {
+      "start": 2200.22,
+      "end": 2208.36,
+      "text": "de que tuviéramos más empleo, y va a ser recordada como la ministra del desempleo,"
+    },
+    {
+      "start": 2208.66,
+      "end": 2212.04,
+      "text": "porque hay un millón de personas sin trabajo, sobre"
+    },
+    {
+      "start": 2212.04,
+      "end": 2218.5,
+      "text": "todo mujeres, y ella siempre ha hablado de la defensa de las mujeres. Y la mayor cantidad"
+    },
+    {
+      "start": 2218.5,
+      "end": 2225.8,
+      "text": "de desempleados que hay hoy día, y sobre todo en mujeres, es bajo su dirección en el Ministerio del"
+    },
+    {
+      "start": 2225.8,
+      "end": 2233.56,
+      "text": "Trabajo. La informalidad ha crecido como nunca. Arica tiene más informalidad que el"
+    },
+    {
+      "start": 2233.56,
+      "end": 2239.74,
+      "text": "resto del país. Y eso es por malas políticas públicas. Y porque los ministros, los"
+    },
+    {
+      "start": 2239.74,
+      "end": 2245.88,
+      "text": "subsecretarios y los políticos no están haciendo la pega en las funciones que les corresponde."
+    },
+    {
+      "start": 2246.42,
+      "end": 2256.46,
+      "text": "Y a esos ministros, a esos subsecretarios, a esos funcionarios o pseudo funcionarios, les decimos, pónganse a trabajar por Chile, dejen de"
+    },
+    {
+      "start": 2256.46,
+      "end": 2263.2,
+      "text": "trabajar y politizar todo por una candidatura de la continuidad, hagan la"
+    },
+    {
+      "start": 2263.2,
+      "end": 2268.96,
+      "text": "pega, no hablen más de política desde la moneda o de sus ministerios, háblenle a"
+    },
+    {
+      "start": 2268.96,
+      "end": 2270.12,
+      "text": "Chile, háblenle al chileno que sufre, háblenle a esa familia sus ministerios, háblenle a Chile, háblenle"
+    },
+    {
+      "start": 2270.12,
+      "end": 2275.66,
+      "text": "al chileno que sufre, háblenle a esa familia que tiene miedo, háblenle a ese joven que"
+    },
+    {
+      "start": 2275.66,
+      "end": 2279.84,
+      "text": "no tiene esperanza de salir adelante porque no tiene calidad de educación, háblenle"
+    },
+    {
+      "start": 2279.84,
+      "end": 2286.12,
+      "text": "al PYME que no sabe cómo emprender porque lo ahogan con reglamentos, con requisitos"
+    },
+    {
+      "start": 2286.12,
+      "end": 2291.44,
+      "text": "especiales. Háblenle a aquellas personas que hoy día sufren porque no tienen salud,"
+    },
+    {
+      "start": 2291.68,
+      "end": 2297.62,
+      "text": "porque el hospital, porque el Cefam está colapsado. Hagan la pega, tan sencillo como"
+    },
+    {
+      "start": 2297.62,
+      "end": 2302.3,
+      "text": "eso. Les quedan seis meses, déjense de politiquear y pónganse a trabajar."
+    },
+    {
+      "start": 2303.62,
+      "end": 2305.84,
+      "text": "Mensaje claro, directo."
+    },
+    {
+      "start": 2308.7,
+      "end": 2315.62,
+      "text": "Y nosotros, por el contrario, queremos plantear un gobierno de emergencia."
+    },
+    {
+      "start": 2316.16,
+      "end": 2318.0,
+      "text": "¿Y por qué un gobierno de emergencia?"
+    },
+    {
+      "start": 2318.68,
+      "end": 2326.12,
+      "text": "Porque no vamos a ser capaces de abordar todas las temáticas, todos los temas que hoy día ocupan o nos preocupan."
+    },
+    {
+      "start": 2326.9,
+      "end": 2329.02,
+      "text": "Y nos hemos enfocado en algunos ejes."
+    },
+    {
+      "start": 2329.18,
+      "end": 2330.72,
+      "text": "El primer eje es el de la seguridad."
+    },
+    {
+      "start": 2331.46,
+      "end": 2337.4,
+      "text": "Tenemos poco tiempo para sacar adelante la seguridad. Nos enfocamos en el empleo. Tenemos"
+    },
+    {
+      "start": 2337.4,
+      "end": 2343.1,
+      "text": "poco tiempo para que haya empleo digno para ese millón de personas que hoy día no tienen"
+    },
+    {
+      "start": 2343.1,
+      "end": 2345.68,
+      "text": "trabajo. Nos queremos enfocar en lo social"
+    },
+    {
+      "start": 2345.68,
+      "end": 2348.9,
+      "text": "que implica mejorar la calidad de la enseñanza"
+    },
+    {
+      "start": 2348.9,
+      "end": 2351.66,
+      "text": "hoy día, claro, nos regalaron los SLEP"
+    },
+    {
+      "start": 2351.66,
+      "end": 2353.88,
+      "text": "a lo mejor aquí en Arica no se nota tanto"
+    },
+    {
+      "start": 2353.88,
+      "end": 2356.66,
+      "text": "pero en Putre, antes si se quebraba un vidrio"
+    },
+    {
+      "start": 2356.66,
+      "end": 2358.6,
+      "text": "lo podían cambiar de inmediato"
+    },
+    {
+      "start": 2358.6,
+      "end": 2360.26,
+      "text": "porque el alcalde decía bueno, yo respondo por el vidrio, lo podían cambiar de inmediato, porque el alcalde decía,"
+    },
+    {
+      "start": 2360.4,
+      "end": 2365.48,
+      "text": "bueno, yo respondo por el vidrio, lo cambio. Hoy día que depende del SLEP, si se quebra"
+    },
+    {
+      "start": 2365.48,
+      "end": 2370.28,
+      "text": "un vidrio, tienen que mandar un oficio, que tienen que bajar físicamente, porque no sé"
+    },
+    {
+      "start": 2370.28,
+      "end": 2375.3,
+      "text": "si todavía le ha llegado al internet al SLEP allá arriba todavía es difícil"
+    },
+    {
+      "start": 2375.3,
+      "end": 2377.78,
+      "text": "tienen que leer el oficio, pensarlo"
+    },
+    {
+      "start": 2377.78,
+      "end": 2379.32,
+      "text": "hacer una licitación, comprar"
+    },
+    {
+      "start": 2379.32,
+      "end": 2381.68,
+      "text": "y después mandar al maestro con el vidrio"
+    },
+    {
+      "start": 2381.68,
+      "end": 2382.86,
+      "text": "para que lo vaya a poner"
+    },
+    {
+      "start": 2382.86,
+      "end": 2384.3,
+      "text": "dos semanas, tres semanas"
+    },
+    {
+      "start": 2384.3,
+      "end": 2386.98,
+      "text": "hasta que hagan un cambio básico de un vidrio"
+    },
+    {
+      "start": 2386.98,
+      "end": 2388.94,
+      "text": "eso lo vamos a cambiar"
+    },
+    {
+      "start": 2388.94,
+      "end": 2392.58,
+      "text": "y vamos a seguir avanzando en un"
+    },
+    {
+      "start": 2392.58,
+      "end": 2398.26,
+      "text": "gobierno, y aquí les voy a ir pidiendo su colaboración activa, vamos a avanzar en un"
+    },
+    {
+      "start": 2398.26,
+      "end": 2411.92,
+      "text": "gobierno sin corrupción, vamos a avanzar en un gobierno sin complejos, vamos a avanzar en un gobierno sin cobardía,"
+    },
+    {
+      "start": 2412.92,
+      "end": 2427.7,
+      "text": "vamos a avanzar en un gobierno sin continuidad y vamos a avanzar en un gobierno sin comunismo. Y eso lo vamos a hacer con"
+    },
+    {
+      "start": 2427.7,
+      "end": 2446.7,
+      "text": "carácter, con decisión, con voluntad. Muchas gracias. Arica no está condenada al fracaso, Arica no está condenada"
+    },
+    {
+      "start": 2446.7,
+      "end": 2452.24,
+      "text": "al miedo, Arica no está condenada al desierto abandonado."
+    },
+    {
+      "start": 2452.7,
+      "end": 2456.68,
+      "text": "Arica puede llegar a florecer, puede llegar a crecer nuevamente."
+    },
+    {
+      "start": 2457.34,
+      "end": 2459.32,
+      "text": "Esa es la Arica que nosotros queremos."
+    },
+    {
+      "start": 2459.98,
+      "end": 2465.22,
+      "text": "Esa es la Arica que ustedes, algunos, vivieron y quieren volver a vivir."
+    },
+    {
+      "start": 2466.08,
+      "end": 2468.92,
+      "text": "Y aquí que nadie les diga que es imposible."
+    },
+    {
+      "start": 2469.6,
+      "end": 2470.64,
+      "text": "No hay imposibles."
+    },
+    {
+      "start": 2470.86,
+      "end": 2474.86,
+      "text": "Así como nosotros les recordamos con las 33 propuestas,"
+    },
+    {
+      "start": 2475.56,
+      "end": 2479.3,
+      "text": "lo imposible que era rescatar a los mineros, no hay imposibles."
+    },
+    {
+      "start": 2480.24,
+      "end": 2485.32,
+      "text": "Y eso es algo que tenemos que grabar en nuestra mente, en nuestro corazón."
+    },
+    {
+      "start": 2485.96,
+      "end": 2492.84,
+      "text": "Nada es imposible cuando uno tiene la voluntad, la decisión, la valentía de enfrentar situaciones críticas."
+    },
+    {
+      "start": 2493.96,
+      "end": 2498.14,
+      "text": "Y si ustedes miran, ahora ya no porque está algo oscuro,"
+    },
+    {
+      "start": 2499.26,
+      "end": 2501.44,
+      "text": "van a ver un símbolo increíble."
+    },
+    {
+      "start": 2502.54,
+      "end": 2504.42,
+      "text": "El símbolo del morro."
+    },
+    {
+      "start": 2505.12,
+      "end": 2505.8,
+      "text": "¡Qué orgullo!"
+    },
+    {
+      "start": 2506.16,
+      "end": 2512.5,
+      "text": "¡Qué orgullo cuando uno viene a Arica y pasa ahí por delante de la estación, por delante de la plaza,"
+    },
+    {
+      "start": 2512.94,
+      "end": 2517.02,
+      "text": "mira hacia arriba y dice, qué hermoso, qué increíble lo que estoy viendo."
+    },
+    {
+      "start": 2517.02,
+      "end": 2524.4,
+      "text": "A uno se le encoge el corazón de ver la valentía de esos soldados chilenos"
+    },
+    {
+      "start": 2524.4,
+      "end": 2527.9,
+      "text": "que en 55 minutos, guiados por el coronel Lagos,"
+    },
+    {
+      "start": 2528.52,
+      "end": 2534.86,
+      "text": "tomaron el morro y dijeron, aquí vamos a partir con un desafío más grande,"
+    },
+    {
+      "start": 2535.12,
+      "end": 2537.42,
+      "text": "que es potenciar a Chile desde Arica."
+    },
+    {
+      "start": 2538.02,
+      "end": 2540.28,
+      "text": "Y como dice el himno, y eso lo tuve que anotar"
+    },
+    {
+      "start": 2540.28,
+      "end": 2542.38,
+      "text": "el imponente morro de Arica"
+    },
+    {
+      "start": 2542.38,
+      "end": 2543.76,
+      "text": "besado por el mar"
+    },
+    {
+      "start": 2543.76,
+      "end": 2547.62,
+      "text": "símbolo de la gloria, patria y lealtad"
+    },
+    {
+      "start": 2547.62,
+      "end": 2548.88,
+      "text": "parte del himno"
+    },
+    {
+      "start": 2548.88,
+      "end": 2550.9,
+      "text": "que cantó con tanta energía"
+    },
+    {
+      "start": 2550.9,
+      "end": 2552.82,
+      "text": "partió"
+    },
+    {
+      "start": 2552.82,
+      "end": 2554.24,
+      "text": "parece que fui yo el culpable"
+    },
+    {
+      "start": 2554.24,
+      "end": 2561.88,
+      "text": "y nosotros lo que tenemos que decir es"
+    },
+    {
+      "start": 2561.88,
+      "end": 2568.24,
+      "text": "que ahora nos ponemos en marcha. Ahora empezamos a caminar. Lo dijo Rodolfo. Estos días que quedan"
+    },
+    {
+      "start": 2568.24,
+      "end": 2570.86,
+      "text": "son de trabajo intenso. Ojalá"
+    },
+    {
+      "start": 2570.86,
+      "end": 2576.28,
+      "text": "cada uno de ustedes, cuando pueda, se pare en una esquina, en un semáforo y levante"
+    },
+    {
+      "start": 2576.28,
+      "end": 2581.22,
+      "text": "la bandera chilena. Ellos saben que cuando alguien levanta la bandera chilena, somos"
+    },
+    {
+      "start": 2581.22,
+      "end": 2588.04,
+      "text": "nosotros. Somos los del cambio, porque somos fuerza y somos"
+    },
+    {
+      "start": 2588.04,
+      "end": 2595.88,
+      "text": "cambio, porque somos la fuerza del cambio. ¡Viva Arica! ¡Viva Chile! Y que Dios nos"
+    },
+    {
+      "start": 2595.88,
+      "end": 2604.62,
+      "text": "acompañe en este tremendo desafío que tenemos. Así que muchas gracias por estar acá, muchas gracias por la paciencia que nos han tenido"
+    },
+    {
+      "start": 2604.62,
+      "end": 2612.38,
+      "text": "y vamos a ir después sacándonos, ese poncho se lo regalaron hoy día a la pía"
+    },
+    {
+      "start": 2612.38,
+      "end": 2616.0,
+      "text": "y se siente muy orgullosa de ese gran regalo."
+    },
+    {
+      "start": 2616.0,
+      "end": 2621.0,
+      "text": "Vamos a ir sacando algunas fotos, porque no podemos hacer selfies con todos,"
+    },
+    {
+      "start": 2621.0,
+      "end": 2625.0,
+      "text": "pero vamos a tomar una foto y le vamos a entregar una tarjeta."
+    },
+    {
+      "start": 2625.0,
+      "end": 2632.5,
+      "text": "Y después cada uno en esa tarjeta tiene un código QR Y va a poder bajar su propia fotografía"
+    },
+    {
+      "start": 2632.5,
+      "end": 2634.8,
+      "text": "Así que les pido la comprensión"
+    },
+    {
+      "start": 2634.8,
+      "end": 2648.68,
+      "text": "Vamos a dar otras instrucciones Somos la fuerza, la fuerza del cambio, del cambio, la fuerza del cambio, somos la fuerza, la fuerza del cambio."
+    },
+    {
+      "start": 2648.68,
+      "end": 2657.36,
+      "text": "Vamos a dar otras instrucciones, el que tenga un poquito de paciencia, vamos a hacer una fila y vamos a hacer unas fotos en seguida, así en secuencia,"
+    },
+    {
+      "start": 2657.78,
+      "end": 2660.16,
+      "text": "donde cada uno puede ir sacándose la foto."
+    },
+    {
+      "start": 2663.62,
+      "end": 2668.22,
+      "text": "Las filas los van a ir organizando por ahí, para que todos puedan llevarse una foto que va a estar después descargable en una página web a través de un código QR."
+    },
+    {
+      "start": 2668.38,
+      "end": 2682.34,
+      "text": "Así que les pido paciencia a los que quieran tomarse esa foto ya mi gente"
+    },
+    {
+      "start": 2682.34,
+      "end": 2684.68,
+      "text": "una piel acá por favor"
+    },
+    {
+      "start": 2684.68,
+      "end": 2687.14,
+      "text": "para que se puedan sacar una foto con el candidato"
+    },
+    {
+      "start": 2687.14,
+      "end": 2688.66,
+      "text": "que les va a entregar"
+    },
+    {
+      "start": 2688.66,
+      "end": 2690.52,
+      "text": "una tarjeta que contiene"
+    },
+    {
+      "start": 2690.52,
+      "end": 2696.26,
+      "text": "un código QR en donde ustedes van a poder escanearlo y descargar su foto. No es necesario"
+    },
+    {
+      "start": 2696.26,
+      "end": 2700.98,
+      "text": "que ustedes saquen el celular. Va a haber un fotógrafo con una cámara profesional"
+    },
+    {
+      "start": 2700.98,
+      "end": 2706.44,
+      "text": "sacando una gran fotografía con un gran recuerdo. OK, una fila acá, por"
+    },
+    {
+      "start": 2706.44,
+      "end": 2707.72,
+      "text": "favor, para quienes se quieran"
+    },
+    {
+      "start": 2707.72,
+      "end": 2708.58,
+      "text": "sacar una foto con el"
+    },
+    {
+      "start": 2708.58,
+      "end": 2711.46,
+      "text": "candidato. Una foto por acá, por"
+    },
+    {
+      "start": 2711.46,
+      "end": 2712.76,
+      "text": "favor, una fila por acá."
+    }
+  ]
+}

@@ -1,0 +1,1965 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "... Hoy en la mañana junto a los gobernadores, a la nueva generación de gobernadores que hoy día ejercen la responsabilidad en seis regiones de Chile de marcar una diferencia, pedí las gracias a la candidata Evelyn Matei por su noble gesto y le di las gracias también a Johannes Kaiser y hoy día he tenido la posibilidad de darle las gracias a muchos alcaldes, también a Sebastián Sichel, porque nos endosó también el apoyo, porque claramente Chile está primero. Chile tiene que estar más allá de cualquier diferencia que hayamos podido tener y que tenemos que superar para generar de nuevo la confianza en la política, en las autoridades, de que vamos a trabajar con el foco en las personas, no en las diferencias políticas. Y aquí quiero agradecerle a todos los alcaldes que hoy día me acompañan presencialmente, a los que nos acompañarán virtualmente, y a muchos alcaldes que quizás todavía no conocemos, pero que se van a sorprender de una gestión que va a tener las puertas abiertas para todos los alcaldes. Porque los chilenos que viven en nuestras comunas no distinguen el problema en la salud desde el punto de vista político. Los delincuentes no distinguen por partido político. La educación no distingue entre niños de un sector y otro sector. La vivienda propia y los comités de allegados que llevan años esperando. Ayer estuve en Máfil y había un comité de allegados que hace más de 20 años están tratando de tener su casa propia. Y por burocracia, no de responsabilidad local, sino de responsabilidad del Estado, no lo han podido hacer. Y muchas veces los alcaldes tienen que poner su cara para responder por situaciones que no les corresponden a ellos. Y el Estado descarga en ellos toda la responsabilidad social y un gasto económico impresionante y no responden. Eso tiene que cambiar y eso le hemos pedido también, al igual que a los gobernadores, a todos los alcaldes, que el trabajo no comience el 12 de marzo, si es que la ciudadanía de Chile me elige presidente, que comience el 15 de diciembre, muy temprano, después de la elección, porque las personas esperan mucho en muy poco tiempo y por eso hemos hablado de un gobierno de emergencia nacional para enfrentar esas graves crisis. Un gobierno también de unidad nacional legislativa porque vamos a necesitar los parlamentarios, senadores y diputados de todos los sectores para que vayan a atender las necesidades urgentes de las familias chilenas que tienen que estar bajo riesgo en los centros de salud, en los EFAM, bajo riesgo sus hijos en los centros educacionales. Eso requiere un cambio real y tiene que partir de inmediato. Hoy día vemos la discusión de presupuesto, las asignaciones de recursos y los alcaldes dicen, ¿cómo atiendo más personas si el per cápita no aumenta en proporción a lo que yo tengo que establecer las asignaciones de recursos y los alcaldes dicen cómo atiendo más personas si el per cápita no aumenta en proporción a lo que yo tengo que invertir en las personas que pasa con sal con educación que antes teníamos nosotros la responsabilidad se le entregó a un nuevo organismo y los resultados no han sido los que se prometieron. Aquellos que marcharon por la educación pública destruyeron la educación pública. Y eso es un desafío de largo plazo, pero comienza a recuperarse el día 15 de diciembre. El 11 de marzo se traspasa al mando, pero el 11 de marzo comienza la mayor responsabilidad......que vamos a tener todos. Y nuestro desafío es que sea un gobierno de continuidad, porque este no es la presidencia de una persona, no es la presidencia de un partido, es la presidencia para los chilenos. Cuando alguien dice que le vaya bien, yo le digo que nos vaya bien. Y ahí la reunión que hemos tenido ha sido muy fructífera muy positiva porque se ha señalado que muchas veces se saca una gran foto se dicen cosas razonables pero que terminado el evento cada uno sigue en lo suyo no hay vínculos estos 25 días que nos quedan al 14 de diciembre requieren todo nuestro esfuerzo y nuestro esfuerzo transparente nuestras ideas no necesitan amenazar a nadie necesitan engañar ni mentirle a nadie de que se va a acabar esto se va a caer esto otro se va a romper esto porque va a llegar otra línea política eso es mentira y se lo hemos dicho desde el primer día esto van a ser 90 días de difamaciones de mentiras Van a ser este alargue de nuevo con mentiras y difamaciones. Nosotros actuamos de manera distinta. Nunca le vamos a decir a alguien, vos devuelta al persona porque si no va a perder un beneficio. Hay derechos adquiridos de las personas, que son leyes de la República y nosotros hemos señalado que no vamos a terminar con ningún beneficio social porque el foco está en las personas, no en los políticos. Muchos alcaldes recibieron sus alcaldías en bancarrota y hoy día lidian con problemas económicos heredados. Una alcaldesa me decía, yo hoy día estoy haciendo un trabajo y se lo trata de atribuir la anterior. Bueno, nosotros tenemos que desvelar lo que estaba ocurriendo. Aquí el dueño de casa, de la comuna, ha tenido que recibir ataques arteros y los ha enfrentado con hidalguía y de frente. Y quiero, en primer lugar, pedirle al alcalde de Santiago que pueda dirigir unas palabras, después van a venir otros alcaldes y después las consultas sobre el tema municipal en el foco social. Gracias, José Antonio. Lo primero, feliz de recibir a más de un centenar de alcaldes acá y a través de Zoom, alcaldes de centro-derecha, derecha y mucho independiente. Recibirlos en Santiago junto a José Antonio Kast, una comuna que ha sufrido y todavía sufre las consecuencias de una extraordinariamente mala gestión, una desastrosa gestión de una alcaldesa comunista. Las consecuencias están a la vista, desorden, suciedad, toldos, pero sobre todo un daño que fue silencioso, que fue corroyendo de a poco al comercio, a la industria, a los emprendedores, a los establecimientos educacionales más emblemáticos de Chile, que eran el motor de movilidad social más importante del que disponía la clase media y los sectores populares. Hoy día en el Liceo de Obligación hay 50% de matrículas vacantes. Esa es la consecuencia de la gestión de la anterior alcaldesa del Partido Comunista pero estamos sacando adelante la comuna yo no quiero una presidenta con las mismas ideas pero estamos apoyando a José Antonio Kanz no para que no gane Janet Jara. Apoyamos a Evelyn Matei hasta hace muy pocos días. Y estoy orgulloso de eso. Y de inmediato, el domingo, como corresponde, nos hemos puesto a disposición de José Antonio Kass, no para evitar que ganejara. Estamos apoyando a José Antonio Kass con total convicción de que es y va a ser un muy buen presidente, que tiene un buen programa de gobierno y que es lo mejor que le puede pasar a Chile en estos momentos. Esa es nuestra convicción. Cierro solamente señalando que hago un llamado a la ciudadanía a no confiarse en las encuestas que están apareciendo donde José Antonio está muy arriba. Nadie se puede quedar en la casa. No nos sobra un solo voto y además de eso es importante defender esos votos en las mesas y en las urnas porque la elección que viene tal como dice José Antonio este mes va a ser duro, lleno de mentiras, de fake news, de difamación para que la gente no vaya a votar, para que la gente se asuste o al revés, que se confíe. Así quevenido a santiago a la comuna de santiago josé antonio vamos yo sé que se iba a hacer a tener oficina cerca así que te voy a ir a molestar luego y muy seguido y lo más importante gracias por abrirte con todos nosotros alcaldesas y alcaldes de todo Chile, que te estamos apoyando de todo corazón, porque estamos convencidos que es lo mejor que le puede pasar a Chile el 14 de diciembre, que tú ganes la elección presidencial. Gracias. Muchas gracias Mario. Ahí espero ser un buen vecino. Y ahora quiero darle la palabra a la alcaldesa de una comuna muy emblemática histórica la comuna de sanmiguel que dirige carol bau muchas gracias bueno tal como decía mario recién somos más de 120 alcaldes de todo chile reunidos aquí en forma presencial y virtual entregándole el apoyo total y con total convicción a josé antonio cast porque creemos que el próximo 11 de marzo necesitamos un gran gobierno para chile un gobierno de emergencia nosotros los alcaldes lo vemos todos los días como la gente está sufriendo como la gente está sufriendo porque no puede llegar a fin de mes como está sufriendo por la delincuencia por el crimen organizado y necesitamos trabajar en conjunto. Como alcaldes somos la primera puerta de entrada a la primer lugar donde llega la mayoría de los vecinos, pero necesitamos el apoyo del Estado para poder hacer las cosas bien, para poder dar respuesta a nuestros vecinos y el gobierno también nos va a necesitar a nosotros para poder llegar de la mejor forma posible a la mayor cantidad de chilenos, chilenas y personas que viven en nuestro país que nos necesitan. Así que la verdad es que con total convicción, porque creemos que lo que necesita hoy Chile es el gobierno de José Antonio Kast, estamos aquí apoyando su candidatura porque creemos que lo mejor para cada uno de los vecinos de nuestras comunas es que él sea el próximo presidente de la República. Queremos trabajar todos juntos para eso y vamos a dejar los pies en la calle en los próximos días para que así sea. Me voy de la zona centro-sur a la zona centro-n centro norte que está aquí al ladito una comuna que no siempre uno la visualiza bien pero es una comuna que vive también integración social está para la partida por la mitad por una carretera, tiene barrios sociales que han sufrido marginalidad, tiene barrios emergentes que sufren con la movilidad, tiene un sector empresarial relevante y una persona que decidió hacer un cambio radical en su vida para poner el foco en lo social en las personas. Así que al alcalde de Huichuraba le quiero dar las gracias también por el desafío que asumió de recuperar Huichuraba para todos los habitantes de la comuna. Max. Muchas gracias. Muy buenas noches. El domingo comenté que a cada chileno que confió en alguno de los proyectos de derecha, nosotros tenemos que responder con unidad, conformando a los mejores equipos para atraer seguridad. Hoy día estamos un grupo de alcaldes diversos, de diferentes regiones, con la convicción de traer soluciones concretas para nuestros vecinos. Y yo le quiero agradecer al candidato José Antonio Kass por esta oportunidad que nos dio de poder conversar, de poder ser escuchados, porque tenemos un gran desafío por delante en trabajar en mejorar la seguridad, en lo social, en lo educacional, en la salud, en traer oportunidades laborales. El programa de José Antonio Kast no es refundacional, es un programa de gestión pública. Y juntos lo vamos a sacar adelante. Porque Chile quiere un cambio. Y ese cambio es José Antonio Kast. Muchas gracias. Me voy ahora a una comuna rural. Yo también vivo en una comuna rural. Está mi alcalde por aquí presente, la comuna de Wyn. Así que gracias, Miguel, por estar aquí. Pero me voy a ir al norte, que también sufre con la conectividad, con la salud. ¿Cuántos vecinos de Colina tienen que tomar un recorrido y llegar al Hospital San José? Que está con la conectividad con la salud cuántos vecinos de colina tienen que tomar un recorrido y llegar al hospital san josé que está colapsado conocí hace años atrás al director del hospital el doctor puccio y me decía yo no puedo hacer muchos cambios porque aquí hay un funcionario que atiende las necesidades de tal línea política, aquí este otro, lo instaló este otro político, este otro político y los vecinos tenían un recorrido para irse y otro muy largo para volverse. Y la conectividad es un desastre. Si ustedes van a Colina y tienen que salir por el empalme a despucio a 7 b 7 b y después se quiere encontrar la salida para el sur en el nudo kilicura se pueden perder pueden caer en alguno de los cráteres que hay en las calles laterales y le le aprovecho de pasar un aviso al MOP, a Vivienda, a la autoridad regional, que pavimenten los accesos laterales, las salidas laterales al aeropuerto. Porque uno viene en un estándar A y termina en un Z, y en el Z se van los amortiguadores. Y eso no lo ven ellos nunca. Los tacos, aquellos que vivimos en las zonas rurales que las personas que cumplieron el sueño de la casa propia, o aquellas personas que erradicaron del centro y lo llevaron a las zonas rurales, sin conectividad sin trabajo eso es un mal gobierno y hoy día es lo que nos estamos oriando, así que Isabel Valenzuela, alcaldesa de Colina, gracias también por estar aquí. Qué fácil va a ser trabajar con un presidente que vive en la zona rural. Y eso lo agradecemos, por ahora. Pero conoce la realidad y eso creo que una de las cosas que nosotros lo queremos siempre hemos querido transmitir los alcaldes de las zonas más alejadas del centro de donde no tenemos transporte público donde no tenemos efectivamente en la zona norte no tenemos transporte público donde no tenemos efectivamente en la zona norte no tenemos hospital donde tenemos que trabajar con los vecinos porque la inseguridad que vive cada uno de los vecinos es enorme los turbazos las encerronas la poca conversación que tienen todas las autopistas para poder llegar a un acuerdo y llegar a mejorar la calidad de vida de los vecinos, es espantoso, y en estos cuatro años han sido peor. Y en eso no nos cansamos en decir que hoy día la inseguridad y la sensación de inseguridad que tienen los vecinos es muy alta. Con estas ideas claras que presenta José Antonio, con estas ideas claras que presenta cosa antonio con estas ideas claras que presentan las 33 que están presentando para el próximo gobierno son una idea de que nosotros todos los alcaldes desde ayer estamos desde el domingo la noche o el lunes la mañana estamos muy convencidos de que el próximo presidente va a ser josé antonio casas y en eso vamos a estar trabajando incansablemente como lo dijo la alcaldesa sanmiguel incansablemente no vamos a dejar ni un día de trabajar para que podamos sacar a este gobierno para que las comunas puedan avanzar, para que los beneficios sociales hoy día puedan llegar a todos los vecinos y vecinas de la comuna. Donde además también las mujeres rurales tienen mucho que decir. Y en eso se puede trabajar con las 18 comunas rurales, pero además también a lo largo de todo Chile para que podamos sacar y que el 11 de marzo podamos tener la banda presidencial aquí con josé antonio casas quiero darle la palabra al final a alguien que conocí de muy joven y que hoy día dirige la comuna y que también le tocó dirigir a Evelyn Matei y sí, hemos tenido diferencias. Quién no ha tenido diferencias en su familia con algún hijo, con su pareja, con una señora, con algún primo? Pero de nuevo, Chile está más allá de cualquier diferencia que podemos tener hoy día y los alcaldes son la primera puerta que distinguen los vecinos y creo que en provincia se ha hecho una buena labor y esa buena labor ha continuado y le doy la palabra a jaime velorio me ve el óleo. Muy buenas noches, muchas gracias por acompañarnos. Algunos que asumimos el 6 de diciembre por primera vez estamos cerca de cumplir un año. Sin embargo, hay otros alcaldes y alcaldesas que tienen mucha experiencia acá y yo quiero agradecerles también por ser generosos en compartirla. Desde el municipio se ve distinto. Yo tuve la oportunidad de ser parlamentario por seis años, de ser ministro por dos años del presidente Piñera y hoy día como alcalde. Y se ve distinto porque cuando las personas están viviendo una gigantesca incertidumbre sobre el futuro, la incerteza que tienen de si es que acaso pueden o no caminar tranquilos por las calles, si pueden mantener sus trabajos, si pueden saber que sus familias van a poder tener buen acceso a la educación y que si hay algún problema el Estado les va a ayudar en vez de ponerle trabas y excusas. Y eso se conoce no sólo diciéndolo sino que haciéndolo. La confianza además se teje desde las comunas, desde los barrios, desde las regiones. Chile necesita un proyecto compartido para que salgamos de la polarización y vayamos a la colaboración. Para que salgamos de la emergencia que es necesaria hoy día y sepamos que hacia adelante podemos construir un país en unidad. Y para eso necesitamos un cambio. Los chilenos lo dijeron el domingo. Tres de cada cuatro no quieren que continúe este mal gobierno. Y no quieren que continúe porque este gobierno dijo cosas, pero no hizo ninguna. Y cuando las hizo, hizo fue en el efecto contrario por eso se necesitan personas que estén comprometidas con las urgencias de las personas con la calidad de vida de cada uno de los barrios y de las regiones y eso es justamente lo que se ofrece a través de estos más de 120 alcaldes y alcaldesas, que vamos a hacer todo lo que esté disponible para que el próximo gobierno verdaderamente sirva a Chile, no se sirva de Chile y que genere un proyecto compartido en donde tengamos una mejor nación para todos. Muchas gracias. Y ahora sobre el tema de esta reunión, no sé si hay alguna consulta que vaya en el área social. Municipal. Muy buenas tardes. Sí, respecto, sé que lo explicó al in inicio pero si pudiera profundizar también en las coordinaciones que van a tener con cada uno de los alcaldes los roles que pueden asumir y así como hay enlaces con los partidos y va a haber un enlace o algún jefe comunal que va a tener un rol más específico en cuanto a coordinación con el resto en cuanto al despliegue territorial. Sí, los gobernadores, o sea los partidos políticos han ido designando a un interlocutor que pueda ir organizando el trabajo territorial, pero lo que hemos compartido aquí es que no es un tema de cargos, esto es un tema de calle. Por lo tanto, aquí no necesitamos alguien, un jefe, un subjefe, un subsubjefe, no necesitamos una comisión, necesitamos salir a la calle. Los alcaldes lo han señalado, ya salieron a la calle como corresponde, con la verdad, sin amenazas, sin mentiras, respetando el derecho de las personas a elegir democráticamente. Sin amenazarlos de que van a perder algún derecho. Sin decirles que si hay un cambio van a perder todo. Y eso ya partió. Eso no requiere una instrucción muy clara. Una bandera chilena basta. Si yo camino con una bandera chilena por la calle la gente sabe que yo quiero un cambio para chile un cambio real las coordinaciones están los alcaldes tienen un rol fundamental fundamental lo decía el alcalde de velolio aquí hay una generosidad enorme de alcaldes que un rol fundamental, fundamental, lo decía el alcalde Belolio, aquí hay una generosidad enorme de alcaldes que tienen una trayectoria, que han compartido sus experiencias con alcaldes que llevan recién un año, que han tenido que encontrarse con la dura realidad de que usaron recursos, mal usaron los recursos de los más pobres, se quedaron con los recursos de las personas que no tienen agua en el norte, de los campamentos, se quedaron con los recursos de aquellas personas humildes de la zona de Bío Bío y ahí están. Esa realidad es la que vamos a cambiar y no la necesitamos coordinar, porque todos tenemos el corazón lleno para salir a decirle a las personas que Chile es un país maravilloso, que es un país increíble y que depende de nosotros sacarlo adelante. Buenas tardes, alcaldes, también buenas tardes. Candidato, quería preguntarle respecto de su despliegue que tendrá mañana en la región de Arica, más o menos, qué es lo que busca realizar, por qué Arica y también si es que va a recorrer otras zonas del norte? Sí. Ustedes saben, yo soy un hombre de terreno. He recorrido prácticamente todas las comunas de Chile. Desde hace muchos años, no una vez, muchas veces. Cuando asumí el desafío de ser candidato la primera vez en la comuna de Wynne, fue el año 96. No logré la meta. Y hoy día le digo que sí voy a alcanzar la meta 20 años después, no de ser alcalde de Wynn, sino presidente de Chile. Y desde el año 96 y antes, como dirigente estudiantil, ya conocía Chile, conocía el Alto Bío Bío. Cuando no estaba el conflicto y las personas se respetaban. Cuando se construyeron internados, caminos, se dio agua potable rural, no como ahora, que abundan los camiones aljibe. Y sí, voy a ir al norte de Arica, ya estuve en la Araucanía, estuve en los ríos, al día siguiente de la elección, porque las elecciones se ganan conquistando el corazón de las personas. Otros optan por medios televisivos masivos, que es legítimo, pero la realidad de las cosas que yo le he planteado, el agua potable rural, la conectividad, no tener señal en distintas zonas de Chile. Si usted va a Bisbiri, 5 o 6 horas, ¿cuántas horas está sin conectividad? Los carameleros que asesinaron en Tacora, ¿cómo se comunican? Nosotros tenemos una fuerza policial respetada, que debiéramos respetar todos, pero los que hoy día nos gobiernan no lo respetan. Voy a ir a Arica, voy a ir a la frontera, voy a reiterar el llamado a los inmigrantes irregulares que dejen nuestro país por la puerta si quieren volver a entrar alguna vez a Chile. Si ellos toman sus cosas, venden sus cosas, se van con sus bienes y con sus recursos, alguna vez podrán postular a entrar a Chile, a estudiar, a trabajar, pero por la puerta. Nosotros vamos a cumplir la ley. a ser difícil vamos a modificar leyes y por eso necesitamos un parlamento que piense en chile en sus compatriotas que hoy día no tienen salud que no tienen seguridad que no tienen vivienda, tienen viviendas, arriendan viviendas a precios exorbitantes. Y en Arica está esa situación también, al igual que en Iquique. Por eso es importante recorrer Chile. No es hablar a la distancia, es conocer Chile, empaparse de Chile, de Bisbiri, de Putre, de Camarones, de Arica. Claro, en esta ocasión voy a estar solo en Arica, pero estaba en Camarones, estaba en Putre. Julia Cañari, le mando un saludo. Una tremenda artesana chilena, aymara, que vive en Putre. Y desde Putre sale al mundo. Y llegó a Europa, llegó a Asia, llegó a Estados Unidos con sus productos. Una mujer maravillosa. Una mujer de trabajo. Hija de una familia extensa, que trabaja todo el día, cuida a sus hijos y siempre con una sonrisa, siempre con alegría. Esa patria que hacen en Bisbiri también la hacen en timauque y esa es la experiencia que ha acumulado y quiero hoy día ofrecer a los chilenos entonces si voy a seguir viajando por chile tenemos una agenda muy nutrida para hacer un nuevo recorrido por chile porque santiago no es chile es importante en la capital y queremos recuperar la capital porque es la puerta de entrada cuando algún extranjero viene y se la coge va a la moneda y a la municipalidad santiago y hoy día caminar de la moneda a la municipal de santiago es muy difícil o era muy difícil y cada vez más fácil y si quiere ir Municipal de Santiago, es muy difícil. O era muy difícil, hoy día cada vez es más fácil. Y si quiere ir a La Vega Central, es muy difícil. Nunca más queremos ver que comerciantes irregulares agredan a carabineros de Chile, a los inspectores municipales, porque están cumpliendo con la ley, una ley que ellos infringen y a los comerciantes establecidos le aplican todo el rigor de la ley, porque tienen patente. Y las autoridades pasan delante de los comerciantes ilegales y dicen, no, es que no tiene patente, no es mi responsabilidad. Si alguien se intoxica comiendo en un carrito de supermercado, de los que requisó el alcalde de Independencia, está por aquí. Bueno, las autoridades sanitarias no se preocupan, tiene que hacerlo el alcalde, siendo responsabilidad del Estado. Vemos a la autoridad sanitaria cuando viene la Semana Santa, cuando viene el 18 y se dejan caer en el Tribunal Pesquero, que está ahí dentro de Los Pejos y Cerrillo, en Los Pejos pero al lado de Cerrillo, se dejan caer en Franklin y se hacen famosos por una cuña, por una imagen, que todos estamos esperando todos los años. ¿Cuándo irán a ir a fiscalizar la temperatura de los pescados? ¿Cuándo van a ver si la carne está bien o no? ¿Pero se preocupan del abigiato, del robo de los animales? ¿Se preocupan de los pescadores artesanales de verdad o solo es ideología? Porque sacamos adelante una ley, y yo la voté a favor, la ley Lazquenche, pero era para proteger la pesca artesanal de una comunidad, no para que los abusadores exigieran superficies enormes de mar cuando no tienen ni siquiera un bote. Eso es abuso. Por lo tanto, voy a seguir recorriendo Chile, me siento orgulloso de cada comuna que he visitado y agradezco a cada persona que ha compartido sus necesidades en cada una de esas comunas. de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comun Pero hacemos la segunda pauta, porque algunos alcaldes tienen obligaciones, algunos familiares. Ya se fue el alcalde de Casa Blanca, porque tenía una celebración de cumpleaños. El de Independencia también tuvo que partir a hacer una redada. Pero quiero liberar a los señores alcaldes. Aquí está de cumpleaños un gran amigo, padre del alcalde de la reina así que de salud al bigote muchas gracias hago una despedida a la distancia alcalde de los Andes. Muchas gracias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 37.5,
+      "text": "... Hoy en la mañana junto a los gobernadores, a la nueva generación de gobernadores",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 37.5,
+      "end": 46.86,
+      "text": "que hoy día ejercen la responsabilidad en seis regiones de Chile de marcar una diferencia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 48.2,
+      "end": 54.9,
+      "text": "pedí las gracias a la candidata Evelyn Matei por su noble gesto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 54.9,
+      "end": 60.94,
+      "text": "y le di las gracias también a Johannes Kaiser y hoy día he tenido la posibilidad de darle las gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 60.94,
+      "end": 69.96,
+      "text": "a muchos alcaldes, también a Sebastián Sichel, porque nos endosó también el apoyo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 70.52,
+      "end": 77.66,
+      "text": "porque claramente Chile está primero. Chile tiene que estar más allá de cualquier diferencia que hayamos podido tener",
+      "speaker": "Kast"
+    },
+    {
+      "start": 77.66,
+      "end": 81.04,
+      "text": "y que tenemos que superar para generar de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 81.04,
+      "end": 87.4,
+      "text": "nuevo la confianza en la política, en las autoridades, de que vamos a trabajar con el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 87.4,
+      "end": 93.86,
+      "text": "foco en las personas, no en las diferencias políticas. Y aquí quiero agradecerle a todos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 93.86,
+      "end": 95.5,
+      "text": "los alcaldes que hoy día me acompañan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 95.5,
+      "end": 100.96,
+      "text": "presencialmente, a los que nos acompañarán virtualmente, y a muchos alcaldes que quizás",
+      "speaker": "Kast"
+    },
+    {
+      "start": 100.96,
+      "end": 108.24,
+      "text": "todavía no conocemos, pero que se van a sorprender de una gestión que va a tener",
+      "speaker": "Kast"
+    },
+    {
+      "start": 108.24,
+      "end": 111.88,
+      "text": "las puertas abiertas para todos los alcaldes.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 112.9,
+      "end": 121.9,
+      "text": "Porque los chilenos que viven en nuestras comunas no distinguen el problema en la salud desde el punto de vista político.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 123.66,
+      "end": 125.86,
+      "text": "Los delincuentes no distinguen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 125.86,
+      "end": 133.22,
+      "text": "por partido político. La educación no distingue entre niños de un sector",
+      "speaker": "Kast"
+    },
+    {
+      "start": 133.22,
+      "end": 139.22,
+      "text": "y otro sector. La vivienda propia y los comités de allegados que llevan años esperando.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 139.78,
+      "end": 145.32,
+      "text": "Ayer estuve en Máfil y había un comité de allegados que hace más de 20 años",
+      "speaker": "Kast"
+    },
+    {
+      "start": 145.32,
+      "end": 148.2,
+      "text": "están tratando de tener su casa propia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 148.66,
+      "end": 154.06,
+      "text": "Y por burocracia, no de responsabilidad local, sino de responsabilidad del Estado,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 154.06,
+      "end": 155.34,
+      "text": "no lo han podido hacer.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 156.08,
+      "end": 162.22,
+      "text": "Y muchas veces los alcaldes tienen que poner su cara para responder por situaciones que no les corresponden a ellos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 162.86,
+      "end": 172.32,
+      "text": "Y el Estado descarga en ellos toda la responsabilidad social y un gasto económico impresionante y no responden.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 172.98,
+      "end": 176.8,
+      "text": "Eso tiene que cambiar y eso le hemos pedido también, al igual que a los gobernadores,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 177.02,
+      "end": 182.4,
+      "text": "a todos los alcaldes, que el trabajo no comience el 12 de marzo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 182.48,
+      "end": 188.16,
+      "text": "si es que la ciudadanía de Chile me elige presidente, que comience el 15 de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 188.16,
+      "end": 197.82,
+      "text": "diciembre, muy temprano, después de la elección, porque las personas esperan mucho en muy poco",
+      "speaker": "Kast"
+    },
+    {
+      "start": 197.82,
+      "end": 202.16,
+      "text": "tiempo y por eso hemos hablado de un gobierno de emergencia nacional",
+      "speaker": "Kast"
+    },
+    {
+      "start": 202.16,
+      "end": 208.36,
+      "text": "para enfrentar esas graves crisis. Un gobierno también de unidad nacional legislativa",
+      "speaker": "Kast"
+    },
+    {
+      "start": 208.36,
+      "end": 215.32,
+      "text": "porque vamos a necesitar los parlamentarios, senadores y diputados de todos los sectores",
+      "speaker": "Kast"
+    },
+    {
+      "start": 215.32,
+      "end": 220.88,
+      "text": "para que vayan a atender las necesidades urgentes de las familias chilenas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 220.88,
+      "end": 226.58,
+      "text": "que tienen que estar bajo riesgo en los centros de salud, en los EFAM,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 227.34,
+      "end": 231.76,
+      "text": "bajo riesgo sus hijos en los centros educacionales. Eso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 231.76,
+      "end": 239.02,
+      "text": "requiere un cambio real y tiene que partir de inmediato. Hoy día vemos la discusión",
+      "speaker": "Kast"
+    },
+    {
+      "start": 239.02,
+      "end": 244.74,
+      "text": "de presupuesto, las asignaciones de recursos y los alcaldes dicen, ¿cómo atiendo más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 244.74,
+      "end": 245.22,
+      "text": "personas si el per cápita no aumenta en proporción a lo que yo tengo que establecer las asignaciones de recursos y los alcaldes dicen cómo atiendo más personas",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 245.22,
+      "end": 251.4,
+      "text": "si el per cápita no aumenta en proporción a lo que yo tengo que invertir en las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 251.4,
+      "end": 256.62,
+      "text": "personas que pasa con sal con educación que antes teníamos nosotros la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 256.62,
+      "end": 260.46,
+      "text": "responsabilidad se le entregó a un nuevo organismo y los resultados",
+      "speaker": "Kast"
+    },
+    {
+      "start": 260.46,
+      "end": 265.24,
+      "text": "no han sido los que se prometieron. Aquellos que marcharon por la educación pública destruyeron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 265.24,
+      "end": 272.22,
+      "text": "la educación pública. Y eso es un desafío de largo plazo, pero comienza a recuperarse",
+      "speaker": "Kast"
+    },
+    {
+      "start": 272.22,
+      "end": 275.72,
+      "text": "el día 15 de diciembre.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 283.24,
+      "end": 284.22,
+      "text": "El 11 de marzo se traspasa al mando, pero el 11 de marzo comienza la mayor responsabilidad......que vamos a tener todos.",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 285.3,
+      "end": 292.78,
+      "text": "Y nuestro desafío es que sea un gobierno de continuidad, porque este no es la presidencia de una persona,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 292.92,
+      "end": 297.12,
+      "text": "no es la presidencia de un partido, es la presidencia para los chilenos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 298.12,
+      "end": 302.68,
+      "text": "Cuando alguien dice que le vaya bien, yo le digo que nos vaya bien.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 304.22,
+      "end": 308.56,
+      "text": "Y ahí la reunión que hemos tenido ha sido muy",
+      "speaker": "Kast"
+    },
+    {
+      "start": 308.56,
+      "end": 314.2,
+      "text": "fructífera muy positiva porque se ha señalado que muchas veces se saca una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 314.2,
+      "end": 324.82,
+      "text": "gran foto se dicen cosas razonables pero que terminado el evento cada uno sigue en lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 324.82,
+      "end": 330.96,
+      "text": "suyo no hay vínculos estos 25 días que nos quedan al 14 de diciembre requieren",
+      "speaker": "Kast"
+    },
+    {
+      "start": 330.96,
+      "end": 334.98,
+      "text": "todo nuestro esfuerzo y nuestro esfuerzo transparente nuestras ideas no necesitan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 334.98,
+      "end": 338.94,
+      "text": "amenazar a nadie necesitan engañar ni mentirle a nadie de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 338.94,
+      "end": 343.08,
+      "text": "que se va a acabar esto se va a caer esto otro se va a romper esto porque va",
+      "speaker": "Kast"
+    },
+    {
+      "start": 343.08,
+      "end": 347.32,
+      "text": "a llegar otra línea política eso es mentira y se lo hemos dicho desde el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 347.32,
+      "end": 354.78,
+      "text": "primer día esto van a ser 90 días de difamaciones de mentiras Van a ser este alargue de nuevo con mentiras y difamaciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 356.04,
+      "end": 360.18,
+      "text": "Nosotros actuamos de manera distinta. Nunca le vamos a decir a alguien, vos devuelta al",
+      "speaker": "Kast"
+    },
+    {
+      "start": 360.18,
+      "end": 365.92,
+      "text": "persona porque si no va a perder un beneficio. Hay derechos adquiridos de las personas, que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 365.92,
+      "end": 370.1,
+      "text": "son leyes de la República y nosotros hemos señalado que no vamos a terminar con ningún",
+      "speaker": "Kast"
+    },
+    {
+      "start": 370.1,
+      "end": 375.88,
+      "text": "beneficio social porque el foco está en las personas, no en los políticos. Muchos alcaldes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 375.88,
+      "end": 383.32,
+      "text": "recibieron sus alcaldías en bancarrota y hoy día lidian con problemas económicos heredados.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 384.64,
+      "end": 389.44,
+      "text": "Una alcaldesa me decía, yo hoy día estoy haciendo un trabajo y se lo trata de atribuir la anterior.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 390.96,
+      "end": 396.12,
+      "text": "Bueno, nosotros tenemos que desvelar lo que estaba ocurriendo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 402.34,
+      "end": 407.66,
+      "text": "Aquí el dueño de casa, de la comuna, ha tenido que recibir ataques arteros y los ha enfrentado con hidalguía y de frente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 409.04,
+      "end": 417.08,
+      "text": "Y quiero, en primer lugar, pedirle al alcalde de Santiago que pueda dirigir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 417.08,
+      "end": 423.04,
+      "text": "unas palabras, después van a venir otros alcaldes y después las consultas sobre el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 423.04,
+      "end": 425.88,
+      "text": "tema municipal en el foco social.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 429.18,
+      "end": 431.14,
+      "text": "Gracias, José Antonio.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 432.7,
+      "end": 445.7,
+      "text": "Lo primero, feliz de recibir a más de un centenar de alcaldes acá y a través de Zoom, alcaldes de centro-derecha,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 445.82,
+      "end": 453.76,
+      "text": "derecha y mucho independiente. Recibirlos en Santiago junto a José Antonio Kast, una comuna que ha",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 453.76,
+      "end": 456.0,
+      "text": "sufrido y todavía sufre las consecuencias",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 456.0,
+      "end": 462.0,
+      "text": "de una extraordinariamente mala gestión, una desastrosa gestión de una alcaldesa comunista.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 462.0,
+      "end": 469.0,
+      "text": "Las consecuencias están a la vista, desorden, suciedad, toldos,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 469.0,
+      "end": 473.28,
+      "text": "pero sobre todo un daño que fue silencioso, que fue",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 473.28,
+      "end": 479.38,
+      "text": "corroyendo de a poco al comercio, a la industria, a los emprendedores, a los",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 479.38,
+      "end": 484.22,
+      "text": "establecimientos educacionales más emblemáticos de Chile, que eran el motor de movilidad social",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 484.22,
+      "end": 490.24,
+      "text": "más importante del que disponía la clase media y los sectores populares. Hoy día en el Liceo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 490.24,
+      "end": 503.3,
+      "text": "de Obligación hay 50% de matrículas vacantes. Esa es la consecuencia de la gestión de la anterior alcaldesa del Partido Comunista",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 503.3,
+      "end": 505.5,
+      "text": "pero estamos sacando adelante la comuna",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 505.5,
+      "end": 510.66,
+      "text": "yo no quiero una presidenta con las mismas ideas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 510.66,
+      "end": 513.78,
+      "text": "pero estamos apoyando a José Antonio Kanz",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 513.78,
+      "end": 516.12,
+      "text": "no para que no gane Janet",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 516.12,
+      "end": 527.12,
+      "text": "Jara. Apoyamos a Evelyn Matei hasta hace muy pocos días. Y estoy orgulloso de eso. Y de inmediato,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 527.12,
+      "end": 532.52,
+      "text": "el domingo, como corresponde, nos hemos puesto a disposición de José Antonio Kass,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 533.36,
+      "end": 535.42,
+      "text": "no para evitar que ganejara.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 536.74,
+      "end": 548.34,
+      "text": "Estamos apoyando a José Antonio Kass con total convicción de que es y va a ser un muy buen presidente, que tiene un buen programa",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 548.34,
+      "end": 552.48,
+      "text": "de gobierno y que es lo mejor que le puede pasar a Chile en estos momentos.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 553.02,
+      "end": 559.48,
+      "text": "Esa es nuestra convicción. Cierro solamente señalando que hago un llamado a la ciudadanía",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 559.48,
+      "end": 565.84,
+      "text": "a no confiarse en las encuestas que están apareciendo donde José Antonio está muy arriba.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 567.2,
+      "end": 576.3,
+      "text": "Nadie se puede quedar en la casa. No nos sobra un solo voto y además de eso es importante defender esos votos en las mesas y en las urnas porque",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 576.3,
+      "end": 582.0,
+      "text": "la elección que viene tal como dice José Antonio este mes va a ser duro, lleno de mentiras,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 582.2,
+      "end": 587.9,
+      "text": "de fake news, de difamación para que la gente no vaya a votar, para que la gente se asuste",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 587.9,
+      "end": 594.3,
+      "text": "o al revés, que se confíe. Así quevenido a santiago a la comuna de santiago josé antonio vamos",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 594.3,
+      "end": 598.32,
+      "text": "yo sé que se iba a hacer a tener oficina cerca así que te voy a ir a molestar",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 598.32,
+      "end": 603.36,
+      "text": "luego y muy seguido y lo más importante gracias por abrirte con todos nosotros",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 603.36,
+      "end": 605.96,
+      "text": "alcaldesas y alcaldes de todo Chile,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 606.3,
+      "end": 612.14,
+      "text": "que te estamos apoyando de todo corazón, porque estamos convencidos que es lo mejor que le puede pasar a Chile",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 612.14,
+      "end": 622.0,
+      "text": "el 14 de diciembre, que tú ganes la elección presidencial. Gracias.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 622.0,
+      "end": 624.0,
+      "text": "Muchas gracias Mario.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 624.0,
+      "end": 630.0,
+      "text": "Ahí espero ser un buen vecino.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 630.0,
+      "end": 640.76,
+      "text": "Y ahora quiero darle la palabra a la alcaldesa de una comuna muy emblemática histórica la comuna de sanmiguel que dirige carol bau",
+      "speaker": "Kast"
+    },
+    {
+      "start": 645.02,
+      "end": 652.42,
+      "text": "muchas gracias bueno tal como decía mario recién somos más de 120 alcaldes",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 652.42,
+      "end": 658.26,
+      "text": "de todo chile reunidos aquí en forma presencial y virtual entregándole el",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 658.26,
+      "end": 663.4,
+      "text": "apoyo total y con total convicción a josé antonio cast porque creemos que el",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 663.4,
+      "end": 665.1,
+      "text": "próximo 11 de marzo",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 665.1,
+      "end": 669.78,
+      "text": "necesitamos un gran gobierno para chile un gobierno de emergencia nosotros los",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 669.78,
+      "end": 674.1,
+      "text": "alcaldes lo vemos todos los días como la gente está sufriendo como la gente está",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 674.1,
+      "end": 677.74,
+      "text": "sufriendo porque no puede llegar a fin de mes como está sufriendo por la",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 677.74,
+      "end": 684.24,
+      "text": "delincuencia por el crimen organizado y necesitamos trabajar en conjunto. Como alcaldes somos la primera puerta de entrada",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 684.24,
+      "end": 689.54,
+      "text": "a la primer lugar donde llega la mayoría de los vecinos, pero necesitamos el apoyo",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 689.54,
+      "end": 694.92,
+      "text": "del Estado para poder hacer las cosas bien, para poder dar respuesta a nuestros vecinos",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 694.92,
+      "end": 700.36,
+      "text": "y el gobierno también nos va a necesitar a nosotros para poder llegar de la mejor forma posible",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 700.36,
+      "end": 704.88,
+      "text": "a la mayor cantidad de chilenos, chilenas y personas que viven en nuestro país que nos necesitan.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 705.34,
+      "end": 712.76,
+      "text": "Así que la verdad es que con total convicción, porque creemos que lo que necesita hoy Chile es el gobierno de José Antonio Kast,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 712.88,
+      "end": 719.84,
+      "text": "estamos aquí apoyando su candidatura porque creemos que lo mejor para cada uno de los vecinos de nuestras comunas",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 719.84,
+      "end": 723.16,
+      "text": "es que él sea el próximo presidente de la República.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 723.4,
+      "end": 727.52,
+      "text": "Queremos trabajar todos juntos para eso y vamos a dejar los pies en la calle en los próximos días para que así sea.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 734.34,
+      "end": 743.64,
+      "text": "Me voy de la zona centro-sur a la zona centro-n centro norte que está aquí al ladito una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 743.64,
+      "end": 749.76,
+      "text": "comuna que no siempre uno la visualiza bien pero es una comuna que vive también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 749.76,
+      "end": 757.38,
+      "text": "integración social está para la partida por la mitad por una carretera, tiene barrios sociales",
+      "speaker": "Kast"
+    },
+    {
+      "start": 757.38,
+      "end": 764.16,
+      "text": "que han sufrido marginalidad, tiene barrios emergentes que sufren con la movilidad, tiene",
+      "speaker": "Kast"
+    },
+    {
+      "start": 764.16,
+      "end": 770.7,
+      "text": "un sector empresarial relevante y una persona que decidió hacer un cambio radical en su vida",
+      "speaker": "Kast"
+    },
+    {
+      "start": 770.7,
+      "end": 774.12,
+      "text": "para poner el foco en lo social en las personas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 774.9,
+      "end": 777.06,
+      "text": "Así que al alcalde de Huichuraba le quiero dar las gracias también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 777.06,
+      "end": 782.8,
+      "text": "por el desafío que asumió de recuperar Huichuraba para todos los habitantes de la comuna.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 783.28,
+      "end": 783.52,
+      "text": "Max.",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 793.72,
+      "end": 798.3,
+      "text": "Muchas gracias. Muy buenas noches. El domingo comenté que a cada chileno que confió en alguno de los proyectos de derecha, nosotros tenemos que responder",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 798.3,
+      "end": 800.72,
+      "text": "con unidad, conformando",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 800.72,
+      "end": 808.14,
+      "text": "a los mejores equipos para atraer seguridad. Hoy día estamos un grupo de alcaldes diversos,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 808.64,
+      "end": 814.2,
+      "text": "de diferentes regiones, con la convicción de traer soluciones concretas para nuestros",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 814.2,
+      "end": 815.0,
+      "text": "vecinos.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 815.0,
+      "end": 821.0,
+      "text": "Y yo le quiero agradecer al candidato José Antonio Kass por esta oportunidad que nos dio de poder conversar,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 821.0,
+      "end": 828.0,
+      "text": "de poder ser escuchados, porque tenemos un gran desafío por delante en trabajar en mejorar la seguridad,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 828.0,
+      "end": 832.5,
+      "text": "en lo social, en lo educacional, en la salud,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 832.9,
+      "end": 837.9,
+      "text": "en traer oportunidades laborales. El programa de José Antonio Kast no es refundacional,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 838.72,
+      "end": 846.8,
+      "text": "es un programa de gestión pública. Y juntos lo vamos a sacar adelante. Porque Chile quiere un cambio. Y ese cambio",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 846.8,
+      "end": 859.34,
+      "text": "es José Antonio Kast. Muchas gracias. Me voy ahora a una comuna rural. Yo también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 859.34,
+      "end": 860.78,
+      "text": "vivo en una comuna rural.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 860.96,
+      "end": 866.76,
+      "text": "Está mi alcalde por aquí presente, la comuna de Wyn. Así que gracias, Miguel, por estar aquí.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 867.32,
+      "end": 872.74,
+      "text": "Pero me voy a ir al norte, que también sufre con la conectividad, con la salud.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 873.4,
+      "end": 875.7,
+      "text": "¿Cuántos vecinos de Colina tienen que tomar un recorrido y llegar al Hospital San José? Que está con la conectividad con la salud cuántos vecinos de colina tienen que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 875.7,
+      "end": 881.86,
+      "text": "tomar un recorrido y llegar al hospital san josé que está colapsado conocí hace",
+      "speaker": "Kast"
+    },
+    {
+      "start": 881.86,
+      "end": 887.76,
+      "text": "años atrás al director del hospital el doctor puccio y me decía yo no puedo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 887.76,
+      "end": 898.12,
+      "text": "hacer muchos cambios porque aquí hay un funcionario que atiende las necesidades de tal línea política,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 898.12,
+      "end": 907.8,
+      "text": "aquí este otro, lo instaló este otro político, este otro político y los vecinos tenían un recorrido para irse",
+      "speaker": "Kast"
+    },
+    {
+      "start": 907.8,
+      "end": 916.16,
+      "text": "y otro muy largo para volverse. Y la conectividad es un desastre. Si ustedes van a Colina y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 916.16,
+      "end": 923.16,
+      "text": "tienen que salir por el empalme a despucio a 7 b 7 b y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 923.16,
+      "end": 928.0,
+      "text": "después se quiere encontrar la salida para el sur en el nudo kilicura se",
+      "speaker": "Kast"
+    },
+    {
+      "start": 928.0,
+      "end": 933.12,
+      "text": "pueden perder pueden caer en alguno de los cráteres que hay en las calles",
+      "speaker": "Kast"
+    },
+    {
+      "start": 933.12,
+      "end": 935.12,
+      "text": "laterales y le le aprovecho de pasar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 935.12,
+      "end": 945.46,
+      "text": "un aviso al MOP, a Vivienda, a la autoridad regional, que pavimenten los accesos laterales,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 945.64,
+      "end": 952.0,
+      "text": "las salidas laterales al aeropuerto. Porque uno viene en un estándar A y termina en un Z,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 952.0,
+      "end": 956.0,
+      "text": "y en el Z se van los amortiguadores. Y eso no lo ven ellos nunca.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 956.0,
+      "end": 966.22,
+      "text": "Los tacos, aquellos que vivimos en las zonas rurales que las personas que cumplieron el sueño",
+      "speaker": "Kast"
+    },
+    {
+      "start": 966.22,
+      "end": 968.3,
+      "text": "de la casa propia, o aquellas personas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 968.3,
+      "end": 970.1,
+      "text": "que erradicaron del centro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 970.1,
+      "end": 972.44,
+      "text": "y lo llevaron a las zonas rurales, sin conectividad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 972.44,
+      "end": 973.24,
+      "text": "sin trabajo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 973.24,
+      "end": 975.08,
+      "text": "eso es un mal gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 975.08,
+      "end": 978.3,
+      "text": "y hoy día es lo que nos estamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 978.3,
+      "end": 982.06,
+      "text": "oriando, así que Isabel Valenzuela, alcaldesa de Colina, gracias también por estar aquí.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 988.72,
+      "end": 991.94,
+      "text": "Qué fácil va a ser trabajar con un presidente que vive en la zona rural.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 992.48,
+      "end": 994.9,
+      "text": "Y eso lo agradecemos, por ahora.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 995.16,
+      "end": 999.84,
+      "text": "Pero conoce la realidad y eso creo que una de las cosas que nosotros lo",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 999.84,
+      "end": 1004.08,
+      "text": "queremos siempre hemos querido transmitir los alcaldes de las zonas más",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1004.08,
+      "end": 1009.2,
+      "text": "alejadas del centro de donde no tenemos transporte público donde no tenemos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1009.2,
+      "end": 1010.28,
+      "text": "efectivamente en la zona norte no tenemos transporte público donde no tenemos efectivamente en la",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1010.28,
+      "end": 1015.62,
+      "text": "zona norte no tenemos hospital donde tenemos que trabajar con los vecinos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1015.62,
+      "end": 1020.76,
+      "text": "porque la inseguridad que vive cada uno de los vecinos es enorme los turbazos las",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1020.76,
+      "end": 1025.5,
+      "text": "encerronas la poca conversación que tienen todas las autopistas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1025.5,
+      "end": 1028.68,
+      "text": "para poder llegar a un acuerdo y llegar a mejorar la calidad de vida",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1028.68,
+      "end": 1032.46,
+      "text": "de los vecinos, es espantoso, y en estos cuatro años han sido peor.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1033.12,
+      "end": 1035.8,
+      "text": "Y en eso no nos cansamos en decir que hoy día la inseguridad",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1035.8,
+      "end": 1038.52,
+      "text": "y la sensación de inseguridad que tienen los vecinos es muy alta.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1039.26,
+      "end": 1042.72,
+      "text": "Con estas ideas claras que presenta José Antonio, con estas ideas claras que presenta cosa antonio con estas ideas claras que",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1042.72,
+      "end": 1048.26,
+      "text": "presentan las 33 que están presentando para el próximo gobierno son una idea de",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1048.26,
+      "end": 1053.18,
+      "text": "que nosotros todos los alcaldes desde ayer estamos desde el domingo la noche",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1053.18,
+      "end": 1059.22,
+      "text": "o el lunes la mañana estamos muy convencidos de que el próximo presidente va a ser josé antonio casas y en eso",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1059.22,
+      "end": 1063.16,
+      "text": "vamos a estar trabajando incansablemente como lo dijo la alcaldesa sanmiguel",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1063.16,
+      "end": 1067.56,
+      "text": "incansablemente no vamos a dejar ni un día de trabajar para que podamos sacar",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1067.56,
+      "end": 1071.86,
+      "text": "a este gobierno para que las comunas puedan avanzar, para que los beneficios sociales",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1071.86,
+      "end": 1074.76,
+      "text": "hoy día puedan llegar a todos los vecinos y vecinas de la comuna.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1075.32,
+      "end": 1078.74,
+      "text": "Donde además también las mujeres rurales tienen mucho que decir.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1079.18,
+      "end": 1082.02,
+      "text": "Y en eso se puede trabajar con las 18 comunas rurales,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1082.1,
+      "end": 1088.22,
+      "text": "pero además también a lo largo de todo Chile para que podamos sacar y que el 11 de marzo podamos tener la banda",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1088.22,
+      "end": 1092.26,
+      "text": "presidencial aquí con josé antonio casas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1097.52,
+      "end": 1105.66,
+      "text": "quiero darle la palabra al final a alguien que conocí de muy joven y que hoy día dirige",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1105.66,
+      "end": 1113.9,
+      "text": "la comuna y que también le tocó dirigir a Evelyn Matei y sí, hemos tenido diferencias.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1113.9,
+      "end": 1117.82,
+      "text": "Quién no ha tenido diferencias en su familia con algún hijo, con su pareja,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1118.04,
+      "end": 1119.66,
+      "text": "con una señora, con algún primo?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1120.42,
+      "end": 1126.72,
+      "text": "Pero de nuevo, Chile está más allá de cualquier diferencia que podemos tener hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1126.72,
+      "end": 1130.52,
+      "text": "y los alcaldes son la primera puerta que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1130.52,
+      "end": 1136.64,
+      "text": "distinguen los vecinos y creo que en provincia se ha hecho una buena labor y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1136.64,
+      "end": 1150.68,
+      "text": "esa buena labor ha continuado y le doy la palabra a jaime velorio me ve el óleo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1156.28,
+      "end": 1160.06,
+      "text": "Muy buenas noches, muchas gracias por acompañarnos. Algunos que asumimos el 6 de diciembre por primera vez estamos cerca de cumplir un año. Sin embargo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1160.14,
+      "end": 1163.58,
+      "text": "hay otros alcaldes y alcaldesas que tienen mucha experiencia acá y yo quiero agradecerles",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1163.58,
+      "end": 1168.34,
+      "text": "también por ser generosos en compartirla. Desde el municipio se ve distinto. Yo tuve la oportunidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1168.34,
+      "end": 1173.92,
+      "text": "de ser parlamentario por seis años, de ser ministro por dos años del presidente Piñera y hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1173.92,
+      "end": 1177.8,
+      "text": "como alcalde. Y se ve distinto porque cuando las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1177.8,
+      "end": 1185.2,
+      "text": "personas están viviendo una gigantesca incertidumbre sobre el futuro, la incerteza que tienen de si es que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1185.2,
+      "end": 1190.0,
+      "text": "acaso pueden o no caminar tranquilos por las calles, si pueden mantener sus trabajos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1190.0,
+      "end": 1193.0,
+      "text": "si pueden saber que sus familias van a poder tener buen acceso a la educación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1193.0,
+      "end": 1198.0,
+      "text": "y que si hay algún problema el Estado les va a ayudar en vez de ponerle trabas y excusas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1198.0,
+      "end": 1201.0,
+      "text": "Y eso se conoce no sólo diciéndolo sino que haciéndolo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1201.0,
+      "end": 1206.0,
+      "text": "La confianza además se teje desde las comunas, desde los barrios, desde las regiones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1207.0,
+      "end": 1213.0,
+      "text": "Chile necesita un proyecto compartido para que salgamos de la polarización y vayamos a la colaboración.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1214.0,
+      "end": 1220.04,
+      "text": "Para que salgamos de la emergencia que es necesaria hoy día y sepamos que hacia adelante podemos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1220.04,
+      "end": 1225.18,
+      "text": "construir un país en unidad. Y para eso necesitamos un cambio. Los chilenos lo dijeron el domingo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1225.7,
+      "end": 1230.66,
+      "text": "Tres de cada cuatro no quieren que continúe este mal gobierno. Y no quieren que continúe",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1230.66,
+      "end": 1238.7,
+      "text": "porque este gobierno dijo cosas, pero no hizo ninguna. Y cuando las hizo, hizo fue en el efecto contrario por eso se necesitan personas que estén",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1238.7,
+      "end": 1243.48,
+      "text": "comprometidas con las urgencias de las personas con la calidad de vida de cada",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1243.48,
+      "end": 1247.04,
+      "text": "uno de los barrios y de las regiones y eso es justamente lo que se ofrece a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1247.04,
+      "end": 1250.04,
+      "text": "través de estos más de 120 alcaldes y alcaldesas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1254.98,
+      "end": 1255.2,
+      "text": "que vamos a hacer todo lo que esté disponible para que el próximo gobierno verdaderamente sirva a Chile,",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 1261.1,
+      "end": 1261.28,
+      "text": "no se sirva de Chile y que genere un proyecto compartido en donde tengamos una mejor nación para todos.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 1261.68,
+      "end": 1268.4,
+      "text": "Muchas gracias.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1274.02,
+      "end": 1275.42,
+      "text": "Y ahora sobre el tema de esta reunión, no sé si hay alguna consulta que vaya en el área social.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1278.62,
+      "end": 1279.1,
+      "text": "Municipal.",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 1279.34,
+      "end": 1283.68,
+      "text": "Muy buenas tardes. Sí, respecto, sé que lo explicó al in inicio pero si pudiera profundizar",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 1283.68,
+      "end": 1288.12,
+      "text": "también en las coordinaciones que van a tener con cada uno de los alcaldes los",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 1288.12,
+      "end": 1292.28,
+      "text": "roles que pueden asumir y así como hay enlaces con los partidos y va a haber un",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 1292.28,
+      "end": 1297.62,
+      "text": "enlace o algún jefe comunal que va a tener un rol más específico en cuanto a coordinación con",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 1297.62,
+      "end": 1304.12,
+      "text": "el resto en cuanto al despliegue territorial. Sí, los gobernadores, o sea",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1304.12,
+      "end": 1309.3,
+      "text": "los partidos políticos han ido designando a un interlocutor que pueda",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1309.3,
+      "end": 1310.0,
+      "text": "ir organizando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1310.0,
+      "end": 1315.0,
+      "text": "el trabajo territorial, pero lo que hemos compartido aquí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1315.0,
+      "end": 1320.0,
+      "text": "es que no es un tema de cargos, esto es un tema de calle.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1320.0,
+      "end": 1326.98,
+      "text": "Por lo tanto, aquí no necesitamos alguien, un jefe, un subjefe, un subsubjefe, no necesitamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1326.98,
+      "end": 1329.66,
+      "text": "una comisión, necesitamos salir a la calle.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1330.26,
+      "end": 1334.94,
+      "text": "Los alcaldes lo han señalado, ya salieron a la calle como corresponde, con la verdad,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1335.26,
+      "end": 1340.0,
+      "text": "sin amenazas, sin mentiras, respetando el derecho de las personas a elegir democráticamente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1341.3,
+      "end": 1346.18,
+      "text": "Sin amenazarlos de que van a perder algún derecho. Sin decirles que si hay un cambio van a perder todo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1346.96,
+      "end": 1352.52,
+      "text": "Y eso ya partió. Eso no requiere una instrucción muy clara. Una bandera chilena basta.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1354.54,
+      "end": 1358.5,
+      "text": "Si yo camino con una bandera chilena por la calle la gente sabe",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1358.5,
+      "end": 1361.34,
+      "text": "que yo quiero un cambio para chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1361.34,
+      "end": 1363.0,
+      "text": "un cambio real",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1363.0,
+      "end": 1364.84,
+      "text": "las coordinaciones están",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1364.84,
+      "end": 1368.44,
+      "text": "los alcaldes tienen un rol fundamental",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1368.44,
+      "end": 1369.72,
+      "text": "fundamental",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1369.72,
+      "end": 1371.96,
+      "text": "lo decía el alcalde de velolio aquí hay una generosidad enorme de alcaldes que un rol fundamental, fundamental, lo decía el alcalde Belolio, aquí hay una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1371.96,
+      "end": 1376.76,
+      "text": "generosidad enorme de alcaldes que tienen una trayectoria, que han compartido sus experiencias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1376.76,
+      "end": 1381.9,
+      "text": "con alcaldes que llevan recién un año, que han tenido que encontrarse con la dura realidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1381.9,
+      "end": 1386.14,
+      "text": "de que usaron recursos, mal usaron los recursos de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1386.14,
+      "end": 1390.78,
+      "text": "los más pobres, se quedaron con los recursos de las personas que no tienen agua en el norte,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1391.2,
+      "end": 1397.28,
+      "text": "de los campamentos, se quedaron con los recursos de aquellas personas humildes de la zona de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1397.28,
+      "end": 1404.2,
+      "text": "Bío Bío y ahí están. Esa realidad es la que vamos a cambiar y no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1404.2,
+      "end": 1408.9,
+      "text": "la necesitamos coordinar, porque todos tenemos el corazón lleno para salir a decirle a las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1408.9,
+      "end": 1413.36,
+      "text": "personas que Chile es un país maravilloso, que es un país increíble y que depende de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1413.36,
+      "end": 1415.26,
+      "text": "nosotros sacarlo adelante.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1418.6,
+      "end": 1422.74,
+      "text": "Buenas tardes, alcaldes, también buenas tardes. Candidato, quería preguntarle respecto de su",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1422.74,
+      "end": 1426.56,
+      "text": "despliegue que tendrá mañana en la región de Arica, más o menos, qué es lo que busca realizar,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1426.56,
+      "end": 1430.0,
+      "text": "por qué Arica y también si es que va a recorrer otras zonas del norte?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1430.74,
+      "end": 1440.56,
+      "text": "Sí. Ustedes saben, yo soy un hombre de terreno. He recorrido prácticamente todas las comunas de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1441.36,
+      "end": 1447.38,
+      "text": "Desde hace muchos años, no una vez, muchas veces. Cuando asumí el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1447.38,
+      "end": 1456.1,
+      "text": "desafío de ser candidato la primera vez en la comuna de Wynne, fue el año 96. No logré",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1456.1,
+      "end": 1460.24,
+      "text": "la meta. Y hoy día le digo que sí voy a alcanzar la meta 20 años después,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1460.52,
+      "end": 1466.48,
+      "text": "no de ser alcalde de Wynn, sino presidente de Chile. Y desde el año 96 y antes, como",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1466.48,
+      "end": 1472.06,
+      "text": "dirigente estudiantil, ya conocía Chile, conocía el Alto Bío Bío. Cuando no estaba",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1472.06,
+      "end": 1476.0,
+      "text": "el conflicto y las personas se respetaban.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1477.0,
+      "end": 1486.0,
+      "text": "Cuando se construyeron internados, caminos, se dio agua potable rural, no como ahora, que abundan los camiones aljibe.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1487.0,
+      "end": 1491.34,
+      "text": "Y sí, voy a ir al norte de Arica, ya estuve en la Araucanía, estuve",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1491.34,
+      "end": 1497.82,
+      "text": "en los ríos, al día siguiente de la elección, porque las elecciones se ganan conquistando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1497.82,
+      "end": 1508.1,
+      "text": "el corazón de las personas. Otros optan por medios televisivos masivos, que es legítimo, pero la realidad de las cosas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1508.1,
+      "end": 1515.8,
+      "text": "que yo le he planteado, el agua potable rural, la conectividad, no tener señal en distintas zonas de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1516.66,
+      "end": 1522.34,
+      "text": "Si usted va a Bisbiri, 5 o 6 horas, ¿cuántas horas está sin conectividad?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1523.56,
+      "end": 1531.76,
+      "text": "Los carameleros que asesinaron en Tacora, ¿cómo se comunican? Nosotros tenemos una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1531.76,
+      "end": 1536.1,
+      "text": "fuerza policial respetada, que debiéramos respetar todos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1536.76,
+      "end": 1538.44,
+      "text": "pero los que hoy día nos gobiernan no lo respetan.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1540.0,
+      "end": 1545.1,
+      "text": "Voy a ir a Arica, voy a ir a la frontera, voy a reiterar el llamado a los inmigrantes irregulares",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1545.1,
+      "end": 1549.7,
+      "text": "que dejen nuestro país por la puerta si quieren volver a entrar alguna vez a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1550.88,
+      "end": 1556.58,
+      "text": "Si ellos toman sus cosas, venden sus cosas, se van con sus bienes y con sus recursos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1557.26,
+      "end": 1563.44,
+      "text": "alguna vez podrán postular a entrar a Chile, a estudiar, a trabajar, pero por la puerta.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1564.48,
+      "end": 1570.38,
+      "text": "Nosotros vamos a cumplir la ley. a ser difícil vamos a modificar leyes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1570.38,
+      "end": 1574.46,
+      "text": "y por eso necesitamos un parlamento que piense en chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1574.46,
+      "end": 1579.38,
+      "text": "en sus compatriotas que hoy día no tienen salud que no tienen seguridad que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1579.38,
+      "end": 1580.22,
+      "text": "no tienen vivienda,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1580.76,
+      "end": 1586.4,
+      "text": "tienen viviendas, arriendan viviendas a precios exorbitantes. Y en Arica está esa situación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1586.4,
+      "end": 1593.14,
+      "text": "también, al igual que en Iquique. Por eso es importante recorrer Chile. No es hablar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1593.14,
+      "end": 1596.48,
+      "text": "a la distancia, es conocer Chile, empaparse de Chile, de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1596.48,
+      "end": 1602.42,
+      "text": "Bisbiri, de Putre, de Camarones, de Arica. Claro, en esta ocasión voy a estar solo en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1602.42,
+      "end": 1608.28,
+      "text": "Arica, pero estaba en Camarones, estaba en Putre. Julia Cañari, le mando un",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1608.28,
+      "end": 1614.44,
+      "text": "saludo. Una tremenda artesana chilena, aymara, que vive en Putre.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1614.78,
+      "end": 1616.28,
+      "text": "Y desde Putre sale al mundo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1617.7,
+      "end": 1621.28,
+      "text": "Y llegó a Europa, llegó a Asia, llegó a Estados Unidos con sus productos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1621.64,
+      "end": 1624.68,
+      "text": "Una mujer maravillosa. Una mujer de trabajo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1625.86,
+      "end": 1633.72,
+      "text": "Hija de una familia extensa, que trabaja todo el día, cuida a sus hijos y siempre con una sonrisa,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1634.4,
+      "end": 1640.52,
+      "text": "siempre con alegría. Esa patria que hacen en Bisbiri también la hacen en timauque y esa es la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1640.52,
+      "end": 1644.18,
+      "text": "experiencia que ha acumulado y quiero hoy día ofrecer a los chilenos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1644.18,
+      "end": 1647.58,
+      "text": "entonces si voy a seguir viajando por chile tenemos una agenda muy nutrida",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1647.58,
+      "end": 1652.38,
+      "text": "para hacer un nuevo recorrido por chile porque santiago no es chile es",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1652.38,
+      "end": 1660.2,
+      "text": "importante en la capital y queremos recuperar la capital porque es la puerta de entrada cuando algún extranjero viene",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1660.2,
+      "end": 1665.54,
+      "text": "y se la coge va a la moneda y a la municipalidad santiago y hoy día caminar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1665.54,
+      "end": 1669.56,
+      "text": "de la moneda a la municipal de santiago es muy difícil o era muy difícil y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1669.56,
+      "end": 1670.0,
+      "text": "cada vez más fácil y si quiere ir Municipal de Santiago, es muy difícil. O era muy difícil, hoy día cada vez es más fácil.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1670.0,
+      "end": 1674.0,
+      "text": "Y si quiere ir a La Vega Central, es muy difícil.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1674.0,
+      "end": 1679.0,
+      "text": "Nunca más queremos ver que comerciantes irregulares",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1679.0,
+      "end": 1683.0,
+      "text": "agredan a carabineros de Chile, a los inspectores municipales,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1683.0,
+      "end": 1685.32,
+      "text": "porque están cumpliendo con la ley, una ley",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1685.32,
+      "end": 1690.22,
+      "text": "que ellos infringen y a los comerciantes establecidos le aplican todo el rigor de la ley, porque",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1690.22,
+      "end": 1696.52,
+      "text": "tienen patente. Y las autoridades pasan delante de los comerciantes ilegales y dicen, no,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1696.56,
+      "end": 1700.92,
+      "text": "es que no tiene patente, no es mi responsabilidad. Si alguien se intoxica comiendo en un carrito de supermercado,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1701.3,
+      "end": 1704.02,
+      "text": "de los que requisó el alcalde de Independencia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1705.42,
+      "end": 1706.98,
+      "text": "está por aquí.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1708.06,
+      "end": 1712.5,
+      "text": "Bueno, las autoridades sanitarias no se preocupan,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1712.64,
+      "end": 1715.28,
+      "text": "tiene que hacerlo el alcalde, siendo responsabilidad del Estado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1716.28,
+      "end": 1723.44,
+      "text": "Vemos a la autoridad sanitaria cuando viene la Semana Santa, cuando viene el 18 y se dejan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1723.44,
+      "end": 1727.2,
+      "text": "caer en el Tribunal Pesquero, que está ahí dentro de Los Pejos y Cerrillo, en Los Pejos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1727.2,
+      "end": 1730.5,
+      "text": "pero al lado de Cerrillo, se dejan caer en Franklin",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1730.5,
+      "end": 1736.98,
+      "text": "y se hacen famosos por una cuña, por una imagen, que todos estamos esperando todos los años.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1737.12,
+      "end": 1744.52,
+      "text": "¿Cuándo irán a ir a fiscalizar la temperatura de los pescados? ¿Cuándo van a ver si la carne está bien o no?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1744.72,
+      "end": 1746.04,
+      "text": "¿Pero se preocupan del abigiato,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1746.42,
+      "end": 1753.16,
+      "text": "del robo de los animales? ¿Se preocupan de los pescadores artesanales de verdad o solo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1753.16,
+      "end": 1759.34,
+      "text": "es ideología? Porque sacamos adelante una ley, y yo la voté a favor, la ley Lazquenche,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1760.0,
+      "end": 1763.0,
+      "text": "pero era para proteger la pesca artesanal de una comunidad,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1763.0,
+      "end": 1772.0,
+      "text": "no para que los abusadores exigieran superficies enormes de mar cuando no tienen ni siquiera un bote.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1772.0,
+      "end": 1774.0,
+      "text": "Eso es abuso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1774.0,
+      "end": 1779.82,
+      "text": "Por lo tanto, voy a seguir recorriendo Chile, me siento orgulloso de cada comuna que he visitado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1779.82,
+      "end": 1805.36,
+      "text": "y agradezco a cada persona que ha compartido sus necesidades en cada una de esas comunas. de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comunidad de la Comun Pero hacemos la segunda pauta, porque algunos alcaldes tienen obligaciones, algunos familiares.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1806.08,
+      "end": 1810.4,
+      "text": "Ya se fue el alcalde de Casa Blanca, porque tenía una celebración de cumpleaños.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1811.92,
+      "end": 1815.22,
+      "text": "El de Independencia también tuvo que partir a hacer una redada.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1817.3,
+      "end": 1819.94,
+      "text": "Pero quiero liberar a los señores alcaldes.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1822.62,
+      "end": 1829.68,
+      "text": "Aquí está de cumpleaños un gran amigo, padre del alcalde de la reina así que de salud al bigote muchas gracias hago una despedida a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1829.68,
+      "end": 1835.94,
+      "text": "la distancia alcalde de los Andes. Muchas gracias.",
+      "speaker": "Kast"
+    }
+  ],
+  "speakers": [
+    "Kast",
+    "SPK2",
+    "SPK3",
+    "SPK4",
+    "SPK5",
+    "SPK6",
+    "SPK7",
+    "SPK8",
+    "SPK9",
+    "SPK10"
+  ]
+}

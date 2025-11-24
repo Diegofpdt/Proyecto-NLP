@@ -1,0 +1,1574 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ]
+  },
+  "text": "Bueno, comienza una nueva semana de campaña y queda menos de un mes para las elecciones. Quiero contarles que este fin de semana estuve recorriendo las regiones de O'Higgins, particularmente Rancagua y Machalí, donde nos reunimos con distintos dirigentes sociales, locales y personas que manifestaban tanto sus inquietudes como sus esperanzas para los próximos cuatro años. Y luego estuvimos en la región de Valparaíso, el día de ayer, en Catemu, en Villa Alemana y también en el Cerro Placeres de Valparaíso. En Catemu estuvimos acompañados tanto del gobernador regional como de los alcaldes del Valle de la Concagua, principalmente preocupados por los temas de la sequía de la región de Valparaíso y la capacidad de embalse que en comparación con otras regiones del país que están más hacia el norte, es muy baja con un cambio climático que ha ido generando efectivamente el avance de la desertificación y la necesidad de tener mayor almacenamiento de agua, así que es un proyecto que yo diría muy necesario para la región y que pretendo que podamos impulsar con más fuerza en mi gobierno. Asimismo, la instalación del hospital biprovincial entre San Felipe y Los Andes y la necesidad de poder efectivamente dar respuesta a un requerimiento sobre un tren que una el valle de la concagua con mendoza valparaíso y a la vez santiago creo que esos son temas que uno recoge los territorios y que de otra forma desde el centro necesariamente no se ven todos con la misma claridad y me pareció muy importante tener el apoyo de los alcaldes del Valle de la Concagua porque se expresa en ellos la primera conexión que hay ciudadana con una autoridad pública. En Villa Alemana estuvimos también reunidos, ¿cierto?, en una de las poblaciones más emblemáticas de la comuna, para luego dirigirnos a hacer un casa-casa a Cerro Placeres, donde estuvimos además en la Plaza La Conquista con todos nuestros candidatos a diputados y diputadas de la región. De las cosas que más me llamó la atención en esta, diría yo, fin de semana, es que el tema de lasutadas de la región. De las cosas que más me llamó la atención en esta, diría yo, fin de semana, es que el tema de las cuentas de la luz es un tema que sigue estando muy presente en la ciudadanía y muchos me han manifestado su preocupación tanto por el alza de las cuentas de la luz como por este error que habría producido un cobro en exceso, para lo que piden claridad respecto de cómo se van a efectuar los reembolsos, cosa que me parece además a mí pertinente. Quiero señalar que en este contexto quiero relevar la propuesta que tenemos desde el comando, que se hace con anterioridad a esta polémica del error en el cálculo del reajuste de las cuentas de la luz, pero que va a permitir, dentro del marco reglamentario adecuado, poder reducir en un 20% la cuenta de luz de los chilenos y chilenas. Y lo quiero decir porque en materia de generación energética, nuestras generadoras hace tiempo ya están también haciendo transición a energía solar que es mucho más barata, que les abarata los costos, pero que esa reducción de costos no se ve reflejado en los clientes finales que son en definitiva los hogares de Chile. Así que vamos a impulsar este tema de poder generar efectivamente una rebaja en las cuentas de la luz del 20%. Yo quisiera señalar además que otra de las preocupaciones principales y que se observa en las regiones de nuestro país no es solamente el tema de la seguridad pública, no es solamente el tema de la seguridad para llegar a fin de mes, sino que un tercer tema que creo que el país tiene que atender con prontitud y es precisamente el tema de la salud pública. Yo en breves minutos más me voy a reunir con el Colegio Médico de Santiago. Conozco de la preocupación que han expresado respecto de la falta de recursos para generar una ejecución presupuestaria que alcance a cubrir todos los meses del año, y comparto la preocupación que hay sobre ese tema, pero sea además de la necesidad de poder generar una mayor formación de especialistas, que es precisamente parte de lo que quiero conversar con el Colegio Médico, en un país como el nuestro que requiere más profesionales de la salud mental, más geriatras, reumatólogos como una población que está envejeciendo y por cierto también generar más posibilidades de atención y servicios dentales con otros programas complementarios como el de remedios ya para hacerle llegar a las personas mayores los remedios a su casa, ya los enfermos crónicos, el de generar más máquinas de toma de imágenes, en especial mamografía sin dolor, y quisiera recordar que ayer, con motivo de la conmemoración de la prevención de la lucha contra el cáncer de mama, una vez más quiero relevar la necesidad de que en nuestro país existan más mamógrafos. Es muy necesario. Y vamos a traer esta tecnología nueva a la red de salud pública porque sabemos que en otros países ya se implementa y aquí todavía el examen genera bastantes molestias que es posible superar. Más de dos millones de personas en nuestro país están en una lista de espera. Muchas de ellas efectivamente están por una cirugía, pero las más están por falta de especialistas y por falta de atención dental. Ambos temas que se abordan en nuestro programa de gobierno. Quisiera por fin señalar que para nosotros la implementación de un plan integral de cáncer ginecológico y de mama es indispensable en el país, así como también comprometer la restauración mamaria para las mujeres que han sufrido esta enfermedad dentro del plazo de un año porque para nosotros es importante trabajar por la salud trabajar por las personas y trabajar por chile ponemos entonces ahora a disposición esta vocería para sus preguntas hola candidata como está estamos buenos días estamos en vivo para mega Hola, candidata, ¿cómo está? Muy buenos días. Estamos en vivo para Meganoticias. Candidata, le quería consultar por los últimos resultados de las encuestas. ¿Ya? Según la última encuesta, usted pasaría a segunda vuelta sin mayor problema, pero en segunda vuelta el escenario sería totalmente distinto. Solo vencería a Eduardo Artés, Marco Enriquez Ominami y a Harold Bainickels por un solo punto. ¿A qué cree que se debe este cambio de panorama tan radical, de cierta forma, entre una primera y segunda vuelta? ¿Cree que influiría más su militancia, por ejemplo? ¿Y cómo se revierte la base de apoyo bajo estos resultados. Mire, yo de la experiencia que tengo de candidata, como ustedes saben he sido candidata en esta elección, no llevo décadas de candidata a la presidencia de Chile, así que solo he sido candidata en esta elección, lo que les puedo decir es que, la frase típica, las encuestas son fotos del momento. décadas de candidata a la presidencia de Chile, así que solo he sido candidata en esta elección, lo que les puedo decir es que la frase típica, las encuestas son fotos del momento. Y de lo que yo vi en la primaria, esto es bien volátil y al final la gente es la que decide. A mí en los puntos de prensa de las primarias se me preguntaba todas las semanas, poco menos que para qué seguía en carrera si no había ninguna posibilidad de acuerdo a la encuesta que ganara las elecciones primarias. Y todos sabemos el resultado que eso tuvo, entonces yo creo que hay que mantener la calma y seguir trabajando. Es lo único que a mí me motiva y la gente va a ser soberanamente, decididamente quién defina quién va a ser su presidente o presidente y espero que poder llegar con mis propuestas que buscan mejorar la vida de los chilenos y chilenas y que voten informadamente. Pero las encuestas son fotos y todos lo sabemos y yo lo tomo como un insumo más. Y me pasa algo, que cuando a veces las cosas son, uno las ve como más difíciles, fíjese que en vez de echarme para atrás, me produce un poquito más de motivación, porque parece que como en la vida de todos los chilenos y chilenas no ha sido tan fácil, me pongo a disposición para trabajar más duro todavía. Candidata, y pensando justamente en ese escenario, la estrategia hoy día, usted dice, es un relanzamiento de esta recta final, pero pensando en el escenario de la segunda vuelta, ¿cuál va a ser el camino a seguir pensando en conquistar esos votos que hoy día muestran que no estarían para darle un triunfo a usted en esa segunda vuelta? Y otro punto, por una propuesta del candidato Kast que acaba de detallar su encargado económico, que dice que a final de cuentas el recorte fiscal en cuatro años sería de 21.000 millones de dólares. ¿Eso sí que podría afectar el gasto social a su juicio? Mire, sobre lo primero, la segunda vuelta es una etapa que se tiene que, primero, empezar con el hito del 16 de noviembre. Yo lo quiero decir bien claro porque aquí nadie debe dar carreras por corridas. Yo tengo toda la perspectiva de ganar la primera vuelta y pasar a segunda vuelta, pero eso lo va a decir la ciudadanía y en eso quiero ser sumamente respetuosa. Y lo que vamos a hacer en la segunda vuelta es lo mismo que hemos hecho hasta ahora, trabajar de frente, no andar escondida, no dar instrucciones erráticas, ni menos populistas, porque si usted me dice que hoy día en el fondo hay un giro en la propuesta de CAST que primero iba a reducir 6.000 millones de dólares que ya afectaba el gasto social y ahora quiere reducir 21.000 millones de dólares más después de que hace dos días señalaba que eran 6.000 millones de dólares,, después de que hace dos días señalaba que eran 6.000 millones de dólares, me preocupo un poco porque realmente considero que esto es un poco más serio postularse a la presidencia de un país que estar haciendo apuestas de cambio todos los días respecto de quién ofrece la mayor cifra. Yo lo que les puedo decir es que lo que yo vi fue lo siguiente. Kass salió con 6.000 millones, Kaiser salió con 15.000 millones y ahora Kass salió con que va a reducir 21.000 millones. Veremos qué pasa la próxima semana, a lo mejor ponen otra cifra sobre la mesa. Pero lo que les quiero decir es que esa cantidad de dinero va a reducir beneficios sociales que han costado mucho a los chilenos conquistar. Y no es algo que se trate de reducir a funcionarios públicos, operadores políticos, eso ya no afecta ni un punto de los siete puntos que quieren reducir del presupuesto. Entonces es delicado. Llegar al acuerdo por la reforma previsional costó diez años y ahora por esta vía quieren desfinanciarlo. Avanzar en la gratuidad para los jóvenes en nuestro país costó también muchos años y por esta vía lo quieren desfinanciar. En un año más, si nosotros optamos en nuestro país soberanamente en una elección que yo no voy a cuestionar como ellos ya están haciéndolo, el resultado eventual que pudiera haber en una elección si es que ellos no ganan, lo que va a estar discutiendo el país es cuánta gente se va a haber visto perjudicada a partir de estas apuestas que suben cada semana. Yo lo que le sugiero a la prensa es que esperemos con qué sale Kaiser la próxima semana, porque esto está así de voluble. Es que Kass ya ahora subió a 21.000. Kass puso 6.000 millones de dólares, Kass puso 6.000 millones de dólares. Después Kaiser propuso 15.000 millones de dólares. Y ahora esta semana Kass propone reducir 21.000 millones de dólares. Entonces me imagino que ahora le toca a Kaiser decir una cifra mayor. Así de serios. Candidata, insistir con la estrategia que viene ahora, ¿cierto? A menos de un mes de la primera vuelta presidencial. Y por otro lado, respecto a la franja, ¿cómo ha dimensionado la franja de sus opositores, de sus contrincantes? Y también ese guiño que hace el Partido Republicano sobre sin comunismo. Mire, sobre lo que viene ahora, principalmente nosotros vamos a seguir trabajando desde los territorios y desde los barrios. Yo sé que son a veces bien contraintuitivas algunas de las cosas que hacemos, porque la política generalmente se hace desde Santiago y desde los casapiedras, centros de eventos o lugares de debate. A mí me gusta combinar las cosas porque yo creo que en Chile ni todos son empresarios, ni todos son trabajadores, ni todos son emprendedores, ni todos son de la U, ni todos son del colo. Somos como una familia, algunos piensan distinto, pero no por eso dejamos de ser familia. Así que yo creo que es bueno estar en los barrios, estar acá también en Santiago en los foros, reunirnos con los gremios, como les comentaba, en unos minutos más bien el colegio médico. Y yo espero estar esta semana cerrando la semana en Antofagasta, precisamente porque como en Chile se discute harto de los temas de seguridad pública que afectan sobre todo al norte del país, quiero hacer una presentación precisa de mis propuestas para esa región, pero además porque hay compromisos con una región minera tan importante que ha generado tanto riqueza para el país que no se han cumplido, como un centro oncológico para Calama que tiene altos índices de contaminación y que yo, por cierto, voy a ir a suscribir y comprometer con la comunidad. Sobre la franja, lo que les puedo señalar es que a mí me interesa hacer una franja propositiva, que busque soluciones, una campaña que sea limpia de frente a la ciudadanía y lo que los demás hagan están en su legítimo derecho, pero por ese camino yo no voy a ir. Aunque pueda generarles votos algunos, cierto populismo camino yo no voy a ir. Aunque pueda generarles votos en algunos ciertos populismos, ese no es mi camino. Y sobre el gesto de republicano a sincomunismo, fíjese que yo pienso bien distinto a los republicanos, pero nunca se me ocurriría anularlo o borrarlo del mapa. Esa es la diferencia entre quienes estamos por un sistema en el cual Chile sea un puro país unido y quienes creen que son los dueños de la verdad, que en definitiva se convierten en autoritarios. ¿Cómo está? Buenos días. Buenos días. Guirío Girard, el ex senador, durante este fin de semana dijo que la única manera de que usted mejore su posición es congelando su militancia en el Partido Comunista tras la primera vuelta. ¿Cómo ve usted esta afirmación y está dispuesta o no a congelar su militancia? Mire, ese tema no está sobre la mesa y yo agradezco todas las sugerencias que se hacen, pero las decisiones en definitiva las tomo yo. Pero en segunda vuelta, eventualmente. Veremos cuando estemos en la segunda vuelta, pero hoy día no está sobre la mesa y las decisiones las tomo yo. Gracias por la sugerencia a todos en todo caso. Hola, buenos días, candidata. Buenos días. Quería llevarle al tema del error en la alza de las cuentas de la electricidad. ¿Puede subir un poquito el micrófono? Eso, que no lo escuchaba bien. Sí, le decía que quería llevarle al tema de las alzas individuas en las cuentas de la electricidad. ¿Cree usted que las responsabilidades políticas se agotan con la salida del exministro Pardó o hay que buscar eventualmente otras? Se lo pregunto porque el Partido Comunista está impulsando una comisión investigadora en la Cámara de Diputados. A ver, lo primero es que respecto del error en las cuentas de la luz yo creo que hay que seguir aquí tres vías. En primer lugar, responsabilidades políticas y por eso ha sido bastante clara. En mi gobierno las y los ministros van a asumir sus responsabilidades políticas. Todas las autoridades van a asumir su responsabilidad política. En esto quiero ser bien clara. En segundo lugar, evidentemente tienen que realizarse todas las investigaciones que procedan, sumario administrativo, investigación, y si en el Parlamento se quiere levantar una comisión investigadora, aunque hemos visto que en época de elecciones no necesariamente son muy contribuyentes a dar un debate de profundidad sobre los temas, están igualmente ellos en su derecho, pero efectivamente hay responsabilidad administrativa. Y lo tercero es que aunque las generadoras eléctricas han salido a decir que ellos no tenían conocimiento de que estaban cobrando de más, igualmente cuando a uno le pagan de más tiene que devolver la plata. Entonces yo creo que son esas tres cosas. Lo político, lo administrativo, si el Parlamento además quiere levantar una comisión de investigadores están en sus derechos, pero aquí está faltando una parte, que es que la generadora eléctrica le digan a las personas cuándo van a entregarles de vuelta el dinero que no les correspondía recibir. Puede que no tengo ninguna duda de que puede que no lo hayan sabido, no hay mala fe, pero igual tienen que devolver la plata, no les correspondía, así de simple. Sí, y lo otro, el plazo para esta compensación o devolución de los dineros que se cobraron de más, se habla de que viene a ser en enero. ¿A su juicio debe ser antes? ¿Hay posibilidad de que esto se adelante porque esperar hasta enero falta todavía. Yo creo que esa es una muy buena pregunta para las eléctricas. Porque al final los que tienen que devolver la plata no van a ser ni el gobierno ni el Parlamento, que son los que están discutiendo cuándo se va a devolver. Pero aquí son las eléctricas las que tienen que devolverle la plata a la gente. Así que sería buena idea que ellas lo dijeran. Porque cuando le tienen que cobrar a la gente, digamos que eso pasa al tiro. La pregunta es cuándo le tienen que devolver, porque no han dicho nada al respecto. Hola, candidata, ¿cómo está? Buenos días. Quería preguntarle primero algo de Girardi, lo que pasó con la entrevista. Usted dice que las decisiones las ha tomado usted. ¿Le molesta a usted que le sugieran este tipo de cosas por la prensa? No, para nada. Sabe que estoy acostumbrada. Entiendo que hay mucha gente que tiene mucho interés de aportar y encuentra que la vía adecuada es hacerlo por la prensa. Hay otra que lo hace en privado, en reuniones. Yo no tengo problema. Lo que sí, que hoy día no es un tema que esté sobre la mesa y cuando llegue la segunda vuelta se va a discutir la estrategia de segunda vuelta pero no es un tema que esté sobre la mesa pero no me molesta, estoy acostumbrada es así un poco la política en Chile y además cuando una mujer es más así que cada uno sabe cómo hace las cosas. Yo lo tomo como un dato de realidad nomás. Y la otra pregunta que tenía para usted es si usted hace suya la molestia que ha expresado la democracia cristiana por el uso de la imagen del presidente Patricio Edelwein en la franja de renovación nacional. Y en esa misma línea, ¿qué le parece que desde ese comando, del comando de Belén Matei, están buscando captar los votos del centro político? Bueno, cada uno sigue la estrategia comunicacional que le parezca más adecuada. Yo lo único que quiero señalar al respecto es que en el comando de Belén Matei hicieron lo mismo que republicano hizo con Jaime Guzmán y le reclamaron los de Belén Matei que los republicanos estaban ocupando a Jaime Guzmán y resulta que ahora ellos están ocupando una figura de la democracia cristiana. Yo por lo menos para esas cosas no estoy. ¿Pero usted asesora la molestia que ha expresado la ADC, que es parte de su comando? Sí, claro. Es parte de mi comando. No solo me representa en ese tema, sino que además le encuentro razón, porque las elecciones no es un todo vale. Aquí hay ciertas formas en las cuales uno tiene que tener claridad de que no puede ocupar figuras que son de otro sector. Es como improcedente, pero bueno, de mi parte por lo menos no lo van a encontrar. Candidata, buenos días. Quer quería hacer una pregunta, la segunda vuelta, la ve como una nueva elección que se parte de cero sí, la verdad es que sí qué bueno que me lo pregunta mire, yo creo que en nuestro país hoy día lo que hay son dos fenómenos, cierto, tenemos primero un sector de la derecha que no se logró poner de acuerdo en nada aún cuando quiere gobernar el país y por eso tiene una dispersión entre varios candidatos y seguramente entre algunos de ellos va a salir quien represente al sector algunos de ellos se mueven un poco más a la derecha otro un poco más al centro y se van desfondando por un lado por otro de. De hecho, CASA se trató de mover hacia el sector de Belén Matei y Kaiser creció por el lado. Por eso ahora CASA le ofrece una reducción a un más grande de gasto público. Que esto a la gente, en realidad, no sé si verá los efectos de esto en la casa, pero lo que le están diciendo es que le van a bajar los beneficios sociales. O van a dejar de financiar carabineros, que esto a la gente, en realidad, no sé si verá los efectos de esto en la casa, pero lo que le están diciendo es que le van a bajar los beneficios sociales. O van a dejar de financiar carabineros, funcionarios de la salud, profesores de la educación. Eso es lo que hay detrás de esto. Y alimentan ese odio contra los funcionarios públicos porque en otros países como Argentina, Estados Unidos, le han dado resultados. Pero en Chile, el gran gasto no está en los funcionarios, está en los beneficios que le llegan a la gente. Entonces aquí va a haber un representante de la derecha chilena o de la ultraderecha chilena que es el que pasa la segunda vuelta y ahí si es que la gente también me elige para pasar a la segunda vuelta, van a haber dos proyectos de país muy distintos que se van a confrontar. Muy distintos. Yo por lo menos vengo perseguida por una alianza política amplia en la cual hay nueve partidos políticos y todos evidentemente tenemos cosas en las que estamos de acuerdo y cosas en las que no. Casi lo más parecido a Chile que hay. Por eso creo que podemos ofrecer la mejor gobernabilidad. Pero eso lo tiene que juzgar la ciudadanía. Candidata, ahora sí, la última pregunta. ¿Cómo piensa sumar votos si, matemáticamente, la oposición tiene tres candidatos? ¿Eso dan los números? Sí, mire, creo que este es un desafío importante, yo lo asumo con responsabilidad y lo que voy a hacer es trabajar duro pero solamente quiero decirle que en la política no se trata de sumar votos ni de sumar logos partidarios. Yo lo tengo claro. Lo vivimos en la primaria y creo que ahora puede pasar algo parecido. El tema es que no lo vamos a saber hasta que las cosas pasen. Así que yo más que especular, lo que estamos haciendo en mi comando es trabajar. Y yo trabajando a full por esto porque creo que Chile se merece una vida que mejore en calidad y no retroceder. Y me preocupa enormemente las posibilidades de retroceso que hay con personas que creen que solo sus ideas son las válidas. Aquí hay gente que se opuso hasta a la ley Cholito, que pretende encabezar el país. O sea, no solamente a todas las leyes que fortalecían la autonomía de las mujeres, o que reconocían a la disidencia en nuestro país, o que incluso negaron la reforma tributaria para poder financiar el aumento de pensiones, y ahora anda con una chapita el candidato Kass de que ama la PGU, sino que además se opuso a la ley Cholito entonces yo digo, ¿qué clase de humanidad hay aquí? yo me la voy a jugar hasta el final porque quiero un Chile unido y que avance con todas sus diversidades, pero que avance no que retroceda, muchas gracias gracias chiquillos. Los vecinos. Los vecinos del barrio. Gracias. Gracias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.12,
+      "text": "Bueno, comienza una nueva semana de campaña y queda menos de un mes para las elecciones."
+    },
+    {
+      "start": 7.84,
+      "end": 12.98,
+      "text": "Quiero contarles que este fin de semana estuve recorriendo las regiones de O'Higgins,"
+    },
+    {
+      "start": 13.9,
+      "end": 18.6,
+      "text": "particularmente Rancagua y Machalí, donde nos reunimos con distintos dirigentes sociales,"
+    },
+    {
+      "start": 18.86,
+      "end": 20.06,
+      "text": "locales y"
+    },
+    {
+      "start": 20.06,
+      "end": 24.66,
+      "text": "personas que manifestaban tanto sus inquietudes como sus esperanzas para los"
+    },
+    {
+      "start": 24.66,
+      "end": 29.06,
+      "text": "próximos cuatro años. Y luego estuvimos en la región de Valparaíso, el día de"
+    },
+    {
+      "start": 29.06,
+      "end": 35.38,
+      "text": "ayer, en Catemu, en Villa Alemana y también en el Cerro Placeres de Valparaíso."
+    },
+    {
+      "start": 36.04,
+      "end": 39.0,
+      "text": "En Catemu estuvimos acompañados tanto del gobernador regional"
+    },
+    {
+      "start": 39.0,
+      "end": 41.26,
+      "text": "como de los alcaldes del Valle de la Concagua,"
+    },
+    {
+      "start": 41.92,
+      "end": 45.0,
+      "text": "principalmente preocupados por los temas de la sequía de la región de Valparaíso"
+    },
+    {
+      "start": 45.66,
+      "end": 53.96,
+      "text": "y la capacidad de embalse que en comparación con otras regiones del país que están más hacia el norte, es muy baja con un cambio climático"
+    },
+    {
+      "start": 53.96,
+      "end": 57.84,
+      "text": "que ha ido generando efectivamente el avance de la desertificación"
+    },
+    {
+      "start": 57.84,
+      "end": 61.16,
+      "text": "y la necesidad de tener mayor almacenamiento de agua, así que es un proyecto"
+    },
+    {
+      "start": 61.16,
+      "end": 67.46,
+      "text": "que yo diría muy necesario para la región y que pretendo que podamos impulsar con más fuerza en mi gobierno."
+    },
+    {
+      "start": 68.06,
+      "end": 71.98,
+      "text": "Asimismo, la instalación del hospital biprovincial entre San Felipe y Los Andes"
+    },
+    {
+      "start": 71.98,
+      "end": 77.94,
+      "text": "y la necesidad de poder efectivamente dar respuesta a un requerimiento"
+    },
+    {
+      "start": 77.94,
+      "end": 81.72,
+      "text": "sobre un tren que una el valle de la concagua con"
+    },
+    {
+      "start": 81.72,
+      "end": 88.02,
+      "text": "mendoza valparaíso y a la vez santiago creo que esos son temas que uno recoge"
+    },
+    {
+      "start": 88.02,
+      "end": 93.36,
+      "text": "los territorios y que de otra forma desde el centro necesariamente no se ven"
+    },
+    {
+      "start": 93.36,
+      "end": 99.24,
+      "text": "todos con la misma claridad y me pareció muy importante tener el apoyo de los alcaldes del Valle de la Concagua"
+    },
+    {
+      "start": 99.24,
+      "end": 106.02,
+      "text": "porque se expresa en ellos la primera conexión que hay ciudadana con una autoridad pública."
+    },
+    {
+      "start": 106.72,
+      "end": 110.32,
+      "text": "En Villa Alemana estuvimos también reunidos, ¿cierto?, en una de las"
+    },
+    {
+      "start": 110.32,
+      "end": 115.34,
+      "text": "poblaciones más emblemáticas de la comuna, para luego dirigirnos a hacer un casa-casa"
+    },
+    {
+      "start": 115.34,
+      "end": 119.42,
+      "text": "a Cerro Placeres, donde estuvimos además en la Plaza La Conquista con todos nuestros"
+    },
+    {
+      "start": 119.42,
+      "end": 123.54,
+      "text": "candidatos a diputados y diputadas de la región. De las cosas que más me llamó la"
+    },
+    {
+      "start": 123.54,
+      "end": 125.86,
+      "text": "atención en esta, diría yo, fin de semana, es que el tema de lasutadas de la región. De las cosas que más me llamó la atención en esta,"
+    },
+    {
+      "start": 131.04,
+      "end": 135.96,
+      "text": "diría yo, fin de semana, es que el tema de las cuentas de la luz es un tema que sigue estando muy presente en la ciudadanía y muchos me han manifestado su preocupación tanto"
+    },
+    {
+      "start": 135.96,
+      "end": 143.76,
+      "text": "por el alza de las cuentas de la luz como por este error que habría producido un cobro en exceso, para lo que piden claridad respecto de cómo se"
+    },
+    {
+      "start": 143.76,
+      "end": 147.32,
+      "text": "van a efectuar los reembolsos, cosa que me parece además a mí pertinente."
+    },
+    {
+      "start": 147.92,
+      "end": 151.22,
+      "text": "Quiero señalar que en este contexto quiero relevar la propuesta que tenemos desde el"
+    },
+    {
+      "start": 151.22,
+      "end": 156.7,
+      "text": "comando, que se hace con anterioridad a esta polémica del error en el cálculo del reajuste de las cuentas de la luz,"
+    },
+    {
+      "start": 157.14,
+      "end": 162.0,
+      "text": "pero que va a permitir, dentro del marco reglamentario adecuado,"
+    },
+    {
+      "start": 163.2,
+      "end": 167.84,
+      "text": "poder reducir en un 20% la cuenta de luz de los chilenos y chilenas."
+    },
+    {
+      "start": 168.34,
+      "end": 170.12,
+      "text": "Y lo quiero decir porque en materia"
+    },
+    {
+      "start": 170.12,
+      "end": 176.28,
+      "text": "de generación energética, nuestras generadoras hace tiempo ya están también haciendo transición"
+    },
+    {
+      "start": 176.28,
+      "end": 181.36,
+      "text": "a energía solar que es mucho más barata, que les abarata los costos, pero que esa reducción"
+    },
+    {
+      "start": 181.36,
+      "end": 185.62,
+      "text": "de costos no se ve reflejado en los clientes finales que son en definitiva los hogares de Chile."
+    },
+    {
+      "start": 186.1,
+      "end": 195.04,
+      "text": "Así que vamos a impulsar este tema de poder generar efectivamente una rebaja en las cuentas de la luz del 20%."
+    },
+    {
+      "start": 195.04,
+      "end": 205.18,
+      "text": "Yo quisiera señalar además que otra de las preocupaciones principales y que se observa en las regiones de nuestro país no es solamente el tema de la seguridad pública, no es solamente"
+    },
+    {
+      "start": 205.18,
+      "end": 209.88,
+      "text": "el tema de la seguridad para llegar a fin de mes, sino que un tercer tema que creo que"
+    },
+    {
+      "start": 209.88,
+      "end": 214.78,
+      "text": "el país tiene que atender con prontitud y es precisamente el tema de la salud pública."
+    },
+    {
+      "start": 215.32,
+      "end": 219.84,
+      "text": "Yo en breves minutos más me voy a reunir con el Colegio Médico de Santiago. Conozco"
+    },
+    {
+      "start": 219.84,
+      "end": 225.32,
+      "text": "de la preocupación que han expresado respecto de la falta de recursos para generar una ejecución"
+    },
+    {
+      "start": 225.32,
+      "end": 230.54,
+      "text": "presupuestaria que alcance a cubrir todos los meses del año, y comparto la preocupación"
+    },
+    {
+      "start": 230.54,
+      "end": 235.54,
+      "text": "que hay sobre ese tema, pero sea además de la necesidad de poder generar una mayor formación"
+    },
+    {
+      "start": 235.54,
+      "end": 238.74,
+      "text": "de especialistas, que es precisamente parte de lo que quiero conversar con el Colegio"
+    },
+    {
+      "start": 238.74,
+      "end": 244.44,
+      "text": "Médico, en un país como el nuestro que requiere más profesionales de la salud mental, más"
+    },
+    {
+      "start": 244.44,
+      "end": 246.1,
+      "text": "geriatras, reumatólogos"
+    },
+    {
+      "start": 246.1,
+      "end": 250.86,
+      "text": "como una población que está envejeciendo y por cierto también generar más posibilidades"
+    },
+    {
+      "start": 250.86,
+      "end": 255.76,
+      "text": "de atención y servicios dentales con otros programas complementarios como el de remedios"
+    },
+    {
+      "start": 255.76,
+      "end": 263.26,
+      "text": "ya para hacerle llegar a las personas mayores los remedios a su casa, ya los enfermos crónicos, el de generar más máquinas de toma de imágenes,"
+    },
+    {
+      "start": 263.5,
+      "end": 267.2,
+      "text": "en especial mamografía sin dolor, y quisiera recordar que ayer,"
+    },
+    {
+      "start": 267.42,
+      "end": 271.88,
+      "text": "con motivo de la conmemoración de la prevención de la lucha contra el cáncer de mama,"
+    },
+    {
+      "start": 272.44,
+      "end": 279.92,
+      "text": "una vez más quiero relevar la necesidad de que en nuestro país existan más mamógrafos. Es muy necesario. Y vamos a traer esta tecnología"
+    },
+    {
+      "start": 279.92,
+      "end": 284.86,
+      "text": "nueva a la red de salud pública porque sabemos que en otros países ya se implementa y aquí"
+    },
+    {
+      "start": 284.86,
+      "end": 292.8,
+      "text": "todavía el examen genera bastantes molestias que es posible superar. Más de dos millones de personas en nuestro país están en una lista de espera."
+    },
+    {
+      "start": 293.5,
+      "end": 295.6,
+      "text": "Muchas de ellas efectivamente están por una cirugía,"
+    },
+    {
+      "start": 295.98,
+      "end": 300.22,
+      "text": "pero las más están por falta de especialistas y por falta de atención dental."
+    },
+    {
+      "start": 300.76,
+      "end": 304.42,
+      "text": "Ambos temas que se abordan en nuestro programa de gobierno."
+    },
+    {
+      "start": 305.12,
+      "end": 310.22,
+      "text": "Quisiera por fin señalar que para nosotros la implementación de un plan integral"
+    },
+    {
+      "start": 310.22,
+      "end": 314.22,
+      "text": "de cáncer ginecológico y de mama es indispensable en el país,"
+    },
+    {
+      "start": 314.42,
+      "end": 318.4,
+      "text": "así como también comprometer la restauración mamaria para las mujeres"
+    },
+    {
+      "start": 318.4,
+      "end": 324.12,
+      "text": "que han sufrido esta enfermedad dentro del plazo de un año porque para nosotros es importante"
+    },
+    {
+      "start": 324.12,
+      "end": 328.52,
+      "text": "trabajar por la salud trabajar por las personas y trabajar por chile ponemos"
+    },
+    {
+      "start": 328.52,
+      "end": 333.92,
+      "text": "entonces ahora a disposición esta vocería para sus preguntas"
+    },
+    {
+      "start": 333.92,
+      "end": 335.28,
+      "text": "hola candidata como está estamos buenos días estamos en vivo para mega Hola, candidata, ¿cómo está?"
+    },
+    {
+      "start": 335.4,
+      "end": 336.18,
+      "text": "Muy buenos días."
+    },
+    {
+      "start": 336.62,
+      "end": 338.3,
+      "text": "Estamos en vivo para Meganoticias."
+    },
+    {
+      "start": 338.5,
+      "end": 341.3,
+      "text": "Candidata, le quería consultar por los últimos resultados de las encuestas."
+    },
+    {
+      "start": 341.46,
+      "end": 341.6,
+      "text": "¿Ya?"
+    },
+    {
+      "start": 341.88,
+      "end": 345.68,
+      "text": "Según la última encuesta, usted pasaría a segunda vuelta sin mayor problema,"
+    },
+    {
+      "start": 346.12,
+      "end": 348.52,
+      "text": "pero en segunda vuelta el escenario sería totalmente distinto."
+    },
+    {
+      "start": 349.02,
+      "end": 354.7,
+      "text": "Solo vencería a Eduardo Artés, Marco Enriquez Ominami y a Harold Bainickels por un solo punto."
+    },
+    {
+      "start": 355.2,
+      "end": 358.82,
+      "text": "¿A qué cree que se debe este cambio de panorama tan radical, de cierta forma,"
+    },
+    {
+      "start": 358.9,
+      "end": 363.94,
+      "text": "entre una primera y segunda vuelta? ¿Cree que influiría más su militancia, por ejemplo?"
+    },
+    {
+      "start": 364.46,
+      "end": 367.0,
+      "text": "¿Y cómo se revierte la base de apoyo bajo estos resultados."
+    },
+    {
+      "start": 367.0,
+      "end": 373.0,
+      "text": "Mire, yo de la experiencia que tengo de candidata, como ustedes saben he sido candidata en esta elección,"
+    },
+    {
+      "start": 373.0,
+      "end": 379.0,
+      "text": "no llevo décadas de candidata a la presidencia de Chile, así que solo he sido candidata en esta elección,"
+    },
+    {
+      "start": 379.0,
+      "end": 380.0,
+      "text": "lo que les puedo decir es que, la frase típica, las encuestas son fotos del momento. décadas de candidata a la presidencia de Chile, así que solo he sido candidata en esta elección,"
+    },
+    {
+      "start": 384.58,
+      "end": 385.08,
+      "text": "lo que les puedo decir es que la frase típica, las encuestas son fotos del momento."
+    },
+    {
+      "start": 389.26,
+      "end": 389.98,
+      "text": "Y de lo que yo vi en la primaria, esto es bien volátil y al final la gente es la que decide."
+    },
+    {
+      "start": 393.74,
+      "end": 394.54,
+      "text": "A mí en los puntos de prensa de las primarias se me preguntaba todas las semanas,"
+    },
+    {
+      "start": 398.12,
+      "end": 400.4,
+      "text": "poco menos que para qué seguía en carrera si no había ninguna posibilidad de acuerdo a la encuesta que ganara las elecciones primarias."
+    },
+    {
+      "start": 400.9,
+      "end": 403.78,
+      "text": "Y todos sabemos el resultado que eso tuvo, entonces yo creo que hay que mantener"
+    },
+    {
+      "start": 403.78,
+      "end": 405.88,
+      "text": "la calma y seguir trabajando."
+    },
+    {
+      "start": 406.08,
+      "end": 410.52,
+      "text": "Es lo único que a mí me motiva y la gente va a ser soberanamente,"
+    },
+    {
+      "start": 410.64,
+      "end": 415.68,
+      "text": "decididamente quién defina quién va a ser su presidente o presidente y espero que poder"
+    },
+    {
+      "start": 415.68,
+      "end": 419.54,
+      "text": "llegar con mis propuestas que buscan mejorar la vida de los chilenos y chilenas y que voten"
+    },
+    {
+      "start": 419.54,
+      "end": 424.48,
+      "text": "informadamente. Pero las encuestas son fotos y todos lo sabemos y yo lo tomo como un insumo"
+    },
+    {
+      "start": 424.48,
+      "end": 425.44,
+      "text": "más."
+    },
+    {
+      "start": 430.08,
+      "end": 430.14,
+      "text": "Y me pasa algo, que cuando a veces las cosas son, uno las ve como más difíciles,"
+    },
+    {
+      "start": 434.04,
+      "end": 434.18,
+      "text": "fíjese que en vez de echarme para atrás, me produce un poquito más de motivación,"
+    },
+    {
+      "start": 437.88,
+      "end": 438.68,
+      "text": "porque parece que como en la vida de todos los chilenos y chilenas no ha sido tan fácil,"
+    },
+    {
+      "start": 440.48,
+      "end": 443.2,
+      "text": "me pongo a disposición para trabajar más duro todavía."
+    },
+    {
+      "start": 444.46,
+      "end": 449.52,
+      "text": "Candidata, y pensando justamente en ese escenario, la estrategia hoy día, usted dice, es un relanzamiento"
+    },
+    {
+      "start": 449.52,
+      "end": 456.92,
+      "text": "de esta recta final, pero pensando en el escenario de la segunda vuelta, ¿cuál va a ser el camino a seguir pensando en conquistar"
+    },
+    {
+      "start": 456.92,
+      "end": 459.8,
+      "text": "esos votos que hoy día muestran que no estarían para darle"
+    },
+    {
+      "start": 459.8,
+      "end": 461.94,
+      "text": "un triunfo a usted en esa segunda vuelta?"
+    },
+    {
+      "start": 462.08,
+      "end": 465.24,
+      "text": "Y otro punto, por una propuesta del candidato Kast"
+    },
+    {
+      "start": 465.24,
+      "end": 468.58,
+      "text": "que acaba de detallar su encargado económico,"
+    },
+    {
+      "start": 468.68,
+      "end": 470.02,
+      "text": "que dice que a final de cuentas"
+    },
+    {
+      "start": 470.02,
+      "end": 476.86,
+      "text": "el recorte fiscal en cuatro años sería de 21.000 millones de dólares. ¿Eso sí que podría afectar"
+    },
+    {
+      "start": 476.86,
+      "end": 482.32,
+      "text": "el gasto social a su juicio? Mire, sobre lo primero, la segunda vuelta es una etapa que"
+    },
+    {
+      "start": 482.32,
+      "end": 488.78,
+      "text": "se tiene que, primero, empezar con el hito del 16 de noviembre."
+    },
+    {
+      "start": 489.0,
+      "end": 494.78,
+      "text": "Yo lo quiero decir bien claro porque aquí nadie debe dar carreras por corridas."
+    },
+    {
+      "start": 495.32,
+      "end": 499.46,
+      "text": "Yo tengo toda la perspectiva de ganar la primera vuelta y pasar a segunda vuelta,"
+    },
+    {
+      "start": 499.7,
+      "end": 502.9,
+      "text": "pero eso lo va a decir la ciudadanía y en eso quiero ser sumamente respetuosa."
+    },
+    {
+      "start": 503.52,
+      "end": 507.46,
+      "text": "Y lo que vamos a hacer en la segunda vuelta es lo mismo que hemos hecho hasta ahora,"
+    },
+    {
+      "start": 507.7,
+      "end": 513.0,
+      "text": "trabajar de frente, no andar escondida, no dar instrucciones erráticas, ni menos populistas,"
+    },
+    {
+      "start": 513.1,
+      "end": 516.64,
+      "text": "porque si usted me dice que hoy día en el fondo"
+    },
+    {
+      "start": 516.64,
+      "end": 522.02,
+      "text": "hay un giro en la propuesta de CAST que primero iba a reducir 6.000 millones de dólares que ya"
+    },
+    {
+      "start": 522.02,
+      "end": 528.56,
+      "text": "afectaba el gasto social y ahora quiere reducir 21.000 millones de dólares más después de que hace"
+    },
+    {
+      "start": 528.56,
+      "end": 530.4,
+      "text": "dos días señalaba que eran 6.000 millones de dólares,, después de que hace dos días señalaba que"
+    },
+    {
+      "start": 530.4,
+      "end": 535.34,
+      "text": "eran 6.000 millones de dólares, me preocupo un poco porque realmente considero que esto"
+    },
+    {
+      "start": 535.34,
+      "end": 540.26,
+      "text": "es un poco más serio postularse a la presidencia de un país que estar haciendo apuestas de"
+    },
+    {
+      "start": 540.26,
+      "end": 544.14,
+      "text": "cambio todos los días respecto de quién ofrece la mayor cifra. Yo lo que les puedo decir"
+    },
+    {
+      "start": 544.14,
+      "end": 545.54,
+      "text": "es que lo que yo vi fue lo siguiente."
+    },
+    {
+      "start": 546.14,
+      "end": 550.22,
+      "text": "Kass salió con 6.000 millones, Kaiser salió con 15.000 millones"
+    },
+    {
+      "start": 550.22,
+      "end": 553.46,
+      "text": "y ahora Kass salió con que va a reducir 21.000 millones."
+    },
+    {
+      "start": 553.96,
+      "end": 556.52,
+      "text": "Veremos qué pasa la próxima semana, a lo mejor ponen otra cifra"
+    },
+    {
+      "start": 556.52,
+      "end": 557.16,
+      "text": "sobre la mesa."
+    },
+    {
+      "start": 557.76,
+      "end": 566.4,
+      "text": "Pero lo que les quiero decir es que esa cantidad de dinero va a reducir beneficios sociales que han costado mucho a los chilenos conquistar. Y no es"
+    },
+    {
+      "start": 566.4,
+      "end": 573.84,
+      "text": "algo que se trate de reducir a funcionarios públicos, operadores políticos, eso ya no afecta"
+    },
+    {
+      "start": 573.84,
+      "end": 575.68,
+      "text": "ni un punto de los siete"
+    },
+    {
+      "start": 575.68,
+      "end": 580.44,
+      "text": "puntos que quieren reducir del presupuesto. Entonces es delicado. Llegar al acuerdo por"
+    },
+    {
+      "start": 580.44,
+      "end": 585.44,
+      "text": "la reforma previsional costó diez años y ahora por esta vía quieren desfinanciarlo."
+    },
+    {
+      "start": 585.9,
+      "end": 590.04,
+      "text": "Avanzar en la gratuidad para los jóvenes en nuestro país costó también muchos años"
+    },
+    {
+      "start": 590.04,
+      "end": 592.16,
+      "text": "y por esta vía lo quieren desfinanciar."
+    },
+    {
+      "start": 592.58,
+      "end": 597.12,
+      "text": "En un año más, si nosotros optamos en nuestro país soberanamente en una elección"
+    },
+    {
+      "start": 597.12,
+      "end": 599.68,
+      "text": "que yo no voy a cuestionar como ellos ya están haciéndolo,"
+    },
+    {
+      "start": 600.32,
+      "end": 603.86,
+      "text": "el resultado eventual que pudiera haber en una elección si es que ellos no ganan,"
+    },
+    {
+      "start": 604.46,
+      "end": 607.62,
+      "text": "lo que va a estar discutiendo el país es cuánta gente se va a haber visto perjudicada"
+    },
+    {
+      "start": 607.62,
+      "end": 609.64,
+      "text": "a partir de estas apuestas que suben cada semana."
+    },
+    {
+      "start": 610.1,
+      "end": 613.02,
+      "text": "Yo lo que le sugiero a la prensa es que esperemos con qué sale Kaiser la próxima semana,"
+    },
+    {
+      "start": 613.14,
+      "end": 615.86,
+      "text": "porque esto está así de voluble."
+    },
+    {
+      "start": 617.14,
+      "end": 619.78,
+      "text": "Es que Kass ya ahora subió a 21.000."
+    },
+    {
+      "start": 620.08,
+      "end": 621.94,
+      "text": "Kass puso 6.000 millones de dólares, Kass puso 6.000 millones de dólares."
+    },
+    {
+      "start": 622.24,
+      "end": 624.54,
+      "text": "Después Kaiser propuso 15.000 millones de dólares."
+    },
+    {
+      "start": 624.96,
+      "end": 627.82,
+      "text": "Y ahora esta semana Kass propone reducir 21.000 millones de dólares."
+    },
+    {
+      "start": 628.22,
+      "end": 630.62,
+      "text": "Entonces me imagino que ahora le toca a Kaiser decir una cifra mayor."
+    },
+    {
+      "start": 631.12,
+      "end": 632.04,
+      "text": "Así de serios."
+    },
+    {
+      "start": 632.86,
+      "end": 636.42,
+      "text": "Candidata, insistir con la estrategia que viene ahora, ¿cierto?"
+    },
+    {
+      "start": 636.48,
+      "end": 638.86,
+      "text": "A menos de un mes de la primera vuelta presidencial."
+    },
+    {
+      "start": 639.1,
+      "end": 643.14,
+      "text": "Y por otro lado, respecto a la franja, ¿cómo ha dimensionado"
+    },
+    {
+      "start": 643.14,
+      "end": 645.82,
+      "text": "la franja de sus opositores, de sus contrincantes?"
+    },
+    {
+      "start": 646.22,
+      "end": 649.56,
+      "text": "Y también ese guiño que hace el Partido Republicano"
+    },
+    {
+      "start": 649.56,
+      "end": 650.74,
+      "text": "sobre sin comunismo."
+    },
+    {
+      "start": 651.92,
+      "end": 658.02,
+      "text": "Mire, sobre lo que viene ahora, principalmente nosotros vamos a seguir trabajando desde los territorios"
+    },
+    {
+      "start": 658.02,
+      "end": 664.36,
+      "text": "y desde los barrios. Yo sé que son a veces bien contraintuitivas algunas de las cosas que hacemos,"
+    },
+    {
+      "start": 664.54,
+      "end": 665.88,
+      "text": "porque la política generalmente"
+    },
+    {
+      "start": 665.88,
+      "end": 671.86,
+      "text": "se hace desde Santiago y desde los casapiedras, centros de eventos o lugares de debate. A mí me"
+    },
+    {
+      "start": 671.86,
+      "end": 675.46,
+      "text": "gusta combinar las cosas porque yo creo que en Chile ni todos son empresarios, ni todos son"
+    },
+    {
+      "start": 675.46,
+      "end": 683.32,
+      "text": "trabajadores, ni todos son emprendedores, ni todos son de la U, ni todos son del colo. Somos como una familia, algunos piensan distinto, pero no por eso dejamos de ser familia."
+    },
+    {
+      "start": 683.82,
+      "end": 687.58,
+      "text": "Así que yo creo que es bueno estar en los barrios, estar acá también en Santiago en los foros,"
+    },
+    {
+      "start": 688.08,
+      "end": 691.64,
+      "text": "reunirnos con los gremios, como les comentaba, en unos minutos más bien el colegio médico."
+    },
+    {
+      "start": 692.3,
+      "end": 699.44,
+      "text": "Y yo espero estar esta semana cerrando la semana en Antofagasta, precisamente porque como en Chile"
+    },
+    {
+      "start": 699.44,
+      "end": 702.6,
+      "text": "se discute harto de los temas de seguridad pública que afectan"
+    },
+    {
+      "start": 702.6,
+      "end": 706.12,
+      "text": "sobre todo al norte del país, quiero hacer una presentación precisa"
+    },
+    {
+      "start": 706.12,
+      "end": 709.92,
+      "text": "de mis propuestas para esa región, pero además porque hay compromisos"
+    },
+    {
+      "start": 709.92,
+      "end": 713.68,
+      "text": "con una región minera tan importante que ha generado tanto riqueza"
+    },
+    {
+      "start": 713.68,
+      "end": 717.7,
+      "text": "para el país que no se han cumplido, como un centro oncológico para Calama que"
+    },
+    {
+      "start": 717.7,
+      "end": 721.7,
+      "text": "tiene altos índices de contaminación y que yo, por cierto, voy a ir a suscribir"
+    },
+    {
+      "start": 721.7,
+      "end": 727.98,
+      "text": "y comprometer con la comunidad. Sobre la franja, lo que les puedo señalar es que a mí me interesa hacer una franja propositiva,"
+    },
+    {
+      "start": 728.48,
+      "end": 732.06,
+      "text": "que busque soluciones, una campaña que sea limpia de frente a la ciudadanía"
+    },
+    {
+      "start": 732.06,
+      "end": 737.04,
+      "text": "y lo que los demás hagan están en su legítimo derecho, pero por ese camino yo no voy a ir."
+    },
+    {
+      "start": 737.36,
+      "end": 740.6,
+      "text": "Aunque pueda generarles votos algunos, cierto populismo camino yo no voy a ir. Aunque pueda generarles votos en algunos"
+    },
+    {
+      "start": 740.6,
+      "end": 747.04,
+      "text": "ciertos populismos, ese no es mi camino. Y sobre el gesto de republicano a sincomunismo,"
+    },
+    {
+      "start": 747.18,
+      "end": 751.0,
+      "text": "fíjese que yo pienso bien distinto a los republicanos, pero nunca se me ocurriría"
+    },
+    {
+      "start": 751.0,
+      "end": 757.06,
+      "text": "anularlo o borrarlo del mapa. Esa es la diferencia entre quienes estamos por un sistema en el cual Chile sea un puro país unido"
+    },
+    {
+      "start": 757.06,
+      "end": 762.0,
+      "text": "y quienes creen que son los dueños de la verdad, que en definitiva se convierten en autoritarios."
+    },
+    {
+      "start": 763.44,
+      "end": 764.82,
+      "text": "¿Cómo está? Buenos días."
+    },
+    {
+      "start": 764.82,
+      "end": 765.42,
+      "text": "Buenos días."
+    },
+    {
+      "start": 766.0,
+      "end": 774.12,
+      "text": "Guirío Girard, el ex senador, durante este fin de semana dijo que la única manera de que usted mejore su posición es congelando su militancia en el Partido Comunista"
+    },
+    {
+      "start": 774.12,
+      "end": 775.8,
+      "text": "tras la primera vuelta."
+    },
+    {
+      "start": 776.24,
+      "end": 780.32,
+      "text": "¿Cómo ve usted esta afirmación y está dispuesta o no a congelar su militancia?"
+    },
+    {
+      "start": 780.52,
+      "end": 784.86,
+      "text": "Mire, ese tema no está sobre la mesa y yo agradezco todas las sugerencias que se hacen,"
+    },
+    {
+      "start": 785.02,
+      "end": 786.72,
+      "text": "pero las decisiones en definitiva las tomo yo."
+    },
+    {
+      "start": 787.5,
+      "end": 789.84,
+      "text": "Pero en segunda vuelta, eventualmente."
+    },
+    {
+      "start": 790.18,
+      "end": 793.2,
+      "text": "Veremos cuando estemos en la segunda vuelta, pero hoy día no está sobre la mesa"
+    },
+    {
+      "start": 793.2,
+      "end": 794.78,
+      "text": "y las decisiones las tomo yo."
+    },
+    {
+      "start": 795.24,
+      "end": 796.98,
+      "text": "Gracias por la sugerencia a todos en todo caso."
+    },
+    {
+      "start": 799.94,
+      "end": 801.34,
+      "text": "Hola, buenos días, candidata."
+    },
+    {
+      "start": 801.34,
+      "end": 801.5,
+      "text": "Buenos días."
+    },
+    {
+      "start": 801.6,
+      "end": 805.5,
+      "text": "Quería llevarle al tema del error en la alza de las cuentas de la electricidad."
+    },
+    {
+      "start": 805.72,
+      "end": 806.98,
+      "text": "¿Puede subir un poquito el micrófono?"
+    },
+    {
+      "start": 808.42,
+      "end": 809.72,
+      "text": "Eso, que no lo escuchaba bien."
+    },
+    {
+      "start": 811.02,
+      "end": 815.72,
+      "text": "Sí, le decía que quería llevarle al tema de las alzas individuas en las cuentas de la electricidad."
+    },
+    {
+      "start": 816.66,
+      "end": 821.2,
+      "text": "¿Cree usted que las responsabilidades políticas se agotan con la salida del exministro Pardó"
+    },
+    {
+      "start": 821.2,
+      "end": 823.52,
+      "text": "o hay que buscar eventualmente otras?"
+    },
+    {
+      "start": 823.96,
+      "end": 828.0,
+      "text": "Se lo pregunto porque el Partido Comunista está impulsando una comisión investigadora en la Cámara de Diputados."
+    },
+    {
+      "start": 828.8,
+      "end": 830.22,
+      "text": "A ver, lo primero es que respecto del"
+    },
+    {
+      "start": 830.22,
+      "end": 833.56,
+      "text": "error en las cuentas de la luz yo creo que hay que seguir aquí tres vías. En"
+    },
+    {
+      "start": 833.56,
+      "end": 837.86,
+      "text": "primer lugar, responsabilidades políticas y por eso ha sido bastante clara. En mi"
+    },
+    {
+      "start": 837.86,
+      "end": 841.14,
+      "text": "gobierno las y los ministros van a asumir sus responsabilidades políticas."
+    },
+    {
+      "start": 841.8,
+      "end": 845.2,
+      "text": "Todas las autoridades van a asumir su responsabilidad política. En esto"
+    },
+    {
+      "start": 845.2,
+      "end": 849.8,
+      "text": "quiero ser bien clara. En segundo lugar, evidentemente tienen que realizarse todas"
+    },
+    {
+      "start": 849.8,
+      "end": 854.56,
+      "text": "las investigaciones que procedan, sumario administrativo, investigación, y si en el"
+    },
+    {
+      "start": 854.56,
+      "end": 859.0,
+      "text": "Parlamento se quiere levantar una comisión investigadora, aunque hemos visto que en época"
+    },
+    {
+      "start": 859.0,
+      "end": 862.3,
+      "text": "de elecciones no necesariamente son muy contribuyentes"
+    },
+    {
+      "start": 862.3,
+      "end": 865.94,
+      "text": "a dar un debate de profundidad sobre los temas, están igualmente ellos"
+    },
+    {
+      "start": 865.94,
+      "end": 869.0,
+      "text": "en su derecho, pero efectivamente hay responsabilidad administrativa."
+    },
+    {
+      "start": 869.72,
+      "end": 873.38,
+      "text": "Y lo tercero es que aunque las generadoras eléctricas han salido a decir"
+    },
+    {
+      "start": 873.38,
+      "end": 875.92,
+      "text": "que ellos no tenían conocimiento de que estaban cobrando de más,"
+    },
+    {
+      "start": 876.72,
+      "end": 879.44,
+      "text": "igualmente cuando a uno le pagan de más tiene que devolver la plata."
+    },
+    {
+      "start": 880.26,
+      "end": 881.9,
+      "text": "Entonces yo creo que son esas tres cosas."
+    },
+    {
+      "start": 882.8,
+      "end": 885.02,
+      "text": "Lo político, lo administrativo,"
+    },
+    {
+      "start": 885.42,
+      "end": 887.64,
+      "text": "si el Parlamento además quiere levantar una comisión de investigadores"
+    },
+    {
+      "start": 887.64,
+      "end": 890.26,
+      "text": "están en sus derechos, pero aquí está faltando una parte,"
+    },
+    {
+      "start": 890.46,
+      "end": 892.7,
+      "text": "que es que la generadora eléctrica le digan a las personas"
+    },
+    {
+      "start": 892.7,
+      "end": 896.06,
+      "text": "cuándo van a entregarles de vuelta el dinero que no les correspondía recibir."
+    },
+    {
+      "start": 896.52,
+      "end": 900.02,
+      "text": "Puede que no tengo ninguna duda de que puede que no lo hayan sabido,"
+    },
+    {
+      "start": 900.64,
+      "end": 902.52,
+      "text": "no hay mala fe, pero igual tienen que devolver la plata,"
+    },
+    {
+      "start": 902.6,
+      "end": 903.96,
+      "text": "no les correspondía, así de simple."
+    },
+    {
+      "start": 904.62,
+      "end": 910.12,
+      "text": "Sí, y lo otro, el plazo para esta compensación o devolución de los dineros que se cobraron"
+    },
+    {
+      "start": 910.12,
+      "end": 915.58,
+      "text": "de más, se habla de que viene a ser en enero. ¿A su juicio debe ser antes? ¿Hay posibilidad"
+    },
+    {
+      "start": 915.58,
+      "end": 920.08,
+      "text": "de que esto se adelante porque esperar hasta enero falta todavía."
+    },
+    {
+      "start": 923.86,
+      "end": 927.24,
+      "text": "Yo creo que esa es una muy buena pregunta para las eléctricas. Porque al final los que tienen que devolver la plata no van a ser ni el gobierno ni el Parlamento, que son"
+    },
+    {
+      "start": 927.24,
+      "end": 930.86,
+      "text": "los que están discutiendo cuándo se va a devolver. Pero aquí son las eléctricas las"
+    },
+    {
+      "start": 930.86,
+      "end": 934.24,
+      "text": "que tienen que devolverle la plata a la gente. Así que sería buena idea que ellas lo dijeran."
+    },
+    {
+      "start": 935.0,
+      "end": 937.98,
+      "text": "Porque cuando le tienen que cobrar a la gente, digamos que eso pasa al tiro."
+    },
+    {
+      "start": 938.94,
+      "end": 941.88,
+      "text": "La pregunta es cuándo le tienen que devolver, porque no han dicho nada al respecto."
+    },
+    {
+      "start": 943.5,
+      "end": 944.24,
+      "text": "Hola, candidata, ¿cómo está?"
+    },
+    {
+      "start": 944.38,
+      "end": 944.74,
+      "text": "Buenos días."
+    },
+    {
+      "start": 945.08,
+      "end": 948.42,
+      "text": "Quería preguntarle primero algo de Girardi, lo que pasó con la entrevista."
+    },
+    {
+      "start": 948.56,
+      "end": 950.22,
+      "text": "Usted dice que las decisiones las ha tomado usted."
+    },
+    {
+      "start": 950.58,
+      "end": 953.24,
+      "text": "¿Le molesta a usted que le sugieran este tipo de cosas por la prensa?"
+    },
+    {
+      "start": 953.36,
+      "end": 955.02,
+      "text": "No, para nada. Sabe que estoy acostumbrada."
+    },
+    {
+      "start": 955.68,
+      "end": 958.0,
+      "text": "Entiendo que hay mucha gente que tiene mucho interés de aportar"
+    },
+    {
+      "start": 958.0,
+      "end": 959.88,
+      "text": "y encuentra que la vía adecuada es hacerlo por la prensa."
+    },
+    {
+      "start": 960.28,
+      "end": 963.06,
+      "text": "Hay otra que lo hace en privado, en reuniones. Yo no tengo problema."
+    },
+    {
+      "start": 963.54,
+      "end": 966.22,
+      "text": "Lo que sí, que hoy día no es un tema que esté sobre la mesa"
+    },
+    {
+      "start": 966.22,
+      "end": 967.76,
+      "text": "y cuando llegue la segunda vuelta"
+    },
+    {
+      "start": 967.76,
+      "end": 969.66,
+      "text": "se va a discutir la estrategia de segunda vuelta"
+    },
+    {
+      "start": 969.66,
+      "end": 971.14,
+      "text": "pero no es un tema que esté sobre la mesa"
+    },
+    {
+      "start": 971.14,
+      "end": 973.12,
+      "text": "pero no me molesta, estoy acostumbrada"
+    },
+    {
+      "start": 973.12,
+      "end": 974.82,
+      "text": "es así un poco la política en Chile"
+    },
+    {
+      "start": 974.82,
+      "end": 976.24,
+      "text": "y además cuando una mujer es más"
+    },
+    {
+      "start": 976.24,
+      "end": 979.1,
+      "text": "así que cada uno sabe"
+    },
+    {
+      "start": 979.1,
+      "end": 980.76,
+      "text": "cómo hace las cosas."
+    },
+    {
+      "start": 981.34,
+      "end": 983.1,
+      "text": "Yo lo tomo como un dato de realidad nomás."
+    },
+    {
+      "start": 983.84,
+      "end": 988.34,
+      "text": "Y la otra pregunta que tenía para usted es si usted hace suya la molestia que ha expresado la democracia cristiana"
+    },
+    {
+      "start": 988.34,
+      "end": 992.6,
+      "text": "por el uso de la imagen del presidente Patricio Edelwein en la franja de renovación nacional."
+    },
+    {
+      "start": 993.12,
+      "end": 995.92,
+      "text": "Y en esa misma línea, ¿qué le parece que desde ese comando,"
+    },
+    {
+      "start": 995.98,
+      "end": 999.16,
+      "text": "del comando de Belén Matei, están buscando captar los votos del centro político?"
+    },
+    {
+      "start": 999.88,
+      "end": 1004.16,
+      "text": "Bueno, cada uno sigue la estrategia comunicacional que le parezca más adecuada."
+    },
+    {
+      "start": 1004.72,
+      "end": 1011.22,
+      "text": "Yo lo único que quiero señalar al respecto es que en el comando de Belén Matei hicieron lo mismo que"
+    },
+    {
+      "start": 1011.22,
+      "end": 1017.18,
+      "text": "republicano hizo con Jaime Guzmán y le reclamaron los de Belén Matei que los republicanos estaban"
+    },
+    {
+      "start": 1017.18,
+      "end": 1021.48,
+      "text": "ocupando a Jaime Guzmán y resulta que ahora ellos están ocupando una figura de la democracia"
+    },
+    {
+      "start": 1021.48,
+      "end": 1026.78,
+      "text": "cristiana. Yo por lo menos para esas cosas no estoy. ¿Pero usted asesora la molestia que ha expresado la ADC,"
+    },
+    {
+      "start": 1026.86,
+      "end": 1027.74,
+      "text": "que es parte de su comando?"
+    },
+    {
+      "start": 1027.98,
+      "end": 1029.88,
+      "text": "Sí, claro. Es parte de mi comando."
+    },
+    {
+      "start": 1030.26,
+      "end": 1032.0,
+      "text": "No solo me representa en ese tema,"
+    },
+    {
+      "start": 1032.46,
+      "end": 1033.82,
+      "text": "sino que además le encuentro razón,"
+    },
+    {
+      "start": 1033.98,
+      "end": 1036.88,
+      "text": "porque las elecciones no es un todo vale."
+    },
+    {
+      "start": 1037.46,
+      "end": 1044.0,
+      "text": "Aquí hay ciertas formas en las cuales uno tiene que tener claridad de que no puede ocupar figuras que son de otro sector."
+    },
+    {
+      "start": 1044.0,
+      "end": 1050.64,
+      "text": "Es como improcedente, pero bueno, de mi parte por lo menos no lo van a encontrar."
+    },
+    {
+      "start": 1052.04,
+      "end": 1056.04,
+      "text": "Candidata, buenos días. Quer quería hacer una pregunta, la segunda"
+    },
+    {
+      "start": 1056.04,
+      "end": 1058.18,
+      "text": "vuelta, la ve como una nueva"
+    },
+    {
+      "start": 1058.18,
+      "end": 1059.52,
+      "text": "elección que se parte de cero"
+    },
+    {
+      "start": 1059.52,
+      "end": 1062.08,
+      "text": "sí, la verdad es que sí"
+    },
+    {
+      "start": 1062.08,
+      "end": 1063.5,
+      "text": "qué bueno que me lo pregunta"
+    },
+    {
+      "start": 1063.5,
+      "end": 1065.78,
+      "text": "mire, yo creo que en nuestro país hoy día"
+    },
+    {
+      "start": 1065.78,
+      "end": 1067.8,
+      "text": "lo que hay son dos fenómenos, cierto, tenemos"
+    },
+    {
+      "start": 1067.8,
+      "end": 1071.96,
+      "text": "primero un sector de la derecha que no se logró poner de acuerdo en nada aún cuando"
+    },
+    {
+      "start": 1071.96,
+      "end": 1077.16,
+      "text": "quiere gobernar el país y por eso tiene una dispersión entre varios candidatos y"
+    },
+    {
+      "start": 1077.16,
+      "end": 1081.66,
+      "text": "seguramente entre algunos de ellos va a salir quien represente al sector algunos"
+    },
+    {
+      "start": 1081.66,
+      "end": 1084.92,
+      "text": "de ellos se mueven un poco más a la derecha otro un poco más al centro y se"
+    },
+    {
+      "start": 1084.92,
+      "end": 1089.16,
+      "text": "van desfondando por un lado por otro de. De hecho, CASA se trató de mover hacia el"
+    },
+    {
+      "start": 1089.16,
+      "end": 1094.02,
+      "text": "sector de Belén Matei y Kaiser creció por el lado. Por eso ahora CASA le ofrece una"
+    },
+    {
+      "start": 1094.02,
+      "end": 1098.06,
+      "text": "reducción a un más grande de gasto público. Que esto a la gente, en realidad, no sé si"
+    },
+    {
+      "start": 1098.06,
+      "end": 1100.0,
+      "text": "verá los efectos de esto en la casa, pero lo que le están diciendo es que le van a bajar los beneficios sociales. O van a dejar de financiar carabineros, que esto a la gente, en realidad, no sé si verá los efectos de esto en la casa,"
+    },
+    {
+      "start": 1102.52,
+      "end": 1103.06,
+      "text": "pero lo que le están diciendo es que le van a bajar los beneficios sociales."
+    },
+    {
+      "start": 1106.44,
+      "end": 1106.66,
+      "text": "O van a dejar de financiar carabineros, funcionarios de la salud, profesores de la educación."
+    },
+    {
+      "start": 1107.7,
+      "end": 1108.72,
+      "text": "Eso es lo que hay detrás de esto."
+    },
+    {
+      "start": 1113.16,
+      "end": 1113.22,
+      "text": "Y alimentan ese odio contra los funcionarios públicos porque en otros países como Argentina, Estados Unidos,"
+    },
+    {
+      "start": 1114.0,
+      "end": 1114.26,
+      "text": "le han dado resultados."
+    },
+    {
+      "start": 1118.38,
+      "end": 1122.56,
+      "text": "Pero en Chile, el gran gasto no está en los funcionarios, está en los beneficios que le llegan a la gente. Entonces aquí va a haber un representante"
+    },
+    {
+      "start": 1122.56,
+      "end": 1125.84,
+      "text": "de la derecha chilena o de la ultraderecha chilena que es el que pasa la segunda vuelta"
+    },
+    {
+      "start": 1125.84,
+      "end": 1133.08,
+      "text": "y ahí si es que la gente también me elige para pasar a la segunda vuelta, van a haber dos proyectos de país muy distintos que se van a confrontar."
+    },
+    {
+      "start": 1133.76,
+      "end": 1138.7,
+      "text": "Muy distintos. Yo por lo menos vengo perseguida por una alianza política amplia en la cual"
+    },
+    {
+      "start": 1138.7,
+      "end": 1143.08,
+      "text": "hay nueve partidos políticos y todos evidentemente tenemos cosas en las que estamos de acuerdo"
+    },
+    {
+      "start": 1143.08,
+      "end": 1145.96,
+      "text": "y cosas en las que no. Casi lo más parecido a Chile que hay."
+    },
+    {
+      "start": 1146.2,
+      "end": 1148.48,
+      "text": "Por eso creo que podemos ofrecer la mejor gobernabilidad."
+    },
+    {
+      "start": 1148.96,
+      "end": 1150.54,
+      "text": "Pero eso lo tiene que juzgar la ciudadanía."
+    },
+    {
+      "start": 1150.86,
+      "end": 1152.7,
+      "text": "Candidata, ahora sí, la última pregunta."
+    },
+    {
+      "start": 1153.1,
+      "end": 1159.38,
+      "text": "¿Cómo piensa sumar votos si, matemáticamente, la oposición tiene tres candidatos?"
+    },
+    {
+      "start": 1159.96,
+      "end": 1161.08,
+      "text": "¿Eso dan los números?"
+    },
+    {
+      "start": 1161.4,
+      "end": 1162.84,
+      "text": "Sí, mire, creo que este es un desafío"
+    },
+    {
+      "start": 1162.84,
+      "end": 1165.7,
+      "text": "importante, yo lo asumo con responsabilidad"
+    },
+    {
+      "start": 1165.7,
+      "end": 1167.2,
+      "text": "y lo que voy a hacer es trabajar duro"
+    },
+    {
+      "start": 1167.2,
+      "end": 1169.4,
+      "text": "pero solamente quiero decirle que"
+    },
+    {
+      "start": 1169.4,
+      "end": 1170.72,
+      "text": "en la política"
+    },
+    {
+      "start": 1170.72,
+      "end": 1172.88,
+      "text": "no se trata de sumar votos"
+    },
+    {
+      "start": 1172.88,
+      "end": 1175.28,
+      "text": "ni de sumar logos partidarios. Yo lo tengo claro."
+    },
+    {
+      "start": 1175.74,
+      "end": 1179.56,
+      "text": "Lo vivimos en la primaria y creo que ahora puede pasar algo parecido."
+    },
+    {
+      "start": 1179.7,
+      "end": 1182.38,
+      "text": "El tema es que no lo vamos a saber hasta que las cosas pasen."
+    },
+    {
+      "start": 1182.48,
+      "end": 1185.92,
+      "text": "Así que yo más que especular, lo que estamos haciendo en mi comando es trabajar."
+    },
+    {
+      "start": 1186.2,
+      "end": 1190.02,
+      "text": "Y yo trabajando a full por esto porque creo que Chile se merece"
+    },
+    {
+      "start": 1190.02,
+      "end": 1195.18,
+      "text": "una vida que mejore en calidad y no retroceder. Y me preocupa enormemente las posibilidades"
+    },
+    {
+      "start": 1195.18,
+      "end": 1200.52,
+      "text": "de retroceso que hay con personas que creen que solo sus ideas son las válidas. Aquí hay gente"
+    },
+    {
+      "start": 1200.52,
+      "end": 1204.96,
+      "text": "que se opuso hasta a la ley Cholito, que pretende encabezar el país. O sea, no solamente a todas"
+    },
+    {
+      "start": 1204.96,
+      "end": 1207.7,
+      "text": "las leyes que fortalecían la autonomía de las mujeres,"
+    },
+    {
+      "start": 1208.22,
+      "end": 1213.08,
+      "text": "o que reconocían a la disidencia en nuestro país, o que incluso negaron la reforma tributaria"
+    },
+    {
+      "start": 1213.08,
+      "end": 1217.4,
+      "text": "para poder financiar el aumento de pensiones, y ahora anda con una chapita el candidato Kass"
+    },
+    {
+      "start": 1217.4,
+      "end": 1220.64,
+      "text": "de que ama la PGU, sino que además se opuso a la ley Cholito"
+    },
+    {
+      "start": 1220.64,
+      "end": 1222.86,
+      "text": "entonces yo digo, ¿qué clase de humanidad hay aquí?"
+    },
+    {
+      "start": 1223.6,
+      "end": 1224.9,
+      "text": "yo me la voy a jugar hasta el final"
+    },
+    {
+      "start": 1224.9,
+      "end": 1226.86,
+      "text": "porque quiero un Chile unido y que avance"
+    },
+    {
+      "start": 1226.86,
+      "end": 1229.28,
+      "text": "con todas sus diversidades, pero que avance"
+    },
+    {
+      "start": 1229.28,
+      "end": 1231.08,
+      "text": "no que retroceda, muchas gracias"
+    },
+    {
+      "start": 1231.08,
+      "end": 1235.18,
+      "text": "gracias chiquillos."
+    },
+    {
+      "start": 1235.78,
+      "end": 1236.32,
+      "text": "Los vecinos."
+    }
+  ]
+}

@@ -1,0 +1,4754 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ]
+  },
+  "text": "¡Suscr! ¡Camino! ¡Es fuerza en la prima, en la madre, en el niño. Cambia la historia si juntos remamos, si le no se rinde lo transformamos. No es con discurso ni frase bonita, es la fuerza del cambio, es la que palpita. Si nos unimos la historia, cambiamos Chile, se levanta y todos ganamos. La fuerza del cambio. Del cambio. Del cambio. La fuerza. La fuerza del cambio. Del cambio. La fuerza del cambio. La fuerza. la fuerza del cambio! ¿Ya son? ¿Aló ahí? Ahí sí. ¡Buenos días! día, miren que bien acompañado estoy, la mujer más linda, más valiente, más fuerte. Estamos juntos en este tremendo desafío. Les doy las gracias a todos por el entusiasmo, por el calor que se siente aquí. Vamos a sentir un ratito así de calor humano, porque esto va para largo, porque tenemos muchas cosas que compartir y conversar, así que de nuevo, muchas gracias a cada uno, yo voy a pedir aquí a Pia que se sienta al lado de nuestro presidente regional, y ustedes ya fueron escuchando, compartiendo las ideas con quienes para nosotros son muy relevantes en este tiempo que viene. Y voy a partir por saludar... Uf, se me caen los apuntes. Voy a partir, gracias. Voy a partir por saludar a nuestro senador, a mi gran amigo Alejandro Kusanovich. Gracias Alejandro. Quiero contarles que con Alejandro hicimos el primer recorrido por todas las regiones de la región. Intentamos arrebatarle el volante y no hubo caso. Manejó desde Torres hasta Timauquiel y de Timauquiel de vuelta. Casi quedamos botados en la mitad, pero él decía, no se preocupen, todo va a estar bien. De ahí viene el dicho. Los dichos de él son para el cantinfleo, corten no sé qué. Pero gracias Alejandro por esa amistad y al verte y también ver a usted, recuerdo a esa gran mujer, Gloria Vilicich. Gloria, tremenda mujer, que en ese recorrido también estuvo con nosotros. Lamenté mucho no haber podido estar presente en su despedida, pero la fuimos a ver ahí donde descansa, perdón, su alma descansa con el Señor, pero donde está el recuerdo de ella aquí en la tierra, ahí estuvimos con un viento increíble y decía Gloria gracias por este viento y nos volábamos pero siempre es bueno recordar a aquellos que ya partieron y que fueron personas importantes en el desarrollo de este proyecto la conocí cuando peleábamos con una mujer de cara y después nos hicimos grandes amigos. Así que, a la distancia, un aplauso de nuevo para Gloria. Y ustedes también ya nos escucharon. Paso desde mi derecha. Se siente feliz, Juan Serdanovich Arcos. Juan, gracias por la valentía y junto a ti una gran mujer, una mujer valiente, fuerte, tiene carga de vida. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. parado en la puerta de la catarina y decía a la persona que estaba pasando, ¿se defiende la vida? Y si la persona decía, sí, venga, pase por aquí y te lo voy a enseñar. Y si la gente le decía, vayas a la luna, que venga un buen día. Era como rapido, ¿sí o no? Pero para que vean la efectividad de la palabra. No peleaba con nadie. Decía, yo no tengo tiempo para pelear con nadie. Necesito la firma, rápido. Y al lado de acá, alguien que también he ido conociendo con el tiempo, nos conocimos hace bastante tiempo, le tocó dar una lucha interna en el Consejo Regional, cuestionó todo, bien cuestionado, ganó en todas las instancias, y aquí está Alejandro Riquelme, que le doy las gracias. Gracias. Y aquí está Alejandro Miquelmen, que le doy las gracias por aceptar la nombranza. Esperamos que con este equipo, porque somos un equipo y esa es la gran diferencia con otras candidaturas, otras líneas. Que nosotros sabemos que no todos vamos a llegar a la meta. Yo ya llevo dos intentos, todavía no llego al polo, pero ahora espero lograrlo. Pero no importa que uno no llegue. Si lo importante es los principios que uno lleva y que uno nunca deja de defendernos. Más allá de si uno gana o pierde. Porque ganamos siempre. Y eso es, ayer también lo aprendimos en el Día de la Iglesia Evangélica, que nos decían miremos al pasado y agradezcamos, miremos el presente y gocemos, y miremos el futuro y confiemos. Y yo soy de esas personas que confío, confío que todo va a estar bien, más allá del resultado, el resultado es lo mismo, si confiamos en que las cosas van a estar bien. Y quiero darles las gracias también, no sé si alcanzó a llegar Jorge Parga, no alcanzo a verlo, pero Jorge Parga es parte de nuestro equipo de seguridad. Ustedes vieron el lunes pasado una presentación que hicimos sobre el escudo fronterizo y ahí hay mucha gente trabajando en todo lo que nosotros queremos llevar adelante en el plan escudo fronterizo, en el plan cancerero, en el plan impacable, en el plan barrido total. Eso no son solo siglas, no es solo un eslogan. Hay un trabajo serio detrás de cada una de las presentaciones que hacemos y el lunes, bueno, dentro de lo que presentó Cristian Vial, él figuraba como la cara visible, pero también está el almirante Jorge Vargas, que ayer nos acompañó durante el día, está el coronel González, está el general Pasaletti, está el exalcalde Rodolfo Cártez, está Beatriz Gebbia, y así en cada área, en cada tema que nosotros planteamos, hay un plan detallado de cómo enfrentar un futuro gobierno. Y a nivel de regiones, hoy día también tenemos representantes, y eso nos permite presentarnos frente a la ciudadanía de una manera distinta, ya con mayor musculatura, ya más fuerte para lo que viene. Y está aquí, para que no se me salte nadie, quien reemplaza a Alejandro Rodríguez en el core. Don Robert no lo reemplaza como no lo reemplaza. Es único, es único e irrepetible. Nadie reemplaza a nadie. Tienes toda la razón, Roberto Bison, parante de pie, nuestro core, único, grande y nuestro, irrepetible. Y también están con nosotros nuestros concejales de distintas comunas de Puerto Natal. Está Alejandro Contreras, Cárdenas, perdón. La verdad que las letras se me... Cárdenas, disculpa, Alejandro. Está Andrea Muñoz, que está por aquí, por venir. Gracias, Andrea, por estar presente. Está un amigo que los transporta a todos, Miguel Contreras, el concejal y taxista, como él se presenta. Está Marcela Laisle, que anda muy bien acompañada, ya ahí con una guaguita en camino. Está también Alicia Stipicich, rebelde. ¿Dónde está la Alicia? Ahí está. Hola Alicia. No te preocupes, ya no hay tiempo para el Tribunal Supremo, así que no hay problema, ya se cerraron todos los plazos, y también está nuestro presidente regional Javier Romero, gracias Javier Javier siempre está uno puede llegar bueno, y está Alan, y está toda la en ti, en el fondo, le doy las gracias a todo el equipo de la directiva, que siempre están cuando uno llega a cualquier hora del día, ahí están cuando uno tiene que viajar a alguna parte ahí están, así que gracias por ese compromiso permanente, que es lo que nos hace grandes. Y puedo decir que hoy día siento la misma emoción, no, más emoción que tantas veces... ¡Ah! No la había visto. Mis disculpas. Gracias. Gracias a todos porque esto es increíble ver tantas personas aquí en este lugar que ya nos hemos encontrado otras veces. Porque esta no es ni la primera ni será la última vez que vamos a estar aquí en Magallanes. Hemos estado separados, juntos, pero siempre hemos estado aquí con Pía. Y siempre es una alegría, es una inyección de energía. Cuando uno va al centro y siente esa fuerza del viento, dice, bueno, que esta fuerza sople. Y lo que queremos pedirle hoy día es que esa misma fuerza sople desde aquí de Magallanes hacia todo Chile, porque se va a sentir fuerte el viento del cambio, la fuerza del cambio que desde aquí parte en los últimos 15 días que nos quedan por delante. Es muy importante lo que se nos viene. Y tengo el orgullo de decir que, el orgullo y la alegría de decir que he podido recorrer todo Chile, desde Arica para Inacota hasta Magallanes. Y así como cuando uno llega a Arica, dice, esta es la ciudad de la eterna primavera. Cuando uno pasa por Atacama, dice, aquí está el desierto florido y aquí renace Chile de nuevo después de tiempos dura, cuando uno pasa por Atacama y dice aquí está el desierto florido y aquí renace Chile de nuevo después de tiempos duros, cuando uno pasa por O'Higgins y ve que ahí se denominó la región como la región del libertador, cuando uno pasa por Ñuble y dice este es el Ñuble heroico, histórico, porque aquí nacieron O'Higgins, Pratt, Arrau, tantas personas que nos han liderado y nos han mostrado, han mostrado a Chile, al mundo. Cuando uno llega a Magallanes, también siente que desde aquí renace la esperanza. Y podemos decir que lo que viene ahora es una tremenda esperanza para Chile, porque esta es como, uno podría decir, la frontera de la esperanza, donde era casi imposible que surgiera el desarrollo de la esperanza. donde era casi imposible que surgiera el desarrollo. Están llamando. Que surgiera el desarrollo. Pero ustedes han hecho posible lo imposible. Así como siempre nos dicen, esto es imposible, nada es imposible. Porque ustedes nos han enseñado que con esa fuerza, con ese carácter, con esa voluntad, aquí la gente no se rinde, los magallánicos no se rinden. Y Chile no tiene que rendirse frente a los desafíos. Y hemos pasado años duros, años muy duros, años de un muy mal gobierno, un gobierno que nos va a dejar un país quebrado, en bancarrota. Pero ustedes, con esa firmeza, con esa austeridad, con ese carácter, nos indican una y otra vez que podemos recuperar y reconstruir nuestra patria. Con esa energía que ustedes proyectan, nosotros decimos, bueno, si lo hicieron en Magallanes, en una tierra que uno viene la primera vez, imagínense lo que deben haber sido las primeras personas que recorrieron esta zona, hayan sido de los pueblos originarios, hayan sido conquistadores, hayan sido los pioneros, quienes sean, porque al final todos somos chilenos, todos hemos ayudado a construir nuestra patria única y grande. Y cuando ayer caminábamos por el centro, vimos el homenaje a un chileno heroico, el piloto pardo. Y el piloto pardo nos recuerda la historia de ocho gran hombres, de un explorador escocés, quien en la lucha o en el desafío de llegar primero al polo, dijo, ¿cómo lo hago? E hizo una invitación súper amable, simpática, como que uno dice, yo no me puedo perder esa aventura, yo me quiero subir a ese barco para ir a descubrir el polo sur. Y el mensaje que él publicó, imagínense los años 1900, alguien con un cartelito clavando un clavo en las distintas plazas ahí en Inglaterra, decía se necesitan hombres para un viaje arriesgado, poco sueldo, frío extremo, largos meses de oscuridad total, peligro constante, regreso a salvo dudoso, honor y reconocimiento en caso de éxito. ¿Cómo les quedó? Hacían fila para subirse al barco. Creo que juntó como 22, 24, creo que eran 25. Veinticinco que que subieron a un barco y no sabían a dónde iban, pero confiaban en que este señor tenía claro el destino. Bueno, navegaron, navegaron, navegaron y leyendo la historia, eso lo descubrí hoy día, el mismo día, no el mismo día en que yo nací, pero un 18 de enero, pero como 60 años antes, quedaron atrapados en el hielo. Y ahí quedaron, largo tiempo. Y él con un par de valientes se baja de la embarcación, deja salvo al resto y empieza a buscar dónde ir a pedir ayuda. Y llega aquí a Punta Arenas, se encuentra con distintas personas, hacen un primer intento, fracasan y como fracasan en el primero, alguien sale sale su auxilio y quién era luis alberto pardo villalón increíble el piloto pardo está ahí en la costanera está delante de la proa de la barcaza y el hecho y Y ustedes dicen, ¿y con esto fueron? Porque no era un rompehielos como uno se imagina hoy día. No, una cosita así como uno dice, oh, yo en esto no voy. Y ahí estaba el piloto pardo. Y el piloto pardo fue el reflejo de lo que somos los chilenos, de que somos personas capaces de salir a encontrar al que sufre, al que está en peligro. Y no importa lo que tengamos que arriesgar, no importa lo que tengamos que sufrir, ahí vamos a estar, algunos de nosotros, haciendo lo que debemos hacer. Y en este caso es recuperar y reconstruir nuestra patria. Así que bienvenidos a este viaje. Va a ser un viaje harto más tranquilo que ese. No estamos invitándolos a una locura. No lo estamos invitando a algo tan desafiante. Es muy importante, sí. Porque de que nosotros lo hagamos bien depende la vida de miles de personas que hoy día están en la vulnerabilidad. Millones de personas que hoy día no tienen esperanza. Millones de personas que hoy día están en la vulnerabilidad. Millones de personas que hoy día no tienen esperanza. Millones de personas que hoy día tienen miedo. Y ahí vamos a estar nosotros. Imagínense el desafío. Nosotros vamos a tener la responsabilidad de dirigir los destinos de nuestra patria. Y es un trabajo muy difícil, porque el cómo nos van a entregar el país, todos lo sabemos. Un país que hoy día tiene no solo una emergencia, tiene varias emergencias. Nuestro programa de gobierno se enfoca en tres líneas. En la línea de la seguridad, que para ustedes todavía se ve como un poquito más distante, a pesar de que ya tienen problemas de droga, problemas de algunos temas de abusos, temas de violencia. Existen dificultades acá, pero no al nivel que existe en la macrozona norte, en la macrozona sur, con el terrorismo. Pero ahí hay una crisis, una emergencia importante. Hay otra crisis y emergencia muy relevante que es la crisis que hoy día vive la familia chilena porque no hay empleo, no hay crecimiento económico, no hay inversión, porque no hay certeza jurídica. Por lo tanto, teniendo todas las posibilidades de crecer no lo hacemos y si no hay crecimiento no hay empleo y la mejor política pública que puede llevar adelante un gobierno es el pleno empleo porque no solamente da dignidad a las personas sino que permite una mejor calidad de vida en el tiempo. Eso algunos no lo han entendido y se esfuerzan, porque Chile no crezca, se esfuerzan por cerrar todas las oportunidades a las personas que quieren emprender. Ahí tenemos otro desafío enorme. Y el tercer desafío es el desafío social, el desafío que tenemos frente a la educación de nuestros hijos, porque la educación da libertad y ellos se han esforzado por ir deteriorando la calidad de la enseñanza a lo largo de todo Chile. Tenemos ahí también otro desafío social que es la salud. La salud que se ve como, se ve con miedo. Porque dice, ¿qué pasa si me enfermo? Las listas de espera. 40.000 compatriotas mueren al año en la lista de espera. Y no tiene por qué ser así. No tiene por qué ser que alguien muera en la lista de espera. Nadie sabe cuándo se va. Nadie puede hacer morarle la vida a la persona permanentemente. Pero lo que sí podemos decirle es que no va a morir esperando una atención médica. No va a morir esperando una intervención quirúrgica. Porque eso sí depende de nosotros. Él puede morir en la operación, sí. Él puede morir frente al médico, sí. Pero al menos tuvo la oportunidad de que alguien lo viera, lo atendiera. Y en este recorrido por Chile he podido conocer los dolores, los miedos, cada una de las cosas que a las personas le preocupan. Aquí en la región, 10 comunas. Y como les decía, en un recorrido express inicial, después la he recorrido varias veces, ¿no es cierto?, en otro de esos vehículos grandes donde uno dice, oh, elorrido express inicial, después la he recorrido varias veces, ¿no es cierto?, en otro de esos vehículos grandes donde uno dice, oh, el panorama es enorme y uno va aquí calentito, no quisiera quedarme botado aquí a mitad de la Patagonia. Conocimos desde las torres, como le decía, hasta Timauque, pasando por cada una de las comunasas, algunas ya las había conocido cuando era pequeño......y uno iba ahí a la isla, ¿no es cierto?, y veía un gimnasio, y veía un invernadero......en Cerro Sombrero, una cosa increíble, no sé qué es increíble y se fue apagando apagando, apagando, apagando toda la potencia ganadera que tenían se fue apagando, apagando, apagando y si seguimos así en poco tiempo más van a haber más guanacos que ovejas es una cosa impresionante, Ayer me daban los datos, las cifras del tema ganadero y decían, no, mira, si pasamos de 2.700.000 cabezas de ovejas a 1.400.000 y los guanacos subiendo, ya van en 400.000. O sea, cabe media oveja por hectárea, ese es el rendimiento promedio, imagínense lo que come un guanaco, mi padre estaría espantado. Mi padre decía, no, en esta hectárea yo saco dos vacas por hectárea, en la medida que ustedes no tengan caballos para pasear, porque el caballo come más que la vaca. Bueno, imagínense la medida que ustedes no tengan caballos para pasear, porque el caballo come más que la vaca. Bueno, imagínense la potencia ganadera que hay, pero por una ideología extrema, bueno, hay una competencia que compite al final contra el ser humano. Ahí hay un tema que uno tiene que enfrentar. Pero eso se sabe buscando, conociendo, recorriendo. Les aseguro que nadie de los que dirigen los distintos ministerios en Santiago conoce esa realidad. Los que votaron por la defensa de los animales en la ley Cholito no tenían idea que los perros asilvestrados iban a matar a los pudú, que iban a matar a las ovejas. Y yo me acuerdo, y perdonen que me extienda, pero esto sirve para ir mostrando ejemplos prácticos. La primera vez que llegué después de la ley Cholito, a Arica, que yo la voté en contra, porque decía esta ley no va a lograr el objetivo que busca. Yo soy amante de los animales, tenemos a esta altura yo creo que como siete perros en la casa aparte de otros animales pero no va a lograr el objetivo y va a perjudicar a otros animales y mi primer debate en Arica fue decirle ¿quién tiene más derechos? ¿la oveja o el perro? y el perro tenía mucho más derechos. En algunos casos tiene más derechos que algunos de nosotros. Bueno, y el perro asilvestrado no es la jauría solamente que está. El perro asilvestrado también son los perros que nosotros tenemos que en la noche se reúnen, hacen un grupete, una jauría, salen, matan y vuelven. Y solo matan, porque ni siquiera es para alimentarse. Bueno, ahí está. Y la autoridad mira el techo. Y los pequeños agricultores pierden todo su capital. Porque también un campesino que está en una situación vulnerable dice, ahí está mi cuenta de ahorro, esas ovejitas, esas vacas, esos terneros, son mi cuenta de ahorro, yo no tengo posibilidad de ir al banco, esto era cuando no había internet, pero no tengo posibilidad de ir al banco, entonces yo ahorro ahí. Y le matan todos sus ahorros. ¿Quién se hace responsable? Nadie. Y esa ideología es la que se ha instalado en nuestra patria y que estamos a punto de enfrentar de buena manera, con las buenas ideas. Porque la ideología del ambientalismo extremo hace que nosotros no podamos aquí producir salmones, hace que no podamos aquí avanzar en el ideógeno verde, hace que aquí no podamos lograr que los inversionistas crean en nosotros porque nadie sabe cuándo termina, todos saben cuándo entran los papeles y nadie sabe cuándo salen de la evaluación ambiental. La ideología del animalismo extremo termina perjudicando a las personas que se han esforzado toda la vida para sacar adelante, en este caso, su estancia, su parcela. Y así nos vamos. El indigenismo extremo nos tiene una situación muy compleja porque de una buena ley se terminó haciendo algo malo para el país. La ley Lafkenche tenía toda la intención de hacer algo bueno, que era proteger el arte de pesca de comunidades de pueblos originarios que vivían de la pesca artesanal. Pero hoy día, aquí en la zona zona están solicitadas más hectáreas de las que ustedes se pueden llegar a imaginar por un grupo pequeño de personas. Y cuando uno solicita una gran superficie, imagínense varias estancias juntas en el mar. Bueno, para trabajarla yo tengo que tener las herramientas. Es como que yo tuviera una estancia enorme y en época moderna tuviera un tractor, no tuviera un arado, no tuviera una rastra. Aquí, para entrar al mar, uno al menos tenía que tener un par de botes. Algunos piden concesiones marítimas sin tener siquiera un bote que flote, porque lo tienen en la playa. ¿Y piden todo esto para qué? Para abusar del sistema. Porque es un abuso. Nadie le niega el derecho a alguien de tener un espacio para generar su trabajo y la gestión de su familia. Pero cuando yo lo quiero todo, para después cobrarle a otro que va a invertir y yo me quedo sentado, eso es un abuso. Y se ha ido abusando de las distintas leyes. Por eso nosotros tenemos que develar y mostrarle a los chilenos que la ideología extrema en todos estos puntos solo daña la calidad de vida de las personas, solo empobrece nuestra patria y a eso nos vamos a enfrentar en el tiempo que viene. Este gobierno que viene es un gobierno de emergencia porque tenemos estas emergencias que le he ido señalando y no vamos a tener tiempo para discutir de muchos temas que son importantes, pero nosotros tenemos que enfrentar el hecho de sacar adelante a nuestro país que vuelva a ser seguro y próspero. Y eso requiere en estos cuatro años toda nuestra dedicación de los mejores y esto no va a ser fácil porque algunos van a decir oye a ver que yo trabajé diez años para que usted fuera presidente yo quiero estar ahí y a lo mejor no le va a tocar estar ahí y va a ser duro porque nosotros no queremos agrandar el tamaño del Estado queremos achicarlo y eso ¿va a herir sentimientos? sí los va a herir lo tengo claro Porque nosotros no queremos agrandar el tamaño del Estado, queremos achicarlo. ¿Y eso va a herir sentimientos? Sí. Los va a herir, lo tengo claro, pero es necesario. Y ahí de nuevo vamos a tener que pedirles un acto de confianza a muchos de ustedes. Porque hacia donde vamos es muy difícil. Y tenemos que rescatar a toda la ciudadanía que tiene las esperanzas puestas en nosotros. Si nosotros actuamos como los actuales gobernantes y empezamos a apitutar a los amigos, a personas que están ahí solo por amistad y les regalamos una embajada, en Brasil, por ejemplo, en España, por ejemplo, en México, por ejemplo, bueno volvió ahora candidata, pero repartían las embajadas como que tuviera miles y daba lo mismo y somos un país riquísimo. No somos un país tan rico en recursos naturales. Tenemos que optimizar y si mandamos un embajador a Brasil es para que haga negocio. Es para que abra los corredores bioceánicos y Brasil saque toda la soya que produce por los puertos chilenos. No es para que se vaya a bañar ahí a la playa de Río Janeiro. Y si mandamos a alguien a México, bueno, es para que nosotros invirtamos la balanza y le exportemos todo el ají que podamos producir a México, si les encanta el ají. Ustedes no lo crean, hasta la sandía le echan ají. Bueno, y nosotros tenemos el mejor ají del mundo. Así que a eso nos vamos a enfrentar. Y he recorrido Chile junto a un tremendo equipo. Aquí hay varios de los que a veces no aparecen, pero que hacen la pega de verdad. Aquí el animador oficial era Sergio Turra. ¿Dónde está Sergio Turra? Que es animador oficial, el que lleva redes sociales, el que canta hip hop. Nacemos ahí como el circo del señor Chamorro, nos cambiamos de sombrero, pero lo pasamos muy bien, es todo muy intenso. Ahí está Sergio, ¿dónde está Sergio? Se escondió, le dio vergüenza. Tenemos también a nuestro rostro, ustedes lo han visto, aparece en TVN, de repente escribe algunas columnas polémicas. ¿Dónde está Sergio? Ahí está Sergio Turra. Tenemos al jefe de la franja que está ahí, Adil Ayala, que es el hombre de orquesta que lleva a la práctica las genialidades del Yeti. Le dicen Yeti por el tamaño. Entonces, esto es un equipo a lo largo de Chile, así como ustedes tienen un equipo acá, que se ha ido afiatando. Y así como en Atacama hablábamos del plan desierto florido, o en la Araucanía, de Araucanía libre, allí, y son ideas que se van complementando, no es que en cada parte, esto no lo he escuchado nunca, no. Pero el plan para Magallanes Antártica chilena es el plan Esperanza Austral, con lo que partí diciendo desde aquí, desde aquí, desde Magallanes le vamos a mandar toda la esperanza al resto de Chile. Y nos quedan 15 días. Son 15 días claves que vienen por delante. Pero este plan, Esperanza Austral, tiene, para variar cinco ejes ajá sin que te acuerdes cinco cinco cinco cinco cinco ¿quién cuando vio la franja no pensó que venía cinco cuatro tres no, era cinco cinco cada vez que te escuchan el cinco revitan cinco cinco yo quedé pegado con eso entonces alguien ve si es la palabra cinco y le digo cuatro, tres, no, y era cinco, cinco. Cada vez que ustedes escuchan el cinco, repitan cinco, cinco. Yo quedé pegado con eso, entonces alguien me dice la palabra cinco y le digo siempre las cuatro veces cinco que vienen después. Bueno, Magallanes libre de violencia. Ustedes tienen aquí una región maravillosa. Uno llega a Punta Arena y dice, y ayer le comentaba a la pía, ¿se fija que esta es una ciudad sin rejas? Es impresionante. Ustedes llegan a Santiago y les da claustrofobia. Porque por todas partes ven rejas, rejas, rejas, rejas, rejas, rejas. Y el patio frontal de la casa enrejado. Y el techo con reja. A mí en San Bernardo una vez teníamos todo enrejado y se nos había olvidado enrejar el techo. ¿Por dónde entraron? Levantaron la plancha de zinc y se metieron fuera ahí. Se la saben todas. Entonces, mantengamos la paz que ustedes tienen hoy día. Es imposible que todo sea tranquilo y seguro, pero ustedes tienen hoy día una condición que hay que mantener. Y eso pasa por la anticipación policial. Y la anticipación policial pasa por tener mejores recursos y más equipamiento para nuestros carabineros y nuestra policía de investigaciones. También para la policía marítima, que tiene que enfrentar situaciones complejas ahí en los muelles, en los puertos y en alta mar. Tenemos que darle todo el respaldo a nuestras Fuerzas Armadas. Y tenemos que... Hacemos extensivo el aplauso para Carabinero, la Policía de Investigaciones, Gendarmería y las Fuerzas Armadas. Usted es mejor que nadie. Usted es mejor que nadie, o quizás también nuestros compatriotas del norte saben lo que es sufrir con el miedo de un conflicto bélico inminente. Y muchas Fuerzas Armadas estuvieron ahí con ese coraje, con esa valentía, con esa sencillez y con esa creatividad infinita. Porque gran parte de lo que no ocurrió es gracias a la creatividad infinita de nuestros compatriotas que estaban ahí en ese momento crítico. Pero eso hay que cuidarlo y mantenerlo. El respeto hacia esas personas, servidores públicos, tiene que ser permanente. Y el equipamiento que necesitamos en la región es mucho más potente del que tenemos hoy día. Nuestros aeropuertos tienen que ser mejor controlados. Nuestros muelles, nuestros puertos tienen que tener un mejor control. Nuestra situación en alta mar, en los canales, tiene que estar más vigilada. Porque el enemigo no descansa. Y el crimen organizado es el enemigo más peligroso que tenemos por delante, porque no respeta las fronteras, no respeta las leyes, no tiene bandera, le da lo mismo todo y utiliza a todos. Por lo tanto ahí tenemos un trabajo gigantesco de mantener un Magallanes sin violencia. El segundo eje es la salud primero. Y esto es algo que ustedes saben que acompaña a la región hace años. Hace años atrás se producía el debate de por qué no había un médico oncólogo en la zona. Y fue una discusión a nivel nacional de que había un nuevo hospital regional, increíble, enorme, precioso. Yo los haría en todo Chile un poquito más chicos, más funcionales. No le haría un monumento al arquitecto ni al constructor. Diría, tiene que funcionar. Que sea bonito, que respete las líneas y todo, pero que sea funcional. Bueno, aquí era muy espectacular, muy lindo y todo, pero faltaba lo esencial, los médicos especialistas. Y cuando nosotros queremos actuar con responsabilidad geopolítica, política, bueno, no se nos puede quedar atrás una de las regiones más importantes de proyección hacia ese futuro que está aquí. Sí, la Antártida es el continente del futuro, y nosotros tenemos que tener claro eso, esto no es solamente números en un presupuesto, también hay una visión de largo plazo, donde uno va proyectando lo que quiere para el país y mirando al futuro, si nosotros no podemos vivir al día, no podemos vivir del fiado, tenemos que proyectarnos y trabajar. Si aquí hay cerca de 160.000 habitantes, no puede ser que así como les decía al inicio, hayan casi 30.000 personas en lista de espera. Es un poquito menos. Pero para cer, hayan casi 30.000 personas en lista de espera. Es un poquito menos. Pero para cerrar los números, 30.000 personas en lista de espera. Eso es inaceptable. 5.000, casi 5.000 personas esperando una cirugía. Y no digamos que son cirugías todas de corazón abierto. No. Hay algunas cirugías que se podrían hacer por laparoscopía, gracias. Que son sencillas. Por aquí estaba Jaime Ceballos. No sé si está por ahí. ¿A dónde está? Ahí está Jaime Ceballos, médico. Démosle un aplauso a Jaime Ceballos. U, ustedes no lo conocen, pero lo van a conocer. Jaime Ceballos vino por el día desde Aysén, médico toda la vida, casado con una educadora de párvulo, que levantó las primeras oficinas de Integra en algunas zonas de Chile, pero sobre todo ellos se instalaron en Coyhaique. Jaime va de candidato a diputado también en la zona de Coyhaique. Y como hay mucha relación entre Magallanes y Coyhaique, les pido a todos los que están acá que si tienen algún amigo que viva en Cochran, que viva en Puerto Cisnes, en Chacabuco, en Aysén, en Balmacea, en Coyhaique, en cualquier localidad de la región de Aysén que le den una mano y le digan, oye, vota por Jaime Ceballos, un médico de cuerpo y alma. Y con él conversábamos ayer largo sobre temas de salud. Hemos conversado con muchas personas, pero con Jaime hemos hablado de muchas situaciones complejas que tienen solución efectiva y rápida. Los recursos están, lo que no hay es voluntad, no hay gestión. Y eso se puede hacer. Están los medios, están los recursos. Lo que falta es la voluntad y la gestión. Es decir, vamos a ordenar y vamos a aplicarnos a las cosas importantes. Y esto no es solamente acá, sino que nosotros hemos visto que vamos a evitar una emergencia sanitaria a nivel nacional para hacer trabajar unidos el mundo público y el mundo privado. Porque de nuevo la ideología no se puede llevar la vida de nuestros niños. Nosotros no tenemos certeza de cuando alguien va a morir, pero la certeza que sí tenemos es que si tenemos los medios, da lo mismo si el medio está en el mundo privado o en el mundo público. Nuestra obligación es poner todo lo que esté a disposición para intentar salvar una vida. No esa ideología que dice, no, nosotros solo vamos por lo público, y si es privado es malo. No, no, no. Lo privado puede ser muy bueno y puede ser el sostén de lo público, y por eso tenemos que tener más emprendedores. El tercer punto es Magallanes conectado y conectado de verdad. Hoy día, claro, tenemos aeropuertos, tenemos un aeropuerto internacional que tiene varias pistas dependiendo del viento que corra, ¿no es cierto? Si el talizo para allá, el talizo para acá, uno dice ojalá que no se mueva mucho. Yo casi siempre he tenido viajes tranquilos, pero el día que se movió dije, ¡oh, compadre, no! Para eso voy a Fantasilandia. Pero claro, está ese aeropuerto, tenemos un aeropuerto más pequeñito que recibe también en época de alza turismo, ahí en Puerto Natales, aviones más grandes, pero el aeropuerto de Puerto Williams es mucho más pequeñito y debiera ser igual de grande porque estamos bastante más cerca del continente del futuro y tenemos que tener alternativas esto de nuevo como un tema geopolítico estratégico de voluntad de hacer un chile soberano para qué decir las pequeñas pistas que hay en todas partes tienen que tener todas las condiciones modernas, de que el piloto si quiere desde el aire prende la luz. Y puede, con un radar, la DGAC lo podrá seguir. Pero tenemos que potenciar la conectividad aérea de la región. La conectividad vial. aquí hay harto camino pero necesitamos hacer algunas rutas que son estratégicas se ha trabajado hace cuánto tiempo en la ruta vicuña yendegaya años yños. Y ahí está. No es alguien más decir, oye, pero es que no necesitamos una carretera para allá. No, necesitamos soberanía. Necesitamos conectividad terrestre. Y eso se lo aprendí al caballero acá, que podría decirme, no, oye, no, hagamos camino, porque a mí me gustan los transportadores. No. El primer defensor de las rutas viales es el senador. Siendo que podría ser distinto. Y eso habla muy bien de ti. Ayer me encontré con uno de los transportistas que comenzó con este sueño del Chile por Chile. Y es un desafío enorme, que tenemos que ir buscando cómo hacerlo. Tenemos que ir acortando la brecha para tener cierta autonomía. Nosotros queremos mejorar y mucho las relaciones con los vecinos, porque juntos podemos llegar a ser una tremenda potencia......ellos producen cosas que nosotros no producimos, ellos van a tener toda su minería que están desarrollando ahora......en el borde, en el norte, en el borde del límite de nosotros con la cordillera. Si ellos quieren sacar su producción minera hacia el Atlántico, tienen como 600 kilómetros o más, 800 en algunos lugares. Y para el lado de acá, 200. No, 300, para que no sea el 2, 300. Tienen 300 kilómetros, se les queda cerquita. Bueno, el 1 y después nos saltamos el 3. Pero imagínense lo que podemos hacer nosotros en prestación de servicios para toda la producción minera que vayan a tener los argentinos, para toda la producción agrícola que puedan tener los uruguayos, los paraguayos, los brasileros. Nosotros podemos ser de verdad uno de los mejores países prestadores de servicios portuarios para todo el continente y aquí también en el tema portuario ya que no hace falta un puerto de verdad yo no estoy prometiendo a no estoy diciendo que si votan por mí mañana aparece un puerto en 24 horas. No. Pero tenemos que tener claro que si la zona austral no tiene un puerto de verdad bien instalado, que enfoque los vientos de manera adecuada, y a lo mejor no solamente uno, a lo mejor necesitamos otro más para prestarle servicios a todos los que recorren el sur austral. Me lo comentaba ayer Juan. Me decía, mira, el recorrido del sur austral a Punta Arenas son como dos días de navegación, un día y medio, tres días de navegación. Bueno, si nosotros nos acercamos un poquitito para allá y le decimos pase por aquí y nosotros le hacemos la reparación a su barco, a lo mejor tendríamos una ventaja comparativa y una presencia de soberanía en un lugar donde hoy día no la tenemos. Pero eso es pensar hacia adelante. A mí me tocó batallar mucho porque hiciéramos el tercer dique en las maras. Me decían, no, eso es antieconómico, no es comercial. Le decía, pero ¿y quién le da la mantención a los buques grandes grandes? Bueno, ahora nuestros vecinos peruanos hicieron el puerto más grande en Chancay y nosotros miramos y decimos, oh, ¿y qué pasó con nuestro San Antonio? ¿Qué pasó con nuestro Valparaíso? Ahí quedamos. Y vamos quedando atrás. Lo que nosotros no hagamos, otro lo va a hacer por nosotros. Por eso tenemos que ir anticipándonos. Y la conexión de la zona austral, sea vial, aérea o marítima, es fundamental. Y tenemos que enfocarnos a eso. Tenemos que terminar ese camino de Vicuña y Allendegalla. Tenemos que comenzar a planificar dónde. Tenemos que avanzar en lo que es la mejora de nuestras pistas aéreas eso es visión de futuro y a eso lo estamos invitando el aeropuerto de Puerto Edén que tiene una parcelita ahí para ponerle un poquito de color no pero tiene toda la razón si nosotros hoy día para llegar a puntos aislados dependemos de ya si hay un camino o de un canal, pero ¿qué pasa si necesitamos hacer rescates aéreos, si tenemos que hacer algún tipo de intervención rápida? No está. Y aeródromos, déjenme decirles que no es tan complejo hacer. Se puede cuando hay voluntad y cuando los recursos se gastan bien. Y no en operadores políticos, no en convenios truchos. Aquí, Alejandro, ¿cuántos descubriste? Todos, cinco, descubrió cinco. Cinco, cinco, cinco. El cuarto es 5x5, 25, porque de aquí salió la escuela, aquí se generó el mecanismo. ¿Verdad? De verdad, aquí partió. O sea, claro, la inspiración viene del viejo continente, pero la forma de llevarlo a la práctica la descubrieron acá. Y eso está registrado en los medios de comunicación. sea no es que yo estoy inventando algo ustedes pueden hacer el seguimiento y van a ver quién les dio la fórmula se la dieron acá y tenemos varios gobernadores investigados por la justicia claro se demora pero como digo siempre la justicia tarda pero llega. Así que ya llegará, ya llegará. Y Magallanes, cuarto punto, Magallanes como motor de desarrollo austral. Lo que ustedes tienen acá es literalmente una mina de oro, pero tienen una mina de oro. Pero tienen una especie de duende egoísta que nos abre las puertas del cofre. Es como que vemos el arcoíris y sabemos que a donde está el arcoíris, o soñamos que a donde está el arcoíris está esa olla llena de monedas de oro. Bueno, aquí sin necesidad de arcoíris, Dios regaló una tierra generosa, una tierra generosa en viento, que si no hubiésemos tenido todas las trabas que le han puesto, hoy día ya podría haber hidrógeno verde. Podríamos tener un puerto construido por los mismos del hidrógeno verde, porque también me he reunido con algunos y les digo, oiga, no hay plata. Su proyecto da para un puerto, da para un puerto. Bueno, haga el puerto y yo ayudo a que salgan los trámites rápidos, con criterio, con sentido común, porque está ahí. El problema es que se sigue retardando, como el ser humano es muy creativo, puede que de aquí a cuatro años inventen otra cosa. Y quedemos mirando y diciendo, hoy fue linda la época del cuasi oro verde que nunca existió. Porque algunos prometen, hablan, se llenan discursos de palabras bonitas y hablando de lo importante que es el viento, el hidrógeno verde, y no hacen nada. Nada. Lo mismo con la salmonicultura. Si no hubiese sido por los salmones, con la proyección que les mostré a la baja de la producción ganadera, si no hubiese sido por los salmones, ¿en qué estarían trabajando las personas que perdieron la pega en el tema de la extracción del carbón? ¿La mina invierno? ¿2.000, 3.000 personas que quedaron sin trabajo y a la ideología ¿a quién le importó? Es como cuando hacen un hallazgo en la construcción de un hospital, hacen un hallazgo de un cántaro, de una punta de flecha. Ningún hallazgo es más relevante que la vida de una persona. Porque el atraso en un año de la construcción de un hospital puede costarle la vida a más de una persona. En Chile hay 40.000 personas. Yo respeto las tradiciones, yo respeto la cultura, estoy feliz cuando se hace un museo donde se muestra lo que fueron nuestros orígenes, pero ningún hallazgo vale la vida de una persona. Entonces tenemos que destrabar el exceso de regulación y nosotros hablamos de la facilitación regulatoria, que no es ir en contra del medio ambiente, es ir con el medio ambiente buscando las mejores alternativas para mejorar la calidad de vida de las personas. Yo les digo, amo los animales, pero creo que una familia de chilenos tiene más derecho que una familia de chinchillas. Y suena medio en broma, pero es verdad. Porque en la zona central tenemos la electricidad más cara. ¿Y qué impide que la línea de transmisión llegue a Santiago? Una familia de chinchillas que vive en la mitad por donde va a pasar la línea de transmisión. Y nosotros podemos hacerle un resort a las chinchillas. Podemos trasladarlas dos kilómetros más allá, al mejor espacio de vida que ellas se pudieran imaginar. Les podemos construir un cerro, les podemos construir las cuevas que necesiten, les podemos hacer todo lo que quieran. Y podemos gastarnos un millón de dólares en la chinchilla. Pero necesitamos electricidad para que las personas tengan electricidad a un precio justo, razonable y las industrias puedan producir. Pero ese choque de decir, no, es que la chinchilla no la puedo, Pero necesitamos electricidad para que las personas tengan electricidad a un precio justo, razonable y las industrias puedan producir. Pero ese choque, decir no, es que la chinchilla no la podemos mover de ahí. Nosotros nos movemos de casa, ¿cómo no se puede mover una chinchilla? Les aseguro que la chinchilla estaría feliz en el otro lugar. Y nosotros vamos a ir por la felicidad de la chinchilla. Y así como hablamos de eso, hablemos de los salmones. Los salmones hoy día van a representar en poco tiempo más casi el 25% de los ingresos que tiene la región. Ahorita está como en el 21, pero podría ser el 25, podría ser el 50, si el mundo necesita la proteína que produce el salmón. Y nosotros tenemos las mejores condiciones, pero de nuevo tenemos algunos abusadores, abusadores de la ideología, y dicen, no, no queremos más salmones porque daña el medio ambiente. ¿Y no daña a las personas el no tener recursos? Entonces cuidemos el medio ambiente, pero respetemos a las personas. Cuidemos el bienestar de las personas. Y se puede aumentar la producción de salmones sin afectar el medio ambiente. Y para eso uno tiene que pedirle también a aquellos que estudian que se ocupen del tema. Entonces aquí tenemos una universidad. Y yo no sé cuántos estudios ha hecho de especialización en el tema de la acuicultura y de la salmonicultura en la Universidad Magallanes. Yo supongo que las mejores investigaciones a nivel mundial se están produciendo aquí y que nuestros estudiantes aquí están ocupados de sacar adelante la producción del salmón limpia. Y de aquí después me voy a ir a la biblioteca de la Universidad Magallanes a buscar los estudios. Espero no encontrarme con ninguna sorpresa y que la estantería esté vacía. Sí, pero la ley de pesca es importante. Pero la ley de pesca también pensando en la producción limpia, en la integración. Porque en esta zona, por ejemplo, no hay una pelea como hay en otras zonas entre industriales y artesanales. Han sabido convivir. Y como vuelvo a decir, para poder crecer necesitamos invertir. Y una tremenda inversión es el tema de la salmonicultura. Pero necesitamos buenos aeropuertos, necesitamos buenos puertos, necesitamos mejorar la condición de trabajo de las personas, sí. Pero ahí, más allá de una ley puntual, nosotros lo que tenemos que hacer es mejorar lo que tenemos. Y lo que tenemos es bueno, y sobre eso podemos construir. Algunos dicen, hay que borrar todo, olvidarnos de todo. No, uno tiene que mantener lo bueno y mejorar lo malo. Pero cuando alguien dice, eliminemos todo y partamos de cero, nos vamos a retrasar 15, 20 años. Y lo otro que necesitamos autoridades que digan la verdad. Porque el subsecretario de Pesca fue a la Comisión de Pesca del Senado y le llevo números falsos. Y si hay alguien que conozco, al señor Julio Sala. Porque fuimos compañeros en la universidad, en Derecho. Y pareciera ser que algunos temas no se pasan. Y uno tiene que hablar con la verdad. Uno no puede legislar con cifras falsas. El primero que habría renunciado cuando ocurrió todo el escándalo ahora, hace unos pocos meses atrás, por la votación de la ley de pesca, es el subsecretario. Pero bueno, su jefe, ¿dónde está ahora? En Hacienda. O sea, aquí el que lo hace mal, lo ascienden. Bien lamentable lo que está ocurriendo hoy día en pesca, en hacienda, porque los que están ahí no tienen idea de los temas. Y los industriales, no, es hago la distinción y la inclusión. La palabra inclusión, que está en boca de muchos y en la práctica está en pocos, requiere de unos y otros. Porque hay espacio para todos. Y como decía mi padre, alcanza para todos cuando se hacen las cosas bien. Porque hay buenos industriales, hay malos industriales. Hay buenos artesanales y malos artesanales. Y la creatividad no tiene límite. Porque uno le puede decir algo, oye, tu barco va a medir tanto, y le diste el largo, no sé cómo le dicen al largo, la eslora, pero no te dijeron cuánto era la profundidad. Y parece un mono porfeado. Entonces el barco, claro, cumple con la eslora y no cumple con la profundidad. Y parece un mono porfeado. Entonces el barco, claro, cumple con la eslora y no cumple con la profundidad. Entonces, en todo hasta el calado, gracias. Entonces, siempre en esto se requiere incluir cuando uno va diciendo mire no solo nosotros eso no llega a ninguna parte porque el otro sigue existiendo es como que nosotros cuando decimos queremos un país sin y después voy a ir para allá lo queremos fuera de la moneda queremos que sigan viviendo en Chile que sigan teniendo la libertad que ellos nos niegan, queremos que tengan libertad, nosotros pedimos libertad de conciencia, libertad de educación, libertad de culto, libertad para emprender, pero ellos no conocen la palabra libertad, algunos conocen la palabra libertinaje, pero la palabra libertad. Algunos conocen la palabra libertinaje, pero la palabra libertad, con el concepto profundo que tiene, no la conocen. Y nosotros se la vamos a explicar paso a paso durante estos cuatro años. Y necesitamos sí el apoyo de todos ustedes, porque como les digo, no va a ser fácil. Y el quinto punto, porque bueno, como todos desarrollos, me quedé solo en la discusión de los salmones, el turismo es una cosa impresionante lo que nosotros podríamos hacer aquí si hubiera una integración público-privada si no fuera lo que pasó con este gobierno, que le rebajó en un porcentaje importante los recursos a la promoción turística. Porque nosotros necesitamos más turistas. Pero para tener más turistas necesitamos un puerto o un lugar para que los transatlánticos lleguen y no estén peleándose el espacio con el pesquero, con este, con el de la Armada. Necesitamos un puerto de verdad. No solamente ese Dolphi que permite amarrarse, pero el turismo requiere promoción y eso hoy día no existe porque no tienen visión de futuro. Entonces cortan donde no tienen que cortar. Si tienen que cortarle la pata a los pitutados, a los operadores políticos, no a la promoción turística, que es una tremenda fuente de ingreso de la región. El tema de las energías renovables, ya lo vimos, el tema de la ganadería. Me dicen, claro, necesitamos agua. Bueno, agua tenemos, si lo que no tenemos es la desaladora. Puede ser caro, pero le aseguro que hay ganaderos que estarían dispuestos a colaborar para instalar una desaladora multipropósito, que nos genere agua para el consumo humano, que nos genere agua para la producción industrial que nos genere agua para la producción industrial y nos genere agua para la producción ganadera. Se puede hacer y cada vez es más fácil. Y este no es un terreno donde tengamos que gastar tanto en subir la energía. Sino que nosotros aquí tenemos, no sé cuál será el promedio de la altura, Robert, pero es bajo. Entonces, el mayor costo de una planta desaladora es levantar la energía para que la gente en la altura, la industria en la altura, la agricultura en la altura, tenga agua barata. Eso aquí no es un problema. Y le aseguro que cualquiera de las plantas de hidrógeno verde es capaz de construir una desaladora, dos desaladoras y compartir el agua. Y eso le aumenta la producción ganadera al infinito, porque los animales necesitan agua. Entonces, tenemos ahí un tema. La investigación científica. Nosotros aquí podemos ser el gran centro de logística e investigación científica. Por lo tanto, desarrollo hay. El Estrecho Magallanes es una bendición. Miren lo que está pasando en Panamá. Construyeron los barcos más grandes del mundo. Tienen que agrandarlo, pero a veces les falta incluso a ellos el agua. ¿Y qué han parado? ¿Qué hacen esos barcos? ¿Por dónde van a pasar? Por aquí. ¿Y nosotros estamos preparados para prestarle todos los servicios y todas las cosas que necesiten? No. Y nos va a costar, pero alguien tiene que partir. Porque a lo mejor esa prestación de servicios va a ser en cinco, en cinco, cinco, cinco años más. ¿Ven que me quedo pegado? Y finalmente, el eje número cinco, la propuesta número 5, que es Magallanes, puerta de entrada al continente del futuro. Porque desde aquí está la entrada a la Antártica, a la Antártica chilena. Desde aquí podemos tener el mejor centro logístico para abordar lo que viene en el futuro. Desde aquí podemos tener el mejor apoyo para la investigación científica. Pero hay que hacer las cosas bien. Si yo construyo un edificio grande, ¿no es cierto?, potente, en Puerto Williams, ¿sí?, Puerto Williams, de investigación científica, tengo que tener los científicos. que decirle oye este es el mejor lugar para que usted investigue y no siempre está con la ocupación llena entonces claro construir un tremendo edificio que me cuesta mucho como país pero lo importante más que el edificio que tiene que tener todas las condiciones las tiene es que el edificio esté ocupado si no para qué si no mejor tenerlos acá y de aquí hacer algo. Bueno, tenemos la infraestructura. Hoy día nos falta la promoción de esa infraestructura. Así que si nos ponemos manos a la obra, nosotros podemos no solamente recuperar la fuerza en magallanes sino la fuerza en el país y ahora viene lo complejo lo complejo y el desafío al que los quiero invitar tiene un plazo definido que son 15 días pónganse nerviosos nos quedan 15 días para ganar la primera. 15 días para ganar la primera vuelta. Y está ahí. Solo depende de nosotros. Como equipo, como familia, hemos puesto todo. Y todos ustedes lo han puesto, pero necesitamos más. Necesitamos que en estos 15 días ustedes ya se vayan comprometiendo para ser apoderados de mesa. Y ojalá que todos los que estén acá sean apoderados de mesa. Y si ya colapsamos todas las mesas de Magallanes, empiecen a llamar a los parientes. Más de alguien tendrá un pariente en Guara. Alguien tendrá un pariente en Huasco. Alguien tendrá un pariente, no sé, en Cauquene. En Chiloé. Bueno, todos tienen pariente. Aquí hay muchos chilotes. Como decía Juan. Cárdenas es un apellido que se repite en Chiloé también. Así que algún pariente debe haber en Chiloé. Por lo tanto, ayúdenos en eso. Ayúdenos en las redes sociales en el buen sentido, esto lo hemos repetido desde el primer acto, desde la primera vez que nos encontramos el uso de las redes sociales es para aportar con ideas no con insultos cada vez que alguien en las redes sociales insulta a otro perdemos votos y no necesitamos insultar a nadie, no necesitamos levantarle la voz a nadie. Si tenemos las mejores ideas, están ahí, lo hemos demostrado. Todo el mundo se ha demostrado que las ideas de la libertad producen progreso. Por lo tanto, si ganamos la primera, vamos a ganar la segunda. Así que lo importante es ir por la primera. Y queremos que se termine este mal gobierno. Y queremos, y aquí les voy a ir pidiendo ayuda, la última es la más importante, porque queremos un gobierno sin corrupción, sin corrupción. Queremos un gobierno sin cobardía. Queremos un gobierno sin continuismo. Queremos un gobierno sin complejos. Y queremos un gobierno sin comunismo. Y para que nadie se confunda, queremos un gobierno sin comunismo. No tenemos problema que haya un parlamento con comunistas, porque ahí vamos a dar la batalla y los vamos a dejar en vergüenza, una vez más. Porque tienen que tener su expresión política, siempre, para que nosotros demostremos con ejemplos prácticos lo que no funciona. Y para recordarles, mira cómo está la pobreza en Cuba, ¿de quién depende? De los comunistas. Miren cómo ha avanzado la pobreza en Nicaragua, ¿de quién depende? De los comunistas. Miren lo que pasó en la pobreza en Nicaragua. ¿De quién depende? De los comunistas. Miren lo que pasó en Venezuela. ¿Quién partió? Los comunistas. Entonces necesitamos representantes de los comunistas en el Parlamento para combatir con ideas y demostrar ahí, en la mesa del debate, que sus ideas generan pobreza, generan miseria, que nunca han sacado un país adelante, más allá de lo que ellos prometan, porque prometen cuando hay pobreza, cuando hay personas vulnerables, que no tienen ninguna opción en la vida, ahí aparecen los comunistas. Y que usted sea pobre es culpa de este, y que usted sea pobre es culpa de estos otros. No, no, no. Que usted sea pobre es porque hay mala gestión, porque hay mal gobierno, porque no se administran bien los recursos, porque se abusa del Estado. Y un ejemplo que se vive hoy día es el presupuesto de la nación. Miren lo que está pasando con el presupuesto de la nación. No han sido capaces de calcular los ingresos de la nación. Y mienten. Y ni se arrugan. No, es que nos van a entrar 10.000 millones de dólares por no sé qué. Nunca llegaron. Pero lo que sí hacen es gastarse los 10.000 millones de dólares por no sé qué nunca llegaron pero lo que sí hacen es gastarse los 10.000 millones de imaginario porque para eso se tiene imaginación a mí dicen no, su avión imaginario no, no si el avión está y va a ayudar a llevarse a los migrantes irregulares a los países de origen y parece imposible pero no lo es y así como se burlaban de la zanja y me decían la zanja, la zanja se burlaban y hoy día quienes construyen la zanja ellos mismos voy, voy, voy ellos mismos están construyendo la zanja pero hoy día la zanja no basta y hoy día tenemos que dar señales claras al que entró por la ventana que se va a ir y se va a ir por la puerta, por la puerta del aeropuerto, por la puerta de la frontera, por la puerta del puerto, pero se va a ir. Y aunque ustedes no lo crean, y algunos digan que es imposible, ellos mismos van a financiar su salida. Si yo le digo a alguien, oiga, usted quiere irse con todas sus pertenencias y quiere irse con 60 kilos, le voy a aumentar el peso de la maleta de 23 a 30, para que siga dos maletas de 30. ¿Quiere irse con dos maletas o con lo opuesto? Elija. Yo le diría que se vaya con las dos maletas y le quedan 130 días. No, perdón. Le queda hasta el 11 de marzo. Le queda hasta el 11 de marzo para irse con las dos maletas. Entonces elijan. Y en esto soy bien serio y bien responsable. Yo tengo claro que nosotros, si decimos de un día para otro, si tienen que ir los trescientos mil, no va a ser posible. Pero tienen tiempo para irse con sus pertenencias, para salir por la puerta, porque si algún día quieren volver a Chile, solo lo van a poder hacer si se van antes. Yo no tengo un problema con los migrantes y espero que ninguno de ustedes, porque yo soy hijo de migrantes y muchos de aquí son hijos de migrantes. Pero lo que sí pedimos es que se cumplan las leyes y que Chile se entre por la puerta. Por lo tanto, si entró de manera irregular, salga. Y quizás en uno, dos, tres, cuatro años, cuando estemos preparados, y usted tenga su contrato de trabajo estable, cuando tenga su identificación, cuando nos acredite que no tiene cosas pendientes con la justicia, vuelva a solicitar su entrada. Y lo más probable, que como hoy día hay muchos médicos que nos ayudan y que son extranjeros, y nuestra medicina, nuestra salud no sería sostenible si no tuviéramos la colaboración de médicos extranjeros, a usted también lo podemos dejar entrar. Pero en tres, cuatro años más, cuando ya tengamos estabilizado el país, cuando tengamos espacio en nuestros jardines infantiles, cuando ya las listas de espera se hayan terminado, cuando ya las viviendas sean suficientes para que no paguen el doble por arriendo, bueno, cuando se ordene el país. Pero la primera muestra de inoperancia, de ineficiencia, es el actual presupuesto. No se pusieron de acuerdo ni siquiera entre ellos, porque hasta sus propios representantes en el Parlamento le rechazaron a este gobierno fracasado el presupuesto de la Nación. Y hoy día el presupuesto está rechazado. Y ahí está el Ministro como que no le ha pasado nada. La única diferencia es que hoy día es corbata. O sea, la diferencia de Economía y Hacienda es una linda corbata. Nada más. Porque no tiene los conocimientos ni la experiencia. Y de nuevo, un gobierno fracasado aquí en premio a los peores lo siento ministro pero soy duro pero es cierto usted es el mismo ministro que fue dirigente estudiantil el mismo que se le extraviaron 120 millones de pesos para el bicentenario a mi no se me ha olvidado pero pareciera que a usted se le extraviaron 120 millones de pesos para el bicentenario a mí no se me ha olvidado pero pareciera que a usted se le ha olvidado y ahora se le están perdiendo no 120 millones de pesos puede que se le estén perdiendo 120 millones de dólares y más porque no le calzan las cifras porque el que estaba arrancó entonces nos dejó un regalito a la mejor jefa de presupuesto de la historia de la nación increíble esa va a ser la frase para el bronce del ministro que se fue esta es la mejor directora de presupuesto de la historia de Chile. Increíble. Y salió. ¿Y a quién nos dejaron? Al amigo Grau. Bueno, nosotros nos vamos a encontrar con una situación compleja, porque este gobierno no quiere hacerle caso a la Comisión Fiscal Autónoma. Gracias. No quiere hacerle caso a la Comisión Fiscal Autónoma. No, y digo que no hagan caso a nosotros. Nosotros les habríamos podido explicar dónde tenía que cortar. Pero cada vez que decimos algo, lo afirman, para que después no podamos hacer nada. Por eso no les damos el detalle de lo que íbamos a hacer. Pero podrían hacerle caso también a la Contraloría, que les ha dicho, oiga, esto no funciona. Presentaron una ley para el tema universitario y la señora Contraloría le dijo, oiga, pero parece que las sumas no calzan. Ese es el nivel de la dirigencia que tenemos hoy día en temas de hacienda. Entonces, lo primero es que vamos a tener que llegar a ordenar las cuentas. Nosotros no les vamos a aprobar este presupuesto como está. Al menos los republicanos ya tenemos claro que lo que hagan, si no lo hacen bien, nosotros no se lo vamos a aprobar. Hasta que den fe, expliquen claramente y digan dónde está la plata. Porque cada día aparecen más cosas. Se acerca el tiempo de la partida del señor Boric y cada vez encontramos más problemas económicos en todas partes pensábamos que en temas de vivienda la cosa estaba un poco ordenada y no saben si se les perdieron mil millones de dólares o cien millones de dólares y sigamos buscando y vamos a encontrar un ejército que les dice oiga usted no me ha pagado el despliegue en la zona usted no me ha pagado el despliegue en la zona norte, no me ha pagado mi despliegue en la zona sur. El ejército de Chile diciendo, oiga, no me ha cancelado lo que usted me ha pedido. A ese nivel estamos. Por lo tanto va a ser muy difícil y vamos a requerir el apoyo de todos. Por eso estoy en un gobierno de emergencia, que va a requerir mucho esfuerzo, mucho trabajo, horas de sacrificio, con poca paga, para que también quede claro que el que entre a ganar, de acuerdo a la escala de remuneraciones del Estado va a estar ahí y no va a haber, pásenmelo por debajito, no va a haber asignaciones para función crítica. Y sí va a haber espacio para los buenos funcionarios públicos que hoy día están en la administración pública, porque les vamos a quitar el lastre que le han puesto encima con operadores políticos y apitutados. Hoy día un buen funcionario público va a tener libertad para trabajar de buena forma, con todo el apoyo que necesite y sin la presión de tener que soportar a todos los que buscan a través del estado mejorar su condición y ahí está el primer abuso porque ellos no tienen interés a sacar a la gente la pobreza ellos manipulan temas de educación porque un joven libre es un joven educado, un joven que tiene la libertad, después de haber estudiado, de elegir qué quiere hacer. Miren cómo tienen la educación. Una persona libre es una persona que puede emprender, que puede tener su emprendimiento. Y si no es un emprendedor puede tener un trabajo digno. Pero trabajo digno hay cuando hay inversión, cuando hay harta inversión y yo puedo elegir el trabajo donde quiero ir. A lo mejor yo no quiero emprender, pero quiero tener un trabajo digno. Tengo que un ingreso que me permita sostener a mi familia. ¿Eso se va a lograr si no hay inversión? ¿Eso se va a lograr si mantenemos la ideología extrema en el animalismo, en el ambientamismo, en el indigenismo? No. ¿Y por qué no surgimos? Porque a los que están en el poder no les interesa que la gente tenga educación, que tenga libertad de emprender, que tenga libertad de elegir un trabajo digno. Porque al que abusa del Estado le interesa que la persona dependa del Estado. Le interesa que el Estado, a ese que abusa, le interesa que la persona dependa del Estado. Le interesa que el Estado, a ese que abusa, le interesa entregar cajas de mercadería. Hace años atrás cuando vine, pregunté, ¿cómo es la autoridad? Buena me decían. ¿Y por qué? Porque nos trajo como mil cajas de mercadería. Mira, qué buena autoridad. Oiga, ¿y cuánto se gastó en el centro científico que está ahí en Puerto Williams? No, no sé. ¿Y cuántos científicos lo ocupan? Tampoco sé. Pero a mí me trajo la caja de mercadería. Eso es abusar del Estado. Es abusar del Estado porque yo mantengo a alguien tranquilo con una dádiva. Esa es la esclavitud moderna. Cuando yo no dejo surgir a las personas y las mantengo porque necesitan algo de mí. Necesitan un subsidio del agua potable, necesitan un techo, necesitan algo. Y yo lo tengo. Y yo te lo entrego. No. Nosotros tenemos que promover la libertad de verdad de las personas. Y eso se hace desde el Estado. Un Estado que no abusa. Así que, desde aquí, comienza la epopeya. Vamos a ganar la primera, vamos a ganar la segunda, con la fuerza del viento del sur, que es la misma fuerza del cambio. Porque somos fuerza, somos cambio, somos la fuerza del cambio. ¡Que viva somos cambio. Somos la fuerza del cambio. Que viva Magallanes, que viva Chile, que viva la Antártica chilena. De verdad, muchas, muchas gracias por el esfuerzo y la paciencia que ha mantenido. Un aplauso especial para la más bella.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 39.48,
+      "text": "¡Suscr! ¡Camino! ¡Es fuerza en la prima, en la madre, en el niño."
+    },
+    {
+      "start": 39.72,
+      "end": 44.0,
+      "text": "Cambia la historia si juntos remamos, si le no se rinde lo transformamos."
+    },
+    {
+      "start": 45.38,
+      "end": 50.44,
+      "text": "No es con discurso ni frase bonita, es la fuerza del cambio, es la que palpita."
+    },
+    {
+      "start": 50.58,
+      "end": 55.0,
+      "text": "Si nos unimos la historia, cambiamos Chile, se levanta y todos ganamos."
+    },
+    {
+      "start": 56.8,
+      "end": 58.0,
+      "text": "La fuerza del cambio."
+    },
+    {
+      "start": 58.78,
+      "end": 59.44,
+      "text": "Del cambio."
+    },
+    {
+      "start": 60.04,
+      "end": 60.7,
+      "text": "Del cambio."
+    },
+    {
+      "start": 60.94,
+      "end": 61.36,
+      "text": "La fuerza."
+    },
+    {
+      "start": 61.88,
+      "end": 63.4,
+      "text": "La fuerza del cambio."
+    },
+    {
+      "start": 63.86,
+      "end": 64.48,
+      "text": "Del cambio."
+    },
+    {
+      "start": 64.6,
+      "end": 111.02,
+      "text": "La fuerza del cambio. La fuerza. la fuerza del cambio! ¿Ya son? ¿Aló ahí? Ahí sí. ¡Buenos días! día, miren que bien acompañado estoy, la mujer más linda, más valiente, más fuerte."
+    },
+    {
+      "start": 112.32,
+      "end": 117.86,
+      "text": "Estamos juntos en este tremendo desafío. Les doy las gracias a todos por el entusiasmo,"
+    },
+    {
+      "start": 118.28,
+      "end": 124.2,
+      "text": "por el calor que se siente aquí. Vamos a sentir un ratito así de calor humano, porque"
+    },
+    {
+      "start": 124.2,
+      "end": 125.12,
+      "text": "esto va para"
+    },
+    {
+      "start": 125.12,
+      "end": 130.76,
+      "text": "largo, porque tenemos muchas cosas que compartir y conversar, así que de nuevo, muchas gracias"
+    },
+    {
+      "start": 130.76,
+      "end": 135.7,
+      "text": "a cada uno, yo voy a pedir aquí a Pia que se sienta al lado de nuestro presidente regional,"
+    },
+    {
+      "start": 137.7,
+      "end": 147.8,
+      "text": "y ustedes ya fueron escuchando, compartiendo las ideas con quienes para nosotros son muy relevantes en este tiempo que viene."
+    },
+    {
+      "start": 148.36,
+      "end": 151.0,
+      "text": "Y voy a partir por saludar..."
+    },
+    {
+      "start": 152.16,
+      "end": 153.88,
+      "text": "Uf, se me caen los apuntes."
+    },
+    {
+      "start": 159.26,
+      "end": 168.0,
+      "text": "Voy a partir, gracias. Voy a partir por saludar a nuestro senador, a mi gran amigo Alejandro Kusanovich. Gracias Alejandro. Quiero contarles que con Alejandro"
+    },
+    {
+      "start": 168.0,
+      "end": 172.24,
+      "text": "hicimos el primer recorrido por todas las regiones de la región."
+    },
+    {
+      "start": 173.3,
+      "end": 176.6,
+      "text": "Intentamos arrebatarle el volante y no hubo caso."
+    },
+    {
+      "start": 177.92,
+      "end": 182.32,
+      "text": "Manejó desde Torres hasta Timauquiel y de Timauquiel de vuelta."
+    },
+    {
+      "start": 182.96,
+      "end": 189.32,
+      "text": "Casi quedamos botados en la mitad, pero él decía, no se preocupen, todo va a estar bien. De ahí viene el dicho. Los dichos de él"
+    },
+    {
+      "start": 189.32,
+      "end": 196.78,
+      "text": "son para el cantinfleo, corten no sé qué. Pero gracias Alejandro por esa amistad y al"
+    },
+    {
+      "start": 196.78,
+      "end": 201.88,
+      "text": "verte y también ver a usted, recuerdo a esa gran mujer, Gloria"
+    },
+    {
+      "start": 201.88,
+      "end": 211.32,
+      "text": "Vilicich. Gloria, tremenda mujer, que en ese recorrido también estuvo con nosotros. Lamenté"
+    },
+    {
+      "start": 211.32,
+      "end": 217.04,
+      "text": "mucho no haber podido estar presente en su despedida, pero la fuimos a ver ahí"
+    },
+    {
+      "start": 217.04,
+      "end": 223.04,
+      "text": "donde descansa, perdón, su alma descansa con el Señor, pero donde está el recuerdo"
+    },
+    {
+      "start": 223.04,
+      "end": 227.94,
+      "text": "de ella aquí en la tierra, ahí estuvimos con un viento increíble y decía Gloria gracias"
+    },
+    {
+      "start": 227.94,
+      "end": 232.74,
+      "text": "por este viento y nos volábamos pero siempre es bueno recordar"
+    },
+    {
+      "start": 232.74,
+      "end": 235.22,
+      "text": "a aquellos que ya partieron"
+    },
+    {
+      "start": 235.22,
+      "end": 236.26,
+      "text": "y que fueron"
+    },
+    {
+      "start": 236.26,
+      "end": 238.76,
+      "text": "personas importantes"
+    },
+    {
+      "start": 238.76,
+      "end": 240.28,
+      "text": "en el desarrollo de este proyecto"
+    },
+    {
+      "start": 240.28,
+      "end": 242.56,
+      "text": "la conocí cuando peleábamos"
+    },
+    {
+      "start": 242.56,
+      "end": 244.28,
+      "text": "con una mujer de cara"
+    },
+    {
+      "start": 244.28,
+      "end": 245.86,
+      "text": "y después nos hicimos grandes amigos."
+    },
+    {
+      "start": 246.2,
+      "end": 249.02,
+      "text": "Así que, a la distancia, un aplauso de nuevo para Gloria."
+    },
+    {
+      "start": 254.36,
+      "end": 256.22,
+      "text": "Y ustedes también ya nos escucharon."
+    },
+    {
+      "start": 256.8,
+      "end": 257.86,
+      "text": "Paso desde mi derecha."
+    },
+    {
+      "start": 266.56,
+      "end": 267.9,
+      "text": "Se siente feliz, Juan Serdanovich Arcos."
+    },
+    {
+      "start": 290.0,
+      "end": 291.0,
+      "text": "Juan, gracias por la valentía y junto a ti una gran mujer, una mujer valiente, fuerte, tiene carga de vida. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias."
+    },
+    {
+      "start": 291.0,
+      "end": 292.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 292.0,
+      "end": 293.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 293.0,
+      "end": 294.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 294.0,
+      "end": 295.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 295.0,
+      "end": 296.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 296.0,
+      "end": 297.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 297.0,
+      "end": 298.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 298.0,
+      "end": 299.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 299.0,
+      "end": 300.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 300.0,
+      "end": 301.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 301.0,
+      "end": 302.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 302.0,
+      "end": 303.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 303.0,
+      "end": 304.0,
+      "text": "Gracias."
+    },
+    {
+      "start": 304.0,
+      "end": 321.0,
+      "text": "Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. parado en la puerta de la catarina y decía a la persona que estaba pasando, ¿se defiende la vida?"
+    },
+    {
+      "start": 321.0,
+      "end": 326.0,
+      "text": "Y si la persona decía, sí, venga, pase por aquí y te lo voy a enseñar."
+    },
+    {
+      "start": 326.0,
+      "end": 330.0,
+      "text": "Y si la gente le decía, vayas a la luna, que venga un buen día."
+    },
+    {
+      "start": 330.0,
+      "end": 333.0,
+      "text": "Era como rapido, ¿sí o no?"
+    },
+    {
+      "start": 333.0,
+      "end": 336.74,
+      "text": "Pero para que vean la efectividad de la palabra."
+    },
+    {
+      "start": 338.16,
+      "end": 341.5,
+      "text": "No peleaba con nadie. Decía, yo no tengo tiempo para pelear con nadie."
+    },
+    {
+      "start": 341.88,
+      "end": 343.1,
+      "text": "Necesito la firma, rápido."
+    },
+    {
+      "start": 345.0,
+      "end": 353.96,
+      "text": "Y al lado de acá, alguien que también he ido conociendo con el tiempo, nos conocimos hace bastante tiempo, le tocó dar una lucha interna en el Consejo Regional,"
+    },
+    {
+      "start": 354.7,
+      "end": 358.58,
+      "text": "cuestionó todo, bien cuestionado, ganó en todas las instancias,"
+    },
+    {
+      "start": 359.32,
+      "end": 363.36,
+      "text": "y aquí está Alejandro Riquelme, que le doy las gracias."
+    },
+    {
+      "start": 366.26,
+      "end": 370.26,
+      "text": "Gracias. Y aquí está Alejandro Miquelmen, que le doy las gracias por aceptar la nombranza."
+    },
+    {
+      "start": 382.5,
+      "end": 383.08,
+      "text": "Esperamos que con este equipo, porque somos un equipo y esa es la gran diferencia con otras candidaturas, otras líneas."
+    },
+    {
+      "start": 387.04,
+      "end": 387.86,
+      "text": "Que nosotros sabemos que no todos vamos a llegar a la meta."
+    },
+    {
+      "start": 393.64,
+      "end": 394.18,
+      "text": "Yo ya llevo dos intentos, todavía no llego al polo, pero ahora espero lograrlo."
+    },
+    {
+      "start": 395.58,
+      "end": 395.92,
+      "text": "Pero no importa que uno no llegue."
+    },
+    {
+      "start": 400.4,
+      "end": 400.82,
+      "text": "Si lo importante es los principios que uno lleva y que uno nunca deja de defendernos."
+    },
+    {
+      "start": 402.8,
+      "end": 403.6,
+      "text": "Más allá de si uno gana o pierde."
+    },
+    {
+      "start": 405.02,
+      "end": 405.32,
+      "text": "Porque ganamos siempre."
+    },
+    {
+      "start": 409.68,
+      "end": 410.98,
+      "text": "Y eso es, ayer también lo aprendimos en el Día de la Iglesia Evangélica, que nos decían"
+    },
+    {
+      "start": 410.98,
+      "end": 419.58,
+      "text": "miremos al pasado y agradezcamos, miremos el presente y gocemos, y miremos el futuro"
+    },
+    {
+      "start": 419.58,
+      "end": 430.94,
+      "text": "y confiemos. Y yo soy de esas personas que confío, confío que todo va a estar bien, más allá del resultado, el resultado es lo mismo, si confiamos en que las cosas van a estar bien."
+    },
+    {
+      "start": 431.74,
+      "end": 441.0,
+      "text": "Y quiero darles las gracias también, no sé si alcanzó a llegar Jorge Parga, no alcanzo a verlo, pero Jorge Parga es parte de nuestro equipo"
+    },
+    {
+      "start": 441.0,
+      "end": 446.46,
+      "text": "de seguridad. Ustedes vieron el lunes pasado una presentación que hicimos sobre el escudo"
+    },
+    {
+      "start": 446.46,
+      "end": 451.78,
+      "text": "fronterizo y ahí hay mucha gente trabajando en todo lo que nosotros queremos llevar adelante"
+    },
+    {
+      "start": 451.78,
+      "end": 455.18,
+      "text": "en el plan escudo fronterizo, en el plan cancerero,"
+    },
+    {
+      "start": 460.2,
+      "end": 464.86,
+      "text": "en el plan impacable, en el plan barrido total. Eso no son solo siglas, no es solo un eslogan. Hay un trabajo serio detrás de cada una de las presentaciones que hacemos"
+    },
+    {
+      "start": 464.86,
+      "end": 471.06,
+      "text": "y el lunes, bueno, dentro de lo que presentó Cristian Vial, él figuraba como la cara visible,"
+    },
+    {
+      "start": 471.56,
+      "end": 476.3,
+      "text": "pero también está el almirante Jorge Vargas, que ayer nos acompañó durante el día, está"
+    },
+    {
+      "start": 476.3,
+      "end": 480.92,
+      "text": "el coronel González, está el general Pasaletti, está el exalcalde Rodolfo Cártez, está"
+    },
+    {
+      "start": 480.92,
+      "end": 485.08,
+      "text": "Beatriz Gebbia, y así en cada área, en cada tema que nosotros planteamos,"
+    },
+    {
+      "start": 485.38,
+      "end": 491.78,
+      "text": "hay un plan detallado de cómo enfrentar un futuro gobierno. Y a nivel de regiones, hoy día también"
+    },
+    {
+      "start": 491.78,
+      "end": 497.62,
+      "text": "tenemos representantes, y eso nos permite presentarnos frente a la ciudadanía de una"
+    },
+    {
+      "start": 497.62,
+      "end": 502.96,
+      "text": "manera distinta, ya con mayor musculatura, ya más fuerte para lo que viene."
+    },
+    {
+      "start": 503.78,
+      "end": 506.3,
+      "text": "Y está aquí, para que no se me salte nadie,"
+    },
+    {
+      "start": 506.82,
+      "end": 509.32,
+      "text": "quien reemplaza a Alejandro Rodríguez en el core."
+    },
+    {
+      "start": 509.64,
+      "end": 511.88,
+      "text": "Don Robert no lo reemplaza como no lo reemplaza."
+    },
+    {
+      "start": 511.94,
+      "end": 513.46,
+      "text": "Es único, es único e irrepetible."
+    },
+    {
+      "start": 513.6,
+      "end": 514.4,
+      "text": "Nadie reemplaza a nadie."
+    },
+    {
+      "start": 514.52,
+      "end": 520.26,
+      "text": "Tienes toda la razón, Roberto Bison, parante de pie, nuestro core, único,"
+    },
+    {
+      "start": 520.46,
+      "end": 528.2,
+      "text": "grande y nuestro, irrepetible. Y también están con nosotros nuestros concejales de"
+    },
+    {
+      "start": 528.2,
+      "end": 530.16,
+      "text": "distintas comunas de Puerto Natal."
+    },
+    {
+      "start": 530.32,
+      "end": 533.68,
+      "text": "Está Alejandro Contreras, Cárdenas, perdón."
+    },
+    {
+      "start": 534.18,
+      "end": 537.98,
+      "text": "La verdad que las letras se me... Cárdenas, disculpa, Alejandro."
+    },
+    {
+      "start": 538.6,
+      "end": 543.24,
+      "text": "Está Andrea Muñoz, que está por aquí, por venir."
+    },
+    {
+      "start": 543.88,
+      "end": 548.52,
+      "text": "Gracias, Andrea, por estar presente. Está un amigo que los"
+    },
+    {
+      "start": 548.52,
+      "end": 557.3,
+      "text": "transporta a todos, Miguel Contreras, el concejal y taxista, como él se presenta. Está Marcela"
+    },
+    {
+      "start": 557.3,
+      "end": 563.54,
+      "text": "Laisle, que anda muy bien acompañada, ya ahí con una guaguita en camino."
+    },
+    {
+      "start": 564.36,
+      "end": 567.62,
+      "text": "Está también Alicia Stipicich, rebelde."
+    },
+    {
+      "start": 568.16,
+      "end": 570.98,
+      "text": "¿Dónde está la Alicia? Ahí está. Hola Alicia."
+    },
+    {
+      "start": 573.04,
+      "end": 576.4,
+      "text": "No te preocupes, ya no hay tiempo para el Tribunal Supremo, así que no hay"
+    },
+    {
+      "start": 576.4,
+      "end": 584.06,
+      "text": "problema, ya se cerraron todos los plazos, y también está nuestro presidente regional"
+    },
+    {
+      "start": 584.06,
+      "end": 590.28,
+      "text": "Javier Romero, gracias Javier Javier siempre está uno puede llegar"
+    },
+    {
+      "start": 590.28,
+      "end": 591.96,
+      "text": "bueno, y está Alan, y está toda la"
+    },
+    {
+      "start": 591.96,
+      "end": 594.98,
+      "text": "en ti, en el fondo, le doy las gracias a todo el equipo"
+    },
+    {
+      "start": 594.98,
+      "end": 597.18,
+      "text": "de la directiva, que siempre están"
+    },
+    {
+      "start": 597.18,
+      "end": 598.76,
+      "text": "cuando uno llega"
+    },
+    {
+      "start": 598.76,
+      "end": 600.46,
+      "text": "a cualquier hora del día, ahí están"
+    },
+    {
+      "start": 600.46,
+      "end": 602.64,
+      "text": "cuando uno tiene que viajar a alguna parte"
+    },
+    {
+      "start": 602.64,
+      "end": 604.36,
+      "text": "ahí están, así que"
+    },
+    {
+      "start": 604.36,
+      "end": 612.52,
+      "text": "gracias por ese compromiso permanente, que es lo que nos hace grandes. Y puedo decir que hoy día"
+    },
+    {
+      "start": 612.52,
+      "end": 619.46,
+      "text": "siento la misma emoción, no, más emoción que tantas veces... ¡Ah! No la había visto."
+    },
+    {
+      "start": 623.54,
+      "end": 629.08,
+      "text": "Mis disculpas. Gracias. Gracias a todos porque esto es increíble ver tantas personas aquí en este lugar que ya nos hemos"
+    },
+    {
+      "start": 629.08,
+      "end": 634.14,
+      "text": "encontrado otras veces. Porque esta no es ni la primera ni será la última vez que"
+    },
+    {
+      "start": 634.14,
+      "end": 636.12,
+      "text": "vamos a estar aquí en Magallanes."
+    },
+    {
+      "start": 636.34,
+      "end": 640.68,
+      "text": "Hemos estado separados, juntos, pero siempre hemos estado aquí con Pía."
+    },
+    {
+      "start": 641.16,
+      "end": 643.5,
+      "text": "Y siempre es una alegría, es una inyección de energía."
+    },
+    {
+      "start": 644.22,
+      "end": 651.56,
+      "text": "Cuando uno va al centro y siente esa fuerza del viento, dice, bueno, que esta fuerza sople. Y lo que"
+    },
+    {
+      "start": 651.56,
+      "end": 656.42,
+      "text": "queremos pedirle hoy día es que esa misma fuerza sople desde aquí de Magallanes hacia"
+    },
+    {
+      "start": 656.42,
+      "end": 663.14,
+      "text": "todo Chile, porque se va a sentir fuerte el viento del cambio, la fuerza del cambio que"
+    },
+    {
+      "start": 663.14,
+      "end": 666.38,
+      "text": "desde aquí parte en los últimos 15 días que nos"
+    },
+    {
+      "start": 666.38,
+      "end": 677.74,
+      "text": "quedan por delante. Es muy importante lo que se nos viene. Y tengo el orgullo de decir"
+    },
+    {
+      "start": 677.74,
+      "end": 684.52,
+      "text": "que, el orgullo y la alegría de decir que he podido recorrer todo Chile, desde Arica"
+    },
+    {
+      "start": 684.52,
+      "end": 689.46,
+      "text": "para Inacota hasta Magallanes. Y así como cuando uno llega a Arica, dice, esta es la"
+    },
+    {
+      "start": 689.46,
+      "end": 694.86,
+      "text": "ciudad de la eterna primavera. Cuando uno pasa por Atacama, dice, aquí está el desierto"
+    },
+    {
+      "start": 694.86,
+      "end": 695.38,
+      "text": "florido y aquí renace Chile de nuevo después de tiempos dura, cuando uno pasa por Atacama y dice aquí está el desierto florido"
+    },
+    {
+      "start": 695.38,
+      "end": 700.56,
+      "text": "y aquí renace Chile de nuevo después de tiempos duros, cuando uno pasa por O'Higgins"
+    },
+    {
+      "start": 700.56,
+      "end": 706.14,
+      "text": "y ve que ahí se denominó la región como la región del libertador, cuando uno pasa"
+    },
+    {
+      "start": 706.14,
+      "end": 713.82,
+      "text": "por Ñuble y dice este es el Ñuble heroico, histórico, porque aquí nacieron O'Higgins, Pratt, Arrau,"
+    },
+    {
+      "start": 714.14,
+      "end": 718.44,
+      "text": "tantas personas que nos han liderado y nos han mostrado, han mostrado a Chile, al mundo."
+    },
+    {
+      "start": 719.02,
+      "end": 724.94,
+      "text": "Cuando uno llega a Magallanes, también siente que desde aquí renace la esperanza."
+    },
+    {
+      "start": 727.1,
+      "end": 733.26,
+      "text": "Y podemos decir que lo que viene ahora es una tremenda esperanza para Chile, porque esta es como, uno podría"
+    },
+    {
+      "start": 733.26,
+      "end": 739.76,
+      "text": "decir, la frontera de la esperanza, donde era casi imposible que surgiera el desarrollo"
+    },
+    {
+      "start": 739.76,
+      "end": 742.04,
+      "text": "de la esperanza. donde era casi imposible que surgiera el desarrollo."
+    },
+    {
+      "start": 743.52,
+      "end": 745.12,
+      "text": "Están llamando."
+    },
+    {
+      "start": 748.28,
+      "end": 748.78,
+      "text": "Que surgiera el desarrollo."
+    },
+    {
+      "start": 750.5,
+      "end": 751.3,
+      "text": "Pero ustedes han hecho posible lo imposible."
+    },
+    {
+      "start": 756.46,
+      "end": 756.96,
+      "text": "Así como siempre nos dicen, esto es imposible, nada es imposible."
+    },
+    {
+      "start": 762.92,
+      "end": 763.7,
+      "text": "Porque ustedes nos han enseñado que con esa fuerza, con ese carácter, con esa voluntad,"
+    },
+    {
+      "start": 767.72,
+      "end": 768.32,
+      "text": "aquí la gente no se rinde, los magallánicos no se rinden."
+    },
+    {
+      "start": 770.72,
+      "end": 778.68,
+      "text": "Y Chile no tiene que rendirse frente a los desafíos. Y hemos pasado años duros, años muy duros, años de un muy mal gobierno, un"
+    },
+    {
+      "start": 778.68,
+      "end": 784.4,
+      "text": "gobierno que nos va a dejar un país quebrado, en bancarrota. Pero ustedes, con"
+    },
+    {
+      "start": 784.4,
+      "end": 786.88,
+      "text": "esa firmeza, con esa austeridad,"
+    },
+    {
+      "start": 787.4,
+      "end": 793.46,
+      "text": "con ese carácter, nos indican una y otra vez que podemos recuperar y reconstruir nuestra"
+    },
+    {
+      "start": 793.46,
+      "end": 801.0,
+      "text": "patria. Con esa energía que ustedes proyectan, nosotros decimos, bueno, si lo hicieron en Magallanes, en una"
+    },
+    {
+      "start": 801.0,
+      "end": 805.8,
+      "text": "tierra que uno viene la primera vez, imagínense lo que deben haber sido las primeras personas"
+    },
+    {
+      "start": 805.8,
+      "end": 813.0,
+      "text": "que recorrieron esta zona, hayan sido de los pueblos originarios, hayan sido conquistadores,"
+    },
+    {
+      "start": 813.8,
+      "end": 818.44,
+      "text": "hayan sido los pioneros, quienes sean, porque al final todos somos chilenos,"
+    },
+    {
+      "start": 819.12,
+      "end": 825.26,
+      "text": "todos hemos ayudado a construir nuestra patria única y grande. Y cuando ayer caminábamos"
+    },
+    {
+      "start": 825.26,
+      "end": 835.14,
+      "text": "por el centro, vimos el homenaje a un chileno heroico, el piloto pardo. Y el piloto pardo"
+    },
+    {
+      "start": 835.14,
+      "end": 841.9,
+      "text": "nos recuerda la historia de ocho gran hombres, de un explorador escocés, quien en la lucha"
+    },
+    {
+      "start": 841.9,
+      "end": 845.74,
+      "text": "o en el desafío de llegar primero al polo, dijo, ¿cómo lo hago?"
+    },
+    {
+      "start": 846.26,
+      "end": 852.8,
+      "text": "E hizo una invitación súper amable, simpática, como que uno dice, yo no me puedo perder esa"
+    },
+    {
+      "start": 852.8,
+      "end": 857.44,
+      "text": "aventura, yo me quiero subir a ese barco para ir a descubrir el polo sur."
+    },
+    {
+      "start": 858.18,
+      "end": 861.94,
+      "text": "Y el mensaje que él publicó, imagínense los años 1900,"
+    },
+    {
+      "start": 862.82,
+      "end": 869.56,
+      "text": "alguien con un cartelito clavando un clavo en las distintas plazas ahí en Inglaterra, decía"
+    },
+    {
+      "start": 869.56,
+      "end": 880.02,
+      "text": "se necesitan hombres para un viaje arriesgado, poco sueldo, frío extremo, largos meses de"
+    },
+    {
+      "start": 880.02,
+      "end": 896.56,
+      "text": "oscuridad total, peligro constante, regreso a salvo dudoso, honor y reconocimiento en caso de éxito. ¿Cómo les quedó? Hacían"
+    },
+    {
+      "start": 896.56,
+      "end": 907.62,
+      "text": "fila para subirse al barco. Creo que juntó como 22, 24, creo que eran 25. Veinticinco que que subieron a un barco y no sabían a dónde"
+    },
+    {
+      "start": 907.62,
+      "end": 914.6,
+      "text": "iban, pero confiaban en que este señor tenía claro el destino. Bueno, navegaron, navegaron,"
+    },
+    {
+      "start": 914.66,
+      "end": 923.56,
+      "text": "navegaron y leyendo la historia, eso lo descubrí hoy día, el mismo día, no el mismo día en que yo nací, pero un 18 de enero,"
+    },
+    {
+      "start": 924.44,
+      "end": 932.88,
+      "text": "pero como 60 años antes, quedaron atrapados en el hielo. Y ahí quedaron, largo tiempo. Y él con un par"
+    },
+    {
+      "start": 932.88,
+      "end": 935.92,
+      "text": "de valientes se baja de la embarcación, deja"
+    },
+    {
+      "start": 935.92,
+      "end": 942.44,
+      "text": "salvo al resto y empieza a buscar dónde ir a pedir ayuda. Y llega aquí a Punta Arenas,"
+    },
+    {
+      "start": 943.02,
+      "end": 947.74,
+      "text": "se encuentra con distintas personas, hacen un primer intento, fracasan y como fracasan"
+    },
+    {
+      "start": 947.74,
+      "end": 950.5,
+      "text": "en el primero, alguien sale sale su auxilio y quién"
+    },
+    {
+      "start": 950.5,
+      "end": 957.76,
+      "text": "era luis alberto pardo villalón increíble el piloto pardo está ahí en"
+    },
+    {
+      "start": 957.76,
+      "end": 967.46,
+      "text": "la costanera está delante de la proa de la barcaza y el hecho y Y ustedes dicen, ¿y con esto fueron? Porque no era"
+    },
+    {
+      "start": 967.46,
+      "end": 972.88,
+      "text": "un rompehielos como uno se imagina hoy día. No, una cosita así como uno dice, oh, yo"
+    },
+    {
+      "start": 972.88,
+      "end": 977.3,
+      "text": "en esto no voy. Y ahí estaba el piloto pardo. Y el piloto pardo fue el reflejo de lo que"
+    },
+    {
+      "start": 977.3,
+      "end": 984.22,
+      "text": "somos los chilenos, de que somos personas capaces de salir a encontrar al que sufre, al que está en peligro."
+    },
+    {
+      "start": 984.88,
+      "end": 988.92,
+      "text": "Y no importa lo que tengamos que arriesgar, no importa lo que tengamos que sufrir,"
+    },
+    {
+      "start": 989.52,
+      "end": 993.74,
+      "text": "ahí vamos a estar, algunos de nosotros, haciendo lo que debemos hacer."
+    },
+    {
+      "start": 994.04,
+      "end": 995.76,
+      "text": "Y en este caso es recuperar"
+    },
+    {
+      "start": 995.76,
+      "end": 1003.96,
+      "text": "y reconstruir nuestra patria. Así que bienvenidos a este viaje. Va a ser un viaje harto más"
+    },
+    {
+      "start": 1003.96,
+      "end": 1011.0,
+      "text": "tranquilo que ese. No estamos invitándolos a una locura."
+    },
+    {
+      "start": 1011.0,
+      "end": 1014.12,
+      "text": "No lo estamos invitando a algo tan desafiante."
+    },
+    {
+      "start": 1014.3,
+      "end": 1015.46,
+      "text": "Es muy importante, sí."
+    },
+    {
+      "start": 1015.96,
+      "end": 1023.98,
+      "text": "Porque de que nosotros lo hagamos bien depende la vida de miles de personas que hoy día están en la vulnerabilidad."
+    },
+    {
+      "start": 1024.7,
+      "end": 1026.9,
+      "text": "Millones de personas que hoy día no tienen esperanza. Millones de personas que hoy día están en la vulnerabilidad. Millones de personas que hoy día no tienen esperanza."
+    },
+    {
+      "start": 1027.52,
+      "end": 1029.62,
+      "text": "Millones de personas que hoy día tienen miedo."
+    },
+    {
+      "start": 1030.54,
+      "end": 1031.7,
+      "text": "Y ahí vamos a estar nosotros."
+    },
+    {
+      "start": 1032.3,
+      "end": 1033.24,
+      "text": "Imagínense el desafío."
+    },
+    {
+      "start": 1033.94,
+      "end": 1038.32,
+      "text": "Nosotros vamos a tener la responsabilidad de dirigir los destinos de nuestra patria."
+    },
+    {
+      "start": 1039.22,
+      "end": 1048.28,
+      "text": "Y es un trabajo muy difícil, porque el cómo nos van a entregar el país, todos lo sabemos."
+    },
+    {
+      "start": 1049.28,
+      "end": 1054.12,
+      "text": "Un país que hoy día tiene no solo una emergencia, tiene varias emergencias."
+    },
+    {
+      "start": 1054.74,
+      "end": 1057.9,
+      "text": "Nuestro programa de gobierno se enfoca en tres líneas."
+    },
+    {
+      "start": 1058.46,
+      "end": 1064.38,
+      "text": "En la línea de la seguridad, que para ustedes todavía se ve como un poquito más distante,"
+    },
+    {
+      "start": 1064.44,
+      "end": 1071.0,
+      "text": "a pesar de que ya tienen problemas de droga, problemas de algunos temas de abusos, temas de violencia."
+    },
+    {
+      "start": 1072.2,
+      "end": 1079.96,
+      "text": "Existen dificultades acá, pero no al nivel que existe en la macrozona norte, en la macrozona sur, con el terrorismo."
+    },
+    {
+      "start": 1080.7,
+      "end": 1082.96,
+      "text": "Pero ahí hay una crisis, una emergencia importante."
+    },
+    {
+      "start": 1083.4,
+      "end": 1090.26,
+      "text": "Hay otra crisis y emergencia muy relevante que es la crisis que hoy día vive la familia chilena"
+    },
+    {
+      "start": 1090.26,
+      "end": 1094.34,
+      "text": "porque no hay empleo, no hay crecimiento económico, no hay inversión,"
+    },
+    {
+      "start": 1094.46,
+      "end": 1095.72,
+      "text": "porque no hay certeza jurídica."
+    },
+    {
+      "start": 1096.26,
+      "end": 1101.4,
+      "text": "Por lo tanto, teniendo todas las posibilidades de crecer no lo hacemos y si no"
+    },
+    {
+      "start": 1101.4,
+      "end": 1106.74,
+      "text": "hay crecimiento no hay empleo y la mejor política pública que puede llevar adelante un gobierno es"
+    },
+    {
+      "start": 1106.74,
+      "end": 1113.54,
+      "text": "el pleno empleo porque no solamente da dignidad a las personas sino que permite una mejor calidad"
+    },
+    {
+      "start": 1113.54,
+      "end": 1115.42,
+      "text": "de vida en el tiempo."
+    },
+    {
+      "start": 1119.78,
+      "end": 1119.92,
+      "text": "Eso algunos no lo han entendido y se esfuerzan, porque Chile no crezca,"
+    },
+    {
+      "start": 1123.26,
+      "end": 1123.88,
+      "text": "se esfuerzan por cerrar todas las oportunidades a las personas que quieren emprender."
+    },
+    {
+      "start": 1125.72,
+      "end": 1126.24,
+      "text": "Ahí tenemos otro desafío enorme."
+    },
+    {
+      "start": 1131.16,
+      "end": 1137.4,
+      "text": "Y el tercer desafío es el desafío social, el desafío que tenemos frente a la educación de nuestros hijos, porque la educación da libertad y ellos se han esforzado por ir deteriorando la"
+    },
+    {
+      "start": 1137.4,
+      "end": 1142.34,
+      "text": "calidad de la enseñanza a lo largo de todo Chile. Tenemos ahí también otro desafío social que es la"
+    },
+    {
+      "start": 1142.34,
+      "end": 1147.06,
+      "text": "salud. La salud que se ve como, se ve con miedo."
+    },
+    {
+      "start": 1147.58,
+      "end": 1148.88,
+      "text": "Porque dice, ¿qué pasa si me enfermo?"
+    },
+    {
+      "start": 1149.7,
+      "end": 1150.52,
+      "text": "Las listas de espera."
+    },
+    {
+      "start": 1150.96,
+      "end": 1154.74,
+      "text": "40.000 compatriotas mueren al año en la lista de espera."
+    },
+    {
+      "start": 1155.02,
+      "end": 1156.02,
+      "text": "Y no tiene por qué ser así."
+    },
+    {
+      "start": 1157.12,
+      "end": 1159.68,
+      "text": "No tiene por qué ser que alguien muera en la lista de espera."
+    },
+    {
+      "start": 1160.28,
+      "end": 1161.2,
+      "text": "Nadie sabe cuándo se va."
+    },
+    {
+      "start": 1162.26,
+      "end": 1165.86,
+      "text": "Nadie puede hacer morarle la vida a la persona permanentemente."
+    },
+    {
+      "start": 1166.18,
+      "end": 1171.0,
+      "text": "Pero lo que sí podemos decirle es que no va a morir esperando una atención médica."
+    },
+    {
+      "start": 1171.0,
+      "end": 1174.22,
+      "text": "No va a morir esperando una intervención quirúrgica."
+    },
+    {
+      "start": 1174.52,
+      "end": 1180.54,
+      "text": "Porque eso sí depende de nosotros. Él puede morir en la operación, sí. Él puede morir frente"
+    },
+    {
+      "start": 1180.54,
+      "end": 1187.84,
+      "text": "al médico, sí. Pero al menos tuvo la oportunidad de que alguien lo viera, lo atendiera. Y en"
+    },
+    {
+      "start": 1187.84,
+      "end": 1192.5,
+      "text": "este recorrido por Chile he podido conocer los dolores, los"
+    },
+    {
+      "start": 1192.5,
+      "end": 1199.4,
+      "text": "miedos, cada una de las cosas que a las personas le preocupan. Aquí en la región, 10 comunas."
+    },
+    {
+      "start": 1199.64,
+      "end": 1204.04,
+      "text": "Y como les decía, en un recorrido express inicial, después la he recorrido varias veces,"
+    },
+    {
+      "start": 1204.12,
+      "end": 1205.4,
+      "text": "¿no es cierto?, en otro de esos vehículos grandes donde uno dice, oh, elorrido express inicial, después la he recorrido varias veces, ¿no es cierto?, en otro de"
+    },
+    {
+      "start": 1205.4,
+      "end": 1211.68,
+      "text": "esos vehículos grandes donde uno dice, oh, el panorama es enorme y uno va aquí calentito, no quisiera"
+    },
+    {
+      "start": 1211.68,
+      "end": 1219.0,
+      "text": "quedarme botado aquí a mitad de la Patagonia. Conocimos desde las torres, como le decía, hasta"
+    },
+    {
+      "start": 1219.0,
+      "end": 1224.0,
+      "text": "Timauque, pasando por cada una de las comunasas, algunas ya las había conocido cuando era pequeño..."
+    },
+    {
+      "start": 1224.6,
+      "end": 1230.8,
+      "text": "...y uno iba ahí a la isla, ¿no es cierto?, y veía un gimnasio, y veía un invernadero..."
+    },
+    {
+      "start": 1230.8,
+      "end": 1236.08,
+      "text": "...en Cerro Sombrero, una cosa increíble, no sé qué es increíble y se fue apagando"
+    },
+    {
+      "start": 1236.08,
+      "end": 1237.48,
+      "text": "apagando, apagando, apagando"
+    },
+    {
+      "start": 1237.48,
+      "end": 1239.78,
+      "text": "toda la potencia ganadera que tenían"
+    },
+    {
+      "start": 1239.78,
+      "end": 1241.88,
+      "text": "se fue apagando, apagando, apagando"
+    },
+    {
+      "start": 1241.88,
+      "end": 1243.94,
+      "text": "y si seguimos así"
+    },
+    {
+      "start": 1243.94,
+      "end": 1246.12,
+      "text": "en poco tiempo más van a haber más guanacos"
+    },
+    {
+      "start": 1246.12,
+      "end": 1246.56,
+      "text": "que ovejas"
+    },
+    {
+      "start": 1246.56,
+      "end": 1250.12,
+      "text": "es una cosa impresionante, Ayer me daban los datos,"
+    },
+    {
+      "start": 1250.2,
+      "end": 1256.96,
+      "text": "las cifras del tema ganadero y decían, no, mira, si pasamos de 2.700.000 cabezas de ovejas a 1.400.000"
+    },
+    {
+      "start": 1256.96,
+      "end": 1264.22,
+      "text": "y los guanacos subiendo, ya van en 400.000. O sea, cabe media oveja por hectárea,"
+    },
+    {
+      "start": 1264.68,
+      "end": 1265.96,
+      "text": "ese es el rendimiento promedio,"
+    },
+    {
+      "start": 1267.14,
+      "end": 1270.48,
+      "text": "imagínense lo que come un guanaco, mi padre estaría espantado."
+    },
+    {
+      "start": 1271.04,
+      "end": 1275.76,
+      "text": "Mi padre decía, no, en esta hectárea yo saco dos vacas por hectárea,"
+    },
+    {
+      "start": 1276.28,
+      "end": 1279.22,
+      "text": "en la medida que ustedes no tengan caballos para pasear,"
+    },
+    {
+      "start": 1279.42,
+      "end": 1280.3,
+      "text": "porque el caballo come más que la vaca. Bueno, imagínense la medida que ustedes no tengan caballos para pasear, porque el"
+    },
+    {
+      "start": 1280.3,
+      "end": 1286.08,
+      "text": "caballo come más que la vaca. Bueno, imagínense la potencia ganadera que hay, pero por una"
+    },
+    {
+      "start": 1286.08,
+      "end": 1291.2,
+      "text": "ideología extrema, bueno, hay una competencia que compite al final contra el ser humano."
+    },
+    {
+      "start": 1293.14,
+      "end": 1297.14,
+      "text": "Ahí hay un tema que uno tiene que enfrentar. Pero"
+    },
+    {
+      "start": 1297.14,
+      "end": 1304.2,
+      "text": "eso se sabe buscando, conociendo, recorriendo. Les aseguro que nadie de los que dirigen los"
+    },
+    {
+      "start": 1304.2,
+      "end": 1309.94,
+      "text": "distintos ministerios en Santiago conoce esa realidad. Los que votaron por la defensa"
+    },
+    {
+      "start": 1309.94,
+      "end": 1312.0,
+      "text": "de los animales en la ley Cholito"
+    },
+    {
+      "start": 1312.0,
+      "end": 1318.78,
+      "text": "no tenían idea que los perros asilvestrados iban a matar a los pudú, que iban a matar a las ovejas."
+    },
+    {
+      "start": 1319.58,
+      "end": 1324.42,
+      "text": "Y yo me acuerdo, y perdonen que me extienda, pero esto sirve para ir mostrando ejemplos prácticos."
+    },
+    {
+      "start": 1324.94,
+      "end": 1329.4,
+      "text": "La primera vez que llegué después de la ley Cholito, a Arica, que yo la voté en contra,"
+    },
+    {
+      "start": 1329.76,
+      "end": 1334.0,
+      "text": "porque decía esta ley no va a lograr el objetivo que busca. Yo soy amante de los animales,"
+    },
+    {
+      "start": 1334.42,
+      "end": 1341.72,
+      "text": "tenemos a esta altura yo creo que como siete perros en la casa aparte de otros animales"
+    },
+    {
+      "start": 1341.72,
+      "end": 1343.32,
+      "text": "pero no va a lograr el objetivo"
+    },
+    {
+      "start": 1343.32,
+      "end": 1345.88,
+      "text": "y va a perjudicar a otros animales"
+    },
+    {
+      "start": 1345.88,
+      "end": 1347.66,
+      "text": "y mi primer debate"
+    },
+    {
+      "start": 1347.66,
+      "end": 1348.98,
+      "text": "en Arica fue decirle"
+    },
+    {
+      "start": 1348.98,
+      "end": 1349.98,
+      "text": "¿quién tiene más derechos?"
+    },
+    {
+      "start": 1350.68,
+      "end": 1352.28,
+      "text": "¿la oveja o el perro?"
+    },
+    {
+      "start": 1353.64,
+      "end": 1356.1,
+      "text": "y el perro tenía mucho más derechos."
+    },
+    {
+      "start": 1356.66,
+      "end": 1358.58,
+      "text": "En algunos casos tiene más derechos que algunos de nosotros."
+    },
+    {
+      "start": 1359.62,
+      "end": 1363.46,
+      "text": "Bueno, y el perro asilvestrado no es la jauría solamente que está."
+    },
+    {
+      "start": 1364.0,
+      "end": 1366.52,
+      "text": "El perro asilvestrado también son los perros que nosotros tenemos"
+    },
+    {
+      "start": 1366.52,
+      "end": 1370.58,
+      "text": "que en la noche se reúnen, hacen un grupete, una"
+    },
+    {
+      "start": 1370.58,
+      "end": 1378.48,
+      "text": "jauría, salen, matan y vuelven. Y solo matan, porque ni siquiera es para alimentarse. Bueno,"
+    },
+    {
+      "start": 1378.58,
+      "end": 1383.44,
+      "text": "ahí está. Y la autoridad mira el techo. Y los pequeños agricultores pierden todo su"
+    },
+    {
+      "start": 1383.44,
+      "end": 1385.86,
+      "text": "capital. Porque también un campesino"
+    },
+    {
+      "start": 1385.86,
+      "end": 1392.18,
+      "text": "que está en una situación vulnerable dice, ahí está mi cuenta de ahorro, esas ovejitas,"
+    },
+    {
+      "start": 1392.76,
+      "end": 1397.46,
+      "text": "esas vacas, esos terneros, son mi cuenta de ahorro, yo no tengo posibilidad de ir al banco,"
+    },
+    {
+      "start": 1397.84,
+      "end": 1400.0,
+      "text": "esto era cuando no había internet, pero no tengo posibilidad de ir al banco,"
+    },
+    {
+      "start": 1400.08,
+      "end": 1400.84,
+      "text": "entonces yo ahorro ahí."
+    },
+    {
+      "start": 1401.68,
+      "end": 1403.1,
+      "text": "Y le matan todos sus ahorros."
+    },
+    {
+      "start": 1403.52,
+      "end": 1405.0,
+      "text": "¿Quién se hace responsable? Nadie."
+    },
+    {
+      "start": 1405.72,
+      "end": 1409.16,
+      "text": "Y esa ideología es la que se ha instalado en nuestra patria"
+    },
+    {
+      "start": 1409.16,
+      "end": 1413.88,
+      "text": "y que estamos a punto de enfrentar de buena manera, con las buenas ideas."
+    },
+    {
+      "start": 1414.34,
+      "end": 1417.28,
+      "text": "Porque la ideología del ambientalismo"
+    },
+    {
+      "start": 1417.28,
+      "end": 1424.94,
+      "text": "extremo hace que nosotros no podamos aquí producir salmones, hace que no podamos aquí avanzar en el"
+    },
+    {
+      "start": 1424.94,
+      "end": 1433.08,
+      "text": "ideógeno verde, hace que aquí no podamos lograr que los inversionistas crean en nosotros porque nadie sabe cuándo termina, todos saben cuándo entran los papeles"
+    },
+    {
+      "start": 1433.08,
+      "end": 1436.7,
+      "text": "y nadie sabe cuándo salen de la evaluación ambiental."
+    },
+    {
+      "start": 1437.44,
+      "end": 1442.82,
+      "text": "La ideología del animalismo extremo termina perjudicando a las personas"
+    },
+    {
+      "start": 1442.82,
+      "end": 1448.44,
+      "text": "que se han esforzado toda la vida para sacar adelante, en este caso, su estancia, su parcela."
+    },
+    {
+      "start": 1449.36,
+      "end": 1449.94,
+      "text": "Y así nos vamos."
+    },
+    {
+      "start": 1450.68,
+      "end": 1454.62,
+      "text": "El indigenismo extremo nos tiene una situación muy compleja"
+    },
+    {
+      "start": 1454.62,
+      "end": 1458.68,
+      "text": "porque de una buena ley se terminó haciendo algo malo para el país."
+    },
+    {
+      "start": 1459.34,
+      "end": 1464.6,
+      "text": "La ley Lafkenche tenía toda la intención de hacer algo bueno,"
+    },
+    {
+      "start": 1465.28,
+      "end": 1471.3,
+      "text": "que era proteger el arte de pesca de comunidades de pueblos originarios que vivían de la pesca artesanal."
+    },
+    {
+      "start": 1472.34,
+      "end": 1476.64,
+      "text": "Pero hoy día, aquí en la zona zona están solicitadas más hectáreas"
+    },
+    {
+      "start": 1476.64,
+      "end": 1481.52,
+      "text": "de las que ustedes se pueden llegar a imaginar por un grupo pequeño de personas. Y cuando"
+    },
+    {
+      "start": 1481.52,
+      "end": 1486.62,
+      "text": "uno solicita una gran superficie, imagínense varias estancias juntas en el mar. Bueno,"
+    },
+    {
+      "start": 1486.72,
+      "end": 1489.7,
+      "text": "para trabajarla yo tengo que tener las herramientas. Es como que yo tuviera una"
+    },
+    {
+      "start": 1489.7,
+      "end": 1506.86,
+      "text": "estancia enorme y en época moderna tuviera un tractor, no tuviera un arado, no tuviera una rastra. Aquí, para entrar al mar, uno al menos tenía que tener un par de botes. Algunos piden concesiones marítimas sin tener siquiera un bote que flote, porque lo tienen en"
+    },
+    {
+      "start": 1506.86,
+      "end": 1514.4,
+      "text": "la playa. ¿Y piden todo esto para qué? Para abusar del sistema. Porque es un abuso. Nadie le niega el"
+    },
+    {
+      "start": 1514.4,
+      "end": 1519.78,
+      "text": "derecho a alguien de tener un espacio para generar su trabajo y la gestión de su familia. Pero cuando"
+    },
+    {
+      "start": 1519.78,
+      "end": 1524.54,
+      "text": "yo lo quiero todo, para después cobrarle a otro que va a invertir y yo me quedo sentado,"
+    },
+    {
+      "start": 1524.68,
+      "end": 1529.78,
+      "text": "eso es un abuso. Y se ha ido abusando de las distintas leyes. Por eso nosotros tenemos"
+    },
+    {
+      "start": 1529.78,
+      "end": 1534.92,
+      "text": "que develar y mostrarle a los chilenos que la ideología extrema en todos estos puntos"
+    },
+    {
+      "start": 1534.92,
+      "end": 1540.38,
+      "text": "solo daña la calidad de vida de las personas, solo empobrece nuestra patria y a eso nos"
+    },
+    {
+      "start": 1540.38,
+      "end": 1545.02,
+      "text": "vamos a enfrentar en el tiempo que viene. Este gobierno que viene es un gobierno de"
+    },
+    {
+      "start": 1545.02,
+      "end": 1549.66,
+      "text": "emergencia porque tenemos estas emergencias que le he ido señalando y no vamos a tener"
+    },
+    {
+      "start": 1549.66,
+      "end": 1554.54,
+      "text": "tiempo para discutir de muchos temas que son importantes, pero nosotros tenemos que enfrentar"
+    },
+    {
+      "start": 1554.54,
+      "end": 1560.12,
+      "text": "el hecho de sacar adelante a nuestro país que vuelva a ser seguro y próspero. Y eso"
+    },
+    {
+      "start": 1560.12,
+      "end": 1566.02,
+      "text": "requiere en estos cuatro años toda nuestra dedicación de los mejores y esto no va a ser fácil"
+    },
+    {
+      "start": 1566.02,
+      "end": 1567.4,
+      "text": "porque algunos van a decir"
+    },
+    {
+      "start": 1567.4,
+      "end": 1568.54,
+      "text": "oye a ver que yo trabajé"
+    },
+    {
+      "start": 1568.54,
+      "end": 1569.18,
+      "text": "diez años"
+    },
+    {
+      "start": 1569.18,
+      "end": 1570.2,
+      "text": "para que usted fuera presidente"
+    },
+    {
+      "start": 1570.2,
+      "end": 1571.04,
+      "text": "yo quiero estar ahí"
+    },
+    {
+      "start": 1571.04,
+      "end": 1572.08,
+      "text": "y a lo mejor"
+    },
+    {
+      "start": 1572.08,
+      "end": 1573.1,
+      "text": "no le va a tocar estar ahí"
+    },
+    {
+      "start": 1573.1,
+      "end": 1574.96,
+      "text": "y va a ser duro"
+    },
+    {
+      "start": 1574.96,
+      "end": 1575.94,
+      "text": "porque nosotros"
+    },
+    {
+      "start": 1575.94,
+      "end": 1576.8,
+      "text": "no queremos agrandar"
+    },
+    {
+      "start": 1576.8,
+      "end": 1577.64,
+      "text": "el tamaño del Estado"
+    },
+    {
+      "start": 1577.64,
+      "end": 1579.0,
+      "text": "queremos achicarlo"
+    },
+    {
+      "start": 1579.66,
+      "end": 1580.64,
+      "text": "y eso ¿va a herir sentimientos? sí los va a herir lo tengo claro Porque nosotros no queremos agrandar el tamaño del Estado, queremos achicarlo."
+    },
+    {
+      "start": 1582.84,
+      "end": 1583.96,
+      "text": "¿Y eso va a herir sentimientos? Sí."
+    },
+    {
+      "start": 1586.36,
+      "end": 1587.26,
+      "text": "Los va a herir, lo tengo claro, pero es necesario."
+    },
+    {
+      "start": 1591.26,
+      "end": 1591.82,
+      "text": "Y ahí de nuevo vamos a tener que pedirles un acto de confianza a muchos de ustedes."
+    },
+    {
+      "start": 1594.64,
+      "end": 1600.36,
+      "text": "Porque hacia donde vamos es muy difícil. Y tenemos que rescatar a toda la ciudadanía que tiene las esperanzas puestas en nosotros."
+    },
+    {
+      "start": 1600.82,
+      "end": 1605.58,
+      "text": "Si nosotros actuamos como los actuales gobernantes y empezamos a apitutar a los amigos,"
+    },
+    {
+      "start": 1606.28,
+      "end": 1609.8,
+      "text": "a personas que están ahí solo por amistad y les regalamos una embajada,"
+    },
+    {
+      "start": 1610.48,
+      "end": 1616.9,
+      "text": "en Brasil, por ejemplo, en España, por ejemplo, en México, por ejemplo, bueno volvió ahora"
+    },
+    {
+      "start": 1616.9,
+      "end": 1626.54,
+      "text": "candidata, pero repartían las embajadas como que tuviera miles y daba lo mismo y somos un país riquísimo."
+    },
+    {
+      "start": 1626.7,
+      "end": 1629.82,
+      "text": "No somos un país tan rico en recursos naturales."
+    },
+    {
+      "start": 1630.16,
+      "end": 1634.58,
+      "text": "Tenemos que optimizar y si mandamos un embajador a Brasil es para que haga negocio."
+    },
+    {
+      "start": 1635.48,
+      "end": 1640.92,
+      "text": "Es para que abra los corredores bioceánicos y Brasil saque toda la soya que produce por los puertos chilenos."
+    },
+    {
+      "start": 1641.68,
+      "end": 1645.06,
+      "text": "No es para que se vaya a bañar ahí a la playa de Río Janeiro."
+    },
+    {
+      "start": 1645.56,
+      "end": 1650.98,
+      "text": "Y si mandamos a alguien a México, bueno, es para que nosotros invirtamos la balanza"
+    },
+    {
+      "start": 1650.98,
+      "end": 1656.0,
+      "text": "y le exportemos todo el ají que podamos producir a México, si les encanta"
+    },
+    {
+      "start": 1656.0,
+      "end": 1662.14,
+      "text": "el ají. Ustedes no lo crean, hasta la sandía le echan ají. Bueno, y nosotros tenemos el"
+    },
+    {
+      "start": 1662.14,
+      "end": 1671.0,
+      "text": "mejor ají del mundo. Así que a eso nos vamos a enfrentar. Y he recorrido Chile junto a un tremendo equipo."
+    },
+    {
+      "start": 1671.0,
+      "end": 1675.74,
+      "text": "Aquí hay varios de los que a veces no aparecen, pero que hacen la pega de verdad."
+    },
+    {
+      "start": 1676.46,
+      "end": 1678.82,
+      "text": "Aquí el animador oficial era Sergio Turra."
+    },
+    {
+      "start": 1678.94,
+      "end": 1680.02,
+      "text": "¿Dónde está Sergio Turra?"
+    },
+    {
+      "start": 1680.34,
+      "end": 1684.38,
+      "text": "Que es animador oficial, el que lleva redes sociales, el que canta hip hop."
+    },
+    {
+      "start": 1685.86,
+      "end": 1691.9,
+      "text": "Nacemos ahí como el circo del señor Chamorro, nos cambiamos de sombrero, pero lo pasamos muy bien, es todo muy"
+    },
+    {
+      "start": 1691.9,
+      "end": 1698.22,
+      "text": "intenso. Ahí está Sergio, ¿dónde está Sergio? Se escondió, le dio vergüenza. Tenemos también a nuestro"
+    },
+    {
+      "start": 1698.22,
+      "end": 1700.5,
+      "text": "rostro, ustedes lo han visto, aparece"
+    },
+    {
+      "start": 1700.5,
+      "end": 1705.18,
+      "text": "en TVN, de repente escribe algunas columnas polémicas. ¿Dónde está Sergio? Ahí está"
+    },
+    {
+      "start": 1705.18,
+      "end": 1717.84,
+      "text": "Sergio Turra. Tenemos al jefe de la franja que está ahí, Adil Ayala, que es el hombre de orquesta que lleva a la práctica las"
+    },
+    {
+      "start": 1717.84,
+      "end": 1725.58,
+      "text": "genialidades del Yeti. Le dicen Yeti por el tamaño. Entonces, esto es un equipo a lo"
+    },
+    {
+      "start": 1725.58,
+      "end": 1729.54,
+      "text": "largo de Chile, así como ustedes tienen un equipo acá, que se ha ido afiatando. Y así"
+    },
+    {
+      "start": 1729.54,
+      "end": 1737.0,
+      "text": "como en Atacama hablábamos del plan desierto florido, o en la Araucanía, de Araucanía libre,"
+    },
+    {
+      "start": 1737.72,
+      "end": 1743.66,
+      "text": "allí, y son ideas que se van complementando, no es que en cada parte, esto no lo he escuchado nunca, no."
+    },
+    {
+      "start": 1744.36,
+      "end": 1746.82,
+      "text": "Pero el plan para Magallanes Antártica"
+    },
+    {
+      "start": 1746.82,
+      "end": 1755.06,
+      "text": "chilena es el plan Esperanza Austral, con lo que partí diciendo desde aquí, desde aquí,"
+    },
+    {
+      "start": 1755.96,
+      "end": 1762.18,
+      "text": "desde Magallanes le vamos a mandar toda la esperanza al resto de Chile."
+    },
+    {
+      "start": 1763.02,
+      "end": 1764.46,
+      "text": "Y nos quedan 15 días."
+    },
+    {
+      "start": 1765.22,
+      "end": 1767.6,
+      "text": "Son 15 días claves que vienen por delante."
+    },
+    {
+      "start": 1768.22,
+      "end": 1775.0,
+      "text": "Pero este plan, Esperanza Austral, tiene, para variar cinco ejes"
+    },
+    {
+      "start": 1775.52,
+      "end": 1776.0,
+      "text": "ajá"
+    },
+    {
+      "start": 1776.0,
+      "end": 1777.52,
+      "text": "sin que te acuerdes"
+    },
+    {
+      "start": 1777.52,
+      "end": 1778.08,
+      "text": "cinco"
+    },
+    {
+      "start": 1778.08,
+      "end": 1779.12,
+      "text": "cinco"
+    },
+    {
+      "start": 1779.12,
+      "end": 1780.14,
+      "text": "cinco"
+    },
+    {
+      "start": 1780.14,
+      "end": 1781.08,
+      "text": "cinco"
+    },
+    {
+      "start": 1781.08,
+      "end": 1782.06,
+      "text": "cinco"
+    },
+    {
+      "start": 1782.06,
+      "end": 1783.26,
+      "text": "¿quién cuando vio la franja"
+    },
+    {
+      "start": 1783.26,
+      "end": 1784.02,
+      "text": "no pensó que venía"
+    },
+    {
+      "start": 1784.02,
+      "end": 1784.52,
+      "text": "cinco"
+    },
+    {
+      "start": 1784.52,
+      "end": 1785.32,
+      "text": "cuatro"
+    },
+    {
+      "start": 1785.32,
+      "end": 1786.0,
+      "text": "tres"
+    },
+    {
+      "start": 1786.0,
+      "end": 1786.76,
+      "text": "no, era cinco"
+    },
+    {
+      "start": 1786.76,
+      "end": 1787.5,
+      "text": "cinco"
+    },
+    {
+      "start": 1787.5,
+      "end": 1789.36,
+      "text": "cada vez que te escuchan"
+    },
+    {
+      "start": 1789.36,
+      "end": 1789.82,
+      "text": "el cinco"
+    },
+    {
+      "start": 1789.82,
+      "end": 1790.2,
+      "text": "revitan cinco cinco yo quedé pegado con eso entonces alguien ve si es la palabra cinco y le digo cuatro, tres, no, y era cinco, cinco. Cada vez que ustedes escuchan el cinco, repitan"
+    },
+    {
+      "start": 1790.2,
+      "end": 1795.02,
+      "text": "cinco, cinco. Yo quedé pegado con eso, entonces alguien me dice la palabra cinco y le digo"
+    },
+    {
+      "start": 1795.02,
+      "end": 1800.02,
+      "text": "siempre las cuatro veces cinco que vienen después. Bueno, Magallanes libre de violencia."
+    },
+    {
+      "start": 1801.06,
+      "end": 1806.3,
+      "text": "Ustedes tienen aquí una región maravillosa. Uno llega a Punta Arena y dice, y ayer le comentaba a la pía,"
+    },
+    {
+      "start": 1806.68,
+      "end": 1808.06,
+      "text": "¿se fija que esta es una ciudad sin rejas?"
+    },
+    {
+      "start": 1809.18,
+      "end": 1810.26,
+      "text": "Es impresionante."
+    },
+    {
+      "start": 1811.5,
+      "end": 1813.74,
+      "text": "Ustedes llegan a Santiago y les da claustrofobia."
+    },
+    {
+      "start": 1814.74,
+      "end": 1817.54,
+      "text": "Porque por todas partes ven rejas, rejas, rejas, rejas, rejas, rejas."
+    },
+    {
+      "start": 1817.78,
+      "end": 1820.28,
+      "text": "Y el patio frontal de la casa enrejado."
+    },
+    {
+      "start": 1820.38,
+      "end": 1821.62,
+      "text": "Y el techo con reja."
+    },
+    {
+      "start": 1822.64,
+      "end": 1824.82,
+      "text": "A mí en San Bernardo una vez teníamos todo enrejado"
+    },
+    {
+      "start": 1824.82,
+      "end": 1826.58,
+      "text": "y se nos había olvidado enrejar el techo."
+    },
+    {
+      "start": 1826.78,
+      "end": 1827.54,
+      "text": "¿Por dónde entraron?"
+    },
+    {
+      "start": 1827.72,
+      "end": 1829.6,
+      "text": "Levantaron la plancha de zinc y se metieron fuera ahí."
+    },
+    {
+      "start": 1830.16,
+      "end": 1831.08,
+      "text": "Se la saben todas."
+    },
+    {
+      "start": 1831.94,
+      "end": 1836.9,
+      "text": "Entonces, mantengamos la paz que ustedes tienen hoy día."
+    },
+    {
+      "start": 1837.56,
+      "end": 1840.86,
+      "text": "Es imposible que todo sea tranquilo y seguro,"
+    },
+    {
+      "start": 1841.4,
+      "end": 1843.8,
+      "text": "pero ustedes tienen hoy día una condición que hay que mantener."
+    },
+    {
+      "start": 1844.64,
+      "end": 1847.3,
+      "text": "Y eso pasa por la anticipación policial."
+    },
+    {
+      "start": 1847.82,
+      "end": 1851.16,
+      "text": "Y la anticipación policial pasa por tener mejores recursos"
+    },
+    {
+      "start": 1851.16,
+      "end": 1855.04,
+      "text": "y más equipamiento para nuestros carabineros"
+    },
+    {
+      "start": 1855.04,
+      "end": 1856.3,
+      "text": "y nuestra policía de investigaciones."
+    },
+    {
+      "start": 1856.8,
+      "end": 1858.28,
+      "text": "También para la policía marítima,"
+    },
+    {
+      "start": 1858.94,
+      "end": 1860.98,
+      "text": "que tiene que enfrentar situaciones complejas"
+    },
+    {
+      "start": 1860.98,
+      "end": 1863.9,
+      "text": "ahí en los muelles, en los puertos y en alta mar."
+    },
+    {
+      "start": 1864.38,
+      "end": 1867.26,
+      "text": "Tenemos que darle todo el respaldo a nuestras Fuerzas Armadas."
+    },
+    {
+      "start": 1868.06,
+      "end": 1869.0,
+      "text": "Y tenemos que..."
+    },
+    {
+      "start": 1870.4,
+      "end": 1877.18,
+      "text": "Hacemos extensivo el aplauso para Carabinero, la Policía de Investigaciones, Gendarmería y las Fuerzas Armadas."
+    },
+    {
+      "start": 1879.88,
+      "end": 1885.12,
+      "text": "Usted es mejor que nadie. Usted es mejor que nadie, o quizás"
+    },
+    {
+      "start": 1885.12,
+      "end": 1893.0,
+      "text": "también nuestros compatriotas del norte saben lo que es sufrir con el miedo de un conflicto"
+    },
+    {
+      "start": 1893.62,
+      "end": 1896.6,
+      "text": "bélico inminente. Y muchas Fuerzas Armadas estuvieron"
+    },
+    {
+      "start": 1896.6,
+      "end": 1902.9,
+      "text": "ahí con ese coraje, con esa valentía, con esa sencillez y con esa creatividad infinita."
+    },
+    {
+      "start": 1903.48,
+      "end": 1909.62,
+      "text": "Porque gran parte de lo que no ocurrió es gracias a la creatividad infinita de nuestros"
+    },
+    {
+      "start": 1909.62,
+      "end": 1910.86,
+      "text": "compatriotas que estaban"
+    },
+    {
+      "start": 1910.86,
+      "end": 1915.94,
+      "text": "ahí en ese momento crítico. Pero eso hay que cuidarlo y mantenerlo. El respeto hacia"
+    },
+    {
+      "start": 1915.94,
+      "end": 1921.1,
+      "text": "esas personas, servidores públicos, tiene que ser permanente. Y el equipamiento que"
+    },
+    {
+      "start": 1921.1,
+      "end": 1925.32,
+      "text": "necesitamos en la región es mucho más potente del que tenemos hoy día."
+    },
+    {
+      "start": 1927.84,
+      "end": 1928.42,
+      "text": "Nuestros aeropuertos tienen que ser mejor controlados."
+    },
+    {
+      "start": 1931.26,
+      "end": 1931.9,
+      "text": "Nuestros muelles, nuestros puertos tienen que tener un mejor control."
+    },
+    {
+      "start": 1935.0,
+      "end": 1936.0,
+      "text": "Nuestra situación en alta mar, en los canales, tiene que estar más vigilada."
+    },
+    {
+      "start": 1938.16,
+      "end": 1938.64,
+      "text": "Porque el enemigo no descansa."
+    },
+    {
+      "start": 1941.42,
+      "end": 1946.48,
+      "text": "Y el crimen organizado es el enemigo más peligroso que tenemos por delante, porque no respeta las fronteras, no respeta las leyes, no tiene"
+    },
+    {
+      "start": 1946.48,
+      "end": 1952.96,
+      "text": "bandera, le da lo mismo todo y utiliza a todos. Por lo tanto ahí tenemos un trabajo gigantesco"
+    },
+    {
+      "start": 1952.96,
+      "end": 1955.96,
+      "text": "de mantener un Magallanes sin"
+    },
+    {
+      "start": 1955.96,
+      "end": 1963.8,
+      "text": "violencia. El segundo eje es la salud primero. Y esto es algo que ustedes saben que acompaña"
+    },
+    {
+      "start": 1963.8,
+      "end": 1968.58,
+      "text": "a la región hace años. Hace años atrás se producía el debate de por qué no había"
+    },
+    {
+      "start": 1968.58,
+      "end": 1971.6,
+      "text": "un médico oncólogo en la zona."
+    },
+    {
+      "start": 1972.4,
+      "end": 1977.0,
+      "text": "Y fue una discusión a nivel nacional de que había un nuevo hospital regional,"
+    },
+    {
+      "start": 1977.4,
+      "end": 1980.0,
+      "text": "increíble, enorme, precioso."
+    },
+    {
+      "start": 1980.56,
+      "end": 1983.0,
+      "text": "Yo los haría en todo Chile un poquito más chicos, más funcionales."
+    },
+    {
+      "start": 1984.06,
+      "end": 1987.64,
+      "text": "No le haría un monumento al arquitecto ni al constructor."
+    },
+    {
+      "start": 1987.98,
+      "end": 1989.1,
+      "text": "Diría, tiene que funcionar."
+    },
+    {
+      "start": 1989.5,
+      "end": 1992.6,
+      "text": "Que sea bonito, que respete las líneas y todo, pero que sea funcional."
+    },
+    {
+      "start": 1993.38,
+      "end": 1996.6,
+      "text": "Bueno, aquí era muy espectacular, muy lindo y todo,"
+    },
+    {
+      "start": 1996.86,
+      "end": 1999.76,
+      "text": "pero faltaba lo esencial, los médicos especialistas."
+    },
+    {
+      "start": 2000.64,
+      "end": 2005.64,
+      "text": "Y cuando nosotros queremos actuar con responsabilidad geopolítica, política,"
+    },
+    {
+      "start": 2006.14,
+      "end": 2009.24,
+      "text": "bueno, no se nos puede quedar atrás una de las regiones más importantes"
+    },
+    {
+      "start": 2009.24,
+      "end": 2011.68,
+      "text": "de proyección hacia ese futuro que está aquí."
+    },
+    {
+      "start": 2012.32,
+      "end": 2017.7,
+      "text": "Sí, la Antártida es el continente del futuro, y nosotros tenemos"
+    },
+    {
+      "start": 2017.7,
+      "end": 2023.52,
+      "text": "que tener claro eso, esto no es solamente números en un presupuesto, también hay una"
+    },
+    {
+      "start": 2023.52,
+      "end": 2029.78,
+      "text": "visión de largo plazo, donde uno va proyectando lo que quiere para el país y mirando al futuro,"
+    },
+    {
+      "start": 2031.02,
+      "end": 2037.26,
+      "text": "si nosotros no podemos vivir al día, no podemos vivir del fiado, tenemos que proyectarnos y trabajar. Si aquí hay"
+    },
+    {
+      "start": 2037.26,
+      "end": 2044.46,
+      "text": "cerca de 160.000 habitantes, no puede ser que así como les decía al inicio, hayan casi 30.000 personas"
+    },
+    {
+      "start": 2044.46,
+      "end": 2045.28,
+      "text": "en lista de espera. Es un poquito menos. Pero para cer, hayan casi 30.000 personas en lista de espera."
+    },
+    {
+      "start": 2045.68,
+      "end": 2050.24,
+      "text": "Es un poquito menos. Pero para cerrar los números, 30.000 personas en lista de espera."
+    },
+    {
+      "start": 2050.88,
+      "end": 2057.66,
+      "text": "Eso es inaceptable. 5.000, casi 5.000 personas esperando una cirugía. Y no digamos que son"
+    },
+    {
+      "start": 2057.66,
+      "end": 2060.04,
+      "text": "cirugías todas de corazón abierto."
+    },
+    {
+      "start": 2062.26,
+      "end": 2066.1,
+      "text": "No. Hay algunas cirugías que se podrían hacer por laparoscopía, gracias."
+    },
+    {
+      "start": 2066.96,
+      "end": 2071.12,
+      "text": "Que son sencillas. Por aquí estaba Jaime Ceballos."
+    },
+    {
+      "start": 2071.22,
+      "end": 2074.1,
+      "text": "No sé si está por ahí. ¿A dónde está? Ahí está Jaime Ceballos, médico."
+    },
+    {
+      "start": 2074.3,
+      "end": 2078.1,
+      "text": "Démosle un aplauso a Jaime Ceballos. U, ustedes no lo conocen, pero lo van a conocer."
+    },
+    {
+      "start": 2079.98,
+      "end": 2088.8,
+      "text": "Jaime Ceballos vino por el día desde Aysén, médico toda la vida, casado con una educadora"
+    },
+    {
+      "start": 2088.8,
+      "end": 2093.72,
+      "text": "de párvulo, que levantó las primeras oficinas"
+    },
+    {
+      "start": 2093.72,
+      "end": 2098.2,
+      "text": "de Integra en algunas zonas de Chile, pero sobre todo ellos se instalaron en Coyhaique."
+    },
+    {
+      "start": 2098.96,
+      "end": 2102.32,
+      "text": "Jaime va de candidato a diputado también en la zona de Coyhaique."
+    },
+    {
+      "start": 2102.32,
+      "end": 2106.4,
+      "text": "Y como hay mucha relación entre Magallanes"
+    },
+    {
+      "start": 2106.4,
+      "end": 2112.4,
+      "text": "y Coyhaique, les pido a todos los que están acá que si tienen algún amigo que viva en"
+    },
+    {
+      "start": 2112.4,
+      "end": 2126.5,
+      "text": "Cochran, que viva en Puerto Cisnes, en Chacabuco, en Aysén, en Balmacea, en Coyhaique, en cualquier localidad de la región de Aysén"
+    },
+    {
+      "start": 2126.5,
+      "end": 2133.58,
+      "text": "que le den una mano y le digan, oye, vota por Jaime Ceballos, un médico de cuerpo y alma."
+    },
+    {
+      "start": 2134.14,
+      "end": 2136.38,
+      "text": "Y con él conversábamos ayer largo sobre"
+    },
+    {
+      "start": 2136.38,
+      "end": 2141.18,
+      "text": "temas de salud. Hemos conversado con muchas personas, pero con Jaime hemos hablado de muchas"
+    },
+    {
+      "start": 2141.18,
+      "end": 2146.62,
+      "text": "situaciones complejas que tienen solución efectiva y rápida. Los recursos están, lo que no hay es"
+    },
+    {
+      "start": 2146.62,
+      "end": 2156.36,
+      "text": "voluntad, no hay gestión. Y eso se puede hacer. Están los medios, están los recursos."
+    },
+    {
+      "start": 2156.86,
+      "end": 2158.84,
+      "text": "Lo que falta es la voluntad y la gestión."
+    },
+    {
+      "start": 2159.38,
+      "end": 2163.0,
+      "text": "Es decir, vamos a ordenar y vamos a aplicarnos a las cosas importantes."
+    },
+    {
+      "start": 2164.7,
+      "end": 2166.12,
+      "text": "Y esto no es solamente acá,"
+    },
+    {
+      "start": 2166.28,
+      "end": 2170.16,
+      "text": "sino que nosotros hemos visto que vamos a evitar una emergencia sanitaria a nivel nacional"
+    },
+    {
+      "start": 2170.16,
+      "end": 2175.6,
+      "text": "para hacer trabajar unidos el mundo público y el mundo privado. Porque de nuevo la ideología"
+    },
+    {
+      "start": 2175.6,
+      "end": 2184.32,
+      "text": "no se puede llevar la vida de nuestros niños. Nosotros no tenemos certeza de cuando"
+    },
+    {
+      "start": 2184.32,
+      "end": 2189.5,
+      "text": "alguien va a morir, pero la certeza que sí tenemos es que si tenemos los medios, da lo"
+    },
+    {
+      "start": 2189.5,
+      "end": 2193.94,
+      "text": "mismo si el medio está en el mundo privado o en el mundo público. Nuestra obligación"
+    },
+    {
+      "start": 2193.94,
+      "end": 2198.54,
+      "text": "es poner todo lo que esté a disposición para intentar salvar una vida."
+    },
+    {
+      "start": 2199.08,
+      "end": 2203.1,
+      "text": "No esa ideología que dice, no, nosotros solo vamos por lo público, y si es privado es malo."
+    },
+    {
+      "start": 2203.6,
+      "end": 2207.34,
+      "text": "No, no, no. Lo privado puede ser muy bueno y puede ser el sostén de lo público,"
+    },
+    {
+      "start": 2207.68,
+      "end": 2210.14,
+      "text": "y por eso tenemos que tener más emprendedores."
+    },
+    {
+      "start": 2211.34,
+      "end": 2217.6,
+      "text": "El tercer punto es Magallanes conectado y conectado de verdad. Hoy día, claro, tenemos"
+    },
+    {
+      "start": 2217.6,
+      "end": 2221.8,
+      "text": "aeropuertos, tenemos un aeropuerto internacional que tiene varias pistas dependiendo del viento"
+    },
+    {
+      "start": 2221.8,
+      "end": 2224.6,
+      "text": "que corra, ¿no es cierto? Si el talizo para allá, el talizo para acá, uno dice ojalá"
+    },
+    {
+      "start": 2224.6,
+      "end": 2225.44,
+      "text": "que no se mueva mucho."
+    },
+    {
+      "start": 2226.7,
+      "end": 2229.2,
+      "text": "Yo casi siempre he tenido viajes tranquilos, pero el día que se movió dije,"
+    },
+    {
+      "start": 2229.32,
+      "end": 2231.02,
+      "text": "¡oh, compadre, no!"
+    },
+    {
+      "start": 2232.48,
+      "end": 2233.92,
+      "text": "Para eso voy a Fantasilandia."
+    },
+    {
+      "start": 2236.3,
+      "end": 2239.92,
+      "text": "Pero claro, está ese aeropuerto, tenemos un aeropuerto más pequeñito"
+    },
+    {
+      "start": 2239.92,
+      "end": 2243.92,
+      "text": "que recibe también en época de alza turismo, ahí en Puerto Natales,"
+    },
+    {
+      "start": 2244.1,
+      "end": 2248.72,
+      "text": "aviones más grandes, pero el aeropuerto de Puerto Williams es mucho más pequeñito"
+    },
+    {
+      "start": 2248.72,
+      "end": 2254.0,
+      "text": "y debiera ser igual de grande porque estamos bastante más cerca"
+    },
+    {
+      "start": 2254.0,
+      "end": 2257.22,
+      "text": "del continente del futuro y tenemos que"
+    },
+    {
+      "start": 2257.22,
+      "end": 2263.18,
+      "text": "tener alternativas esto de nuevo como un tema geopolítico estratégico de voluntad de hacer"
+    },
+    {
+      "start": 2263.18,
+      "end": 2269.12,
+      "text": "un chile soberano para qué decir las pequeñas pistas que hay en todas partes tienen que tener"
+    },
+    {
+      "start": 2269.12,
+      "end": 2271.18,
+      "text": "todas las condiciones modernas,"
+    },
+    {
+      "start": 2271.28,
+      "end": 2273.42,
+      "text": "de que el piloto si quiere desde el aire prende la luz."
+    },
+    {
+      "start": 2274.68,
+      "end": 2277.9,
+      "text": "Y puede, con un radar, la DGAC lo podrá seguir."
+    },
+    {
+      "start": 2278.76,
+      "end": 2284.12,
+      "text": "Pero tenemos que potenciar la conectividad aérea de la región."
+    },
+    {
+      "start": 2291.34,
+      "end": 2297.62,
+      "text": "La conectividad vial. aquí hay harto camino pero necesitamos hacer algunas rutas que son estratégicas se ha trabajado hace cuánto tiempo en la ruta"
+    },
+    {
+      "start": 2297.62,
+      "end": 2302.64,
+      "text": "vicuña yendegaya años yños. Y ahí está. No es alguien"
+    },
+    {
+      "start": 2302.64,
+      "end": 2307.04,
+      "text": "más decir, oye, pero es que no necesitamos una carretera para allá. No, necesitamos soberanía."
+    },
+    {
+      "start": 2308.24,
+      "end": 2312.38,
+      "text": "Necesitamos conectividad terrestre. Y eso se lo aprendí al caballero acá, que podría decirme,"
+    },
+    {
+      "start": 2312.4,
+      "end": 2315.32,
+      "text": "no, oye, no, hagamos camino, porque a mí me gustan los transportadores."
+    },
+    {
+      "start": 2315.72,
+      "end": 2317.94,
+      "text": "No."
+    },
+    {
+      "start": 2322.0,
+      "end": 2322.84,
+      "text": "El primer defensor de las rutas viales es el senador."
+    },
+    {
+      "start": 2325.26,
+      "end": 2326.06,
+      "text": "Siendo que podría ser distinto."
+    },
+    {
+      "start": 2327.18,
+      "end": 2335.26,
+      "text": "Y eso habla muy bien de ti. Ayer me encontré con uno de los transportistas que comenzó con este sueño del Chile por Chile."
+    },
+    {
+      "start": 2337.22,
+      "end": 2341.28,
+      "text": "Y es un desafío enorme, que tenemos que ir buscando cómo hacerlo."
+    },
+    {
+      "start": 2341.56,
+      "end": 2344.68,
+      "text": "Tenemos que ir acortando la brecha para tener cierta autonomía."
+    },
+    {
+      "start": 2345.1,
+      "end": 2351.0,
+      "text": "Nosotros queremos mejorar y mucho las relaciones con los vecinos, porque juntos podemos llegar a ser una tremenda potencia..."
+    },
+    {
+      "start": 2351.0,
+      "end": 2356.32,
+      "text": "...ellos producen cosas que nosotros no producimos, ellos van a tener toda su minería que están desarrollando ahora..."
+    },
+    {
+      "start": 2356.32,
+      "end": 2360.38,
+      "text": "...en el borde, en el norte, en el borde del límite de nosotros con la"
+    },
+    {
+      "start": 2360.38,
+      "end": 2365.88,
+      "text": "cordillera. Si ellos quieren sacar su producción minera hacia el Atlántico, tienen como 600"
+    },
+    {
+      "start": 2365.88,
+      "end": 2380.32,
+      "text": "kilómetros o más, 800 en algunos lugares. Y para el lado de acá, 200. No, 300, para que no sea el 2, 300. Tienen 300 kilómetros, se les queda cerquita. Bueno,"
+    },
+    {
+      "start": 2380.32,
+      "end": 2389.26,
+      "text": "el 1 y después nos saltamos el 3. Pero imagínense lo que podemos hacer nosotros en prestación"
+    },
+    {
+      "start": 2389.26,
+      "end": 2394.48,
+      "text": "de servicios para toda la producción minera que vayan a tener los argentinos,"
+    },
+    {
+      "start": 2394.66,
+      "end": 2399.46,
+      "text": "para toda la producción agrícola que puedan tener los uruguayos, los paraguayos, los brasileros."
+    },
+    {
+      "start": 2400.04,
+      "end": 2410.38,
+      "text": "Nosotros podemos ser de verdad uno de los mejores países prestadores de servicios portuarios para todo el continente y aquí también en el tema"
+    },
+    {
+      "start": 2410.38,
+      "end": 2415.3,
+      "text": "portuario ya que no hace falta un puerto de verdad yo no estoy prometiendo a no"
+    },
+    {
+      "start": 2415.3,
+      "end": 2420.26,
+      "text": "estoy diciendo que si votan por mí mañana aparece un puerto en 24 horas."
+    },
+    {
+      "start": 2420.34,
+      "end": 2420.46,
+      "text": "No."
+    },
+    {
+      "start": 2421.24,
+      "end": 2428.06,
+      "text": "Pero tenemos que tener claro que si la zona austral no tiene un puerto de verdad bien instalado,"
+    },
+    {
+      "start": 2428.22,
+      "end": 2432.6,
+      "text": "que enfoque los vientos de manera adecuada, y a lo mejor no solamente uno,"
+    },
+    {
+      "start": 2433.06,
+      "end": 2439.7,
+      "text": "a lo mejor necesitamos otro más para prestarle servicios a todos los que recorren el sur austral. Me lo comentaba"
+    },
+    {
+      "start": 2439.7,
+      "end": 2445.94,
+      "text": "ayer Juan. Me decía, mira, el recorrido del sur austral a Punta Arenas son como dos"
+    },
+    {
+      "start": 2445.94,
+      "end": 2450.5,
+      "text": "días de navegación, un día y medio, tres días de navegación. Bueno,"
+    },
+    {
+      "start": 2450.62,
+      "end": 2454.66,
+      "text": "si nosotros nos acercamos un poquitito para allá y le decimos pase por aquí y nosotros"
+    },
+    {
+      "start": 2454.66,
+      "end": 2461.12,
+      "text": "le hacemos la reparación a su barco, a lo mejor tendríamos una ventaja comparativa"
+    },
+    {
+      "start": 2461.12,
+      "end": 2465.86,
+      "text": "y una presencia de soberanía en un lugar donde hoy día no la tenemos. Pero eso"
+    },
+    {
+      "start": 2465.86,
+      "end": 2470.16,
+      "text": "es pensar hacia adelante. A mí me tocó batallar mucho porque hiciéramos el tercer dique en las"
+    },
+    {
+      "start": 2470.16,
+      "end": 2474.46,
+      "text": "maras. Me decían, no, eso es antieconómico, no es comercial. Le decía, pero ¿y quién le da la"
+    },
+    {
+      "start": 2474.46,
+      "end": 2479.5,
+      "text": "mantención a los buques grandes grandes? Bueno, ahora nuestros vecinos peruanos hicieron el puerto"
+    },
+    {
+      "start": 2479.5,
+      "end": 2484.1,
+      "text": "más grande en Chancay y nosotros miramos y decimos, oh, ¿y qué pasó con nuestro San Antonio?"
+    },
+    {
+      "start": 2484.16,
+      "end": 2489.44,
+      "text": "¿Qué pasó con nuestro Valparaíso? Ahí quedamos. Y vamos quedando atrás. Lo que nosotros no hagamos,"
+    },
+    {
+      "start": 2489.62,
+      "end": 2494.5,
+      "text": "otro lo va a hacer por nosotros. Por eso tenemos que ir anticipándonos. Y la conexión de la zona"
+    },
+    {
+      "start": 2494.5,
+      "end": 2499.74,
+      "text": "austral, sea vial, aérea o marítima, es fundamental. Y tenemos que enfocarnos a eso."
+    },
+    {
+      "start": 2499.84,
+      "end": 2504.48,
+      "text": "Tenemos que terminar ese camino de Vicuña y Allendegalla. Tenemos que comenzar a planificar"
+    },
+    {
+      "start": 2504.48,
+      "end": 2512.82,
+      "text": "dónde. Tenemos que avanzar"
+    },
+    {
+      "start": 2512.82,
+      "end": 2514.7,
+      "text": "en lo que es la mejora"
+    },
+    {
+      "start": 2514.7,
+      "end": 2516.22,
+      "text": "de nuestras pistas aéreas"
+    },
+    {
+      "start": 2516.22,
+      "end": 2518.1,
+      "text": "eso es visión de futuro"
+    },
+    {
+      "start": 2518.1,
+      "end": 2519.8,
+      "text": "y a eso lo estamos invitando"
+    },
+    {
+      "start": 2519.8,
+      "end": 2522.96,
+      "text": "el aeropuerto de Puerto Edén"
+    },
+    {
+      "start": 2522.96,
+      "end": 2531.22,
+      "text": "que tiene una parcelita ahí para ponerle un poquito de color"
+    },
+    {
+      "start": 2531.22,
+      "end": 2539.66,
+      "text": "no pero tiene toda la razón si nosotros hoy día para llegar a puntos aislados dependemos de ya"
+    },
+    {
+      "start": 2539.66,
+      "end": 2541.36,
+      "text": "si hay un camino o de un canal,"
+    },
+    {
+      "start": 2541.98,
+      "end": 2544.54,
+      "text": "pero ¿qué pasa si necesitamos hacer rescates aéreos,"
+    },
+    {
+      "start": 2544.72,
+      "end": 2547.18,
+      "text": "si tenemos que hacer algún tipo de intervención rápida?"
+    },
+    {
+      "start": 2547.26,
+      "end": 2547.64,
+      "text": "No está."
+    },
+    {
+      "start": 2548.28,
+      "end": 2551.92,
+      "text": "Y aeródromos, déjenme decirles que no es tan complejo hacer."
+    },
+    {
+      "start": 2552.72,
+      "end": 2555.32,
+      "text": "Se puede cuando hay voluntad y cuando los recursos"
+    },
+    {
+      "start": 2555.32,
+      "end": 2561.28,
+      "text": "se gastan bien. Y no en operadores políticos, no en convenios truchos. Aquí, Alejandro,"
+    },
+    {
+      "start": 2561.58,
+      "end": 2580.52,
+      "text": "¿cuántos descubriste? Todos, cinco, descubrió cinco. Cinco, cinco, cinco. El cuarto es 5x5, 25, porque de aquí salió la escuela, aquí se"
+    },
+    {
+      "start": 2580.52,
+      "end": 2585.34,
+      "text": "generó el mecanismo. ¿Verdad?"
+    },
+    {
+      "start": 2588.04,
+      "end": 2588.86,
+      "text": "De verdad, aquí partió."
+    },
+    {
+      "start": 2592.66,
+      "end": 2593.24,
+      "text": "O sea, claro, la inspiración viene del viejo continente,"
+    },
+    {
+      "start": 2596.48,
+      "end": 2596.98,
+      "text": "pero la forma de llevarlo a la práctica la descubrieron acá."
+    },
+    {
+      "start": 2599.24,
+      "end": 2601.66,
+      "text": "Y eso está registrado en los medios de comunicación. sea no es que yo estoy inventando algo ustedes pueden hacer el"
+    },
+    {
+      "start": 2601.66,
+      "end": 2605.98,
+      "text": "seguimiento y van a ver quién les dio la fórmula se la dieron acá"
+    },
+    {
+      "start": 2605.98,
+      "end": 2611.88,
+      "text": "y tenemos varios gobernadores investigados por la justicia claro se"
+    },
+    {
+      "start": 2611.88,
+      "end": 2615.6,
+      "text": "demora pero como digo siempre la justicia tarda pero llega."
+    },
+    {
+      "start": 2622.46,
+      "end": 2628.62,
+      "text": "Así que ya llegará, ya llegará. Y Magallanes, cuarto punto, Magallanes como motor de desarrollo austral. Lo que ustedes tienen acá es literalmente una mina de"
+    },
+    {
+      "start": 2628.62,
+      "end": 2630.06,
+      "text": "oro, pero tienen una mina de oro."
+    },
+    {
+      "start": 2636.34,
+      "end": 2636.44,
+      "text": "Pero tienen una especie de duende egoísta que nos abre las puertas del cofre."
+    },
+    {
+      "start": 2639.14,
+      "end": 2639.2,
+      "text": "Es como que vemos el arcoíris y sabemos que a donde está el arcoíris,"
+    },
+    {
+      "start": 2642.44,
+      "end": 2643.22,
+      "text": "o soñamos que a donde está el arcoíris está esa olla llena de monedas de oro."
+    },
+    {
+      "start": 2646.08,
+      "end": 2646.58,
+      "text": "Bueno, aquí sin necesidad de arcoíris,"
+    },
+    {
+      "start": 2652.7,
+      "end": 2656.7,
+      "text": "Dios regaló una tierra generosa, una tierra generosa en viento, que si no hubiésemos tenido todas las trabas que le han puesto, hoy día ya podría haber hidrógeno verde."
+    },
+    {
+      "start": 2658.74,
+      "end": 2663.8,
+      "text": "Podríamos tener un puerto construido por los mismos del"
+    },
+    {
+      "start": 2663.8,
+      "end": 2669.14,
+      "text": "hidrógeno verde, porque también me he reunido con algunos y les digo, oiga, no hay plata. Su proyecto"
+    },
+    {
+      "start": 2669.14,
+      "end": 2673.68,
+      "text": "da para un puerto, da para un puerto. Bueno, haga el puerto y yo ayudo a que salgan los trámites"
+    },
+    {
+      "start": 2673.68,
+      "end": 2675.94,
+      "text": "rápidos, con criterio,"
+    },
+    {
+      "start": 2676.02,
+      "end": 2681.64,
+      "text": "con sentido común, porque está ahí. El problema es que se sigue retardando, como el ser humano es muy"
+    },
+    {
+      "start": 2681.64,
+      "end": 2687.74,
+      "text": "creativo, puede que de aquí a cuatro años inventen otra cosa. Y quedemos mirando y diciendo, hoy fue"
+    },
+    {
+      "start": 2687.74,
+      "end": 2690.04,
+      "text": "linda la época del cuasi oro verde"
+    },
+    {
+      "start": 2690.04,
+      "end": 2696.26,
+      "text": "que nunca existió. Porque algunos prometen, hablan, se llenan discursos de palabras bonitas"
+    },
+    {
+      "start": 2696.26,
+      "end": 2701.42,
+      "text": "y hablando de lo importante que es el viento, el hidrógeno verde, y no hacen nada. Nada."
+    },
+    {
+      "start": 2702.1,
+      "end": 2705.04,
+      "text": "Lo mismo con la salmonicultura."
+    },
+    {
+      "start": 2710.34,
+      "end": 2711.54,
+      "text": "Si no hubiese sido por los salmones, con la proyección que les mostré a la baja de la producción ganadera,"
+    },
+    {
+      "start": 2718.36,
+      "end": 2719.32,
+      "text": "si no hubiese sido por los salmones, ¿en qué estarían trabajando las personas que perdieron la pega en el tema de la extracción del carbón?"
+    },
+    {
+      "start": 2723.26,
+      "end": 2729.06,
+      "text": "¿La mina invierno? ¿2.000, 3.000 personas que quedaron sin trabajo y a la ideología ¿a quién le importó? Es como cuando hacen un"
+    },
+    {
+      "start": 2729.06,
+      "end": 2736.3,
+      "text": "hallazgo en la construcción de un hospital, hacen un hallazgo de un cántaro, de una punta de flecha."
+    },
+    {
+      "start": 2737.14,
+      "end": 2740.38,
+      "text": "Ningún hallazgo es más relevante que la vida de una persona."
+    },
+    {
+      "start": 2740.86,
+      "end": 2747.8,
+      "text": "Porque el atraso en un año de la construcción de un hospital puede costarle la vida a más de una persona."
+    },
+    {
+      "start": 2748.52,
+      "end": 2752.08,
+      "text": "En Chile hay 40.000 personas. Yo respeto las tradiciones,"
+    },
+    {
+      "start": 2752.28,
+      "end": 2757.94,
+      "text": "yo respeto la cultura, estoy feliz cuando se hace un museo donde se muestra lo que fueron"
+    },
+    {
+      "start": 2757.94,
+      "end": 2764.16,
+      "text": "nuestros orígenes, pero ningún hallazgo vale la vida de una persona. Entonces tenemos"
+    },
+    {
+      "start": 2764.16,
+      "end": 2766.62,
+      "text": "que destrabar el exceso de"
+    },
+    {
+      "start": 2766.62,
+      "end": 2771.18,
+      "text": "regulación y nosotros hablamos de la facilitación regulatoria, que no es ir en contra del medio"
+    },
+    {
+      "start": 2771.18,
+      "end": 2775.68,
+      "text": "ambiente, es ir con el medio ambiente buscando las mejores alternativas para mejorar la calidad"
+    },
+    {
+      "start": 2775.68,
+      "end": 2782.0,
+      "text": "de vida de las personas. Yo les digo, amo los animales, pero creo que una familia"
+    },
+    {
+      "start": 2782.0,
+      "end": 2788.62,
+      "text": "de chilenos tiene más derecho que una familia de chinchillas. Y suena medio en broma, pero es"
+    },
+    {
+      "start": 2788.62,
+      "end": 2795.32,
+      "text": "verdad. Porque en la zona central tenemos la electricidad más cara. ¿Y qué impide que la línea de"
+    },
+    {
+      "start": 2795.32,
+      "end": 2799.78,
+      "text": "transmisión llegue a Santiago? Una familia de chinchillas que vive en la mitad por donde"
+    },
+    {
+      "start": 2799.78,
+      "end": 2804.76,
+      "text": "va a pasar la línea de transmisión. Y nosotros podemos hacerle un resort a las chinchillas."
+    },
+    {
+      "start": 2805.62,
+      "end": 2811.04,
+      "text": "Podemos trasladarlas dos kilómetros más allá, al mejor espacio de vida que ellas se pudieran imaginar."
+    },
+    {
+      "start": 2811.22,
+      "end": 2814.48,
+      "text": "Les podemos construir un cerro, les podemos construir las cuevas que necesiten,"
+    },
+    {
+      "start": 2814.58,
+      "end": 2816.04,
+      "text": "les podemos hacer todo lo que quieran."
+    },
+    {
+      "start": 2816.88,
+      "end": 2818.94,
+      "text": "Y podemos gastarnos un millón de dólares en la chinchilla."
+    },
+    {
+      "start": 2819.92,
+      "end": 2824.64,
+      "text": "Pero necesitamos electricidad para que las personas tengan electricidad a un precio justo,"
+    },
+    {
+      "start": 2824.78,
+      "end": 2825.0,
+      "text": "razonable y las industrias puedan producir. Pero ese choque de decir, no, es que la chinchilla no la puedo, Pero necesitamos electricidad para que las personas tengan electricidad a un precio justo,"
+    },
+    {
+      "start": 2825.0,
+      "end": 2830.0,
+      "text": "razonable y las industrias puedan producir. Pero ese choque, decir no, es que la chinchilla"
+    },
+    {
+      "start": 2830.0,
+      "end": 2834.0,
+      "text": "no la podemos mover de ahí. Nosotros nos movemos de casa, ¿cómo no se puede mover"
+    },
+    {
+      "start": 2834.0,
+      "end": 2841.42,
+      "text": "una chinchilla? Les aseguro que la chinchilla estaría feliz en el otro lugar. Y nosotros vamos a ir por la felicidad de la chinchilla."
+    },
+    {
+      "start": 2843.22,
+      "end": 2847.4,
+      "text": "Y así como hablamos de eso, hablemos de los salmones."
+    },
+    {
+      "start": 2848.36,
+      "end": 2856.92,
+      "text": "Los salmones hoy día van a representar en poco tiempo más casi el 25% de los ingresos que tiene la región."
+    },
+    {
+      "start": 2857.04,
+      "end": 2861.28,
+      "text": "Ahorita está como en el 21, pero podría ser el 25, podría ser el 50,"
+    },
+    {
+      "start": 2861.9,
+      "end": 2865.64,
+      "text": "si el mundo necesita la proteína que produce el salmón."
+    },
+    {
+      "start": 2866.36,
+      "end": 2870.84,
+      "text": "Y nosotros tenemos las mejores condiciones, pero de nuevo tenemos algunos abusadores,"
+    },
+    {
+      "start": 2871.44,
+      "end": 2876.06,
+      "text": "abusadores de la ideología, y dicen, no, no queremos más salmones porque daña el medio ambiente."
+    },
+    {
+      "start": 2877.36,
+      "end": 2879.82,
+      "text": "¿Y no daña a las personas el no tener recursos?"
+    },
+    {
+      "start": 2880.78,
+      "end": 2886.1,
+      "text": "Entonces cuidemos el medio ambiente, pero respetemos a las personas. Cuidemos el bienestar de las personas."
+    },
+    {
+      "start": 2886.36,
+      "end": 2890.54,
+      "text": "Y se puede aumentar la producción de salmones sin afectar el medio ambiente."
+    },
+    {
+      "start": 2891.1,
+      "end": 2896.12,
+      "text": "Y para eso uno tiene que pedirle también a aquellos que estudian que se ocupen del tema."
+    },
+    {
+      "start": 2896.98,
+      "end": 2898.16,
+      "text": "Entonces aquí tenemos una universidad."
+    },
+    {
+      "start": 2900.06,
+      "end": 2906.24,
+      "text": "Y yo no sé cuántos estudios ha hecho de especialización en el tema de la acuicultura"
+    },
+    {
+      "start": 2906.24,
+      "end": 2909.94,
+      "text": "y de la salmonicultura en la Universidad Magallanes."
+    },
+    {
+      "start": 2910.82,
+      "end": 2915.54,
+      "text": "Yo supongo que las mejores investigaciones a nivel mundial se están produciendo aquí"
+    },
+    {
+      "start": 2915.54,
+      "end": 2921.88,
+      "text": "y que nuestros estudiantes aquí están ocupados de sacar adelante la producción del salmón limpia."
+    },
+    {
+      "start": 2922.58,
+      "end": 2927.32,
+      "text": "Y de aquí después me voy a ir a la biblioteca de la Universidad Magallanes a buscar los estudios."
+    },
+    {
+      "start": 2927.92,
+      "end": 2939.58,
+      "text": "Espero no encontrarme con ninguna sorpresa y que la estantería esté vacía. Sí, pero la ley de pesca es importante. Pero la ley"
+    },
+    {
+      "start": 2939.58,
+      "end": 2944.34,
+      "text": "de pesca también pensando en la producción limpia, en la integración. Porque en esta"
+    },
+    {
+      "start": 2944.34,
+      "end": 2947.92,
+      "text": "zona, por ejemplo, no hay una pelea como hay en otras zonas"
+    },
+    {
+      "start": 2947.92,
+      "end": 2949.66,
+      "text": "entre industriales y artesanales."
+    },
+    {
+      "start": 2950.2,
+      "end": 2951.36,
+      "text": "Han sabido convivir."
+    },
+    {
+      "start": 2952.34,
+      "end": 2956.84,
+      "text": "Y como vuelvo a decir, para poder crecer necesitamos invertir."
+    },
+    {
+      "start": 2957.26,
+      "end": 2960.92,
+      "text": "Y una tremenda inversión es el tema de la salmonicultura."
+    },
+    {
+      "start": 2961.32,
+      "end": 2968.16,
+      "text": "Pero necesitamos buenos aeropuertos, necesitamos buenos puertos, necesitamos mejorar la condición de trabajo de las personas, sí."
+    },
+    {
+      "start": 2969.04,
+      "end": 2974.44,
+      "text": "Pero ahí, más allá de una ley puntual, nosotros lo que tenemos que hacer es mejorar lo que tenemos."
+    },
+    {
+      "start": 2975.04,
+      "end": 2977.74,
+      "text": "Y lo que tenemos es bueno, y sobre eso podemos construir."
+    },
+    {
+      "start": 2978.22,
+      "end": 2981.6,
+      "text": "Algunos dicen, hay que borrar todo, olvidarnos de todo."
+    },
+    {
+      "start": 2981.88,
+      "end": 2985.32,
+      "text": "No, uno tiene que mantener lo bueno y mejorar lo malo."
+    },
+    {
+      "start": 2985.82,
+      "end": 2992.56,
+      "text": "Pero cuando alguien dice, eliminemos todo y partamos de cero, nos vamos a retrasar 15, 20 años."
+    },
+    {
+      "start": 2993.06,
+      "end": 2997.98,
+      "text": "Y lo otro que necesitamos autoridades que digan la verdad. Porque el subsecretario de Pesca fue a la"
+    },
+    {
+      "start": 2997.98,
+      "end": 3003.48,
+      "text": "Comisión de Pesca del Senado y le llevo números falsos. Y si hay alguien que conozco, al señor"
+    },
+    {
+      "start": 3003.48,
+      "end": 3006.92,
+      "text": "Julio Sala. Porque fuimos compañeros en la universidad, en Derecho."
+    },
+    {
+      "start": 3008.26,
+      "end": 3010.68,
+      "text": "Y pareciera ser que algunos temas no se pasan."
+    },
+    {
+      "start": 3011.68,
+      "end": 3012.82,
+      "text": "Y uno tiene que hablar con la verdad."
+    },
+    {
+      "start": 3014.18,
+      "end": 3017.22,
+      "text": "Uno no puede legislar con cifras falsas."
+    },
+    {
+      "start": 3017.7,
+      "end": 3020.88,
+      "text": "El primero que habría renunciado cuando ocurrió todo el escándalo"
+    },
+    {
+      "start": 3020.88,
+      "end": 3026.06,
+      "text": "ahora, hace unos pocos meses atrás, por la votación de la ley de pesca, es el subsecretario."
+    },
+    {
+      "start": 3027.24,
+      "end": 3033.7,
+      "text": "Pero bueno, su jefe, ¿dónde está ahora? En Hacienda. O sea, aquí el que lo hace mal,"
+    },
+    {
+      "start": 3033.82,
+      "end": 3038.18,
+      "text": "lo ascienden. Bien lamentable lo que está"
+    },
+    {
+      "start": 3038.18,
+      "end": 3043.5,
+      "text": "ocurriendo hoy día en pesca, en hacienda, porque los que están ahí no tienen idea"
+    },
+    {
+      "start": 3043.5,
+      "end": 3057.98,
+      "text": "de los temas. Y los industriales, no, es hago la distinción y la inclusión. La palabra"
+    },
+    {
+      "start": 3057.98,
+      "end": 3067.18,
+      "text": "inclusión, que está en boca de muchos y en la práctica está en pocos, requiere de unos y otros. Porque hay"
+    },
+    {
+      "start": 3067.18,
+      "end": 3071.96,
+      "text": "espacio para todos. Y como decía mi padre, alcanza para todos cuando se hacen las cosas"
+    },
+    {
+      "start": 3071.96,
+      "end": 3077.22,
+      "text": "bien. Porque hay buenos industriales, hay malos industriales. Hay buenos artesanales"
+    },
+    {
+      "start": 3077.22,
+      "end": 3080.26,
+      "text": "y malos artesanales. Y la creatividad no tiene límite."
+    },
+    {
+      "start": 3080.68,
+      "end": 3081.68,
+      "text": "Porque uno le puede decir algo,"
+    },
+    {
+      "start": 3081.78,
+      "end": 3083.42,
+      "text": "oye, tu barco va a medir tanto,"
+    },
+    {
+      "start": 3083.8,
+      "end": 3087.06,
+      "text": "y le diste el largo, no sé cómo le dicen al largo,"
+    },
+    {
+      "start": 3087.34,
+      "end": 3091.06,
+      "text": "la eslora, pero no te dijeron cuánto era la profundidad."
+    },
+    {
+      "start": 3091.92,
+      "end": 3094.04,
+      "text": "Y parece un mono porfeado."
+    },
+    {
+      "start": 3094.8,
+      "end": 3096.94,
+      "text": "Entonces el barco, claro, cumple con la eslora y no cumple con la profundidad. Y parece un mono porfeado. Entonces el barco, claro, cumple"
+    },
+    {
+      "start": 3096.94,
+      "end": 3103.04,
+      "text": "con la eslora y no cumple con la profundidad. Entonces, en todo hasta el calado, gracias."
+    },
+    {
+      "start": 3104.5,
+      "end": 3110.18,
+      "text": "Entonces, siempre en esto se requiere incluir cuando uno va diciendo"
+    },
+    {
+      "start": 3110.18,
+      "end": 3110.54,
+      "text": "mire no"
+    },
+    {
+      "start": 3110.54,
+      "end": 3111.3,
+      "text": "solo nosotros"
+    },
+    {
+      "start": 3111.3,
+      "end": 3112.4,
+      "text": "eso no llega"
+    },
+    {
+      "start": 3112.4,
+      "end": 3113.04,
+      "text": "a ninguna parte"
+    },
+    {
+      "start": 3113.04,
+      "end": 3113.86,
+      "text": "porque el otro"
+    },
+    {
+      "start": 3113.86,
+      "end": 3114.48,
+      "text": "sigue existiendo"
+    },
+    {
+      "start": 3114.48,
+      "end": 3115.0,
+      "text": "es como que nosotros"
+    },
+    {
+      "start": 3115.0,
+      "end": 3115.64,
+      "text": "cuando decimos"
+    },
+    {
+      "start": 3115.64,
+      "end": 3116.36,
+      "text": "queremos"
+    },
+    {
+      "start": 3116.36,
+      "end": 3117.46,
+      "text": "un país"
+    },
+    {
+      "start": 3117.46,
+      "end": 3118.18,
+      "text": "sin"
+    },
+    {
+      "start": 3118.18,
+      "end": 3118.82,
+      "text": "y después voy a ir"
+    },
+    {
+      "start": 3118.82,
+      "end": 3119.18,
+      "text": "para allá"
+    },
+    {
+      "start": 3119.18,
+      "end": 3121.24,
+      "text": "lo queremos"
+    },
+    {
+      "start": 3121.24,
+      "end": 3121.88,
+      "text": "fuera de la moneda"
+    },
+    {
+      "start": 3121.88,
+      "end": 3123.62,
+      "text": "queremos que sigan"
+    },
+    {
+      "start": 3123.62,
+      "end": 3124.22,
+      "text": "viviendo en Chile"
+    },
+    {
+      "start": 3124.22,
+      "end": 3129.0,
+      "text": "que sigan teniendo la libertad que ellos nos niegan, queremos que tengan libertad,"
+    },
+    {
+      "start": 3129.0,
+      "end": 3133.9,
+      "text": "nosotros pedimos libertad de conciencia, libertad de educación, libertad de culto,"
+    },
+    {
+      "start": 3134.82,
+      "end": 3138.54,
+      "text": "libertad para emprender, pero ellos no conocen la palabra libertad,"
+    },
+    {
+      "start": 3139.92,
+      "end": 3140.76,
+      "text": "algunos conocen la palabra libertinaje, pero la palabra libertad. Algunos conocen la palabra"
+    },
+    {
+      "start": 3140.76,
+      "end": 3146.34,
+      "text": "libertinaje, pero la palabra libertad, con el concepto profundo que tiene, no la conocen."
+    },
+    {
+      "start": 3147.06,
+      "end": 3150.98,
+      "text": "Y nosotros se la vamos a explicar paso a paso durante estos cuatro años. Y necesitamos"
+    },
+    {
+      "start": 3150.98,
+      "end": 3154.54,
+      "text": "sí el apoyo de todos ustedes, porque como les digo, no va a ser fácil. Y el quinto"
+    },
+    {
+      "start": 3154.54,
+      "end": 3158.46,
+      "text": "punto, porque bueno, como todos desarrollos, me quedé solo en la discusión"
+    },
+    {
+      "start": 3158.46,
+      "end": 3160.22,
+      "text": "de los salmones, el turismo"
+    },
+    {
+      "start": 3160.22,
+      "end": 3162.02,
+      "text": "es una cosa impresionante lo que nosotros"
+    },
+    {
+      "start": 3162.02,
+      "end": 3164.28,
+      "text": "podríamos hacer aquí si hubiera una integración"
+    },
+    {
+      "start": 3164.28,
+      "end": 3165.14,
+      "text": "público-privada"
+    },
+    {
+      "start": 3165.14,
+      "end": 3168.2,
+      "text": "si no fuera lo que pasó con este"
+    },
+    {
+      "start": 3168.2,
+      "end": 3170.74,
+      "text": "gobierno, que le rebajó en un porcentaje importante"
+    },
+    {
+      "start": 3170.74,
+      "end": 3172.92,
+      "text": "los recursos a la promoción turística."
+    },
+    {
+      "start": 3173.62,
+      "end": 3174.94,
+      "text": "Porque nosotros necesitamos más turistas."
+    },
+    {
+      "start": 3175.62,
+      "end": 3180.66,
+      "text": "Pero para tener más turistas necesitamos un puerto o un lugar para que los transatlánticos lleguen"
+    },
+    {
+      "start": 3180.66,
+      "end": 3183.96,
+      "text": "y no estén peleándose el espacio con el pesquero, con este, con el de la Armada."
+    },
+    {
+      "start": 3184.38,
+      "end": 3188.8,
+      "text": "Necesitamos un puerto de verdad. No solamente ese Dolphi que"
+    },
+    {
+      "start": 3188.8,
+      "end": 3193.72,
+      "text": "permite amarrarse, pero el turismo requiere promoción y eso hoy día no"
+    },
+    {
+      "start": 3193.72,
+      "end": 3197.66,
+      "text": "existe porque no tienen visión de futuro. Entonces cortan donde no tienen que"
+    },
+    {
+      "start": 3197.66,
+      "end": 3203.44,
+      "text": "cortar. Si tienen que cortarle la pata a los pitutados, a los operadores políticos, no a la promoción turística, que es una"
+    },
+    {
+      "start": 3203.44,
+      "end": 3208.1,
+      "text": "tremenda fuente de ingreso de la región. El tema de las energías renovables, ya lo"
+    },
+    {
+      "start": 3208.1,
+      "end": 3213.9,
+      "text": "vimos, el tema de la ganadería. Me dicen, claro, necesitamos agua. Bueno, agua tenemos,"
+    },
+    {
+      "start": 3214.82,
+      "end": 3216.24,
+      "text": "si lo que no tenemos es la desaladora."
+    },
+    {
+      "start": 3217.46,
+      "end": 3222.76,
+      "text": "Puede ser caro, pero le aseguro que hay ganaderos que estarían dispuestos a colaborar para"
+    },
+    {
+      "start": 3222.76,
+      "end": 3228.06,
+      "text": "instalar una desaladora multipropósito, que nos genere agua para el consumo humano, que"
+    },
+    {
+      "start": 3228.06,
+      "end": 3230.06,
+      "text": "nos genere agua para la producción industrial que nos genere agua para la producción industrial"
+    },
+    {
+      "start": 3230.06,
+      "end": 3232.5,
+      "text": "y nos genere agua para la producción ganadera."
+    },
+    {
+      "start": 3232.92,
+      "end": 3235.06,
+      "text": "Se puede hacer y cada vez es más fácil."
+    },
+    {
+      "start": 3235.56,
+      "end": 3239.22,
+      "text": "Y este no es un terreno donde tengamos que gastar tanto en subir la energía."
+    },
+    {
+      "start": 3240.08,
+      "end": 3246.06,
+      "text": "Sino que nosotros aquí tenemos, no sé cuál será el promedio de la altura, Robert, pero es bajo."
+    },
+    {
+      "start": 3246.48,
+      "end": 3252.92,
+      "text": "Entonces, el mayor costo de una planta desaladora es levantar la energía para que la gente en la altura,"
+    },
+    {
+      "start": 3253.04,
+      "end": 3258.36,
+      "text": "la industria en la altura, la agricultura en la altura, tenga agua barata. Eso aquí no es un problema."
+    },
+    {
+      "start": 3259.04,
+      "end": 3262.08,
+      "text": "Y le aseguro que cualquiera de las plantas de hidrógeno verde"
+    },
+    {
+      "start": 3262.08,
+      "end": 3265.88,
+      "text": "es capaz de construir una desaladora, dos desaladoras y compartir el agua."
+    },
+    {
+      "start": 3266.42,
+      "end": 3269.8,
+      "text": "Y eso le aumenta la producción ganadera al infinito,"
+    },
+    {
+      "start": 3270.4,
+      "end": 3271.7,
+      "text": "porque los animales necesitan agua."
+    },
+    {
+      "start": 3272.38,
+      "end": 3274.82,
+      "text": "Entonces, tenemos ahí un tema."
+    },
+    {
+      "start": 3275.08,
+      "end": 3283.96,
+      "text": "La investigación científica. Nosotros aquí podemos ser el gran centro de logística e investigación científica."
+    },
+    {
+      "start": 3284.72,
+      "end": 3288.52,
+      "text": "Por lo tanto, desarrollo hay. El Estrecho Magallanes es una bendición."
+    },
+    {
+      "start": 3289.54,
+      "end": 3291.22,
+      "text": "Miren lo que está pasando en Panamá."
+    },
+    {
+      "start": 3291.74,
+      "end": 3293.64,
+      "text": "Construyeron los barcos más grandes del mundo."
+    },
+    {
+      "start": 3294.72,
+      "end": 3298.24,
+      "text": "Tienen que agrandarlo, pero a veces les falta incluso a ellos el agua."
+    },
+    {
+      "start": 3299.08,
+      "end": 3301.74,
+      "text": "¿Y qué han parado? ¿Qué hacen esos barcos? ¿Por dónde van a pasar?"
+    },
+    {
+      "start": 3302.04,
+      "end": 3302.52,
+      "text": "Por aquí."
+    },
+    {
+      "start": 3303.28,
+      "end": 3305.82,
+      "text": "¿Y nosotros estamos preparados para prestarle todos los servicios"
+    },
+    {
+      "start": 3305.82,
+      "end": 3306.92,
+      "text": "y todas las cosas que necesiten?"
+    },
+    {
+      "start": 3307.14,
+      "end": 3307.38,
+      "text": "No."
+    },
+    {
+      "start": 3308.26,
+      "end": 3310.1,
+      "text": "Y nos va a costar, pero alguien tiene que partir."
+    },
+    {
+      "start": 3310.6,
+      "end": 3312.86,
+      "text": "Porque a lo mejor esa prestación de servicios va a ser en cinco,"
+    },
+    {
+      "start": 3312.96,
+      "end": 3315.98,
+      "text": "en cinco, cinco, cinco años más."
+    },
+    {
+      "start": 3316.72,
+      "end": 3317.66,
+      "text": "¿Ven que me quedo pegado?"
+    },
+    {
+      "start": 3319.44,
+      "end": 3325.26,
+      "text": "Y finalmente, el eje número cinco, la propuesta número 5,"
+    },
+    {
+      "start": 3326.44,
+      "end": 3337.02,
+      "text": "que es Magallanes, puerta de entrada al continente del futuro. Porque desde aquí está la entrada a la Antártica, a la Antártica"
+    },
+    {
+      "start": 3337.02,
+      "end": 3342.62,
+      "text": "chilena. Desde aquí podemos tener el mejor centro logístico para abordar lo que viene"
+    },
+    {
+      "start": 3342.62,
+      "end": 3348.94,
+      "text": "en el futuro. Desde aquí podemos tener el mejor apoyo para la investigación científica."
+    },
+    {
+      "start": 3349.42,
+      "end": 3351.98,
+      "text": "Pero hay que hacer las cosas bien. Si yo construyo"
+    },
+    {
+      "start": 3351.98,
+      "end": 3358.88,
+      "text": "un edificio grande, ¿no es cierto?, potente, en Puerto Williams, ¿sí?, Puerto Williams,"
+    },
+    {
+      "start": 3359.12,
+      "end": 3366.26,
+      "text": "de investigación científica, tengo que tener los científicos. que decirle oye este es el mejor lugar"
+    },
+    {
+      "start": 3366.26,
+      "end": 3367.36,
+      "text": "para que usted investigue"
+    },
+    {
+      "start": 3367.36,
+      "end": 3369.1,
+      "text": "y no siempre está"
+    },
+    {
+      "start": 3369.1,
+      "end": 3370.0,
+      "text": "con la ocupación llena"
+    },
+    {
+      "start": 3370.0,
+      "end": 3371.26,
+      "text": "entonces claro"
+    },
+    {
+      "start": 3371.26,
+      "end": 3372.44,
+      "text": "construir un tremendo edificio"
+    },
+    {
+      "start": 3372.44,
+      "end": 3373.24,
+      "text": "que me cuesta mucho"
+    },
+    {
+      "start": 3373.24,
+      "end": 3373.82,
+      "text": "como país"
+    },
+    {
+      "start": 3373.82,
+      "end": 3375.34,
+      "text": "pero lo importante"
+    },
+    {
+      "start": 3375.34,
+      "end": 3376.56,
+      "text": "más que el edificio"
+    },
+    {
+      "start": 3376.56,
+      "end": 3377.08,
+      "text": "que tiene que tener"
+    },
+    {
+      "start": 3377.08,
+      "end": 3377.68,
+      "text": "todas las condiciones"
+    },
+    {
+      "start": 3377.68,
+      "end": 3378.22,
+      "text": "las tiene"
+    },
+    {
+      "start": 3378.22,
+      "end": 3379.3,
+      "text": "es que el edificio"
+    },
+    {
+      "start": 3379.3,
+      "end": 3386.72,
+      "text": "esté ocupado si no para qué si no mejor tenerlos acá y de aquí hacer algo. Bueno, tenemos la infraestructura."
+    },
+    {
+      "start": 3386.94,
+      "end": 3393.18,
+      "text": "Hoy día nos falta la promoción de esa infraestructura. Así que si nos ponemos manos a la obra,"
+    },
+    {
+      "start": 3393.18,
+      "end": 3396.0,
+      "text": "nosotros podemos no solamente recuperar la"
+    },
+    {
+      "start": 3396.0,
+      "end": 3401.88,
+      "text": "fuerza en magallanes sino la fuerza en el país y ahora viene lo complejo lo"
+    },
+    {
+      "start": 3401.88,
+      "end": 3406.48,
+      "text": "complejo y el desafío al que los quiero invitar tiene un plazo definido que son"
+    },
+    {
+      "start": 3406.48,
+      "end": 3416.26,
+      "text": "15 días pónganse nerviosos nos quedan 15 días para ganar la primera. 15 días para"
+    },
+    {
+      "start": 3416.26,
+      "end": 3424.48,
+      "text": "ganar la primera vuelta. Y está ahí. Solo depende de nosotros. Como equipo, como familia, hemos puesto"
+    },
+    {
+      "start": 3424.48,
+      "end": 3427.24,
+      "text": "todo. Y todos ustedes lo han puesto, pero necesitamos más."
+    },
+    {
+      "start": 3427.94,
+      "end": 3431.96,
+      "text": "Necesitamos que en estos 15 días ustedes ya se vayan comprometiendo para ser apoderados de mesa."
+    },
+    {
+      "start": 3432.98,
+      "end": 3437.64,
+      "text": "Y ojalá que todos los que estén acá sean apoderados de mesa. Y si ya colapsamos todas las mesas de Magallanes,"
+    },
+    {
+      "start": 3438.02,
+      "end": 3447.26,
+      "text": "empiecen a llamar a los parientes. Más de alguien tendrá un pariente en Guara. Alguien tendrá un pariente en Huasco. Alguien"
+    },
+    {
+      "start": 3447.26,
+      "end": 3456.0,
+      "text": "tendrá un pariente, no sé, en Cauquene. En Chiloé. Bueno, todos tienen pariente."
+    },
+    {
+      "start": 3456.1,
+      "end": 3456.98,
+      "text": "Aquí hay muchos chilotes."
+    },
+    {
+      "start": 3457.7,
+      "end": 3458.52,
+      "text": "Como decía Juan."
+    },
+    {
+      "start": 3460.36,
+      "end": 3462.84,
+      "text": "Cárdenas es un apellido que se repite en Chiloé también."
+    },
+    {
+      "start": 3463.46,
+      "end": 3465.02,
+      "text": "Así que algún pariente debe haber en Chiloé."
+    },
+    {
+      "start": 3466.88,
+      "end": 3468.38,
+      "text": "Por lo tanto, ayúdenos en eso."
+    },
+    {
+      "start": 3468.82,
+      "end": 3470.0,
+      "text": "Ayúdenos en las redes sociales"
+    },
+    {
+      "start": 3470.0,
+      "end": 3472.34,
+      "text": "en el buen sentido, esto lo hemos repetido"
+    },
+    {
+      "start": 3472.34,
+      "end": 3474.4,
+      "text": "desde el primer acto, desde la primera vez que nos encontramos"
+    },
+    {
+      "start": 3474.4,
+      "end": 3476.54,
+      "text": "el uso de las redes sociales"
+    },
+    {
+      "start": 3476.54,
+      "end": 3478.04,
+      "text": "es para aportar con ideas"
+    },
+    {
+      "start": 3478.04,
+      "end": 3479.04,
+      "text": "no con insultos"
+    },
+    {
+      "start": 3479.04,
+      "end": 3481.92,
+      "text": "cada vez que alguien en las redes sociales insulta a otro"
+    },
+    {
+      "start": 3481.92,
+      "end": 3482.68,
+      "text": "perdemos votos"
+    },
+    {
+      "start": 3482.68,
+      "end": 3486.22,
+      "text": "y no necesitamos insultar a nadie, no necesitamos levantarle la voz a nadie."
+    },
+    {
+      "start": 3486.38,
+      "end": 3488.56,
+      "text": "Si tenemos las mejores ideas, están ahí, lo hemos demostrado."
+    },
+    {
+      "start": 3488.84,
+      "end": 3493.48,
+      "text": "Todo el mundo se ha demostrado que las ideas de la libertad producen progreso."
+    },
+    {
+      "start": 3494.02,
+      "end": 3497.44,
+      "text": "Por lo tanto, si ganamos la primera, vamos a ganar la segunda."
+    },
+    {
+      "start": 3497.96,
+      "end": 3504.6,
+      "text": "Así que lo importante es ir por la primera."
+    },
+    {
+      "start": 3509.4,
+      "end": 3510.38,
+      "text": "Y queremos que se termine este mal gobierno."
+    },
+    {
+      "start": 3512.88,
+      "end": 3513.46,
+      "text": "Y queremos, y aquí les voy a ir pidiendo ayuda,"
+    },
+    {
+      "start": 3514.98,
+      "end": 3515.8,
+      "text": "la última es la más importante, porque queremos"
+    },
+    {
+      "start": 3515.8,
+      "end": 3527.34,
+      "text": "un gobierno sin corrupción, sin corrupción. Queremos un gobierno sin cobardía. Queremos"
+    },
+    {
+      "start": 3527.34,
+      "end": 3534.62,
+      "text": "un gobierno sin continuismo. Queremos un gobierno sin complejos. Y queremos"
+    },
+    {
+      "start": 3534.62,
+      "end": 3550.76,
+      "text": "un gobierno sin comunismo. Y para que nadie se confunda, queremos un gobierno sin comunismo."
+    },
+    {
+      "start": 3551.66,
+      "end": 3553.7,
+      "text": "No tenemos problema que haya un parlamento con comunistas,"
+    },
+    {
+      "start": 3554.08,
+      "end": 3558.7,
+      "text": "porque ahí vamos a dar la batalla y los vamos a dejar en vergüenza, una vez más."
+    },
+    {
+      "start": 3559.3,
+      "end": 3564.38,
+      "text": "Porque tienen que tener su expresión política, siempre, para que nosotros demostremos con"
+    },
+    {
+      "start": 3564.38,
+      "end": 3569.4,
+      "text": "ejemplos prácticos lo que no funciona. Y para recordarles, mira cómo está la pobreza"
+    },
+    {
+      "start": 3569.4,
+      "end": 3573.72,
+      "text": "en Cuba, ¿de quién depende? De los comunistas. Miren cómo ha avanzado la pobreza en Nicaragua,"
+    },
+    {
+      "start": 3573.8,
+      "end": 3575.0,
+      "text": "¿de quién depende? De los comunistas. Miren lo que pasó en la pobreza en Nicaragua. ¿De quién depende? De los comunistas."
+    },
+    {
+      "start": 3575.0,
+      "end": 3579.0,
+      "text": "Miren lo que pasó en Venezuela. ¿Quién partió? Los comunistas."
+    },
+    {
+      "start": 3579.0,
+      "end": 3583.0,
+      "text": "Entonces necesitamos representantes de los comunistas en el Parlamento"
+    },
+    {
+      "start": 3583.0,
+      "end": 3589.0,
+      "text": "para combatir con ideas y demostrar ahí, en la mesa del debate,"
+    },
+    {
+      "start": 3589.0,
+      "end": 3591.42,
+      "text": "que sus ideas generan pobreza,"
+    },
+    {
+      "start": 3591.54,
+      "end": 3594.74,
+      "text": "generan miseria, que nunca han sacado un país adelante,"
+    },
+    {
+      "start": 3595.08,
+      "end": 3598.76,
+      "text": "más allá de lo que ellos prometan, porque prometen cuando hay pobreza,"
+    },
+    {
+      "start": 3599.3,
+      "end": 3602.28,
+      "text": "cuando hay personas vulnerables, que no tienen ninguna opción en la vida,"
+    },
+    {
+      "start": 3602.46,
+      "end": 3603.52,
+      "text": "ahí aparecen los comunistas."
+    },
+    {
+      "start": 3603.92,
+      "end": 3608.8,
+      "text": "Y que usted sea pobre es culpa de este, y que usted sea pobre es culpa de estos otros. No, no, no. Que usted sea"
+    },
+    {
+      "start": 3608.8,
+      "end": 3612.94,
+      "text": "pobre es porque hay mala gestión, porque hay mal gobierno, porque no se administran bien los"
+    },
+    {
+      "start": 3612.94,
+      "end": 3618.1,
+      "text": "recursos, porque se abusa del Estado. Y un ejemplo que se vive hoy día es el presupuesto de la"
+    },
+    {
+      "start": 3618.1,
+      "end": 3621.42,
+      "text": "nación. Miren lo que está pasando con el presupuesto de la nación."
+    },
+    {
+      "start": 3622.42,
+      "end": 3626.58,
+      "text": "No han sido capaces de calcular los ingresos de la nación."
+    },
+    {
+      "start": 3627.6,
+      "end": 3628.46,
+      "text": "Y mienten."
+    },
+    {
+      "start": 3629.02,
+      "end": 3629.74,
+      "text": "Y ni se arrugan."
+    },
+    {
+      "start": 3629.84,
+      "end": 3632.96,
+      "text": "No, es que nos van a entrar 10.000 millones de dólares por no sé qué."
+    },
+    {
+      "start": 3633.38,
+      "end": 3634.12,
+      "text": "Nunca llegaron."
+    },
+    {
+      "start": 3634.72,
+      "end": 3635.5,
+      "text": "Pero lo que sí hacen es gastarse los 10.000 millones de dólares por no sé qué nunca llegaron pero lo que sí hacen"
+    },
+    {
+      "start": 3635.5,
+      "end": 3636.1,
+      "text": "es gastarse"
+    },
+    {
+      "start": 3636.1,
+      "end": 3636.94,
+      "text": "los 10.000 millones"
+    },
+    {
+      "start": 3636.94,
+      "end": 3637.54,
+      "text": "de imaginario"
+    },
+    {
+      "start": 3637.54,
+      "end": 3639.16,
+      "text": "porque para eso"
+    },
+    {
+      "start": 3639.16,
+      "end": 3640.04,
+      "text": "se tiene imaginación"
+    },
+    {
+      "start": 3640.04,
+      "end": 3641.22,
+      "text": "a mí dicen"
+    },
+    {
+      "start": 3641.22,
+      "end": 3641.84,
+      "text": "no, su avión"
+    },
+    {
+      "start": 3641.84,
+      "end": 3642.52,
+      "text": "imaginario"
+    },
+    {
+      "start": 3642.52,
+      "end": 3643.58,
+      "text": "no, no"
+    },
+    {
+      "start": 3643.58,
+      "end": 3644.32,
+      "text": "si el avión está"
+    },
+    {
+      "start": 3644.32,
+      "end": 3645.64,
+      "text": "y va a ayudar"
+    },
+    {
+      "start": 3645.64,
+      "end": 3646.4,
+      "text": "a llevarse"
+    },
+    {
+      "start": 3646.4,
+      "end": 3647.12,
+      "text": "a los migrantes"
+    },
+    {
+      "start": 3647.12,
+      "end": 3647.72,
+      "text": "irregulares"
+    },
+    {
+      "start": 3647.72,
+      "end": 3649.34,
+      "text": "a los países de origen"
+    },
+    {
+      "start": 3649.34,
+      "end": 3653.84,
+      "text": "y parece imposible"
+    },
+    {
+      "start": 3653.84,
+      "end": 3656.76,
+      "text": "pero no lo es"
+    },
+    {
+      "start": 3656.76,
+      "end": 3659.22,
+      "text": "y así como se burlaban"
+    },
+    {
+      "start": 3659.22,
+      "end": 3659.92,
+      "text": "de la zanja"
+    },
+    {
+      "start": 3659.92,
+      "end": 3661.08,
+      "text": "y me decían"
+    },
+    {
+      "start": 3661.08,
+      "end": 3662.04,
+      "text": "la zanja, la zanja"
+    },
+    {
+      "start": 3662.04,
+      "end": 3664.4,
+      "text": "se burlaban"
+    },
+    {
+      "start": 3664.4,
+      "end": 3666.52,
+      "text": "y hoy día quienes construyen la zanja"
+    },
+    {
+      "start": 3666.52,
+      "end": 3667.28,
+      "text": "ellos mismos"
+    },
+    {
+      "start": 3667.28,
+      "end": 3669.24,
+      "text": "voy, voy, voy"
+    },
+    {
+      "start": 3669.24,
+      "end": 3671.48,
+      "text": "ellos mismos están construyendo la zanja"
+    },
+    {
+      "start": 3671.48,
+      "end": 3673.0,
+      "text": "pero hoy día la zanja no basta"
+    },
+    {
+      "start": 3673.0,
+      "end": 3675.32,
+      "text": "y hoy día tenemos que dar señales claras"
+    },
+    {
+      "start": 3675.32,
+      "end": 3677.46,
+      "text": "al que entró por la ventana"
+    },
+    {
+      "start": 3677.46,
+      "end": 3679.28,
+      "text": "que se va a ir"
+    },
+    {
+      "start": 3679.28,
+      "end": 3682.66,
+      "text": "y se va a ir por la puerta, por la puerta"
+    },
+    {
+      "start": 3682.66,
+      "end": 3686.8,
+      "text": "del aeropuerto, por la puerta de la frontera, por la puerta del puerto, pero se va a ir."
+    },
+    {
+      "start": 3689.16,
+      "end": 3697.42,
+      "text": "Y aunque ustedes no lo crean, y algunos digan que es imposible, ellos mismos van a financiar su salida. Si"
+    },
+    {
+      "start": 3697.42,
+      "end": 3701.56,
+      "text": "yo le digo a alguien, oiga, usted quiere irse con todas sus pertenencias y quiere irse con"
+    },
+    {
+      "start": 3701.56,
+      "end": 3706.58,
+      "text": "60 kilos, le voy a aumentar el peso de la maleta de 23 a 30, para que siga dos maletas"
+    },
+    {
+      "start": 3706.58,
+      "end": 3711.06,
+      "text": "de 30. ¿Quiere irse con dos maletas o con lo opuesto?"
+    },
+    {
+      "start": 3720.98,
+      "end": 3722.26,
+      "text": "Elija. Yo le diría que se vaya con las dos maletas y le quedan 130 días. No, perdón."
+    },
+    {
+      "start": 3727.76,
+      "end": 3735.28,
+      "text": "Le queda hasta el 11 de marzo. Le queda hasta el 11 de marzo para irse con las dos maletas. Entonces elijan. Y en esto soy bien serio"
+    },
+    {
+      "start": 3735.28,
+      "end": 3739.68,
+      "text": "y bien responsable. Yo tengo claro que nosotros, si decimos de un día para otro, si tienen"
+    },
+    {
+      "start": 3739.68,
+      "end": 3745.02,
+      "text": "que ir los trescientos mil, no va a ser posible. Pero tienen tiempo para irse"
+    },
+    {
+      "start": 3745.02,
+      "end": 3753.92,
+      "text": "con sus pertenencias, para salir por la puerta, porque si algún día quieren volver a Chile,"
+    },
+    {
+      "start": 3757.26,
+      "end": 3761.82,
+      "text": "solo lo van a poder hacer si se van antes. Yo no tengo un problema con los migrantes y espero que ninguno de ustedes, porque yo"
+    },
+    {
+      "start": 3761.82,
+      "end": 3766.08,
+      "text": "soy hijo de migrantes y muchos de aquí son hijos de migrantes. Pero lo que sí pedimos"
+    },
+    {
+      "start": 3766.08,
+      "end": 3769.14,
+      "text": "es que se cumplan las leyes y que Chile se entre por la puerta."
+    },
+    {
+      "start": 3769.7,
+      "end": 3775.06,
+      "text": "Por lo tanto, si entró de manera irregular, salga. Y quizás en uno, dos, tres, cuatro"
+    },
+    {
+      "start": 3775.06,
+      "end": 3779.04,
+      "text": "años, cuando estemos preparados, y usted tenga su contrato de trabajo estable, cuando"
+    },
+    {
+      "start": 3779.04,
+      "end": 3783.54,
+      "text": "tenga su identificación, cuando nos acredite que no tiene cosas pendientes con la justicia,"
+    },
+    {
+      "start": 3784.1,
+      "end": 3785.32,
+      "text": "vuelva a solicitar su entrada."
+    },
+    {
+      "start": 3786.26,
+      "end": 3791.28,
+      "text": "Y lo más probable, que como hoy día hay muchos médicos que nos ayudan y que son extranjeros,"
+    },
+    {
+      "start": 3791.36,
+      "end": 3796.74,
+      "text": "y nuestra medicina, nuestra salud no sería sostenible si no tuviéramos la colaboración de médicos extranjeros,"
+    },
+    {
+      "start": 3797.2,
+      "end": 3798.54,
+      "text": "a usted también lo podemos dejar entrar."
+    },
+    {
+      "start": 3799.02,
+      "end": 3805.2,
+      "text": "Pero en tres, cuatro años más, cuando ya tengamos estabilizado el país, cuando tengamos espacio en nuestros jardines"
+    },
+    {
+      "start": 3805.2,
+      "end": 3809.98,
+      "text": "infantiles, cuando ya las listas de espera se hayan terminado, cuando ya las viviendas sean"
+    },
+    {
+      "start": 3809.98,
+      "end": 3815.0,
+      "text": "suficientes para que no paguen el doble por arriendo, bueno, cuando se ordene el país."
+    },
+    {
+      "start": 3819.14,
+      "end": 3825.4,
+      "text": "Pero la primera muestra de inoperancia, de ineficiencia, es el actual presupuesto. No se pusieron de acuerdo ni siquiera entre ellos, porque hasta sus propios representantes en el"
+    },
+    {
+      "start": 3825.4,
+      "end": 3833.76,
+      "text": "Parlamento le rechazaron a este gobierno fracasado el presupuesto de la Nación. Y hoy día el presupuesto está rechazado. Y ahí está el Ministro como que no le ha pasado"
+    },
+    {
+      "start": 3833.76,
+      "end": 3839.1,
+      "text": "nada. La única diferencia es que hoy día es corbata. O sea, la diferencia de Economía"
+    },
+    {
+      "start": 3839.1,
+      "end": 3844.28,
+      "text": "y Hacienda es una linda corbata. Nada más. Porque no tiene los conocimientos ni la experiencia."
+    },
+    {
+      "start": 3844.98,
+      "end": 3846.5,
+      "text": "Y de nuevo, un gobierno fracasado"
+    },
+    {
+      "start": 3846.5,
+      "end": 3847.84,
+      "text": "aquí en premio a los peores"
+    },
+    {
+      "start": 3847.84,
+      "end": 3850.22,
+      "text": "lo siento ministro pero soy duro"
+    },
+    {
+      "start": 3850.22,
+      "end": 3850.92,
+      "text": "pero es cierto"
+    },
+    {
+      "start": 3850.92,
+      "end": 3853.52,
+      "text": "usted es el mismo ministro que fue"
+    },
+    {
+      "start": 3853.52,
+      "end": 3854.94,
+      "text": "dirigente estudiantil"
+    },
+    {
+      "start": 3854.94,
+      "end": 3857.84,
+      "text": "el mismo que se le extraviaron"
+    },
+    {
+      "start": 3857.84,
+      "end": 3859.14,
+      "text": "120 millones de pesos"
+    },
+    {
+      "start": 3859.14,
+      "end": 3860.8,
+      "text": "para el bicentenario a mi no se me ha olvidado pero pareciera que a usted se le extraviaron 120 millones de pesos para el bicentenario"
+    },
+    {
+      "start": 3860.8,
+      "end": 3862.34,
+      "text": "a mí no se me ha olvidado"
+    },
+    {
+      "start": 3862.34,
+      "end": 3864.9,
+      "text": "pero pareciera que a usted se le ha olvidado"
+    },
+    {
+      "start": 3864.9,
+      "end": 3867.92,
+      "text": "y ahora se le están perdiendo no 120 millones de pesos"
+    },
+    {
+      "start": 3867.92,
+      "end": 3870.94,
+      "text": "puede que se le estén perdiendo 120 millones de dólares"
+    },
+    {
+      "start": 3870.94,
+      "end": 3873.04,
+      "text": "y más"
+    },
+    {
+      "start": 3873.04,
+      "end": 3875.12,
+      "text": "porque no le calzan las cifras"
+    },
+    {
+      "start": 3875.12,
+      "end": 3877.32,
+      "text": "porque el que estaba arrancó"
+    },
+    {
+      "start": 3877.32,
+      "end": 3879.52,
+      "text": "entonces nos dejó un regalito"
+    },
+    {
+      "start": 3879.52,
+      "end": 3881.86,
+      "text": "a la mejor jefa"
+    },
+    {
+      "start": 3881.86,
+      "end": 3883.82,
+      "text": "de presupuesto de la historia de la nación"
+    },
+    {
+      "start": 3883.82,
+      "end": 3885.44,
+      "text": "increíble"
+    },
+    {
+      "start": 3885.44,
+      "end": 3887.92,
+      "text": "esa va a ser la frase para el bronce"
+    },
+    {
+      "start": 3887.92,
+      "end": 3888.88,
+      "text": "del ministro que se fue"
+    },
+    {
+      "start": 3888.88,
+      "end": 3893.18,
+      "text": "esta es la mejor directora de presupuesto de la historia de Chile."
+    },
+    {
+      "start": 3894.82,
+      "end": 3897.28,
+      "text": "Increíble. Y salió."
+    },
+    {
+      "start": 3898.2,
+      "end": 3900.24,
+      "text": "¿Y a quién nos dejaron? Al amigo Grau."
+    },
+    {
+      "start": 3902.34,
+      "end": 3906.66,
+      "text": "Bueno, nosotros nos vamos a encontrar con una situación compleja, porque este gobierno"
+    },
+    {
+      "start": 3906.66,
+      "end": 3917.2,
+      "text": "no quiere hacerle caso a la Comisión Fiscal Autónoma. Gracias. No quiere hacerle caso"
+    },
+    {
+      "start": 3917.2,
+      "end": 3920.32,
+      "text": "a la Comisión Fiscal Autónoma. No, y digo que no hagan caso a nosotros."
+    },
+    {
+      "start": 3921.26,
+      "end": 3924.26,
+      "text": "Nosotros les habríamos podido explicar dónde tenía que cortar."
+    },
+    {
+      "start": 3924.48,
+      "end": 3928.84,
+      "text": "Pero cada vez que decimos algo, lo afirman, para que después no podamos hacer nada."
+    },
+    {
+      "start": 3928.94,
+      "end": 3931.02,
+      "text": "Por eso no les damos el detalle de lo que íbamos a hacer."
+    },
+    {
+      "start": 3931.8,
+      "end": 3939.78,
+      "text": "Pero podrían hacerle caso también a la Contraloría, que les ha dicho, oiga, esto no funciona. Presentaron una ley para el tema universitario y la señora"
+    },
+    {
+      "start": 3939.78,
+      "end": 3946.2,
+      "text": "Contraloría le dijo, oiga, pero parece que las sumas no calzan. Ese es el nivel de la"
+    },
+    {
+      "start": 3946.2,
+      "end": 3950.92,
+      "text": "dirigencia que tenemos hoy día en temas de hacienda. Entonces, lo primero es que"
+    },
+    {
+      "start": 3950.92,
+      "end": 3956.12,
+      "text": "vamos a tener que llegar a ordenar las cuentas. Nosotros no les vamos a aprobar este presupuesto"
+    },
+    {
+      "start": 3956.12,
+      "end": 3962.52,
+      "text": "como está. Al menos los republicanos ya tenemos claro que lo que hagan, si no lo hacen bien,"
+    },
+    {
+      "start": 3962.68,
+      "end": 3966.66,
+      "text": "nosotros no se lo vamos a aprobar. Hasta que den fe, expliquen"
+    },
+    {
+      "start": 3966.66,
+      "end": 3974.4,
+      "text": "claramente y digan dónde está la plata. Porque cada día aparecen más cosas. Se acerca el tiempo"
+    },
+    {
+      "start": 3974.4,
+      "end": 3980.16,
+      "text": "de la partida del señor Boric y cada vez encontramos más problemas económicos en todas partes"
+    },
+    {
+      "start": 3980.16,
+      "end": 3981.48,
+      "text": "pensábamos"
+    },
+    {
+      "start": 3981.48,
+      "end": 3981.96,
+      "text": "que en temas"
+    },
+    {
+      "start": 3981.96,
+      "end": 3982.52,
+      "text": "de vivienda"
+    },
+    {
+      "start": 3982.52,
+      "end": 3983.02,
+      "text": "la cosa estaba"
+    },
+    {
+      "start": 3983.02,
+      "end": 3983.76,
+      "text": "un poco ordenada"
+    },
+    {
+      "start": 3983.76,
+      "end": 3984.5,
+      "text": "y no saben"
+    },
+    {
+      "start": 3984.5,
+      "end": 3985.16,
+      "text": "si se les perdieron"
+    },
+    {
+      "start": 3985.16,
+      "end": 3985.94,
+      "text": "mil millones"
+    },
+    {
+      "start": 3985.94,
+      "end": 3986.84,
+      "text": "de dólares"
+    },
+    {
+      "start": 3986.84,
+      "end": 3988.02,
+      "text": "o cien millones"
+    },
+    {
+      "start": 3988.02,
+      "end": 3988.5,
+      "text": "de dólares"
+    },
+    {
+      "start": 3988.5,
+      "end": 3991.22,
+      "text": "y sigamos buscando"
+    },
+    {
+      "start": 3991.22,
+      "end": 3992.18,
+      "text": "y vamos a encontrar"
+    },
+    {
+      "start": 3992.18,
+      "end": 3993.76,
+      "text": "un ejército"
+    },
+    {
+      "start": 3993.76,
+      "end": 3994.24,
+      "text": "que les dice"
+    },
+    {
+      "start": 3994.24,
+      "end": 3996.88,
+      "text": "oiga usted no me ha pagado el despliegue en la zona usted no me ha pagado el despliegue en la zona norte,"
+    },
+    {
+      "start": 3997.24,
+      "end": 3998.96,
+      "text": "no me ha pagado mi despliegue en la zona sur."
+    },
+    {
+      "start": 3999.44,
+      "end": 4005.86,
+      "text": "El ejército de Chile diciendo, oiga, no me ha cancelado lo que usted me ha pedido."
+    },
+    {
+      "start": 4007.08,
+      "end": 4008.08,
+      "text": "A ese nivel estamos."
+    },
+    {
+      "start": 4008.6,
+      "end": 4010.44,
+      "text": "Por lo tanto va a ser muy difícil y vamos a requerir"
+    },
+    {
+      "start": 4010.44,
+      "end": 4015.9,
+      "text": "el apoyo de todos. Por eso estoy en un gobierno de emergencia, que va a requerir mucho esfuerzo,"
+    },
+    {
+      "start": 4016.46,
+      "end": 4023.9,
+      "text": "mucho trabajo, horas de sacrificio, con poca paga, para que también quede claro que el"
+    },
+    {
+      "start": 4023.9,
+      "end": 4028.6,
+      "text": "que entre a ganar, de acuerdo a la escala de remuneraciones del Estado"
+    },
+    {
+      "start": 4028.6,
+      "end": 4035.0,
+      "text": "va a estar ahí y no va a haber, pásenmelo por debajito, no va a haber asignaciones para función crítica."
+    },
+    {
+      "start": 4036.6,
+      "end": 4043.96,
+      "text": "Y sí va a haber espacio para los buenos funcionarios públicos que hoy día están en la administración pública, porque les vamos a quitar el lastre que le han puesto"
+    },
+    {
+      "start": 4043.96,
+      "end": 4048.44,
+      "text": "encima con operadores políticos y apitutados. Hoy día un buen funcionario público va a"
+    },
+    {
+      "start": 4048.44,
+      "end": 4054.62,
+      "text": "tener libertad para trabajar de buena forma, con todo el apoyo que necesite y sin la presión"
+    },
+    {
+      "start": 4054.62,
+      "end": 4057.2,
+      "text": "de tener que soportar a todos"
+    },
+    {
+      "start": 4057.2,
+      "end": 4062.96,
+      "text": "los que buscan a través del estado mejorar su condición y ahí está el primer abuso porque"
+    },
+    {
+      "start": 4062.96,
+      "end": 4069.66,
+      "text": "ellos no tienen interés a sacar a la gente la pobreza ellos manipulan temas de educación porque"
+    },
+    {
+      "start": 4069.66,
+      "end": 4071.68,
+      "text": "un joven libre es un joven educado,"
+    },
+    {
+      "start": 4072.3,
+      "end": 4077.56,
+      "text": "un joven que tiene la libertad, después de haber estudiado, de elegir qué quiere hacer. Miren cómo"
+    },
+    {
+      "start": 4077.56,
+      "end": 4083.88,
+      "text": "tienen la educación. Una persona libre es una persona que puede emprender, que puede tener su"
+    },
+    {
+      "start": 4083.88,
+      "end": 4085.52,
+      "text": "emprendimiento."
+    },
+    {
+      "start": 4088.4,
+      "end": 4088.96,
+      "text": "Y si no es un emprendedor puede tener un trabajo digno."
+    },
+    {
+      "start": 4095.68,
+      "end": 4096.0,
+      "text": "Pero trabajo digno hay cuando hay inversión, cuando hay harta inversión y yo puedo elegir el trabajo donde quiero ir."
+    },
+    {
+      "start": 4099.62,
+      "end": 4104.24,
+      "text": "A lo mejor yo no quiero emprender, pero quiero tener un trabajo digno. Tengo que un ingreso que me permita sostener a mi familia. ¿Eso se va a lograr"
+    },
+    {
+      "start": 4104.24,
+      "end": 4108.44,
+      "text": "si no hay inversión? ¿Eso se va a lograr si mantenemos la ideología extrema en el"
+    },
+    {
+      "start": 4108.44,
+      "end": 4116.64,
+      "text": "animalismo, en el ambientamismo, en el indigenismo? No. ¿Y por qué no surgimos? Porque a los que están en el poder no les"
+    },
+    {
+      "start": 4116.64,
+      "end": 4122.3,
+      "text": "interesa que la gente tenga educación, que tenga libertad de emprender, que tenga libertad"
+    },
+    {
+      "start": 4122.3,
+      "end": 4127.7,
+      "text": "de elegir un trabajo digno. Porque al que abusa del Estado le interesa que la persona"
+    },
+    {
+      "start": 4127.7,
+      "end": 4130.72,
+      "text": "dependa del Estado. Le interesa que el Estado, a ese que abusa, le interesa que la persona dependa del Estado. Le interesa que"
+    },
+    {
+      "start": 4130.72,
+      "end": 4137.7,
+      "text": "el Estado, a ese que abusa, le interesa entregar cajas de mercadería. Hace años atrás cuando"
+    },
+    {
+      "start": 4137.7,
+      "end": 4143.2,
+      "text": "vine, pregunté, ¿cómo es la autoridad? Buena me decían. ¿Y por qué? Porque nos"
+    },
+    {
+      "start": 4143.2,
+      "end": 4145.98,
+      "text": "trajo como mil cajas de mercadería."
+    },
+    {
+      "start": 4151.44,
+      "end": 4156.92,
+      "text": "Mira, qué buena autoridad. Oiga, ¿y cuánto se gastó en el centro científico que está ahí en Puerto Williams? No, no sé. ¿Y cuántos científicos lo ocupan? Tampoco sé. Pero"
+    },
+    {
+      "start": 4156.92,
+      "end": 4160.42,
+      "text": "a mí me trajo la caja de mercadería. Eso es abusar del Estado."
+    },
+    {
+      "start": 4161.42,
+      "end": 4167.16,
+      "text": "Es abusar del Estado porque yo mantengo a alguien tranquilo con una dádiva. Esa es la esclavitud"
+    },
+    {
+      "start": 4167.16,
+      "end": 4173.7,
+      "text": "moderna. Cuando yo no dejo surgir a las personas y las mantengo porque necesitan algo de mí. Necesitan"
+    },
+    {
+      "start": 4173.7,
+      "end": 4176.9,
+      "text": "un subsidio del agua potable, necesitan un techo, necesitan algo."
+    },
+    {
+      "start": 4177.26,
+      "end": 4177.92,
+      "text": "Y yo lo tengo."
+    },
+    {
+      "start": 4178.8,
+      "end": 4179.66,
+      "text": "Y yo te lo entrego."
+    },
+    {
+      "start": 4180.78,
+      "end": 4180.9,
+      "text": "No."
+    },
+    {
+      "start": 4181.5,
+      "end": 4184.66,
+      "text": "Nosotros tenemos que promover la libertad de verdad de las personas."
+    },
+    {
+      "start": 4185.18,
+      "end": 4187.18,
+      "text": "Y eso se hace desde el Estado."
+    },
+    {
+      "start": 4187.3,
+      "end": 4188.74,
+      "text": "Un Estado que no abusa."
+    },
+    {
+      "start": 4189.68,
+      "end": 4192.6,
+      "text": "Así que, desde aquí, comienza la epopeya."
+    },
+    {
+      "start": 4193.64,
+      "end": 4196.44,
+      "text": "Vamos a ganar la primera, vamos a ganar la segunda,"
+    },
+    {
+      "start": 4197.06,
+      "end": 4201.34,
+      "text": "con la fuerza del viento del sur, que es la misma fuerza del cambio."
+    },
+    {
+      "start": 4202.02,
+      "end": 4207.3,
+      "text": "Porque somos fuerza, somos cambio, somos la fuerza del cambio. ¡Que viva somos cambio. Somos la fuerza del cambio."
+    },
+    {
+      "start": 4207.68,
+      "end": 4213.34,
+      "text": "Que viva Magallanes, que viva Chile, que viva la Antártica chilena. De verdad, muchas,"
+    },
+    {
+      "start": 4213.34,
+      "end": 4220.1,
+      "text": "muchas gracias por el esfuerzo y la paciencia que ha mantenido."
+    }
+  ]
+}

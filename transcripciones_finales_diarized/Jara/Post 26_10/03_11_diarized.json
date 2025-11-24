@@ -1,0 +1,1959 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Bueno, primero voy a dejar a Michael Bernales con ustedes, que es de un comité de seguridad municipal, para que nos cuente algunas cosas. Muchas gracias, buenos días. Hemos tenido una conversación aquí, una integración muy bonita. Yo soy Michael Bernales, trabajo en el área de seguridad desde la sociedad civil, tengo como un comité de seguridad, y aquí estamos con distintos dirigentes de comunas como Quinta Normal, Renca, Estación Central, y apoyamos la candidatura de la candidata Jara, dado que sus políticas de retomar los espacios de la comunidad, que es donde nosotros más intervenimos, apunta justamente a la prevención, que es de donde nosotros creemos que se debe abordar la problemática de seguridad. Es por eso que en las conversaciones que hemos tenido y las creemos que se debe abordar la problemática de seguridad. Es por eso que en las conversaciones que hemos tenido y las propuestas que nos hacen, no hacen mucho sentido justamente en esa medida. Entonces, la invitación es a apoyarla. Sabemos que el tema de la seguridad siempre es un factor que causa miedo, pero en la prevención creemos que está justamente la forma de poder prevenirla. Mucho más otras medidas que también tiene la candidata y espero ella nos pueda, obviamente, profundizar e indicar un poquito más. Muchas gracias. Bueno, como lo hemos señaladoado para nosotros el tema de la seguridad pública siendo un tema prioritario para la ciudadanía por tanto también lo es para nosotros y lo hacemos propio porque entendemos que la seguridad pública no es un tema de un partido político ni de una derecha o una izquierda sino que que vivir tranquilo es un derecho humano. Y quiero ser bien clara en esto. En este sentido, quiero señalar que nuestro gobierno, la seguridad se va a enfrentar con inteligencia tecnológica y con coordinación total del Estado. No más respuestas improvisadas, ni tampoco reacciones tardías. Tendremos fronteras inteligentes, levantaremos el secreto bancario y distribuiremos una presencia policial equitativa en todas las comunas del país. Sabemos lo que ocasiona la ausencia, cierto, de carabineros en algunas comunas y la necesidad que hay de fortalecer no solo su presencia preventiva, sino que también su capacidad de respuesta, porque no da lo mismo responder en minutos que responder en semanas, y es deber del Estado responder rápidamente. A este sentido, quiero presentar cinco propuestas. La primera es la propuesta de una policía fronteriza para lo cual vamos a asegurar nuestras fronteras con decisión y coordinación generando dentro de el ámbito de carabineros una especialidad denominada policía fronteriza que iba a venir a complementar el trabajo de despliegue de la Fuerza Armada en las fronteras que hoy día tenemos ya instaladas en nuestro país y sobre todo considerando la necesidad urgente de detener el narcotráfico. Yo en esto quiero ser bien clara, tanto el narcotráfico como el contrabando hacen un daño profundo y son pasos que están muy correlacionados con el crimen organizado y la generación o la detección de nuevos pasos irregulares de las cuales hace pocos días además hemos tenido noticia. La dirección especializada de carabineros va a ser un nuevo cuerpo dedicado exclusivamente al control fronterizo y va a contar con apoyo logístico y tecnológico. Y en esto también quiero ser clara, porque aquí se da harto discurso, pero bien poco contenido sobre estos temas. Y la política pública se resuelve no con discurso, no frases hechas cierto a la pasada sino que efectivamente con una capacidad instalada que nos permita tener en la dirección espacializada de carabineros como señalaba todo el apoyo logístico y de tecnología que se requiere para el periodo en segundo segundo lugar, y como segunda propuesta, nosotros, como lo hemos señalado, no pensamos en que en Chile se pueda construir un muro de los 800 kilómetros de frontera que tenemos en el norte, porque las condiciones geográficas del país son bastante adversas, y la verdad es que esas soluciones de los años 50 no dan cuenta de la realidad del mundo hoy día ni del control fronterizo que se ejerce. Sí creemos que se puede construir un muro digital y lo hemos señalado porque finalmente por más que ingresen por distintos pasos fronterizos los migrantes irregulares, todos confluyen hacia la Panamericana Norte. Y en este sentido vamos a cerrar la frontera al narcotráfico y al crimen organizado con tecnología de punta. Vamos a implementar una barrera tecnológica permanente con drones, sensores y sistemas de detección avanzada para proteger nuestro territorio no más pasos ilegales chile tendrá fronteras inteligentes seguras y bajo control las 24 horas del día nosotros tenemos hoy día proyectos que están en curso como el proyecto cifrón y muralla digital pero esos proyectos hay que consolidarlos hay que darle más fuerza invertir más recursos y dar un salto yo diría porque lo que nos ha pasado es que si bien se ha invertido todavía seguimos con una tecnología muy antigua y con islas dentro de los servicios públicos que no terminan de integrar datos y que no terminan además de hacerse cargo quienes conducen desde el Estado estas tareas de la necesidad de poder aquí al centro el bien común más que las islas de cada servicio público. Yo en esto quiero ser clara porque la experiencia en el gobierno para esto va a ser fundamental. Quiero señalar que para eso, junto con el cifrón y la muralla digital, vamos a incorporar sensores subterráneos DAS, también la tecnología LIDAR y drones con cámaras térmicas para vigilancia y respuesta rápida, que es parte de lo que está ocurriendo en el mundo y que acá necesitamos implementarlo. También queremos desarrollar la coordinación e inteligencia predictiva con una red tecnológica que nos permita integrar información en tiempo real entre fuerzas armadas y carabineros y sistemas de análisis de datos, elevando la eficiencia y la precisión del control fronterizo, que es una dificultad que tenemos. En tercer lugar, nuestra propuesta también contempla la dotación tanto de más carabineros como de PDI, así lo han señalado las instituciones y así ha quedado claro el déficit que tenemos. Por cierto, la duplicación de la formación policial, más de 1.300 PDI, que este año además sabemos que eran 2.000, pero va a incorporarse, si es que el presupuesto logra avanzar en el Congreso Nacional para el próximo año y la derecha chilena no sigue teniéndoloancado más de 700 pd y nuevo que lo que el país necesita y quiero señalar que esto se va a sumar con criterio de distribución más equitativo porque hay comunas donde realmente no se ve ninguna fuerza de orden o seguridad y realmente eso no puede ocurrir en el país en cuarto lugar creemos que la tecnología y la seguridad inteligente tienen que ser un eje transversal de nuestro gobierno porque la seguridad se construye de esa manera hoy día y para eso cierto los análisis de datos los sistemas predictivos como señalaba anticipándonos también a la posibilidad es artarticular bandas, prevenir delitos, proteger cada barrio del país, va a ser algo que va a estar al servicio de la gente para que Chile pueda volver a dormir tranquilo y sea un país sin miedo. Combinar presencia militar permanente, especialización policial y tecnología avanzada de inteligencia, vigilancia y análisis predictivo para lograr un control fronterizo que sea inteligente, efectivo y moderno, pero sobre todo eficaz. Quiero señalar que la última idea en la que estamos trabajando y que lo sabe la ciudadanía, el levantamiento del secreto bancario, seguir la ruta del dinero y quiero reiterar que aquí no se trata de revisar a la gente lo que gasta en la cuenta ruta o lo que compró en la feria o el supermercado, esto es para los grandes movimientos de capitales, para los grandes movimientos de suma de dinero, para aquellos que hoy día están viniendo a chile a blanquear activos a blanquear dinero y que lamentablemente nuestra legislación debe ser actualizada aun cuando lamentablemente había mucha resistencia desde la derecha no lo sabemos por qué cuál es la razón pero nosotros tenemos un predicamento el que nada hace nada teme. Y si la derecha chilena dice que va a avanzar con todo en la persecución del crimen organizado, aquí volvemos a interpelarlos, a que se manifiesten. Y no agachen la cabeza como lo hicieron en el último foro cuando se habló de este tema, que se manifiesten porque no quieren levantar el secreto bancario. Yo quiero agradecer hoy día la presencia de los comités de seguridad de las vecinas y vecinos de las distintas comunas que nos acompañan, Quinta Normal, Renca y también Estación Central, que son parte de las organizaciones de la sociedad civil que se organizan en los barrios en torno a los temas de seguridad con un enfoque principalmente preventivo. Y quiero señalar que ninguna de estas medidas va a servir si nosotros no completamos nuestro análisis de la seguridad pública con medidas de carácter preventivas, donde la presencia de la comunidad organizada del municipio y del gobierno central son fundamentales donde no está el estado entre el narco y el crimen organizado y eso se ha constatado en distintos lugares del país por eso reiteró mi primera medida como presidenta va a ser desalojar el cerro chuño la instalación de la narcocultura en nuestro gobierno es algo lo que vamos a combatir fuertemente porque hoy día muchos jóvenes lo están mirando como un ejemplo posible y eso no puede ser ni lo vamos a tolerar dicho lo anterior quedó dispon quedo disponible para sus preguntas, si es que hubiera alguna. Hola, candidata, buenos días. Preguntarle respecto ya a los últimos días de campaña, diversas encuestas la posicionan en los primeros lugares, es decir, usted pasaría a una segunda vuelta. ¿Qué va a hacer para pasar en primer lugar en esta segunda vuelta? Y si sería quizás un fracaso pasar en segundo lugar. Mire, voy a hacer lo que he hecho todos los días, trabajar duro y de frente a la ciudadanía, no andar escondida, tratar de hacer propuestas serias que además se puedan cumplir y que cuenten con el financiamiento adecuado. Eso voy a hacer. Lo que decía la ciudadanía es lo que vamos a respetar todo y por lo menos de mi parte, lo que yo he tenido como experiencia candidata, que ha sido bien poco en realidad, sobre todo comparado con mis contendores, indica que esto no se define hasta el 16 de noviembre y que la segunda vuelta también es una elección que está completamente abierta y que ahí veremos qué es lo que la ciudadanía define. Yo, por mi parte, tengo la disposición a seguir siendo la misma que siempre he sido, una persona que trabaja por el bien común, que trabaja duro y que tiene disciplina y que no va a hacer promesas que no va a cumplir. Candidata, y respecto al plan de búsqueda, usted el día jueves decía que lo iba a fort tiene disciplina y que no va a hacer promesas que no va a cumplir. Candidata, y respecto al plan de búsqueda, usted el día jueves decía que lo iba a fortalecer. ¿Cómo lo va a fortalecer? Y por otro lado, ¿qué le parece que exintegrantes de la concertación estén apoyando a Matei a pesar de los dichos donde dice que detrás de este plan hay gente que busca venganza? Bueno, yo creo que las agentes de la exconsertación que le dio su apoyo a la candidata Matei, esas 10 personas que el otro día salieron nombradas, yo lamentablemente no ubicaba a ninguna, así que no tengo una opinión muy particular de todas ellas, pero sí le puedo decir que están en su legítimo derecho. O sea, cada uno en esto puede optar por quién vota por quien apoya ahora entiendo que la candidata mate y después cuando salió a decir que la búsqueda de los cuerpos de los familiares los detenidos aparecido y los ejecutados políticos era una venganza yo creo que la falta humanidad habla por sí sola y ahí cada uno tendrá que ver a quien apoya yo en eso no me voy a meter si, yo creo que la falta de humanidad habla por sí sola y ahí cada uno tendrá que ver a quién apoya, yo en eso no me voy a meter. Sí, no, yo creo que hay que hacer una revisión de aquello que se necesite, pero para mí es una tarea de Estado, evidentemente, y si se requieren tanto mayores atribuciones o recursos o plazos más acotados en los calendarios, voy a, por cierto, dar cumplimiento con aquello, porque es un deber del Estado. Mire, aquí se hace una discusión ideológica de un tema que es de profunda humanidad. Aquí se mató gente, es verdad, porque pensaba distinto y se le hizo desaparecer. Pero han pasado más de 50 años. Y si a alguno de nosotros le hubieran desaparecido un hijo, yo le aseguro que podrían pasar 100 años más y yo al menos lo seguiría buscando. Hola, candidata, ¿cómo está? Buenos días. Buenos días. Le quería preguntar cómo evaluó el crecimiento del candidato Johannes Kaiser en la encuesta. ¿Cree que usted tendría una mejor posibilidad de ganar en caso de enfrentarlo en una eventual segunda vuelta? Mire, me han preguntado sobre eso. Yo creo que esta elección es bien volátil, al parecer, entre los tres candidatos de la derecha que hoy día están, más bien dicho, los dos, Kaiser y Kass, porque la candidata Matei ha tenido altibajos en esto pero al parecer ellos están en una lucha interna porque lidera el sector se han tratado de mover un poco al centro después un poco más a los extremos y han salido cierto estas declaraciones bien asombrosas que se han hecho en estos últimos días, pero yo creo que hay que tener un profundo respeto por el electorado chileno, la ciudadanía es quien va a elegir a su representante, y sea Kaiser, Kass, Matei, Maynick, Osmeo, Artés o Parisi, yo voy a estar disponible para hacer mis propuestas de frente a la ciudadanía y que sea ellos quienes elijan. Yo creo que lo peor que uno puede hacer en política es actuar con soberbia y señalar que a alguno le podría convenir más que al otro porque eso es subestimar a la otra persona o al adversario político, y en mi caso eso no va a ocurrir. Hola, candidata, ¿cómo está? Buen día. En la misma línea, y considerando las últimas encuestas, ¿cómo ve que desde el comando de José Antonio Kast estén llamando al voto útil en la oposición para intentar unir fuerzas, quizás fuerzas, para vencerle a usted en primera vuelta y pasar él en primer lugar? Mire, cuando se llama, más allá de que sea ahora Cáceres el que llama a este tema del voto útil, pero no hay campaña en la que yo no haya visto que no se llame al voto útil y eso esté destinado a ser un fracaso. Creo que es la peor estrategia electoral que se puede hacer. Pero bueno, allá él. ¿Cómo está, candidata? Muy buenos días. Entendemos que en su comando el objetivo para la primera vuelta es sostener precisamente este primer lugar que conocemos hasta ahora en los sondeos y que la diferencia con el más cercano percibidor sea amplia de cara a un eventual balotaje. ¿Cómo se consigue eso? ¿Con qué mensaje en estos días? ¿Y qué le parece en esa misma línea que el presidente de la UDI manifieste miedo en la derecha ante una eventual distancia parecida a la del 2021 y que a ellos se les ponga cuesta arriba la elección? Mire, lo primero que quiero señalar es que nosotros estamos aquí para competir de frente a la ciudadanía y con los distintos candidatos. Si los candidatos me eligen como primera mayoría y con una amplia diferencia respecto del segundo, quien quede en segundo lugar, nosotros vamos a estar muy contentos porque nuestro trabajo va a haber sido más efectivo. Si eso no ocurre de esa forma y salimos pegados o en segundo lugar, igualmente vamos a ir con toda la fuerza a la segunda vuelta. Eso lo quiero decir con claridad. Porque nosotros nos presentamos para conducir el país los próximos cuatro años. Tenemos ideas, propuestas y equipo. Y lo hicimos para poder competir en una alianza amplia de la centroizquierda chilena, que sí tuvo una primaria, que sí demuestra gobernabilidad, que sí tiene nueve partidos detrás y que no está sacándose los ojos como la derecha. No, la UDI, mire, lo que pasa es que la UDI está planteando esto, yo la verdad creo que puede ser razonable, pero es un tema de ellos, yo es que en lo que hagan los partidos de la derecha no me voy a meter, yo lo único que veo y observo es que un sector donde hay dos ultraderechas, una derecha tradicional que cada dos por tres acuerda que era una derecha además pinochetista, yo realmente no veo ninguna opción de darle gobernabilidad al país, porque para gobernar un país de gente tan diversa como somos los chilenos y chilenas, se requiere capacidad de diálogo entre todos. Y ellos entre los tres no se han podido poner de acuerdo hasta ahora. Estamos a dos semanas de la elección, un año entero en esto. Entonces realmente es bien complejo, pero bueno, ellos verán lo que hacen. Candidata, usted mañana tiene una cena con figuras del socialismo democrático. Primero, ¿esta escena busca que también pueda servir para convencer a aquellos de ese sector que todavía no están por respaldarla? Y segundo, si es que la presencia de Carolina Toda significa que la va a sumar en un rol activo en esta recta final de la campaña o ya para la segunda vuelta mire yo sino todos los días con personas de distintos partidos no sé por qué esta escena en particular ha generado tantos revuelos a lo mejor alguno de los invitados quería darle cierto realza a la escena les agradezco la invitación a la gente el sistema democrático pero una una cena más de las muchas que han habido. ¿Y el rol de Carolina? Con Carolina todavía no he podido hablar, pero para que los medios sepan, porque el otro día en una entrevista que me hicieron, creo que Quique Mujica me decía que él no sabía el antecedente que yo estaba contando. Con Carolina hemos estado trabajando todo este tiempo. Carolina me ha estado apoyando a mí directamente y yo le agradezco mucho. Ojalá se pudiera sumar a otra cosa, pero para eso tengo que hablar con ella primero. Y no ha alcanzado, porque esto fue como el jueves y de ahí vino el día feriado así que a lo mejor mañana mismo pero en una cena habitual querida no, nada buenos días tengo dos preguntas la primera relacionada con el presupuesto ya quería que me señalara cómo se destraba este nudo y las distintas declaraciones que han habido respecto al rol del ministro Grau y lo que puede pasar con algunas partidas, digamos, sensibles, donde usted también ha insistido en la necesidad de reponer la glosa republicana. ¿Cómo se destraba esa situación y qué es lo que espera usted del Congreso en las próximas semanas? Interesante pregunta. Mire, sobre lo primero, yo le puedo decir cómo se saca adelante una reforma de pensiones que lleva 10 años atorada. Más el presupuesto, cómo lo va a sacar adelante, va a tener que responderlo el gobierno a través de su ministro de Hacienda. Ahí es donde está la tarea. Yo, por lo menos, le puedo decir lo que yo hice y me parece a mí que es importante escuchar a los demás sectores y buscar acuerdos que permitan que un presupuesto siga adelante. No me gusta que se use el presupuesto como botín político, porque sea quien sea quien gobierne, evidentemente, el presupuesto de la Nación se requiere para efectos de financiar el gasto público que a la vez sustenta la vida de muchas familias como por ejemplo lo que se hace a través de la pgv la subvención escolar la alimentación escolar o el aporte a la ps pero es una respuesta una respuesta que tiene que dar el gobierno digamos yo de eso no tengo nada que ver ahí. Sí, lo que le puedo señalar es que a mí me preocupan algunas partidas que han sido reducidas. Una de ellas tiene que ver con la disponibilidad para comprar terrenos para la construcción de nuevas viviendas sociales. Y me preocupa porque si el próximo gobierno que espero encabezar queda muy amarrado evidentemente va a ser una dificultad así que a los parlamentarios que me acompañan les he pedido que revisen cierto estas glosas presupuestarias que tienen que ver con la glosa 8 y 9 del presupuesto de la nación para resolver la compra de terrenos que permita construir las viviendas sociales que hemos comprometido. Y lo segundo, respecto de la Glosa de Libre Disponibilidad, la verdad es que en el marco del Presupuesto Nacional es una suma que, siendo relevante, creo que sería muy bueno que se pudiera reponer, porque no va a ser la gran diferencia entre un financiamiento completo o un financiamiento sostenible en el tiempo del presupuesto. O sea, básicamente es una cifra importante, pero no es algo que desajuste o ajuste el presupuesto, d dado la magnitud del presupuesto nacional, pero sí va a servir como una herramienta para cuando asuma como presidenta y como señalé, lo voy a invertir en acelerar el proceso de reconstrucción en Viña. Así que espero que lo puedan solucionar. Justamente, candidata, ¿qué le parece en el marco de la discusión del presupuesto, que el relativo a vivienda, un tema sensible que está en varias oportunidades de lo manifestado, crezca solo un 13%, pero se destine principalmente al pago de deudas del actual programa de emergencia habitacional y bajan a su vez los subsidios habitacionales para programas DS-49 y DS-19. No, no estoy de acuerdo para nada con eso. Me parece muy delicado porque el país tiene una grave crisis de vivienda y la crisis de vivienda no se acaba con este gobierno, por el contrario. Y cuando asuma como Presidenta quiero darle que esa crisis de vivienda siga evidentemente reduciéndose y no ampliándose. Así que no estoy para nada de acuerdo en las reducciones que se hacen en temas de vivienda y menos que se estén traspasando cuentas de un año para otro. Es un tema de gestión que el Ministro de Vivienda debe haber visto oportunamente. Última pregunta, candidata. Candidata, buenos días. En Radio Pauta, el economista Klaus Schmidt-Hebel dijo que por expectativas económicas no cambiarían si Castro o Matei fueran presidentes. En caso de que usted lo fuera, él dice que estas expectativas irían al tacho de la basura. Más allá de buscar polemizar, mi pregunta es, ¿qué mensaje le entregaría usted a la ciudadanía para disipar estas dudas o miedos que se han presentado por parte de esto? Mire, yo creo que el mejor mensaje que puedo dar es que en todo el tiempo en el que he trabajado en distintos lugares públicos, como en el sector privado, mi relación con los empresarios ha sido sincera y cordial. La verdad es que esa sinceridad involucra que uno se pueda decir de frente cuando está de acuerdo, como también cuando no lo está. Por ejemplo, para mí en Chile se paga poco y aunque lo he dicho claramente y algunos insistan en negarlo, economistas como el que usted cita, la verdad es que sí se paga poco y a la gente no le alcanza para vivir. Por eso como Presidenta voy a impulsar el ingreso vital de 750 mil pesos, porque las personas cuando trabajan le tienen que alcanzar al menos para pagar sus cuentas, el arriendo y su comida. Esa es una diferencia diametral con lo que algunos piensan. Pero respecto de la relación con el mundo empresarial, no sé, yo me quedo con las palabras que dijo el anterior presidente de la CPC, Ricardo Médez, que si yo soy elegida presidente, evidentemente Chile no se cae a pedazos, sino que por el contrario, hemos trabajado muchas cosas juntos. Yo no sé, Klaus Smith Hebel a lo mejor no conoce la opinión de los empresarios chilenos, pero bueno, así ha sido antes y yo tengo en eso absoluta tranquilidad. Quiero agregarle un antecedente, sí, breve. Cuando fui nombrada ministra, después de haber sido subsecretaria de la presidenta Bachelet, se especuló todo el verano que nunca me iba a poder reunir con ningún empresario porque ninguno iba a permitir que una ministra comunista se reuniera con ellos. Miren ustedes cómo sacamos adelante juntos las 40 horas con la CUT y los empresarios. El alza histórica y el sueldo mínimo y la reforma previsional. Entonces, una cosa es lo que se dice con intención y otra cosa es lo que la realidad indica. Eso es lo bueno, que en mi caso hay pruebas concretas de lo que ya he hecho, no solo promesas de futuro. Les agradezco mucho su atención hoy día en el punto de prensa. Que estén bien. Hace frío. Gracias. Gracias por ver el video.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "Gracias.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "text": "Gracias.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 19.0,
+      "end": 37.0,
+      "text": "Gracias. Gracias. Gracias. Gracias. Gracias. Gracias. Bueno, primero voy a dejar a Michael Bernales con ustedes, que es de",
+      "speaker": "Jara"
+    },
+    {
+      "start": 37.0,
+      "end": 40.16,
+      "text": "un comité de seguridad municipal, para que nos cuente algunas cosas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 44.12,
+      "end": 48.02,
+      "text": "Muchas gracias, buenos días. Hemos tenido una conversación aquí, una integración",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 48.02,
+      "end": 54.18,
+      "text": "muy bonita. Yo soy Michael Bernales, trabajo en el área de seguridad desde la sociedad civil,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 54.42,
+      "end": 57.92,
+      "text": "tengo como un comité de seguridad, y aquí estamos con distintos dirigentes",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 57.92,
+      "end": 61.92,
+      "text": "de comunas como Quinta Normal, Renca, Estación Central,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 62.44,
+      "end": 71.7,
+      "text": "y apoyamos la candidatura de la candidata Jara, dado que sus políticas de retomar los espacios de la comunidad,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 71.86,
+      "end": 78.8,
+      "text": "que es donde nosotros más intervenimos, apunta justamente a la prevención, que es de donde nosotros creemos que se debe abordar",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 78.8,
+      "end": 80.54,
+      "text": "la problemática de seguridad. Es por eso que en las conversaciones que hemos tenido y las creemos que se debe abordar la problemática de seguridad.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 84.52,
+      "end": 84.6,
+      "text": "Es por eso que en las conversaciones que hemos tenido y las propuestas que nos hacen,",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 86.5,
+      "end": 86.64,
+      "text": "no hacen mucho sentido justamente en esa medida.",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 89.26,
+      "end": 89.64,
+      "text": "Entonces, la invitación es a apoyarla.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 94.4,
+      "end": 95.84,
+      "text": "Sabemos que el tema de la seguridad siempre es un factor que causa miedo, pero en la prevención",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 95.84,
+      "end": 101.62,
+      "text": "creemos que está justamente la forma de poder prevenirla. Mucho más otras medidas que también",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 101.62,
+      "end": 105.56,
+      "text": "tiene la candidata y espero ella nos pueda, obviamente, profundizar e indicar un poquito",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 105.56,
+      "end": 106.9,
+      "text": "más. Muchas gracias.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 110.12,
+      "end": 113.76,
+      "text": "Bueno, como lo hemos señaladoado para nosotros el tema de la seguridad pública",
+      "speaker": "Jara"
+    },
+    {
+      "start": 113.76,
+      "end": 117.94,
+      "text": "siendo un tema prioritario para la ciudadanía por tanto también lo es para",
+      "speaker": "Jara"
+    },
+    {
+      "start": 117.94,
+      "end": 121.46,
+      "text": "nosotros y lo hacemos propio porque entendemos que la seguridad pública no es",
+      "speaker": "Jara"
+    },
+    {
+      "start": 121.46,
+      "end": 128.16,
+      "text": "un tema de un partido político ni de una derecha o una izquierda sino que que vivir tranquilo es un derecho humano. Y quiero ser bien clara en esto.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 128.6,
+      "end": 134.18,
+      "text": "En este sentido, quiero señalar que nuestro gobierno, la seguridad se va a enfrentar con inteligencia tecnológica",
+      "speaker": "Jara"
+    },
+    {
+      "start": 134.18,
+      "end": 139.94,
+      "text": "y con coordinación total del Estado. No más respuestas improvisadas, ni tampoco reacciones tardías.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 140.5,
+      "end": 146.2,
+      "text": "Tendremos fronteras inteligentes, levantaremos el secreto bancario y distribuiremos una presencia",
+      "speaker": "Jara"
+    },
+    {
+      "start": 146.2,
+      "end": 148.36,
+      "text": "policial equitativa en todas las comunas del país.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 148.92,
+      "end": 153.9,
+      "text": "Sabemos lo que ocasiona la ausencia, cierto, de carabineros en algunas comunas y la necesidad",
+      "speaker": "Jara"
+    },
+    {
+      "start": 153.9,
+      "end": 160.26,
+      "text": "que hay de fortalecer no solo su presencia preventiva, sino que también su capacidad de respuesta,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 160.7,
+      "end": 163.94,
+      "text": "porque no da lo mismo responder en minutos que responder en semanas,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 164.42,
+      "end": 166.28,
+      "text": "y es deber del Estado responder rápidamente.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 167.3,
+      "end": 169.38,
+      "text": "A este sentido, quiero presentar cinco propuestas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 169.52,
+      "end": 173.94,
+      "text": "La primera es la propuesta de una policía fronteriza para lo cual vamos a asegurar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 173.94,
+      "end": 179.04,
+      "text": "nuestras fronteras con decisión y coordinación generando dentro de el",
+      "speaker": "Jara"
+    },
+    {
+      "start": 179.04,
+      "end": 183.7,
+      "text": "ámbito de carabineros una especialidad denominada policía fronteriza que iba a",
+      "speaker": "Jara"
+    },
+    {
+      "start": 183.7,
+      "end": 186.36,
+      "text": "venir a complementar el trabajo de despliegue de la Fuerza Armada",
+      "speaker": "Jara"
+    },
+    {
+      "start": 186.36,
+      "end": 190.2,
+      "text": "en las fronteras que hoy día tenemos ya instaladas en nuestro país",
+      "speaker": "Jara"
+    },
+    {
+      "start": 190.2,
+      "end": 194.4,
+      "text": "y sobre todo considerando la necesidad urgente de detener el narcotráfico.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 194.8,
+      "end": 199.32,
+      "text": "Yo en esto quiero ser bien clara, tanto el narcotráfico como el contrabando hacen un daño profundo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 199.32,
+      "end": 205.74,
+      "text": "y son pasos que están muy correlacionados con el crimen organizado y la generación",
+      "speaker": "Jara"
+    },
+    {
+      "start": 205.74,
+      "end": 210.84,
+      "text": "o la detección de nuevos pasos irregulares de las cuales hace pocos días además hemos tenido noticia.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 211.48,
+      "end": 215.0,
+      "text": "La dirección especializada de carabineros va a ser un nuevo cuerpo dedicado exclusivamente",
+      "speaker": "Jara"
+    },
+    {
+      "start": 215.0,
+      "end": 220.0,
+      "text": "al control fronterizo y va a contar con apoyo logístico y tecnológico.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 220.0,
+      "end": 224.0,
+      "text": "Y en esto también quiero ser clara, porque aquí se da harto discurso,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 224.0,
+      "end": 226.0,
+      "text": "pero bien poco contenido sobre estos temas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 226.0,
+      "end": 234.22,
+      "text": "Y la política pública se resuelve no con discurso, no frases hechas cierto a la pasada sino que efectivamente con una",
+      "speaker": "Jara"
+    },
+    {
+      "start": 234.22,
+      "end": 237.48,
+      "text": "capacidad instalada que nos permita tener",
+      "speaker": "Jara"
+    },
+    {
+      "start": 237.48,
+      "end": 241.54,
+      "text": "en la dirección espacializada de carabineros como señalaba todo el apoyo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 241.54,
+      "end": 248.0,
+      "text": "logístico y de tecnología que se requiere para el periodo en segundo segundo lugar, y como segunda propuesta, nosotros, como lo hemos señalado,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 248.0,
+      "end": 255.0,
+      "text": "no pensamos en que en Chile se pueda construir un muro de los 800 kilómetros de frontera que tenemos en el norte,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 255.0,
+      "end": 259.0,
+      "text": "porque las condiciones geográficas del país son bastante adversas,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 259.0,
+      "end": 264.24,
+      "text": "y la verdad es que esas soluciones de los años 50 no dan cuenta de la realidad del mundo hoy día",
+      "speaker": "Jara"
+    },
+    {
+      "start": 264.24,
+      "end": 265.9,
+      "text": "ni del control fronterizo que se ejerce.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 266.34,
+      "end": 269.0,
+      "text": "Sí creemos que se puede construir un muro digital y lo hemos señalado",
+      "speaker": "Jara"
+    },
+    {
+      "start": 269.54,
+      "end": 274.0,
+      "text": "porque finalmente por más que ingresen por distintos pasos fronterizos los migrantes irregulares,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 275.02,
+      "end": 277.0,
+      "text": "todos confluyen hacia la Panamericana Norte.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 277.0,
+      "end": 282.56,
+      "text": "Y en este sentido vamos a cerrar la frontera al narcotráfico y al crimen organizado con tecnología de punta.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 283.02,
+      "end": 289.0,
+      "text": "Vamos a implementar una barrera tecnológica permanente con drones, sensores y sistemas de detección avanzada",
+      "speaker": "Jara"
+    },
+    {
+      "start": 289.54,
+      "end": 290.56,
+      "text": "para proteger",
+      "speaker": "Jara"
+    },
+    {
+      "start": 290.56,
+      "end": 295.12,
+      "text": "nuestro territorio no más pasos ilegales chile tendrá fronteras inteligentes",
+      "speaker": "Jara"
+    },
+    {
+      "start": 295.12,
+      "end": 298.86,
+      "text": "seguras y bajo control las 24 horas del día",
+      "speaker": "Jara"
+    },
+    {
+      "start": 298.86,
+      "end": 303.4,
+      "text": "nosotros tenemos hoy día proyectos que están en curso como el proyecto cifrón y",
+      "speaker": "Jara"
+    },
+    {
+      "start": 303.4,
+      "end": 307.98,
+      "text": "muralla digital pero esos proyectos hay que consolidarlos hay que darle más fuerza",
+      "speaker": "Jara"
+    },
+    {
+      "start": 307.98,
+      "end": 312.24,
+      "text": "invertir más recursos y dar un salto yo diría porque lo que nos ha pasado es que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 312.24,
+      "end": 317.52,
+      "text": "si bien se ha invertido todavía seguimos con una tecnología muy antigua y con",
+      "speaker": "Jara"
+    },
+    {
+      "start": 317.52,
+      "end": 324.76,
+      "text": "islas dentro de los servicios públicos que no terminan de integrar datos y que no terminan además de hacerse cargo quienes conducen desde el",
+      "speaker": "Jara"
+    },
+    {
+      "start": 324.76,
+      "end": 330.92,
+      "text": "Estado estas tareas de la necesidad de poder aquí al centro el bien común más que las",
+      "speaker": "Jara"
+    },
+    {
+      "start": 330.92,
+      "end": 334.78,
+      "text": "islas de cada servicio público. Yo en esto quiero ser clara porque la experiencia en",
+      "speaker": "Jara"
+    },
+    {
+      "start": 334.78,
+      "end": 336.4,
+      "text": "el gobierno para esto va a ser fundamental.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 337.24,
+      "end": 340.64,
+      "text": "Quiero señalar que para eso, junto con el cifrón y la muralla digital,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 341.28,
+      "end": 345.8,
+      "text": "vamos a incorporar sensores subterráneos DAS, también la tecnología LIDAR",
+      "speaker": "Jara"
+    },
+    {
+      "start": 345.8,
+      "end": 349.12,
+      "text": "y drones con cámaras térmicas para vigilancia y respuesta rápida,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 349.12,
+      "end": 353.0,
+      "text": "que es parte de lo que está ocurriendo en el mundo y que acá necesitamos implementarlo.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 353.0,
+      "end": 357.0,
+      "text": "También queremos desarrollar la coordinación e inteligencia predictiva",
+      "speaker": "Jara"
+    },
+    {
+      "start": 357.0,
+      "end": 362.0,
+      "text": "con una red tecnológica que nos permita integrar información en tiempo real",
+      "speaker": "Jara"
+    },
+    {
+      "start": 362.0,
+      "end": 365.7,
+      "text": "entre fuerzas armadas y carabineros y sistemas de análisis",
+      "speaker": "Jara"
+    },
+    {
+      "start": 365.7,
+      "end": 370.18,
+      "text": "de datos, elevando la eficiencia y la precisión del control fronterizo, que es una dificultad",
+      "speaker": "Jara"
+    },
+    {
+      "start": 370.18,
+      "end": 375.44,
+      "text": "que tenemos. En tercer lugar, nuestra propuesta también contempla la dotación tanto de más",
+      "speaker": "Jara"
+    },
+    {
+      "start": 375.44,
+      "end": 379.64,
+      "text": "carabineros como de PDI, así lo han señalado las instituciones y así ha quedado claro",
+      "speaker": "Jara"
+    },
+    {
+      "start": 379.64,
+      "end": 383.3,
+      "text": "el déficit que tenemos. Por cierto, la duplicación de la formación",
+      "speaker": "Jara"
+    },
+    {
+      "start": 383.3,
+      "end": 388.12,
+      "text": "policial, más de 1.300 PDI, que este año además sabemos que eran 2.000, pero va a",
+      "speaker": "Jara"
+    },
+    {
+      "start": 388.12,
+      "end": 391.98,
+      "text": "incorporarse, si es que el presupuesto logra avanzar en el Congreso Nacional para el próximo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 391.98,
+      "end": 398.68,
+      "text": "año y la derecha chilena no sigue teniéndoloancado más de 700 pd y nuevo que lo que el país necesita y",
+      "speaker": "Jara"
+    },
+    {
+      "start": 398.68,
+      "end": 401.34,
+      "text": "quiero señalar que esto se va a sumar con criterio de distribución más",
+      "speaker": "Jara"
+    },
+    {
+      "start": 401.34,
+      "end": 405.36,
+      "text": "equitativo porque hay comunas donde realmente no se ve ninguna fuerza de",
+      "speaker": "Jara"
+    },
+    {
+      "start": 405.36,
+      "end": 409.2,
+      "text": "orden o seguridad y realmente eso no puede ocurrir en el país",
+      "speaker": "Jara"
+    },
+    {
+      "start": 409.2,
+      "end": 413.22,
+      "text": "en cuarto lugar creemos que la tecnología y la seguridad inteligente tienen que ser",
+      "speaker": "Jara"
+    },
+    {
+      "start": 413.22,
+      "end": 417.78,
+      "text": "un eje transversal de nuestro gobierno porque la seguridad se construye de esa",
+      "speaker": "Jara"
+    },
+    {
+      "start": 417.78,
+      "end": 421.32,
+      "text": "manera hoy día y para eso cierto los análisis de datos los sistemas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 421.32,
+      "end": 430.08,
+      "text": "predictivos como señalaba anticipándonos también a la posibilidad es artarticular bandas, prevenir delitos, proteger cada barrio del país, va a ser",
+      "speaker": "Jara"
+    },
+    {
+      "start": 430.08,
+      "end": 434.16,
+      "text": "algo que va a estar al servicio de la gente para que Chile pueda volver a dormir tranquilo y sea",
+      "speaker": "Jara"
+    },
+    {
+      "start": 434.16,
+      "end": 439.8,
+      "text": "un país sin miedo. Combinar presencia militar permanente, especialización policial y tecnología",
+      "speaker": "Jara"
+    },
+    {
+      "start": 439.8,
+      "end": 443.02,
+      "text": "avanzada de inteligencia, vigilancia y análisis predictivo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 443.02,
+      "end": 447.86,
+      "text": "para lograr un control fronterizo que sea inteligente, efectivo y moderno,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 448.12,
+      "end": 449.66,
+      "text": "pero sobre todo eficaz.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 450.24,
+      "end": 452.48,
+      "text": "Quiero señalar que la última idea en la que estamos trabajando",
+      "speaker": "Jara"
+    },
+    {
+      "start": 452.48,
+      "end": 459.02,
+      "text": "y que lo sabe la ciudadanía, el levantamiento del secreto bancario, seguir la ruta del dinero y quiero reiterar que aquí",
+      "speaker": "Jara"
+    },
+    {
+      "start": 459.02,
+      "end": 462.92,
+      "text": "no se trata de revisar a la gente lo que gasta en la cuenta ruta o lo que compró en la feria",
+      "speaker": "Jara"
+    },
+    {
+      "start": 462.92,
+      "end": 467.16,
+      "text": "o el supermercado, esto es para los grandes movimientos de capitales, para los grandes",
+      "speaker": "Jara"
+    },
+    {
+      "start": 467.16,
+      "end": 472.02,
+      "text": "movimientos de suma de dinero, para aquellos que hoy día están viniendo a chile a blanquear activos a blanquear",
+      "speaker": "Jara"
+    },
+    {
+      "start": 472.02,
+      "end": 476.7,
+      "text": "dinero y que lamentablemente nuestra legislación debe ser actualizada aun",
+      "speaker": "Jara"
+    },
+    {
+      "start": 476.7,
+      "end": 480.24,
+      "text": "cuando lamentablemente había mucha resistencia desde la derecha no lo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 480.24,
+      "end": 484.02,
+      "text": "sabemos por qué cuál es la razón pero nosotros tenemos un predicamento el que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 484.02,
+      "end": 485.42,
+      "text": "nada hace nada teme.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 485.78,
+      "end": 493.5,
+      "text": "Y si la derecha chilena dice que va a avanzar con todo en la persecución del crimen organizado, aquí volvemos a interpelarlos, a que se manifiesten.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 493.74,
+      "end": 499.8,
+      "text": "Y no agachen la cabeza como lo hicieron en el último foro cuando se habló de este tema, que se manifiesten porque no quieren levantar el secreto bancario.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 500.32,
+      "end": 503.92,
+      "text": "Yo quiero agradecer hoy día la presencia de los comités de seguridad de las vecinas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 503.92,
+      "end": 509.38,
+      "text": "y vecinos de las distintas comunas que nos acompañan, Quinta Normal, Renca y también",
+      "speaker": "Jara"
+    },
+    {
+      "start": 509.38,
+      "end": 514.36,
+      "text": "Estación Central, que son parte de las organizaciones de la sociedad civil que se organizan en los",
+      "speaker": "Jara"
+    },
+    {
+      "start": 514.36,
+      "end": 519.94,
+      "text": "barrios en torno a los temas de seguridad con un enfoque principalmente preventivo.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 520.54,
+      "end": 524.48,
+      "text": "Y quiero señalar que ninguna de estas medidas va a servir si nosotros no completamos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 524.48,
+      "end": 528.56,
+      "text": "nuestro análisis de la seguridad pública con medidas de carácter preventivas,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 529.16,
+      "end": 534.28,
+      "text": "donde la presencia de la comunidad organizada del municipio y del gobierno central son",
+      "speaker": "Jara"
+    },
+    {
+      "start": 534.28,
+      "end": 538.92,
+      "text": "fundamentales donde no está el estado entre el narco y el crimen organizado y",
+      "speaker": "Jara"
+    },
+    {
+      "start": 538.92,
+      "end": 541.56,
+      "text": "eso se ha constatado en distintos lugares del país",
+      "speaker": "Jara"
+    },
+    {
+      "start": 541.56,
+      "end": 547.5,
+      "text": "por eso reiteró mi primera medida como presidenta va a ser desalojar el cerro chuño la instalación de la",
+      "speaker": "Jara"
+    },
+    {
+      "start": 547.5,
+      "end": 552.28,
+      "text": "narcocultura en nuestro gobierno es algo lo que vamos a combatir fuertemente",
+      "speaker": "Jara"
+    },
+    {
+      "start": 552.28,
+      "end": 556.18,
+      "text": "porque hoy día muchos jóvenes lo están mirando como un ejemplo posible y eso no",
+      "speaker": "Jara"
+    },
+    {
+      "start": 556.18,
+      "end": 563.12,
+      "text": "puede ser ni lo vamos a tolerar dicho lo anterior quedó dispon quedo disponible para sus preguntas, si es que hubiera alguna.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 563.6,
+      "end": 567.66,
+      "text": "Hola, candidata, buenos días. Preguntarle respecto ya a los últimos días de campaña,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 567.86,
+      "end": 571.8,
+      "text": "diversas encuestas la posicionan en los primeros lugares, es decir, usted pasaría a una segunda vuelta.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 572.26,
+      "end": 575.46,
+      "text": "¿Qué va a hacer para pasar en primer lugar en esta segunda vuelta?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 575.88,
+      "end": 579.36,
+      "text": "Y si sería quizás un fracaso pasar en segundo lugar.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 580.02,
+      "end": 583.72,
+      "text": "Mire, voy a hacer lo que he hecho todos los días, trabajar duro y de frente a la ciudadanía,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 583.84,
+      "end": 587.82,
+      "text": "no andar escondida, tratar de hacer propuestas serias que además se puedan cumplir",
+      "speaker": "Jara"
+    },
+    {
+      "start": 587.82,
+      "end": 593.52,
+      "text": "y que cuenten con el financiamiento adecuado. Eso voy a hacer. Lo que decía la ciudadanía es lo que vamos a respetar todo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 593.52,
+      "end": 598.24,
+      "text": "y por lo menos de mi parte, lo que yo he tenido como experiencia candidata, que ha sido bien",
+      "speaker": "Jara"
+    },
+    {
+      "start": 598.24,
+      "end": 602.46,
+      "text": "poco en realidad, sobre todo comparado con mis contendores, indica que esto no se define",
+      "speaker": "Jara"
+    },
+    {
+      "start": 602.46,
+      "end": 608.22,
+      "text": "hasta el 16 de noviembre y que la segunda vuelta también es una elección que está completamente abierta y que ahí veremos qué",
+      "speaker": "Jara"
+    },
+    {
+      "start": 608.22,
+      "end": 612.6,
+      "text": "es lo que la ciudadanía define. Yo, por mi parte, tengo la disposición a seguir siendo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 612.6,
+      "end": 616.26,
+      "text": "la misma que siempre he sido, una persona que trabaja por el bien común, que trabaja",
+      "speaker": "Jara"
+    },
+    {
+      "start": 616.26,
+      "end": 619.48,
+      "text": "duro y que tiene disciplina y que no va a hacer promesas que no va a cumplir.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 619.96,
+      "end": 620.0,
+      "text": "Candidata, y respecto al plan de búsqueda, usted el día jueves decía que lo iba a fort tiene disciplina y que no va a hacer promesas que no va a cumplir.",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 624.12,
+      "end": 624.24,
+      "text": "Candidata, y respecto al plan de búsqueda, usted el día jueves decía que lo iba a fortalecer.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 628.82,
+      "end": 633.86,
+      "text": "¿Cómo lo va a fortalecer? Y por otro lado, ¿qué le parece que exintegrantes de la concertación estén apoyando a Matei a pesar de los dichos donde dice que detrás de este plan hay gente que busca venganza?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 634.0,
+      "end": 637.14,
+      "text": "Bueno, yo creo que las agentes de la exconsertación que le dio su apoyo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 637.14,
+      "end": 642.22,
+      "text": "a la candidata Matei, esas 10 personas que el otro día salieron nombradas,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 642.3,
+      "end": 646.28,
+      "text": "yo lamentablemente no ubicaba a ninguna, así que no tengo una opinión muy particular",
+      "speaker": "Jara"
+    },
+    {
+      "start": 646.28,
+      "end": 648.64,
+      "text": "de todas ellas, pero sí le puedo decir que están en su legítimo derecho.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 649.26,
+      "end": 653.94,
+      "text": "O sea, cada uno en esto puede optar por quién vota por quien apoya ahora entiendo que la candidata mate y",
+      "speaker": "Jara"
+    },
+    {
+      "start": 653.94,
+      "end": 658.38,
+      "text": "después cuando salió a decir que la búsqueda de los cuerpos de los familiares los detenidos aparecido",
+      "speaker": "Jara"
+    },
+    {
+      "start": 658.38,
+      "end": 663.9,
+      "text": "y los ejecutados políticos era una venganza yo creo que la falta humanidad habla por sí sola y",
+      "speaker": "Jara"
+    },
+    {
+      "start": 663.9,
+      "end": 666.66,
+      "text": "ahí cada uno tendrá que ver a quien apoya yo en eso no me voy a meter si, yo creo que la falta de humanidad habla por sí sola y ahí cada uno tendrá que ver a quién apoya, yo en eso no me voy a meter.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 668.5,
+      "end": 671.82,
+      "text": "Sí, no, yo creo que hay que hacer una revisión de aquello que se necesite,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 671.92,
+      "end": 675.18,
+      "text": "pero para mí es una tarea de Estado, evidentemente, y si se requieren",
+      "speaker": "Jara"
+    },
+    {
+      "start": 675.18,
+      "end": 678.66,
+      "text": "tanto mayores atribuciones o recursos o plazos más acotados en los calendarios,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 679.14,
+      "end": 681.98,
+      "text": "voy a, por cierto, dar cumplimiento con aquello, porque es un deber del Estado.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 682.1,
+      "end": 686.98,
+      "text": "Mire, aquí se hace una discusión ideológica de un tema que es de profunda humanidad.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 687.38,
+      "end": 690.36,
+      "text": "Aquí se mató gente, es verdad, porque pensaba distinto y se le hizo desaparecer.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 690.66,
+      "end": 692.18,
+      "text": "Pero han pasado más de 50 años.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 692.9,
+      "end": 695.74,
+      "text": "Y si a alguno de nosotros le hubieran desaparecido un hijo,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 696.22,
+      "end": 699.62,
+      "text": "yo le aseguro que podrían pasar 100 años más y yo al menos lo seguiría buscando.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 700.96,
+      "end": 702.68,
+      "text": "Hola, candidata, ¿cómo está? Buenos días.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 702.72,
+      "end": 703.24,
+      "text": "Buenos días.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 703.66,
+      "end": 707.62,
+      "text": "Le quería preguntar cómo evaluó el crecimiento del candidato Johannes Kaiser en la encuesta.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 708.18,
+      "end": 711.06,
+      "text": "¿Cree que usted tendría una mejor posibilidad de ganar",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 711.06,
+      "end": 713.24,
+      "text": "en caso de enfrentarlo en una eventual segunda vuelta?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 713.9,
+      "end": 715.7,
+      "text": "Mire, me han preguntado sobre eso.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 715.84,
+      "end": 718.1,
+      "text": "Yo creo que esta elección es bien volátil, al parecer,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 718.24,
+      "end": 721.14,
+      "text": "entre los tres candidatos de la derecha que hoy día están,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 721.14,
+      "end": 723.12,
+      "text": "más bien dicho, los dos, Kaiser y Kass,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 723.22,
+      "end": 731.58,
+      "text": "porque la candidata Matei ha tenido altibajos en esto pero al parecer ellos están en una lucha interna porque lidera el sector",
+      "speaker": "Jara"
+    },
+    {
+      "start": 731.58,
+      "end": 736.86,
+      "text": "se han tratado de mover un poco al centro después un poco más a los extremos y han salido cierto",
+      "speaker": "Jara"
+    },
+    {
+      "start": 736.86,
+      "end": 740.36,
+      "text": "estas declaraciones bien asombrosas que se han hecho en estos últimos días,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 743.72,
+      "end": 743.86,
+      "text": "pero yo creo que hay que tener un profundo respeto por el electorado chileno,",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 746.0,
+      "end": 746.8,
+      "text": "la ciudadanía es quien va a elegir a su representante,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 752.04,
+      "end": 752.32,
+      "text": "y sea Kaiser, Kass, Matei, Maynick, Osmeo, Artés o Parisi,",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 755.76,
+      "end": 760.94,
+      "text": "yo voy a estar disponible para hacer mis propuestas de frente a la ciudadanía y que sea ellos quienes elijan. Yo creo que lo peor que uno puede hacer en política es",
+      "speaker": "Jara"
+    },
+    {
+      "start": 760.94,
+      "end": 765.26,
+      "text": "actuar con soberbia y señalar que a alguno le podría convenir más que al otro porque",
+      "speaker": "Jara"
+    },
+    {
+      "start": 765.26,
+      "end": 770.34,
+      "text": "eso es subestimar a la otra persona o al adversario político, y en mi caso eso no va a ocurrir.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 771.54,
+      "end": 772.48,
+      "text": "Hola, candidata, ¿cómo está?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 772.8,
+      "end": 773.42,
+      "text": "Buen día.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 773.96,
+      "end": 776.42,
+      "text": "En la misma línea, y considerando las últimas encuestas,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 776.9,
+      "end": 781.16,
+      "text": "¿cómo ve que desde el comando de José Antonio Kast estén llamando al voto útil en la oposición",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 781.16,
+      "end": 786.34,
+      "text": "para intentar unir fuerzas, quizás fuerzas, para vencerle a usted en primera vuelta y pasar él en primer lugar?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 786.66,
+      "end": 790.7,
+      "text": "Mire, cuando se llama, más allá de que sea ahora Cáceres el que llama a este tema del",
+      "speaker": "Jara"
+    },
+    {
+      "start": 790.7,
+      "end": 794.6,
+      "text": "voto útil, pero no hay campaña en la que yo no haya visto que no se llame al voto útil",
+      "speaker": "Jara"
+    },
+    {
+      "start": 794.6,
+      "end": 799.1,
+      "text": "y eso esté destinado a ser un fracaso. Creo que es la peor estrategia electoral que se",
+      "speaker": "Jara"
+    },
+    {
+      "start": 799.1,
+      "end": 801.42,
+      "text": "puede hacer. Pero bueno, allá él.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 803.06,
+      "end": 807.16,
+      "text": "¿Cómo está, candidata? Muy buenos días. Entendemos que en su comando el objetivo para",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 807.16,
+      "end": 811.2,
+      "text": "la primera vuelta es sostener precisamente este primer lugar que conocemos hasta ahora",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 811.2,
+      "end": 819.38,
+      "text": "en los sondeos y que la diferencia con el más cercano percibidor sea amplia de cara a un eventual balotaje. ¿Cómo se consigue eso? ¿Con qué mensaje en estos días?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 819.78,
+      "end": 823.8,
+      "text": "¿Y qué le parece en esa misma línea que el presidente de la UDI manifieste miedo en la",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 823.8,
+      "end": 829.26,
+      "text": "derecha ante una eventual distancia parecida a la del 2021 y que a ellos se les ponga cuesta",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 829.26,
+      "end": 830.22,
+      "text": "arriba la elección?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 831.04,
+      "end": 835.4,
+      "text": "Mire, lo primero que quiero señalar es que nosotros estamos aquí para competir de frente",
+      "speaker": "Jara"
+    },
+    {
+      "start": 835.4,
+      "end": 840.16,
+      "text": "a la ciudadanía y con los distintos candidatos. Si los candidatos me eligen como primera mayoría",
+      "speaker": "Jara"
+    },
+    {
+      "start": 840.16,
+      "end": 845.88,
+      "text": "y con una amplia diferencia respecto del segundo, quien quede en segundo lugar, nosotros vamos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 845.88,
+      "end": 850.38,
+      "text": "a estar muy contentos porque nuestro trabajo va a haber sido más efectivo. Si eso no ocurre",
+      "speaker": "Jara"
+    },
+    {
+      "start": 850.38,
+      "end": 856.64,
+      "text": "de esa forma y salimos pegados o en segundo lugar, igualmente vamos a ir con toda la fuerza",
+      "speaker": "Jara"
+    },
+    {
+      "start": 856.64,
+      "end": 861.32,
+      "text": "a la segunda vuelta. Eso lo quiero decir con claridad. Porque nosotros nos presentamos para conducir el país",
+      "speaker": "Jara"
+    },
+    {
+      "start": 861.32,
+      "end": 862.28,
+      "text": "los próximos cuatro años.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 862.7,
+      "end": 864.3,
+      "text": "Tenemos ideas, propuestas y equipo.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 864.3,
+      "end": 868.58,
+      "text": "Y lo hicimos para poder competir en una alianza amplia",
+      "speaker": "Jara"
+    },
+    {
+      "start": 868.58,
+      "end": 871.3,
+      "text": "de la centroizquierda chilena, que sí tuvo una primaria,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 871.46,
+      "end": 874.8,
+      "text": "que sí demuestra gobernabilidad, que sí tiene nueve partidos detrás",
+      "speaker": "Jara"
+    },
+    {
+      "start": 874.8,
+      "end": 877.1,
+      "text": "y que no está sacándose los ojos como la derecha.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 879.6,
+      "end": 885.0,
+      "text": "No, la UDI, mire, lo que pasa es que la UDI está planteando esto, yo la verdad creo que puede ser razonable,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 885.12,
+      "end": 888.5,
+      "text": "pero es un tema de ellos, yo es que en lo que hagan los partidos de la derecha no me voy a meter,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 888.5,
+      "end": 894.5,
+      "text": "yo lo único que veo y observo es que un sector donde hay dos ultraderechas, una derecha tradicional",
+      "speaker": "Jara"
+    },
+    {
+      "start": 894.5,
+      "end": 899.82,
+      "text": "que cada dos por tres acuerda que era una derecha además pinochetista, yo realmente no veo ninguna",
+      "speaker": "Jara"
+    },
+    {
+      "start": 899.82,
+      "end": 905.12,
+      "text": "opción de darle gobernabilidad al país, porque para gobernar un país de gente tan diversa",
+      "speaker": "Jara"
+    },
+    {
+      "start": 905.12,
+      "end": 908.64,
+      "text": "como somos los chilenos y chilenas, se requiere capacidad de diálogo entre todos.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 909.02,
+      "end": 911.42,
+      "text": "Y ellos entre los tres no se han podido poner de acuerdo hasta ahora.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 911.74,
+      "end": 914.62,
+      "text": "Estamos a dos semanas de la elección, un año entero en esto.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 915.14,
+      "end": 917.92,
+      "text": "Entonces realmente es bien complejo, pero bueno, ellos verán lo que hacen.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 918.98,
+      "end": 924.16,
+      "text": "Candidata, usted mañana tiene una cena con figuras del socialismo democrático.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 924.84,
+      "end": 929.06,
+      "text": "Primero, ¿esta escena busca que también pueda servir para convencer a aquellos de ese sector",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 929.06,
+      "end": 930.88,
+      "text": "que todavía no están por respaldarla?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 930.98,
+      "end": 940.8,
+      "text": "Y segundo, si es que la presencia de Carolina Toda significa que la va a sumar en un rol activo en esta recta final de la campaña o ya para la segunda vuelta mire yo sino todos los días",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 940.8,
+      "end": 945.04,
+      "text": "con personas de distintos partidos no sé por qué esta escena en particular ha generado tantos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 945.04,
+      "end": 949.9,
+      "text": "revuelos a lo mejor alguno de los invitados quería darle cierto realza a la escena les agradezco la",
+      "speaker": "Jara"
+    },
+    {
+      "start": 949.9,
+      "end": 953.7,
+      "text": "invitación a la gente el sistema democrático pero una una cena más de las muchas que han habido.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 954.44,
+      "end": 958.82,
+      "text": "¿Y el rol de Carolina? Con Carolina todavía no he podido hablar, pero para que los medios sepan,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 958.9,
+      "end": 962.92,
+      "text": "porque el otro día en una entrevista que me hicieron, creo que Quique Mujica me decía que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 962.92,
+      "end": 968.62,
+      "text": "él no sabía el antecedente que yo estaba contando. Con Carolina hemos estado trabajando todo este tiempo. Carolina me ha estado apoyando",
+      "speaker": "Jara"
+    },
+    {
+      "start": 968.62,
+      "end": 972.68,
+      "text": "a mí directamente y yo le agradezco mucho. Ojalá se pudiera sumar a otra cosa, pero",
+      "speaker": "Jara"
+    },
+    {
+      "start": 972.68,
+      "end": 976.74,
+      "text": "para eso tengo que hablar con ella primero. Y no ha alcanzado, porque esto fue como el",
+      "speaker": "Jara"
+    },
+    {
+      "start": 976.74,
+      "end": 980.26,
+      "text": "jueves y de ahí vino el día feriado así que a lo mejor mañana mismo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 980.26,
+      "end": 982.68,
+      "text": "pero en una cena habitual",
+      "speaker": "Jara"
+    },
+    {
+      "start": 982.68,
+      "end": 983.12,
+      "text": "querida",
+      "speaker": "Jara"
+    },
+    {
+      "start": 983.12,
+      "end": 984.04,
+      "text": "no, nada",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 984.04,
+      "end": 986.1,
+      "text": "buenos días",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 986.1,
+      "end": 987.3,
+      "text": "tengo dos preguntas",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 987.3,
+      "end": 987.8,
+      "text": "la primera",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 987.8,
+      "end": 989.24,
+      "text": "relacionada con el presupuesto",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 989.24,
+      "end": 989.66,
+      "text": "ya",
+      "speaker": "Jara"
+    },
+    {
+      "start": 989.66,
+      "end": 990.7,
+      "text": "quería que me señalara",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 990.7,
+      "end": 991.5,
+      "text": "cómo se destraba",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 991.5,
+      "end": 992.08,
+      "text": "este nudo",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 992.08,
+      "end": 993.5,
+      "text": "y las distintas declaraciones",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 993.5,
+      "end": 993.96,
+      "text": "que han habido",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 993.96,
+      "end": 994.72,
+      "text": "respecto al rol",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 994.72,
+      "end": 996.86,
+      "text": "del ministro Grau y lo que puede pasar",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 996.86,
+      "end": 1001.0,
+      "text": "con algunas partidas, digamos, sensibles, donde usted también ha insistido",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1001.0,
+      "end": 1003.06,
+      "text": "en la necesidad de reponer la glosa republicana.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1003.3,
+      "end": 1006.0,
+      "text": "¿Cómo se destraba esa situación y qué es lo que espera usted",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1006.0,
+      "end": 1007.64,
+      "text": "del Congreso en las próximas semanas?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1008.66,
+      "end": 1009.56,
+      "text": "Interesante pregunta.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1009.86,
+      "end": 1014.78,
+      "text": "Mire, sobre lo primero, yo le puedo decir cómo se saca adelante una reforma de pensiones que lleva 10 años atorada.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1015.4,
+      "end": 1019.92,
+      "text": "Más el presupuesto, cómo lo va a sacar adelante, va a tener que responderlo el gobierno a través de su ministro de Hacienda.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1020.84,
+      "end": 1021.88,
+      "text": "Ahí es donde está la tarea.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1022.22,
+      "end": 1026.68,
+      "text": "Yo, por lo menos, le puedo decir lo que yo hice y me parece a mí que es importante escuchar a los demás sectores",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1026.68,
+      "end": 1033.1,
+      "text": "y buscar acuerdos que permitan que un presupuesto siga adelante. No me gusta que se use el presupuesto como botín político,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1033.58,
+      "end": 1044.78,
+      "text": "porque sea quien sea quien gobierne, evidentemente, el presupuesto de la Nación se requiere para efectos de financiar el gasto público que a la vez sustenta la vida de muchas familias como",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1044.78,
+      "end": 1048.26,
+      "text": "por ejemplo lo que se hace a través de la pgv la subvención escolar la",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1048.26,
+      "end": 1052.68,
+      "text": "alimentación escolar o el aporte a la ps pero es una respuesta una respuesta que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1052.68,
+      "end": 1056.0,
+      "text": "tiene que dar el gobierno digamos yo de eso no tengo nada que ver ahí.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1056.0,
+      "end": 1061.0,
+      "text": "Sí, lo que le puedo señalar es que a mí me preocupan algunas partidas que han sido reducidas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1061.0,
+      "end": 1067.0,
+      "text": "Una de ellas tiene que ver con la disponibilidad para comprar terrenos para la construcción de nuevas viviendas sociales.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1067.0,
+      "end": 1070.2,
+      "text": "Y me preocupa porque si el próximo gobierno que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1070.2,
+      "end": 1076.14,
+      "text": "espero encabezar queda muy amarrado evidentemente va a ser una dificultad así que a los parlamentarios",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1076.14,
+      "end": 1080.92,
+      "text": "que me acompañan les he pedido que revisen cierto estas glosas presupuestarias que tienen que ver",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1080.92,
+      "end": 1087.32,
+      "text": "con la glosa 8 y 9 del presupuesto de la nación para resolver la compra de terrenos que permita construir las viviendas sociales",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1087.32,
+      "end": 1088.2,
+      "text": "que hemos comprometido.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1088.82,
+      "end": 1091.82,
+      "text": "Y lo segundo, respecto de la Glosa de Libre Disponibilidad,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1092.66,
+      "end": 1095.32,
+      "text": "la verdad es que en el marco del Presupuesto Nacional",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1095.32,
+      "end": 1097.0,
+      "text": "es una suma que, siendo relevante,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1098.76,
+      "end": 1101.0,
+      "text": "creo que sería muy bueno que se pudiera reponer,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1101.0,
+      "end": 1105.0,
+      "text": "porque no va a ser la gran diferencia entre un financiamiento completo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1105.0,
+      "end": 1108.0,
+      "text": "o un financiamiento sostenible en el tiempo del presupuesto.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1108.0,
+      "end": 1112.0,
+      "text": "O sea, básicamente es una cifra importante, pero no es algo que desajuste",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1112.0,
+      "end": 1115.32,
+      "text": "o ajuste el presupuesto, d dado la magnitud del presupuesto nacional,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1115.92,
+      "end": 1119.0,
+      "text": "pero sí va a servir como una herramienta para cuando asuma como presidenta",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1119.52,
+      "end": 1123.02,
+      "text": "y como señalé, lo voy a invertir en acelerar el proceso de reconstrucción en Viña.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1123.46,
+      "end": 1125.06,
+      "text": "Así que espero que lo puedan solucionar.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1126.24,
+      "end": 1130.12,
+      "text": "Justamente, candidata, ¿qué le parece en el marco de la discusión del presupuesto,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1130.7,
+      "end": 1135.4,
+      "text": "que el relativo a vivienda, un tema sensible que está en varias oportunidades de lo manifestado,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1135.88,
+      "end": 1139.48,
+      "text": "crezca solo un 13%, pero se destine principalmente al pago de deudas",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1139.48,
+      "end": 1144.64,
+      "text": "del actual programa de emergencia habitacional y bajan a su vez los subsidios habitacionales",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1144.64,
+      "end": 1148.0,
+      "text": "para programas DS-49 y DS-19.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1148.64,
+      "end": 1150.14,
+      "text": "No, no estoy de acuerdo para nada con eso.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1150.56,
+      "end": 1153.58,
+      "text": "Me parece muy delicado porque el país tiene una grave crisis de vivienda",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1153.58,
+      "end": 1156.64,
+      "text": "y la crisis de vivienda no se acaba con este gobierno, por el contrario.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1157.36,
+      "end": 1160.84,
+      "text": "Y cuando asuma como Presidenta quiero darle que esa crisis de vivienda",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1160.84,
+      "end": 1163.86,
+      "text": "siga evidentemente reduciéndose y no ampliándose.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1163.98,
+      "end": 1166.82,
+      "text": "Así que no estoy para nada de acuerdo en las reducciones que se hacen en temas de vivienda",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1166.82,
+      "end": 1169.76,
+      "text": "y menos que se estén traspasando cuentas de un año para otro.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1169.94,
+      "end": 1172.54,
+      "text": "Es un tema de gestión que el Ministro de Vivienda debe haber visto oportunamente.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1173.32,
+      "end": 1174.52,
+      "text": "Última pregunta, candidata.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1175.5,
+      "end": 1180.72,
+      "text": "Candidata, buenos días. En Radio Pauta, el economista Klaus Schmidt-Hebel dijo que por",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1180.72,
+      "end": 1185.9,
+      "text": "expectativas económicas no cambiarían si Castro o Matei fueran presidentes. En caso de que usted",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1185.9,
+      "end": 1193.12,
+      "text": "lo fuera, él dice que estas expectativas irían al tacho de la basura. Más allá de buscar polemizar, mi pregunta es, ¿qué mensaje le entregaría usted a la ciudadanía",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1193.12,
+      "end": 1196.0,
+      "text": "para disipar estas dudas o miedos que se han presentado por parte de esto?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1196.0,
+      "end": 1201.58,
+      "text": "Mire, yo creo que el mejor mensaje que puedo dar es que en todo el tiempo en el que he trabajado",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1201.58,
+      "end": 1205.08,
+      "text": "en distintos lugares públicos, como en el sector privado,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1209.82,
+      "end": 1213.02,
+      "text": "mi relación con los empresarios ha sido sincera y cordial. La verdad es que esa sinceridad involucra que uno se pueda decir de frente cuando está de acuerdo, como también cuando",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1213.02,
+      "end": 1217.26,
+      "text": "no lo está. Por ejemplo, para mí en Chile se paga poco y aunque lo he dicho claramente",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1217.26,
+      "end": 1223.16,
+      "text": "y algunos insistan en negarlo, economistas como el que usted cita, la verdad es que sí se paga poco y a la gente no le",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1223.16,
+      "end": 1227.8,
+      "text": "alcanza para vivir. Por eso como Presidenta voy a impulsar el ingreso vital de 750 mil",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1227.8,
+      "end": 1231.54,
+      "text": "pesos, porque las personas cuando trabajan le tienen que alcanzar al menos para pagar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1231.54,
+      "end": 1236.78,
+      "text": "sus cuentas, el arriendo y su comida. Esa es una diferencia diametral con lo que algunos piensan.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1237.26,
+      "end": 1241.62,
+      "text": "Pero respecto de la relación con el mundo empresarial, no sé, yo me quedo con las palabras",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1241.62,
+      "end": 1246.0,
+      "text": "que dijo el anterior presidente de la CPC, Ricardo Médez, que si yo soy elegida presidente,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1246.18,
+      "end": 1249.3,
+      "text": "evidentemente Chile no se cae a pedazos, sino que por el contrario,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1249.52,
+      "end": 1254.98,
+      "text": "hemos trabajado muchas cosas juntos. Yo no sé, Klaus Smith Hebel a lo mejor no conoce",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1254.98,
+      "end": 1260.04,
+      "text": "la opinión de los empresarios chilenos, pero bueno, así ha sido antes y yo tengo en eso",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1260.04,
+      "end": 1268.74,
+      "text": "absoluta tranquilidad. Quiero agregarle un antecedente, sí, breve. Cuando fui nombrada ministra, después de haber sido subsecretaria de la presidenta Bachelet, se especuló todo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1268.74,
+      "end": 1272.46,
+      "text": "el verano que nunca me iba a poder reunir con ningún empresario porque ninguno iba",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1272.46,
+      "end": 1276.72,
+      "text": "a permitir que una ministra comunista se reuniera con ellos. Miren ustedes cómo sacamos adelante",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1276.72,
+      "end": 1281.94,
+      "text": "juntos las 40 horas con la CUT y los empresarios. El alza histórica y el sueldo mínimo y la reforma previsional.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1282.58,
+      "end": 1286.9,
+      "text": "Entonces, una cosa es lo que se dice con intención y otra cosa es lo que la realidad indica.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1287.1,
+      "end": 1291.28,
+      "text": "Eso es lo bueno, que en mi caso hay pruebas concretas de lo que ya he hecho, no solo promesas de futuro.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1291.8,
+      "end": 1293.98,
+      "text": "Les agradezco mucho su atención hoy día en el punto de prensa.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1294.04,
+      "end": 1349.58,
+      "text": "Que estén bien. Hace frío. Gracias. Gracias por ver el video.",
+      "speaker": "SPK3"
+    }
+  ],
+  "speakers": [
+    "Jara",
+    "SPK2",
+    "SPK3",
+    "SPK4",
+    "SPK5",
+    "SPK6",
+    "SPK7",
+    "SPK8",
+    "SPK9",
+    "SPK10"
+  ]
+}

@@ -1,0 +1,4161 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "¿Alguien más? Ha estado todo muy bien. Y va a estar mejor aún. Y bueno, voy a partir primero saludándolos, agradeciéndoles su presencia, saludando también a quienes nos acompañan a lo largo de todo Chile en las redes sociales. Para nosotros es muy importante el trabajo que tenemos en estos próximos 25 días, donde tenemos que seguir defendiendo, levantando nuestras propuestas. Ya han habido varios debates de primera vuelta, ahora ya se concentra todo en dos candidaturas. Esperamos que podamos ir mostrando en lo que va a quedar estos 25 días lo importante que es esta eleccióncción, debe ser la elección más importante de nuestra generación, donde Chile tiene que optar por el continuismo del actual gobierno o por un cambio real que enfrente las urgencias sociales que hoy día sufre nuestro país. Y hoy día nos convoca eh algo muy relevante que es el apoyo y el trabajo de una nueva generación de gobernadores. Gobernadores que llegaron con un estilo directo, abierto, que han ido mostrando gestión, han ido mostrando transparencia y lamentablemente varios de ellos heredaron conflictos, procesos judiciales, donde tienen que lidiar con situaciones complejas como funcionarios que están requeridos por la justicia, donde tienen que lidiar con situaciones complejas como funcionarios que están requeridos por la justicia, donde no pueden desarrollar todo lo que quisieran, donde se generó un manto de desconfianza por no haber cumplido las expectativas de la ciudadanía, siendo un cargo muy relevante a nivel de regiones que fue demandado por gran parte de todos los líderes políticos y el resultado en algunos casos es muy lamentable. Frente a eso, esta generación nueva de gobernadores ha querido marcar una diferencia de puertas abiertas, no solamente de recibir a todos los vecinos, sino discriminar por postura política, sino que de transparentar todos los actos. Y hoy día han venido a manifestar la disposición de poder trabajar, de poder analizar, de seguir conversando, de que esto no sea solamente una reunión como las que se suelen hacer en política, donde uno se junta una vez, saca una imagen importante, pero queda ahí. No, el compromiso es que desde lo técnico, desde lo territorial, desde las regiones, esto se pueda plantear y sumar a lo que es una propuesta de gobierno. Una experiencia acumulada de ya más de un año, de recibir en parte lo que a nosotros nos podría tocar recibir, si la ciudadanía así lo dispone, en el gobierno. Hoy día ustedes ven claramente la situación compleja que vive Chile en la discusión presupuestaria. Creo que esta situación no se había vivido en otras ocasiones, no he revisado todas las discusiones presupuestarias, pero la tensión que hay, la poca diligencia con que han operado nuestras autoridades para presentar los números en la ley más importante del país, las expresiones del presidente en su discurso a la nación, donde se dio el lujo de saltarse todas las normas republicanas para referirse a una candidatura. Es algo que no habíamos visto antes. Y en las regiones también se vive. Se dieron situaciones como la de Aysén, donde se dio una de las peores ejecuciones presupuestarias de la historia. Aquí seguramente los gobernadores le van a relatar lo que es el terremoto social que hoy día se vive en Bío Bío. Y veíamos que hoy día hay más personas afectadas por este terremoto social en salud de todas las personas que sufrieron por ese tremendo desastre natural que fue el 27F del año 2010. Lo que está sucediendo en salud, en Bío Bío, es dramático y es un terremoto silencioso. Lo que está sucediendo con el tema del empleo. Ustedes pueden revisar las regiones que tienen mayor desempleo y las autoridades nacionales, claro, llegan para algunas situaciones puntuales, del cierre, por ejemplo, de alguna gran empresa, pero después no hay un seguimiento de la situación y eso tiene que cambiar y eso no puede esperar hasta que asuma un nuevo gobierno. Eso tiene que desarrollarse desde ahora. Nosotros tenemos que estar muy abiertos, cualquiera de los que sea candidato a la presidencia, de conocer la realidad de los que están hoy día en esta nueva etapa de las gobernaciones, para ver dónde se requieren más recursos, cómo darle más autonomía, pero con responsabilidad, porque nosotros estamos muy bien dispuestos a avanzar en el tema de la descentralización en la entrega de autonomía pero contra parámetros objetivos de transparencia que no se dé que un gobernador tenga mayor afinidad con algún alcalde y ese alcalde le llegue un poco más a todos les va a tocar algo no es cierto de los recursos regionales pero no puede ser que prime un criterio político porque las personas que requieren transporte seguridad educación salud vivienda integrado el trabajo con las gobernaciones que no tienen todas las facultades, es fundamental. Me tocó estar el día de ayer en Valdivia, estar con los candidatos a diputados electos, los tres son nuevos diputados electos, hay una renovación importante. Salieron electos tres de cinco, lo cual también habla del triunfo que tuvo nuestro sector en el tema parlamentario. Estaban presentes casi todos los alcaldes que son de Chile Vamos y del sector en Los Ríos. También estuve el día anterior en la Araucanía, donde también me pude reunir con más de 15 alcaldes de la región, en ambas regiones con la mayoría de los consejeros regionales, con la mayoría de los concejales, con todas las autoridades que fueron, con todos los líderes que fueron a la elección y no ganaron, y eso marca una gran diferencia también. Aquí nadie dice me cansé. Están todos trabajando porque el desafío que tenemos por delante, vuelvo a insistir, es el más grande de las últimas décadas, de liberar a Chile. De liberar a Chile de la crisis en seguridad que todos conocemos, de la crisis de salud que genera ese terremoto social silencioso, de la falta de empleo, por la falta de seguridad también, me tocó ir a ver a víctimas que habían recién sido atacadas, víctimas que fueron atacadas en los mismos sectores donde asesinaron al matrimonio Luxingen-Marcai, en el mismo sector donde asesinaron a Osvaldo Antilev hace años atrás, porque el terrorismo sigue con fuerza y no es violencia rural, es terrorismo, es personas que actúan sobre seguro de noche con alto poder de fuego y son, como vuelvo, como lo he dicho antes, cobardes. En el mismo tema en Valdivia, también, perdón, en la región de los ríos, donde en la comuna de Máfil fuimos a visitar también personas que habían sido atacadas y varios campos que siguen ahí usurpados, cosas que uno no imaginaría están sucediendo. Tuvimos también la posibilidad de plantear esto mismo, de pedirle a las autoridades locales, alcaldes, concejales y consejeros regionales, que nos colaboren en este nuevo plan que va a enfrentar a Chile para ese cambio real y ahora los quiero dejar con el gobernador del Maule José Pedro Álvarez Salamanca, después con el gobernador de Bio Bio, Sergio Yacaman con el presidente del partido republicano y después todas las consultas que ustedes quieran las contesta la persona que ustedes estimen indicada. Muchas gracias. Muchas gracias, José Antonio. Bueno, saludar a todos los presentes, saludar a José Antonio, a su equipo, a don Sergio Yacaman, quien nos acompaña hoy día Antonio. Bueno, saludar a todos los presentes, saludar a José Antonio, a su equipo, a don Sergio Yacaman que nos acompaña hoy día acá. Hoy día venimos seis gobernadores regionales, ¿no es cierto?, en representación. De ellos estamos hoy día acá con Sergio porque sabemos la importancia que se viene en el futuro próximo. Tenemos que recuperar, ¿no es cierto?, la presidencia de la República, tenemos que recuperarla con José Antonio. Nosotros en el Maule hemos hecho un trabajo importante de que asumimos la gobernación regional, pero falta, falta mucho por hacer y lo estamos haciendo de a poco. Yo me quiero tomar un minuto, José Antonio, también para agradecer a nuestra candidata Evelyn Matei, que lo dio todo en su campaña. Nosotros le ayudamos con lo que más pudimos, agradecer su valentía, su presencia en la región, pero hoy día estamos enfrentados a una segunda vuelta, que es muy distinta a la primera, y en esta segunda vuelta tenemos que unirnos todos. Todas las oposiciones tenemos que estar atrás de José Antonio Kast, porque sabemos que hoy día necesitamos una persona como él, ¿no es cierto?, para sacar al país adelante. Nosotros queremos representar a la gente del Maule y yo le mando un saludo cariñoso desde el Maule, desde nuestros concejales, consejeros regionales, parlamentarios, electos también, que están todos atrás de esta causa y todos vamos a hacer un esfuerzo importante porque José Antonio nos represente en la moneda el próximo marzo. Nosotros trajimos una carta, de hecho acá, que ustedes se las vamos a hacer llegar en un rato más, en donde manifestamos nuestra voluntad de nuestros seis gobernadores regionales de Chile Vamos, en donde estamos todos con testes en el fondo de que podemos sacar adelante esta tremenda, tremenda candidatura a la presidencia de la República. Gracias. Muy bien, muy buenas tardes, Sergio Yacaba, gobernador de la región del Bío Bío, yo lo que quisiera decir en representación de mi región, primero, bueno, agradecerle a José Antonio de habernos recibido y efectivamente, en consecuencia del acto republicano de Evelin, también los gobernadores quisimos venir a darte nuestro apoyo. Efectivamente, con Pedro Pablo representamos a los demás gobernadores de Chile. Estamos con Diego Paco Mamani, gobernador de Arica, que ya había manifestado en primera vuelta su voluntad. Está Cristóbal Yuliá, que es el gobernador de la región de Coquimbo. Pedro Pablo, quien les habla. Alejandro Santana, que es de la región de Los Lagos. Y Marcelo Santana, que es de la región de Aysén. Yo les quiero decir que Chile vive una crisis brutal, José Antonio lo acaba de comentar, es una crisis social tan o más fuerte que lo que se vivió producto del terremoto. En la región del Vío Vigo tenemos más de 220.000 personas en listas de espera, que es mucho más que lo que se vivió por laió producto del terremoto. En la región del Bío Bío tenemos más de 220.000 personas en listas de espera, que es mucho más que lo que se vivió por la afectación del terremoto. Y como la causa, el origen, no es un terremoto, es más bien invisible. Y este gobierno, que la candidata opositora a José Antonio es de la continuidad a este gobierno, este gobierno ha sido incapaz de darle solución a esos problemas. Y por eso nosotros estamos absolutamente, por el cambio, creemos que José Antonio Kass y sus equipos se van a encontrar la fórmula para poder abordar los desafíos que tiene Chile en general, pero también particularmente cómo podemos trabajar pensando que las regiones somos y tenemos capacidades similares a las que tenemos en Santiago. Lo conversamos, se planteó la posibilidad de evaluar en el futuro un mayor trabajo con regiones. Nosotros eso ya, solo la disposición la valoramos profundamente porque nos hemos sentido absolutamente postergados por parte del nivel central en este gobierno. Yo les quiero decir que no es solo una crisis social, sino que también es una crisis de mala gestión y que lamentablemente prioriza cosas que están basadas en la ideología. En la región del Bío Bío, por ejemplo, se priorizó por parte del gobierno financiar un museo de la memoria. No tengo nada contra el museo de la memoria, pero sí les puedo decir que hoy día no es urgencia para nadie. Sí tenemos 220.000 personas que requieren con urgencia operaciones de cadera, que requieren con urgencia operaciones de catarata, y esos recursos claramente, si alguien tiene foco en las personas, van a disponerse para darle solución a la urgencia de salud de esos ciudadanos. Así que yo te quiero agradecer, José Antonio, por la disposición, te quiero agradecer a tu equipo y decirle que desde regiones vamos a trabajar intensamente para que el cambio llegue a nuestras regiones y así se pueda poner en prioridad las personas no solamente de Santiago, sino de todo el país. Muchas gracias. Bueno, yo solo sumarme a los agradecimientos a Sergio, a Pedro Pablo, la verdad es que esto no es solo un gesto, sino que dada la conversación que hemos tenido y hoy día se manifiesta a través de ellos, digamos, la voz de todos los gobernadores de Chile Vamos, todos los gobernadores que hoy día son de oposición, hay un ánimo, un espíritu genuino de contribuir en todo lo que esté al alcance de los gobernadores, al alcance de quienes estamos en la actual oposición a este mal gobierno, de sacar adelante las peores crisis por las cuales nos ha tocado atravesar durante las últimas décadas. ¿Quién más que ellos, los gobernadores que están a la cabeza de los lugares en donde llegan muchas veces las personas....de Janet Jara. Y eso estimula, me imagino yo, no solo a quienes estamos hoy día en la oposición, en cargos públicos o en algún rol de representación, sino que también a miles y miles de chilenos que no necesariamente están muy en conocimiento de lo que es la política, pero sí han sufrido las consecuencias de tener una pésima administración desde la moneda y en todas las reparticiones públicas que dependen del gobierno central. Por lo mismo, nuevamente el agradecimiento, así como lo hicimos el mismo domingo, cuando llegaron, incluso antes de que se cerraran las últimas mesas, llegaron los candidatos que durante varios meses estuvimos compitiendo a entregar su apoyo sincero. Recibimos aquí a Evelyn Matei, a Johannes Kaiser. En el transcurso de los días nos hemos ido reuniendo desde los grupos programáticos, económicos. Ayer tuvimos la oportunidad de reunirnos con los presidentes de los distintos partidos. Empezamos una coordinación que va avanzando de muy buena manera. Me avisaron a última hora ya porque habíamos dicho, nombremos algún coordinador para que esto se transforme en acción. Aprovecho comentar que Renovación Nacional dispuso que Luis Pardo va a ser la persona que va a estar coordinando por parte de ellos y desde la UDI va a estar Eduardo Cretón. Los dos fueron diputados recién electos, van a asumir, digamos, un desafío importante, pero más allá de eso, van a hacer un tremendo trabajo junto a Martina Rau, que ha estado coordinando de parte de nosotros lo que va a hacer en las próximas semanas de campaña electoral en esta segunda vuelta. Así que muy contentos con cómo va creciendo este equipo, teniendo en mira lo que está en juego y que no es más que mejorarle la vía a los miles y miles de chilenos que están esperando con esperanza un pronunciamiento rotundo el 14 de diciembre en favor de José Antonio Kast. A ver, ¿qué va a ser el único? Porque antes podía decir, ¿qué candidato? Antes de darle la palabra, decir que también lo que hemos realizado con el Partido Social Cristiano ha sido muy relevante. Fuimos socios en un pacto electoral que nos permitió un tremendo resultado. Nuestro acto de cierre contó con la presencia de la presidenta del Partido Social Cristiano, con quien asumió también un desafío presidencial y declinó su planteamiento en favor de mi candidatura, y del alcalde de Concepción, Héctor Muñoz, que también estuvo presente en ese acto de cierre de nuestra campaña en regiones, que fue ahí en la Plaza Independencia, que en todas las ciudades es la Plaza de Armas, ahí en la Plaza de la Independencia. Así que agradecerle la labor al Partido Socialistiano con quienes estamos integrados porque el programa nació del trabajo conjunto, esos tres ejes programáticos y las 33 medidas fueron coordinadas y ahora lo que estamos haciendo es sumar a los equipos del candidato Johannes Kaiser, a quien también le agradecemos su presencia, y a los equipos que colaboraron seriamente, muy responsablemente con Evelyn Matei, que, como bien se señaló, se dispuso desde el primer momento a permitirnos incorporar a las personas para este trabajo y cambio real que Chile necesita. Y ahora sí, lo que usted estime es conveniente. Sí, José Antonio, voy a hacerle un pimponeo primero antes de pasar a las preguntas, porque ya estamos hablando de los enlaces que nos mencionaron a Pardo y a Cretón. ¿A usted le gustaría tener, por ejemplo, una Paula Daza en el comando y por qué? Nosotros estamos abiertos a que todas las personas se integren. Yo conozco a Paula Daza, me colaboró activamente en la campaña anterior junto con Evelyn Matei. De hecho, recorrieron Chile planteando cómo enfrentar una crisis. Por lo tanto, nosotros, así como ustedes lo vieron el día de ayer, que todos los economistas que trabajaron con Evelyn Matei se sumaron. Hoy día está haciendo lo mismo todos los equipos de Johannes Kaiser en el área económica y vamos a ir reuniéndonos con los equipos de vivienda, con los equipos de salud, con los equipos de educación para poder recoger y también ir mostrando que en esta segunda etapa hay un objetivo más grande que cualquier división o cualquier diferencia que hayamos podido tener entre la inscripción y la primera vuelta Diego Paulsen sería una opción y también Evelyn Matei la podríamos ver con Johannes Kaiser en la primera línea y agregando a eso, ustedes en este caso qué cosas recogerían por ejemplo del programa de evelyn mate ya se ha hablado por ejemplo que hay cierta sintonía con el pie cero también se han abierto por ejemplo con el tema de los recortes fiscales a ver si esto puede bajar o no con los equipos económicos y después una pregunta también para los gobernadores. Se ha hablado mucho desde sus sectores que es la muerte de Chile. ¿Ustedes concuerdan con eso? Primero candidato. Bueno, en primer lugar a nosotros nos interesa que todos estemos en la primera fila. Yo lo he señalado, todos. Los gobernadores, los candidatos presidenciales, los gobernadores, los senadores, los diputados, los diputados electos, los senadores electos, los que no ganaron en cada una de las regiones, en cada uno de los distritos. Nosotros a los primeros que le agradecimos fue a aquellos que no llegaron a a ganar porque ellos sustentaron el éxito de otros parlamentarios les mencionaba la región de valdivia donde al igual que esta nueva generación de gobernadores y no me canso de decirle un nuevo estilo de llevar el gobierno regional a la ciudadanía, también se ve reflejado en algunas regiones, donde van a estar integradas personas que antes no habían sido parlamentarios. El mismo Eduardo Cretón no había sido parlamentario, el mismo Luis Pardo no había sido, sí se había sido parlamentario, ya tenía un intensivo previo, estaba en la reserva con instrucción, pero para nosotros eso es, y Hans Marowski claramente está ahí, ¿no es cierto?, y por el Partido Social Cristiano está su presidenta, su secretaria general, que nos han acompañado, como ustedes saben, en cada uno de nuestros planteamientos. Por lo tanto, más allá de los candidatos mismos, lo que nosotros hemos planteado a la ciudadanía es que este no va a ser un gobierno de una persona, no va a ser gobierno de un solo partido y que nuestro éxito definitivo va a ser, si es que la ciudadanía lo permite, yo soy presidente de la república, entregarle la banda presidencial a alguien que le dé continuidad a un buen gobierno, porque nosotros queremos ponerle término a la continuidad de un mal gobierno. Y ya sabemos lo que fueron capaces de hacer con Chile en estos cortos años, que estuvieron a cargo y siendo responsables de aquellas áreas más sensibles que afectan a la ciudadanía. Por lo tanto, todos los que se quieran integrar, trabajar, salir a levantar banderas......hacer desde la vega más sencilla hasta las vocerías, todos muy bienvenidos. Ayer dimos una señal clara con todos los economistas y efectivamente uno está abierto a recibir sugerencias y tenemos que incorporarlas. Por eso también agradecemos tanto el trabajo previo que han realizado los gobernadores y las sugerencias que nos dan. Yo sí, en temas de política más contingente, creo que los gobernadores tienen un rol mucho más de gestión que de política. Los gobernadores lo que quieren, precisamente, es que les lleguen los recursos a las regiones para enfrentar el tema de la salud. Yo creo que cualquier debate, le voy a dar la palabra al tiro a los gobernadores, pero cualquier debate que sea de qué va a pasar con Chile Vamos, no es el debate de ahora. Algunos lo querrán instalar. Y generalmente lo instalan los que están o a la vereda del frente, los que quieren generar un debate político. Nosotros tenemos un debate social. La gente está cansada de los debates políticos. El presidente ha usado y abusado de la moneda para instalar temas políticos. Y se ha olvidado de las fronteras, salvo por la puesta en escena que hizo en Colchane. Se ha olvidado de la salud mental, salvo por la puesta en escena que hizo con el COSAM de Maipú. Se ha olvidado de la educación, y la tiene al frente. Él ve todos los días la violencia que se da en los liceos emblemáticos. Se ha olvidado de la vivienda, porque no fueron capaces de reconstruir las viviendas de las personas que más sufrieron en el incendio de Viña. Se han olvidado. ¿Y qué les interesa? La política. La política. Hasta la cadena nacional la usaron para la política. Por lo tanto, todas las discusiones de los partidos políticos creo que tienen que hoy día suspenderse y ver qué es lo más importante que nos toca en 25 días más, y no me voy a cansar de decirlo, en 25 días más nos juzgamos el destino de la patria, no el destino de un partido político, el destino de la patria. Y eso tiene que estar reflejado, y eso es lo que hemos hecho en el recorrido en regiones. Y por eso le hemos solicitado a los gobernadores, a los alcaldes, a los cores y a los concejales, a los alcaldes, a los cores y a los concejales que asuman un rol, porque la ciudadanía los identifica como las personas que tienen más cercanas, porque están ahí todos los días, los parlamentarios, los dirigentes políticos como nosotros, muchas veces tenemos que combinar el trabajo del partido, legislativo, pero ¿quiénes están todos los días viendo el sufrimiento de las personas? ¿Quién fue el alcalde que dice que han aumentado más los asesinatos en su comuna, incluso en ataques a los Cefam? Héctor Muñoz. Allí el gobernador de Bío Bío nos habló del terremoto social. El gobernador de Maule está muy preocupado por todo el tema agrícola, de cómo la producción agrícola llega a destino rápidamente, porque ahí hay mucho trabajo. Cuando estábamos en la Araucanía y veíamos que habían quemado a agricultores que daban trabajo, en un solo atentado van a quedar eventualmente sin trabajo 20 personas. quemaron a aquellos integrantes del pueblo originario mapuche a ellos también los asesinaron los han asesinado, los han quemado en base a qué causa a la del terrorismo y eso se tiene que acabar perdón bueno en el empleo o sea vamos al empleo el más directo ¿quién fue ministra del trabajo del desempleo? Janet Jara es Jara es Boric ¿quién fue la ministra del empleo? Evelyn Matei. Está súper claro que nosotros sí tenemos todo el interés de que Evelyn Matei nos colabore con el tema de cómo vamos a generar más empleo. Y en el tema de los recortes, lo más relevante es que se volvió a hablar de la responsabilidad fiscal. Si para tener una buena gestión hay que ser responsables. No hay que esconder los números. Uno tiene que programar los presupuestos. Uno puede calcular el ingreso que va a tener. Y de acuerdo al ingreso que va a tener, tiene que gastar. Si eso es la regla número uno que debería tener cualquier ministro de Hacienda, en cualquier hogar, uno ve que las personas discuten, debaten, de qué cosas son factibles poder hacer para mejorar la calidad de vida y cuáles no, de acuerdo al ingreso familiar. Salvo cuando llegan al gobierno algunos, que eran serios y responsables cuando dirigían alguna institución independiente, como puede ser el Banco Central, pero cuando asumen un rol político, se olvidan de la gestión, se olvidan de la responsabilidad. Y ahí tenemos el presupuesto dirigido por la mejor directora de presupuesto de la historia. Pero el que la nominó se fue, antes de que se produjera el apagón total. Porque eso es lo que está sucediendo hoy día, hoy día hay una especie de apagón. Y lo que recibieron los gobernadores es una pequeña muestra de lo que vamos a recibir del gobierno. Por lo tanto, la colaboración que nos han brindado, que nos han ofrecido del equipo económico de Evelin Matei, la recibimos con gratitud en el tema del trabajo. Creo que podemos centrarnos y hablar ahí de quién fue, quién va a llevarse el título de la ministra del Desempleo. Perdón, gobernador muchas gracias yo solo, la pregunta era ¿cuál es la importancia del despliegue junto a José Antonio Kass y también esta crítica que han hecho sectores de Chile Vamos que han puesto una especie de fin al conglomerado? ¿Usted está de acuerdo con eso? Lo primero es decir que yo creo que no es tiempo para tomar ese tipo de decisiones, además los resultados electorales, desde el punto de vista de la participación en el Parlamento, yo te diría, no son para tomar una decisión así. No obstante, creo que no es el momento, yo comparto absolutamente lo que ha planteado José Antonio Kast, que es momento de poner en foco las urgencias de Chile. Pero yo no sé si ustedes saben que hoy día en los hospitales de la región del Bío Bío, los funcionarios hacen colectas para poder comprarse los insumos, para poder comprar mascarilla, jeringas, porque el Ministerio de Salud no les entregó el presupuesto que necesitaban para este año. Entonces, con esa realidad en Chile, yo creo que hoy día no hay espacio para pensar qué va a pasar o no con una coalición, primero hay que decantar eso, sino más bien es urgente poner en foco las necesidades de las personas para que estén en la discusión que va a primar para la elección presidencial. Y es por eso que nosotros en bloque tomamos la decisión por un cambio que lidera José Antonio Gass, porque tenemos la certeza que él sí va a poner el foco 100% en la urgencia de las personas que viven en Chile. José Antonio, también le quería preguntar. Usted decía hace unos momentos que a usted le gustaría, si es que usted es presidente, entregarle la banda presidencial a alguien que sea de su sector. le cuento que a Pablo Longueira le encantaría exactamente lo mismo para nuestro país, pero dice que hay una fórmula con la cual se puede lograr eso, que es una coalición que funcione con un presidente un secretario general, donde los partidos desde el Partido Nacional Libertario hasta el PDG puedan conversar, algo así como la exconsertación. ¿Usted estaría también por impulsar eso con un liderazgo, obviamente, proviniendo desde la moneda si sale electo? Nosotros en esto, desde que partimos, pusimos el foco en las emergencias nacionales. Y de hecho, comenzamos a hablar cuando no muchos nos ponían atención de un gobierno de emergencia. Y ese gobierno de emergencia, de nuevo, va a las urgencias sociales, no a un debate político. Nosotros ya lo habíamos planteado antes, tampoco nos escucharon, si algunas medidas de las que propusimos el año 2017, las que propusimos el año 2021 con mucho más fuerza, se hubiesen llevado a la práctica, hoy día no tendríamos la crisis de seguridad que tenemos. Seguramente no tendríamos el desastre en la educación pública que hoy día tenemos. Seguramente hoy día habría mejor gestión para que las personas tuvieran su vivienda propia. ¿Para qué decir en salud? Lo que nos cuenta el gobernador Yacaman es impresionanteante que funcionarios tengan que ser colectas para comprar mascarillas y jeringas. Es como decir, ese es el desde. Por lo tanto, yo me vuelvo a centrar en lo que ha sido nuestra propuesta de gobierno de emergencia en torno a la crisis de seguridad, y eso requiere a las mejores personas a cargo del tema de la seguridad generaron un ministerio para eso y no ha dado resultado lo advertimos pero con nosotros si va a funcionar el tema de la reunión de seguridad le aseguro que hoy día es más importante para la ciudadanía que la reunión del comité político, mucho más importante, y eso no quiere decir que no vayamos a tener reuniones de comité político, por supuesto, porque el Parlamento en esto tiene que tomar decisiones importantes, y nosotros esperamos que esa decisión importante que nosotros enviemos el primer día de gobierno, recoja la unanimidad o la mayoría. La mayoría porque claramente algunos no quieren cambiar la ley de inmigración, algunos no quieren cambiar la ley de inteligencia, algunos no quieren hacer avance en la ley del terrorismo, no quieren mejorar la seguridad de Chile. Pero la mayoría de los parlamentarios, les aseguro, que sí están pendientes de solucionar esos problemas. Por lo tanto, esto es mucho más amplio de lo que ustedes se imaginan. Yo también he hablado de un gobierno de unidad nacional legislativa, porque el tema de la salud no reconoce bandos políticos, el tema de la seguridad no reconoce bandos políticos, perdónenme que me extienda, pero eso es lo que nosotros estamos planteando, mejorar la gestión del país entero para solucionar los problemas reales de las personas, no los problemas de grupos políticos. Y eso es lo que se juega ahora en 25 días más. Nosotros somos personas que estamos muy abiertas al diálogo en torno a las urgencias sociales. Cuando todos estemos en sintonía de las urgencias sociales, vamos a poder también deb torno a las urgencias sociales. Cuando todos estemos en sintonía de las urgencias sociales, vamos a poder también debatir de otras urgencias políticas. Pero lo primero son las urgencias sociales y no nos vamos a cansar de decirlo. Nosotros acuñamos el concepto de urgencia social. Ustedes lo pueden revisar en la historia política del país cuando aparece el concepto de urgencia social. Y aparece por ahí por el año 2000, no sé si el 2015 o el 2016. Y nosotros lo instalamos. Candidato, buenas tardes. Luego de la apertura a flexibilizar el plazo para alcanzar el recorte fiscal, ¿siguen vigentes los 6.000 millones pensando que, por ejemplo, la propuesta del candidato Caiz era superior? ¿Y qué plazos a su juicio le parecen los más adecuados, considerando que buscarán también de entrada, de llegar al gobierno, la rebaja del impuesto corporativo. Sí, bueno, si hiciéramos un mix entre los 4.000, los 6.000 y los 15.000, bueno, tenemos que ponernos de acuerdo en cuál es el promedio y cuál es el plazo. Pero vuelvo a insistir, la responsabilidad fiscal es lo más importante. Y nosotros nos alegramos que el tema del ajuste fiscal en torno a la responsabilidad fiscal sin pasar a llevar ningún derecho social, porque parte de la campaña que se ha levantado por mi competidora es en base a las mentiras. Si gana la derecha, se va a acabar esto, esto, esto, esto, incluso lo que no se ha creado también se va a acabar. Es impresionante el discurso de mentiras, es como un festival de mentiras. Lo dijimos cuando inscribimos la candidatura, van a ser 90 días de difamación de mentiras permanentes y han ocupado incluso, y vuelvo a insistir, el Palacio de la Moneda, la cadena nacional para mentir. Por lo tanto nosotros estamos abiertos a ver cuál es la optimización entre el recorte, el tiempo, siempre enfocado en el mejor uso de los recursos. Por eso queremos terminar con los abusos del Estado. Queremos mejorar la eficiencia del Estado. Y queremos trabajar en base a la austeridad para que todos los recursos, todos, lleguen a las personas. También lo dijeron los gobernadores, el foco está en las personas. Tenemos una historia que tenemos que respetar, que tenemos que cuidar, pero hoy día están muriendo 40.000 chilenos al año en listas de espera. Hoy día. ¿Dónde está su urgencia? Hoy día tenemos más de 300.000 personas que están infringiendo la ley en Chile, que no están cumpliendo con las leyes de inmigración. A ellos los hemos invitado a dejar el país. Y vuelvo a insistir, en los días que le quedan, de aquí a que asumamos el gobierno, tomen sus cosas y partan. Y si quieren volver a entrar, entren por la puerta. Ayer me tocó una situación bien impresionante. Un inmigrante que ya es residente chileno y que me dice yo estoy trabajando aquí, soy una persona honesta, honrada, y le dije como la mayoría de las personas que están acá, pero tengo mi hijo que no está regularizado y al menos yo soy capaz de mirar la frente a la persona, a los ojos y decirle, su hijo va a tener que salir. Es mayor de edad y va a tener que volver a postular. Esa es la verdad. Nosotros aquí no venimos con medias tintas. Cuando decimos que vamos a recuperar el control de las cárceles, lo vamos a hacer. Cueste lo que cueste. Cuando decimos que vamos a recuperar la paz en la Araucanía, lo vamos a hacer. Y no son palabras al viento. Cuando decimos que vamos a enfrentar el tema de las listas de espera, vamos a necesitar la colaboración de todos los gobiernos regionales del parlamento, de todos los funcionarios y me he dedicado también a decirle a los funcionarios que vamos a pedirles de nuevo que entreguen todo como lo hicieron para la pandemia lo he hablado con los funcionarios de la Dirección General de Aeropuertos con cada funcionario le digo ¿cuándo fue su último entrenamiento de defensa personal? No he tenido. ¿Dónde está su taser para detener a un agresor? No la tengo. ¿Dónde están las armas? En la loza, porque sólo ahí se hace el traspaso de recursos. ¿Usted sabe disparar un arma? No tenía entrenamiento. ¿Dónde están carabineros? Afuera. No tienen acceso a ese sector. ¿Dónde está la PDI? Adentro. Pero no todos son funcionarios que portan armas. Bueno, partamos de eso. ¿Cómo son nuestros detectores de maletas que todos nosotros cuando pasamos? ¿Qué detecta ese detector? ¿Las cámaras? ¿Las baterías? ¿Un cuchillo? ¿Un cortaúñas, ¿detecta la droga? La mayoría no lo hace. ¿Y qué tiene que hacer un funcionario de la Dirección General de Aeronáutica Civil cuando descubre a alguien traficante de droga? Detenerlo. ¿Y cómo lo hace? Casi como una especie de detención ciudadana. Y ahí tiene que llamar a carabineros, que a veces se puede demorar una hora en llegar al aeropuerto. ¿Y qué pasa si se sube un señor en estado de ebriedad, como nos tocó en el día de ayer en un avión de regreso de Valdivia? Bueno, tienen que ser los tripulantes del avión los que tienen que llamarlo a la calma. ¿Pero por qué se subió en esas condiciones? Esas son las verdaderas urgencias sociales. Cuando usted va a un consultorio, cree que está en un lugar seguro. No piensa que va a venir la banda rival a rematar a la persona que no pudieron matar en la plaza. Cuando usted va a un colegio, no espera que un niño saque un cuchillo o una pistola. Esa es la realidad que nos han dejado de este gobierno fracasado. Y eso es lo que vamos a enfrentar. Se va a hacer, porque nosotros ni siquiera estamos en el nivel de lo que tanto se usa en Chile por la gente de mundo de izquierda. Los porcentajes que cobran de impuestos los países de la OCDE. Entonces tenemos un parámetro para una cosa y otro parámetro para otra cosa. ¿Y por qué necesitan más recursos? Para pagarles a los amigos, para pagar los convenios. La plata está, y lo hemos visto, pero hay mala gestión. Imagínense el foco en Bio Bio, un museo, con todo el respeto de nuevo de la historia de nuestro país, pero podría haber un museo de la minería, de los trabajadores de Lota, podría haber un museo portuario, podría haber un museo forestal, todos respetables, pero hoy día se muere gente. En la Unión se iba a construir un nuevo hospital. Y apareció un hallazgo. Una punta de flecha. Y se paró la construcción de un hospital. El hospital base de Valdivia está colapsado. Y el hospital de La Unión está esperando que vengan los arqueólogos a ver si el hallazgo es verdadero. Entonces, una punta de flecha es más importante que las miles de personas que mueren. No, el foco está en las personas. Y podemos hacer un traslado con todo el respeto que merece ese hallazgo y llevarlo a otro lugar. Pero ahí vamos a construir un hospital, porque las personas están primero. Buenas tardes. Son varias preguntas en una, pero bien concreto. Usted decía al inicio que ya hubo varios debates en primera vuelta, pero ¿qué pasa con los debates de la segunda vuelta? ¿Está en duda su participación, por ejemplo, en el debate de este domingo en Mega? Y también, Janet Escara dijo hoy que Kast no quiere ir porque la otra vez perdió en segunda vuelta por los debates. Eso por una parte. Lo otro, ¿va a asistir al programa de Franco París y Bad Boys como él hizo en la invitación? Sí, en esto ser muy claro. Si hay alguien que no asistió a los debates, porque los perdió todos, fue Janet Jara Creo que el primero donde nos encontramos fue el Salmon Summit de Frutillar Donde ella llevó barra brava, que insultaban, gritaban, no respetaron un acto democrático de diálogo frente a la opinión pública Y ahí estaba presente un concejal de Frutillar, que era el activista de la barra brava No respetaron un acto democrático de diálogo frente a la opinión pública. Y ahí estaba presente un concejal de Frutillar, que era el activista La Barra Brava. Después de eso, cuando se le emplazó sobre un tema puntual de la ley Lafkenche, y sobre el tema del trabajo, y sobre el tema del exceso de regulaciones, no tuvo respuesta. Después fuimos a otro debate, sobre minería, donde también le hizo un emplazamiento sobre su programa inicial de la nacionalización de los minerales. Me trató de mentiroso. Después fuimos a un debate sobre el transporte, después una sobre la Cámara Comercio. Bueno, yo los invito a ver sus respuestas, porque no tiene cómo explicar el desempleo, la informalidad en la que nos van a dejar el país, los obstáculos para avanzar. Fuimos a uno de la Cámara Chilena de la Construcción, donde fue la única vez que mencionó algo positivo. Dijo que iba a reformular el Consejo de Monumentos Nacionales. ¿Y qué hizo el gobierno después? Mandó un proyecto de ley para aumentar el número de consejeros y ralentizar más. Me encantaría escucharla sobre el tema del terrorismo, pero ella dice que hay violencia rural. Me encantaría que dijera algo sobre los ESVAP, sobre los sitios protegidos que están matando a la pequeña y mediana minería en la zona norte y va a seguir aumentando rural. Me encantaría que dijera algo sobre los ESVAP, sobre los sitios protegidos, que están matando a la pequeña y mediana minería en la zona norte, y va a seguir aumentando. Me encantaría que allá afuera hablar con los que están llevando adelante el plan Salmón 250, con quienes yo me reuní. Y respecto de los debates, hay dos debates que están siempre planteados y que nosotros siempre vamos a estar disponibles, que es el de Archie y Anatel. Yo no tengo agendado ningún debate para el domingo. Ninguno. Porque ese es un debate que se acordó con una candidata ella dijo y ella ha hecho un emplazamiento pero para debatirse necesitan dos y el compromiso de dos de asistir si usted ve mi correo electrónico mi whatsapp pueden haber consultas pero no hay respuesta. Y eso es una señal clara de que no hay un acuerdo para ese debate, porque cuando se suceden este tipo de cosas, yo no le entrego el poder de cuestionar a otro candidato, no quiere debatir. Bueno, hagamos un análisis de la cantidad de debates que hemos tenido. Yo le entrego el poder a un candidato para decirle que no venga, al menos yo, a los que fui, ahí en presencia, si ella quiere ir a una entrevista, que lo haga. Yo el domingo no tengo agendado un debate y no tengo ningún problema en decir que no lo tengo agendado. Y yo diré, no, una cosa es que usted lo inviten y otra es que usted acepte una invitación. A mí me han llegado, yo le dije, me han llegado correos, me han llegado WhatsApp. Pregúntele al que me envió los correos y los WhatsApp si tuvo respuesta mía. Entonces cuando uno recibe una invitación, uno es libre de aceptarla o rechazarla. Yo no la he respondido y voy a responder cuando corresponda y cuando encuentro oportuno. Ya le he señalado que voy a ir a dos debates, que es el de Archie y el de Anatel. Y si llegan otras propuestas, las vamos a analizar en su mérito. Pero lo que no voy a aceptar es que una candidata utilice una asociación como esa, sobre todo cuando ella arrancó de los debates y fue a regiones en donde le fue pésimo. Porque dijo, no puedo debatir y no voy a debatir donde están los grandes empresarios. Y después, ¿en cuál nos encontramos? En el Denagro. Ahí sí fue. Porque tenía experiencia en el tema de las cosechas. Eso es lo que decía. Y nosotros hemos aceptado la primera invitación que nos ha hecho Franco Parisi, que es salir a la calle. Yo no partí en los matinales, partí en la Araucanía, donde la gente sufre la violencia del terrorismo, no la violencia rural. Partí a los ríos, ciudad abandonada por años. No han sido capaces de construir una doble vía. Hicieron un bypass precioso y ahí quedó tirado el acceso a Valdivia, a San José de la Mariquina, a Máfil, donde estuve. Fui a hablar con el alcalde Corral, como un apuerto. Hablé con el alcalde de Ranco, que aumentó su votación al 86%, aumentó su presupuesto de 3.000 a 14.000 millones. Eso es gestión. Y yo estoy en la calle, como me pidió Franco Parisi a través de todos los medios. Dijo, vayan a la calle y gánense los votos. Yo me estoy ganando los votos en la calle. Estuve hace cuatro años en el programa y lo pasé muy bien. Otros candidatos no quisieron ir. Estamos evaluando. Pero hoy día estoy cumpliendo con la primera solicitud que nos hizo Franco Barisi. Vaya a la calle. Mañana voy a estar en Arica. Y así voy a seguir recorriendo Chile porque quiero ser un presidente en terreno no un presidente que entra en la moneda y se olvida del país y que sí, es capaz de ir a subir el cerro en bicicleta durante el día para despejarse bueno, nosotros vamos a estar en terreno yo me voy a ir a despejar a Colchane me voy a ir a despejar a Timauquil me voy a ir a despejar a Corral me voy a ir a despejar a Ollagüe me voy a ir a despejar a Colchane, me voy a ir a despejar a Timauquil, me voy a ir a despejar a Corral, me voy a ir a despejar a Ollagüe, me voy a ir a despejar a Vallenar. Todas las ciudades, a Copiapó, las ciudades donde hoy día la gente sufre las urgencias reales. La gente conoce nuestro programa, son tres ejes programáticos, son 33 medidas, todas pueden recibir colaboración y aporte, pero lo que no vamos a hacer es mentir. Porque Gabriel Boric mintió cuando dijo que iba a rebajar los sueldos de los operadores políticos. Mintió cuando dijo que no iba a pitutar a nadie más. No lo hizo durante todo su gobierno. Y hoy día la candidata a la continuidad recoge esa parte del programa de Franco Parisi. Nadie va a ganar más que lo que desea Franco Parisi. ¿Y por qué no lo hicieron durante tres años? Eso es mentirle a los chilenos. Igual que les mintieron con la educación pública que destruyeron. Igual que les mintieron con el tema de la vivienda. Y así suma y sigue. Porque el legado de este gobierno es fracaso. Y la continuidad de este gobierno es Janet Jara. Y va a tener toda la oportunidad de debatir conmigo cuando lleguemos a un acuerdo entre los candidatos con los programas que hagan las invitaciones. Un programa puede invitar a entrevistas, sí, y cada uno es libre de aceptar. Pero cuando quiere invitar a un debate, primero se ponen de acuerdo los candidatos y después le confirman al canal. Es lo mismo que hizo el presidente Boric cuando salió fuera de Chile, hizo una nominación y no tuvo el gesto siquiera de preguntarle a quienes lo podrían suceder en la presidencia para nominar a una expresidenta de Chile, que yo valoro. Pero no tuvo la capacidad de hacer el gesto, porque piensa que él es el que manda en la relación internacional de Chile como buen presidente, pero lo hace mal. Y cada vez que se lo corrigen, se taima. Candidato, dos preguntas. Dígame. En caso de llegar probablemente a la moneda el próximo 11 de marzo, ¿cuál va a ser su primera medida para expulsar a los inmigrantes que hay acá en Chile? Por ejemplo, ¿van a haber readas policiales? ¿Qué es lo que...? La primera medida ya se las mencionamos. Tomen sus cosas y salgan por la puerta al país por donde entraron. Llévense sus recursos. Hagan la postulación como corresponde. Pero, ¿des desde el Estado. Nosotros lo que vamos a hacer es hacer las fiscalizaciones que están de acuerdo a la ley. Yo hoy día podría pedirle a las fuerzas policiales que cada vez que hagan una verificación de licencia a conducir de cédula de identidad, que a esa persona le digan ¿por qué usted no tiene licencia a conducir? ¿Por qué está manejando un vehículo sin licencia cumpliendo la ley de Chile? Está cometiendo una infracción. ¿Por qué circula por Chile sin su cédula de identidad? Cualquier persona que nosotros nos pregunten en un consultorio, incluso en algún local comercial, y nos dicen en el local comercial, oiga, ¿me das su RUT para un descuento? No he visto nunca a nadie, pueden haber muchas personas que se nieguen a entregar el RUT. Pero cada vez que un carabinero dice, muéstrame su cédula, la persona como que se envalentona. ¿Por qué? Porque hay personas como la candidata Jara que alientan a quienes denigran a la institución de carabineros. Ella tuvo una gran oportunidad de dar una señal a Chile de respaldo y respeto a los carabineros y no lo hizo. Preferió seguir en la lógica de la bolera Matapacos. Esa es la lógica de ellos y no han cambiado. Y la segunda pregunta es sobre el Plan Nacional de Búsqueda de los Detenidos Desaparecidos. ¿Usted piensa mantener esa política pública o es algo que prefiere dejar de lado? Nosotros lo que hemos señalado es que lo que está en curso, está en curso. Está en curso temas sociales, están en curso temas políticos. El punto es cómo ¿cómo hacemos la gestión? Yo los invito a ver una sesión de comisión donde el diputado Kaiser cuestiona a la directora del Servicio Médico Legal. Bueno, partamos por lo que hoy día tenemos, pero de nuevo, no usemos la política para desviar los temas que son de verdadera importancia, el foco en las personas, en el que hoy día muere por no tener atención de salud, en el que hoy día no tiene reconstruida su vivienda que se quemó, en el que hoy día tiene que someterse a la tortura de una tómbola para que se defina el destino de su hijo en la educación en eso nos vamos a ocupar candidato candidato candidato lo último lo último suyo y después viene todavía lo último del joven por favor le quiero preguntar por el tema de los bad boys porque en la mañana en la cooperativa el general Enrique Basaleti dijo que él no cree en las primatonas y que tiene dudas de darle el carácter después a Franco París. ¿Qué le parece esta declaración? Bueno, yo primero felicito al general Basaleti por su elección. Me alegro mucho que uno de los que encabeza el plan de seguridad de republicanos haya salido electo en, yo creo que el distrito más grande, si no me equivoco, de Chile. Junto con nuestro diputado Agustín Romero duplicamos nuestra fuerza parlamentaria en ese distrito y eso nos tiene de verdad muy contentos. Y en relación a los dichos, yo me quedo con lo que yo dije al principio, estoy en la calle, así como lo están todos nuestros candidatos electos, todos los que fueron, no llegaron a la meta y perdieron la elección, están todos en la calle y son las personas las que van a definir esta elección con su voto y van a tener oportunidades de verme debatir con la candidata a la continuidad sí, pero nosotros vamos a elegir a qué programas vamos, a cuáles no, y primero poniéndonos de acuerdo, porque hace cuatro años íbamos a ir los dos candidatos y llegó solo uno, adivine quién pero quién utilizó este sistema, el otro candidato, que al final no fue. ¿Qué le parece el orden que está tomando París y por qué ayer no le gustó que usted hablara con el presidente de Argentina, por ejemplo? Bueno, yo creo que nosotros tenemos que mejorar todas las relaciones internacionales, todas, a diferencia del presidente actual, que fue destruyendo vínculos con Perú, con Argentina. Yo espero poder tener, si soy electo presidente, y de acuerdo a una política internacional bien planteada, bien propuesta, conversaciones importantes con el presidente de Argentina, Javier Milei, conversaciones importantes con el presidente de Paraguay, Santiago Peña, conversaciones importantes con el recién electo y asumido presidente de Bolivia, con el presidente de Ecuador, que ha dado una lucha frontal contra el crimen organizado. Por supuesto, con el presidente Bukele, a quien no conozco personalmente, porque fuimos a El Salvador, fuimos con Arturo Esquella, con el general Vasaletti, conocimos cómo enfrentaron a las pandillas, cómo tranquilizaron ese país. Ese es un país libre hoy día, de las maras, de la delincuencia. Por supuesto que me encantaría tener un diálogo directo con él pero él fue muy respetuoso también de las elecciones internas de otros países y nos juntamos con sus equipos de seguridad y por supuesto que me gustaría hablar con él y lo mismo que he podido hacer ya con los viajes que he tenido con la primera ministra de Italia Giorgia Meloni por supuesto que vamos a tener ese diálogo internacional Arturo la última y queremos, perdón, liberar a los gobernadores",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¿Alguien más?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Ha estado todo muy bien.",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "Y va a estar mejor aún.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 10.0,
+      "end": 16.0,
+      "text": "Y bueno, voy a partir primero saludándolos, agradeciéndoles su presencia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 16.0,
+      "end": 25.98,
+      "text": "saludando también a quienes nos acompañan a lo largo de todo Chile en las redes sociales. Para nosotros es muy importante el trabajo que tenemos en estos próximos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 25.98,
+      "end": 33.1,
+      "text": "25 días, donde tenemos que seguir defendiendo, levantando nuestras propuestas. Ya han habido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 33.1,
+      "end": 38.0,
+      "text": "varios debates de primera vuelta, ahora ya se concentra",
+      "speaker": "Kast"
+    },
+    {
+      "start": 38.0,
+      "end": 45.76,
+      "text": "todo en dos candidaturas. Esperamos que podamos ir mostrando en lo que va a quedar estos 25",
+      "speaker": "Kast"
+    },
+    {
+      "start": 45.76,
+      "end": 50.4,
+      "text": "días lo importante que es esta eleccióncción, debe ser la elección más importante",
+      "speaker": "Kast"
+    },
+    {
+      "start": 50.4,
+      "end": 56.0,
+      "text": "de nuestra generación, donde Chile tiene que optar por el continuismo del actual gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 56.0,
+      "end": 63.0,
+      "text": "o por un cambio real que enfrente las urgencias sociales que hoy día sufre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 63.6,
+      "end": 65.72,
+      "text": "nuestro país. Y hoy día nos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 65.72,
+      "end": 68.12,
+      "text": "convoca eh algo muy relevante",
+      "speaker": "Kast"
+    },
+    {
+      "start": 68.12,
+      "end": 71.78,
+      "text": "que es el apoyo y el trabajo de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 71.78,
+      "end": 73.38,
+      "text": "una nueva generación de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 73.38,
+      "end": 75.82,
+      "text": "gobernadores. Gobernadores que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 75.82,
+      "end": 78.06,
+      "text": "llegaron con un estilo directo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 78.38,
+      "end": 81.32,
+      "text": "abierto, que han ido mostrando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 81.32,
+      "end": 87.22,
+      "text": "gestión, han ido mostrando transparencia y lamentablemente varios de ellos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 87.22,
+      "end": 94.38,
+      "text": "heredaron conflictos, procesos judiciales, donde tienen que lidiar con situaciones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 94.38,
+      "end": 96.0,
+      "text": "complejas como funcionarios que están requeridos por la justicia, donde tienen que lidiar con situaciones complejas como funcionarios",
+      "speaker": "Kast"
+    },
+    {
+      "start": 96.56,
+      "end": 102.86,
+      "text": "que están requeridos por la justicia, donde no pueden desarrollar todo lo que quisieran,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 103.52,
+      "end": 109.08,
+      "text": "donde se generó un manto de desconfianza por no haber cumplido las expectativas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 109.08,
+      "end": 112.66,
+      "text": "de la ciudadanía, siendo un cargo muy relevante a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 112.66,
+      "end": 122.22,
+      "text": "nivel de regiones que fue demandado por gran parte de todos los líderes políticos y el resultado en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 122.22,
+      "end": 131.32,
+      "text": "algunos casos es muy lamentable. Frente a eso, esta generación nueva de gobernadores ha querido marcar una diferencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 131.32,
+      "end": 135.82,
+      "text": "de puertas abiertas, no solamente de recibir a todos los vecinos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 135.96,
+      "end": 143.04,
+      "text": "sino discriminar por postura política, sino que de transparentar todos los actos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 144.12,
+      "end": 152.04,
+      "text": "Y hoy día han venido a manifestar la disposición de poder trabajar, de poder analizar, de seguir conversando,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 152.04,
+      "end": 155.22,
+      "text": "de que esto no sea solamente una reunión",
+      "speaker": "Kast"
+    },
+    {
+      "start": 155.22,
+      "end": 160.14,
+      "text": "como las que se suelen hacer en política, donde uno se junta una vez,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 160.14,
+      "end": 164.14,
+      "text": "saca una imagen importante, pero queda ahí.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 164.76,
+      "end": 168.7,
+      "text": "No, el compromiso es que desde lo técnico, desde lo territorial,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 169.18,
+      "end": 170.26,
+      "text": "desde las regiones,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 170.64,
+      "end": 174.98,
+      "text": "esto se pueda plantear y sumar a lo que es una propuesta de gobierno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 176.12,
+      "end": 178.38,
+      "text": "Una experiencia acumulada de ya más de un año,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 179.04,
+      "end": 184.1,
+      "text": "de recibir en parte lo que a nosotros nos podría tocar recibir,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 184.44,
+      "end": 185.08,
+      "text": "si la ciudadanía",
+      "speaker": "Kast"
+    },
+    {
+      "start": 185.08,
+      "end": 189.86,
+      "text": "así lo dispone, en el gobierno. Hoy día ustedes ven claramente la situación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 189.86,
+      "end": 194.28,
+      "text": "compleja que vive Chile en la discusión presupuestaria. Creo que esta situación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 194.28,
+      "end": 198.1,
+      "text": "no se había vivido en otras ocasiones, no he revisado todas las discusiones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 198.1,
+      "end": 215.7,
+      "text": "presupuestarias, pero la tensión que hay, la poca diligencia con que han operado nuestras autoridades para presentar los números en la ley más importante del país, las expresiones del presidente en su discurso a la nación, donde se dio el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 215.7,
+      "end": 220.66,
+      "text": "lujo de saltarse todas las normas republicanas para referirse a una candidatura. Es algo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 220.66,
+      "end": 227.0,
+      "text": "que no habíamos visto antes. Y en las regiones también se vive. Se dieron situaciones como",
+      "speaker": "Kast"
+    },
+    {
+      "start": 227.6,
+      "end": 232.38,
+      "text": "la de Aysén, donde se dio una de las peores ejecuciones presupuestarias de la historia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 233.12,
+      "end": 238.7,
+      "text": "Aquí seguramente los gobernadores le van a relatar lo que es el terremoto social que hoy día se vive en Bío Bío.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 239.58,
+      "end": 244.32,
+      "text": "Y veíamos que hoy día hay más personas afectadas por este terremoto social en salud",
+      "speaker": "Kast"
+    },
+    {
+      "start": 244.32,
+      "end": 253.0,
+      "text": "de todas las personas que sufrieron por ese tremendo desastre natural que fue el 27F del año 2010.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 253.84,
+      "end": 258.88,
+      "text": "Lo que está sucediendo en salud, en Bío Bío, es dramático y es un terremoto silencioso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 259.76,
+      "end": 261.0,
+      "text": "Lo que está sucediendo con el tema",
+      "speaker": "Kast"
+    },
+    {
+      "start": 261.0,
+      "end": 267.08,
+      "text": "del empleo. Ustedes pueden revisar las regiones que tienen mayor desempleo y las autoridades",
+      "speaker": "Kast"
+    },
+    {
+      "start": 267.08,
+      "end": 272.5,
+      "text": "nacionales, claro, llegan para algunas situaciones puntuales, del cierre, por ejemplo, de alguna gran",
+      "speaker": "Kast"
+    },
+    {
+      "start": 272.5,
+      "end": 276.4,
+      "text": "empresa, pero después no hay un seguimiento de la situación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 276.4,
+      "end": 283.52,
+      "text": "y eso tiene que cambiar y eso no puede esperar hasta que asuma un nuevo gobierno. Eso tiene que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 283.52,
+      "end": 287.78,
+      "text": "desarrollarse desde ahora. Nosotros tenemos que estar muy abiertos, cualquiera de los que sea",
+      "speaker": "Kast"
+    },
+    {
+      "start": 287.78,
+      "end": 292.64,
+      "text": "candidato a la presidencia, de conocer la realidad de los que están hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 292.64,
+      "end": 298.2,
+      "text": "en esta nueva etapa de las gobernaciones, para ver dónde se requieren",
+      "speaker": "Kast"
+    },
+    {
+      "start": 298.2,
+      "end": 301.88,
+      "text": "más recursos, cómo darle más autonomía, pero con responsabilidad,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 302.54,
+      "end": 305.58,
+      "text": "porque nosotros estamos muy bien dispuestos a avanzar en el tema",
+      "speaker": "Kast"
+    },
+    {
+      "start": 305.58,
+      "end": 312.26,
+      "text": "de la descentralización en la entrega de autonomía pero contra parámetros objetivos de transparencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 312.26,
+      "end": 318.54,
+      "text": "que no se dé que un gobernador tenga mayor afinidad con algún alcalde y ese alcalde le",
+      "speaker": "Kast"
+    },
+    {
+      "start": 318.54,
+      "end": 325.0,
+      "text": "llegue un poco más a todos les va a tocar algo no es cierto de los recursos regionales pero no puede ser",
+      "speaker": "Kast"
+    },
+    {
+      "start": 325.0,
+      "end": 329.3,
+      "text": "que prime un criterio político porque las personas que requieren transporte",
+      "speaker": "Kast"
+    },
+    {
+      "start": 329.3,
+      "end": 334.92,
+      "text": "seguridad educación salud vivienda integrado el trabajo con las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 334.92,
+      "end": 335.46,
+      "text": "gobernaciones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 335.46,
+      "end": 337.6,
+      "text": "que no tienen todas las facultades, es fundamental.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 338.52,
+      "end": 344.12,
+      "text": "Me tocó estar el día de ayer en Valdivia, estar con los candidatos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 344.12,
+      "end": 349.56,
+      "text": "a diputados electos, los tres son nuevos diputados electos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 349.68,
+      "end": 350.0,
+      "text": "hay una renovación",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 350.6,
+      "end": 356.82,
+      "text": "importante. Salieron electos tres de cinco, lo cual también habla del triunfo que tuvo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 356.82,
+      "end": 362.0,
+      "text": "nuestro sector en el tema parlamentario. Estaban presentes casi todos los alcaldes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 362.62,
+      "end": 368.3,
+      "text": "que son de Chile Vamos y del sector en Los Ríos. También estuve el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 368.3,
+      "end": 374.98,
+      "text": "día anterior en la Araucanía, donde también me pude reunir con más de 15 alcaldes de la región, en ambas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 374.98,
+      "end": 380.8,
+      "text": "regiones con la mayoría de los consejeros regionales, con la mayoría de los concejales, con todas las autoridades",
+      "speaker": "Kast"
+    },
+    {
+      "start": 380.8,
+      "end": 382.86,
+      "text": "que fueron, con todos los líderes que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 382.86,
+      "end": 384.72,
+      "text": "fueron a la elección y no ganaron, y eso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 384.72,
+      "end": 387.38,
+      "text": "marca una gran diferencia también. Aquí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 387.38,
+      "end": 390.94,
+      "text": "nadie dice me cansé. Están todos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 390.94,
+      "end": 392.72,
+      "text": "trabajando porque el desafío que tenemos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 392.72,
+      "end": 394.6,
+      "text": "por delante, vuelvo a insistir, es el más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 394.6,
+      "end": 398.04,
+      "text": "grande de las últimas décadas, de liberar a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 398.34,
+      "end": 401.88,
+      "text": "De liberar a Chile de la crisis en seguridad que todos conocemos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 402.36,
+      "end": 407.44,
+      "text": "de la crisis de salud que genera ese terremoto social silencioso,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 407.94,
+      "end": 411.22,
+      "text": "de la falta de empleo, por la falta de seguridad también,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 412.02,
+      "end": 418.76,
+      "text": "me tocó ir a ver a víctimas que habían recién sido atacadas, víctimas que fueron atacadas en los mismos sectores",
+      "speaker": "Kast"
+    },
+    {
+      "start": 418.76,
+      "end": 426.52,
+      "text": "donde asesinaron al matrimonio Luxingen-Marcai, en el mismo sector donde asesinaron a Osvaldo Antilev hace años atrás, porque el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 426.52,
+      "end": 432.82,
+      "text": "terrorismo sigue con fuerza y no es violencia rural, es terrorismo, es personas que actúan sobre seguro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 432.82,
+      "end": 439.68,
+      "text": "de noche con alto poder de fuego y son, como vuelvo, como lo he dicho antes, cobardes. En el mismo tema",
+      "speaker": "Kast"
+    },
+    {
+      "start": 439.68,
+      "end": 442.72,
+      "text": "en Valdivia, también, perdón, en la región de los ríos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 442.86,
+      "end": 446.94,
+      "text": "donde en la comuna de Máfil fuimos a visitar también personas que habían sido atacadas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 446.94,
+      "end": 450.96,
+      "text": "y varios campos que siguen ahí usurpados,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 452.34,
+      "end": 456.66,
+      "text": "cosas que uno no imaginaría están sucediendo. Tuvimos también la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 456.66,
+      "end": 461.46,
+      "text": "posibilidad de plantear esto mismo, de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 461.46,
+      "end": 462.8,
+      "text": "pedirle a las autoridades locales,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 463.22,
+      "end": 466.08,
+      "text": "alcaldes, concejales y consejeros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 466.08,
+      "end": 468.62,
+      "text": "regionales, que nos colaboren en este",
+      "speaker": "Kast"
+    },
+    {
+      "start": 468.62,
+      "end": 471.68,
+      "text": "nuevo plan que va a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 471.68,
+      "end": 473.4,
+      "text": "enfrentar a Chile para ese cambio real",
+      "speaker": "Kast"
+    },
+    {
+      "start": 473.4,
+      "end": 474.84,
+      "text": "y ahora los quiero dejar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 474.84,
+      "end": 477.1,
+      "text": "con el gobernador del Maule",
+      "speaker": "Kast"
+    },
+    {
+      "start": 477.1,
+      "end": 479.64,
+      "text": "José Pedro Álvarez Salamanca, después con el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 479.64,
+      "end": 481.34,
+      "text": "gobernador de Bio Bio, Sergio Yacaman",
+      "speaker": "Kast"
+    },
+    {
+      "start": 481.34,
+      "end": 483.34,
+      "text": "con el presidente del partido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 483.34,
+      "end": 485.04,
+      "text": "republicano y después todas las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 485.04,
+      "end": 489.68,
+      "text": "consultas que ustedes quieran las contesta la persona que ustedes estimen indicada. Muchas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 489.68,
+      "end": 499.78,
+      "text": "gracias. Muchas gracias, José Antonio. Bueno, saludar a todos los presentes, saludar a José",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 499.78,
+      "end": 500.74,
+      "text": "Antonio, a su equipo, a don Sergio Yacaman, quien nos acompaña hoy día Antonio. Bueno, saludar a todos los presentes, saludar a José Antonio, a su equipo,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 501.26,
+      "end": 508.0,
+      "text": "a don Sergio Yacaman que nos acompaña hoy día acá. Hoy día venimos seis gobernadores regionales,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 508.7,
+      "end": 514.5,
+      "text": "¿no es cierto?, en representación. De ellos estamos hoy día acá con Sergio porque sabemos la importancia",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 514.5,
+      "end": 516.94,
+      "text": "que se viene en el futuro próximo.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 517.58,
+      "end": 523.06,
+      "text": "Tenemos que recuperar, ¿no es cierto?, la presidencia de la República, tenemos que recuperarla con José Antonio.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 523.66,
+      "end": 533.14,
+      "text": "Nosotros en el Maule hemos hecho un trabajo importante de que asumimos la gobernación regional, pero falta, falta mucho por hacer y lo estamos haciendo de a poco.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 533.7,
+      "end": 542.0,
+      "text": "Yo me quiero tomar un minuto, José Antonio, también para agradecer a nuestra candidata Evelyn Matei, que lo dio todo en su campaña.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 542.94,
+      "end": 545.22,
+      "text": "Nosotros le ayudamos con lo que más pudimos,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 549.2,
+      "end": 553.1,
+      "text": "agradecer su valentía, su presencia en la región, pero hoy día estamos enfrentados a una segunda vuelta, que es muy distinta a la primera, y en esta segunda vuelta",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 553.1,
+      "end": 559.26,
+      "text": "tenemos que unirnos todos. Todas las oposiciones tenemos que estar atrás de José Antonio Kast,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 559.6,
+      "end": 565.98,
+      "text": "porque sabemos que hoy día necesitamos una persona como él, ¿no es cierto?, para sacar al país adelante.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 566.4,
+      "end": 576.4,
+      "text": "Nosotros queremos representar a la gente del Maule y yo le mando un saludo cariñoso desde el Maule, desde nuestros concejales, consejeros regionales, parlamentarios, electos también,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 576.82,
+      "end": 581.42,
+      "text": "que están todos atrás de esta causa y todos vamos a hacer un esfuerzo importante",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 581.42,
+      "end": 585.8,
+      "text": "porque José Antonio nos represente en la moneda el próximo marzo.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 586.18,
+      "end": 596.64,
+      "text": "Nosotros trajimos una carta, de hecho acá, que ustedes se las vamos a hacer llegar en un rato más, en donde manifestamos nuestra voluntad de nuestros seis gobernadores regionales",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 596.64,
+      "end": 602.9,
+      "text": "de Chile Vamos, en donde estamos todos con testes en el fondo de que podemos sacar adelante",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 602.9,
+      "end": 607.92,
+      "text": "esta tremenda, tremenda candidatura a la presidencia de la República. Gracias.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 608.92,
+      "end": 619.44,
+      "text": "Muy bien, muy buenas tardes, Sergio Yacaba, gobernador de la región del Bío Bío, yo lo que quisiera",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 619.44,
+      "end": 624.64,
+      "text": "decir en representación de mi región, primero, bueno, agradecerle a José Antonio",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 624.64,
+      "end": 630.08,
+      "text": "de habernos recibido y efectivamente, en consecuencia del acto republicano de Evelin,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 630.34,
+      "end": 633.76,
+      "text": "también los gobernadores quisimos venir a darte nuestro apoyo.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 634.62,
+      "end": 637.34,
+      "text": "Efectivamente, con Pedro Pablo representamos a los demás gobernadores de Chile.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 637.48,
+      "end": 642.32,
+      "text": "Estamos con Diego Paco Mamani, gobernador de Arica, que ya había manifestado en primera vuelta su voluntad.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 642.44,
+      "end": 644.72,
+      "text": "Está Cristóbal Yuliá, que es el gobernador de la región de Coquimbo.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 645.1,
+      "end": 647.06,
+      "text": "Pedro Pablo, quien les habla.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 647.5,
+      "end": 649.42,
+      "text": "Alejandro Santana, que es de la región de Los Lagos.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 649.52,
+      "end": 652.04,
+      "text": "Y Marcelo Santana, que es de la región de Aysén.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 652.52,
+      "end": 657.22,
+      "text": "Yo les quiero decir que Chile vive una crisis brutal, José Antonio lo acaba de comentar,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 657.74,
+      "end": 662.1,
+      "text": "es una crisis social tan o más fuerte que lo que se vivió producto del terremoto.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 662.62,
+      "end": 666.02,
+      "text": "En la región del Vío Vigo tenemos más de 220.000 personas en listas de espera, que es mucho más que lo que se vivió por laió producto del terremoto. En la región del Bío Bío tenemos más de 220.000 personas en listas de espera,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 666.46,
+      "end": 669.12,
+      "text": "que es mucho más que lo que se vivió por la afectación del terremoto.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 669.74,
+      "end": 674.48,
+      "text": "Y como la causa, el origen, no es un terremoto, es más bien invisible.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 675.42,
+      "end": 681.44,
+      "text": "Y este gobierno, que la candidata opositora a José Antonio es de la continuidad a este gobierno,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 681.5,
+      "end": 684.94,
+      "text": "este gobierno ha sido incapaz de darle solución a esos problemas.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 685.16,
+      "end": 688.38,
+      "text": "Y por eso nosotros estamos absolutamente, por el cambio,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 689.06,
+      "end": 694.58,
+      "text": "creemos que José Antonio Kass y sus equipos se van a encontrar la fórmula",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 694.58,
+      "end": 697.0,
+      "text": "para poder abordar los desafíos que tiene",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 697.0,
+      "end": 703.68,
+      "text": "Chile en general, pero también particularmente cómo podemos trabajar pensando que las regiones somos",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 703.68,
+      "end": 709.76,
+      "text": "y tenemos capacidades similares a las que tenemos en Santiago. Lo conversamos, se planteó la posibilidad",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 709.76,
+      "end": 715.4,
+      "text": "de evaluar en el futuro un mayor trabajo con regiones. Nosotros eso ya, solo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 715.4,
+      "end": 721.48,
+      "text": "la disposición la valoramos profundamente porque nos hemos sentido absolutamente postergados",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 721.48,
+      "end": 729.3,
+      "text": "por parte del nivel central en este gobierno. Yo les quiero decir que no es solo una crisis social, sino que también es una crisis de mala gestión",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 729.3,
+      "end": 733.8,
+      "text": "y que lamentablemente prioriza cosas que están basadas en la ideología.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 733.9,
+      "end": 741.5,
+      "text": "En la región del Bío Bío, por ejemplo, se priorizó por parte del gobierno financiar un museo de la memoria. No tengo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 741.5,
+      "end": 745.7,
+      "text": "nada contra el museo de la memoria, pero sí les puedo decir que hoy día no es urgencia",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 745.7,
+      "end": 750.5,
+      "text": "para nadie. Sí tenemos 220.000 personas que requieren con urgencia operaciones de cadera,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 751.0,
+      "end": 755.4,
+      "text": "que requieren con urgencia operaciones de catarata, y esos recursos claramente, si",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 755.4,
+      "end": 760.18,
+      "text": "alguien tiene foco en las personas, van a disponerse para darle solución a la urgencia",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 760.18,
+      "end": 765.4,
+      "text": "de salud de esos ciudadanos. Así que yo te quiero agradecer, José Antonio, por la disposición,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 765.94,
+      "end": 770.08,
+      "text": "te quiero agradecer a tu equipo y decirle que desde regiones vamos a trabajar intensamente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 770.08,
+      "end": 774.86,
+      "text": "para que el cambio llegue a nuestras regiones y así se pueda poner en prioridad",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 774.86,
+      "end": 777.66,
+      "text": "las personas no solamente de Santiago, sino de todo el país.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 778.18,
+      "end": 778.64,
+      "text": "Muchas gracias.",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 782.04,
+      "end": 800.32,
+      "text": "Bueno, yo solo sumarme a los agradecimientos a Sergio, a Pedro Pablo, la verdad es que esto no es solo un gesto, sino que dada la conversación que hemos tenido y hoy día se manifiesta a través de ellos, digamos,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 800.4,
+      "end": 803.8,
+      "text": "la voz de todos los gobernadores de Chile Vamos, todos los gobernadores que hoy día",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 803.8,
+      "end": 808.98,
+      "text": "son de oposición, hay un ánimo, un espíritu genuino de contribuir en todo lo que esté",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 808.98,
+      "end": 815.82,
+      "text": "al alcance de los gobernadores, al alcance de quienes estamos en la actual oposición a este mal gobierno,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 816.5,
+      "end": 822.44,
+      "text": "de sacar adelante las peores crisis por las cuales nos ha tocado atravesar durante las últimas décadas.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 823.12,
+      "end": 863.16,
+      "text": "¿Quién más que ellos, los gobernadores que están a la cabeza de los lugares en donde llegan muchas veces las personas....de Janet Jara. Y eso estimula, me imagino yo, no solo a quienes estamos hoy día en la oposición,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 863.3,
+      "end": 869.3,
+      "text": "en cargos públicos o en algún rol de representación, sino que también a miles y miles de chilenos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 869.3,
+      "end": 874.3,
+      "text": "que no necesariamente están muy en conocimiento de lo que es la política, pero sí han sufrido",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 874.3,
+      "end": 875.06,
+      "text": "las consecuencias",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 875.06,
+      "end": 880.14,
+      "text": "de tener una pésima administración desde la moneda y en todas las reparticiones públicas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 880.14,
+      "end": 885.1,
+      "text": "que dependen del gobierno central. Por lo mismo, nuevamente el agradecimiento,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 885.2,
+      "end": 889.66,
+      "text": "así como lo hicimos el mismo domingo, cuando llegaron, incluso antes de que se cerraran",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 889.66,
+      "end": 890.9,
+      "text": "las últimas mesas,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 891.44,
+      "end": 897.82,
+      "text": "llegaron los candidatos que durante varios meses estuvimos compitiendo a entregar su apoyo sincero.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 898.28,
+      "end": 903.44,
+      "text": "Recibimos aquí a Evelyn Matei, a Johannes Kaiser. En el transcurso de los días nos hemos ido reuniendo",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 903.44,
+      "end": 906.66,
+      "text": "desde los grupos programáticos,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 906.76,
+      "end": 911.26,
+      "text": "económicos. Ayer tuvimos la oportunidad de reunirnos con los presidentes de los distintos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 911.26,
+      "end": 919.72,
+      "text": "partidos. Empezamos una coordinación que va avanzando de muy buena manera. Me avisaron a",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 919.72,
+      "end": 920.76,
+      "text": "última hora ya porque habíamos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 920.76,
+      "end": 925.66,
+      "text": "dicho, nombremos algún coordinador para que esto se transforme en acción. Aprovecho",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 925.66,
+      "end": 929.28,
+      "text": "comentar que Renovación Nacional dispuso que Luis Pardo va a ser la persona que va",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 929.28,
+      "end": 934.68,
+      "text": "a estar coordinando por parte de ellos y desde la UDI va a estar Eduardo Cretón. Los",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 934.68,
+      "end": 937.36,
+      "text": "dos fueron diputados recién electos,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 937.64,
+      "end": 943.0,
+      "text": "van a asumir, digamos, un desafío importante, pero más allá de eso, van a hacer un tremendo trabajo",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 943.0,
+      "end": 949.12,
+      "text": "junto a Martina Rau, que ha estado coordinando de parte de nosotros lo que va a hacer en las próximas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 949.12,
+      "end": 952.3,
+      "text": "semanas de campaña electoral en esta segunda vuelta.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 952.42,
+      "end": 958.04,
+      "text": "Así que muy contentos con cómo va creciendo este equipo, teniendo en mira lo que está en juego",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 958.04,
+      "end": 962.94,
+      "text": "y que no es más que mejorarle la vía a los miles y miles de chilenos que están esperando con esperanza",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 962.94,
+      "end": 967.68,
+      "text": "un pronunciamiento rotundo el 14 de diciembre en favor de José Antonio Kast.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 971.9,
+      "end": 976.3,
+      "text": "A ver, ¿qué va a ser el único? Porque antes podía decir, ¿qué candidato?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 977.98,
+      "end": 985.9,
+      "text": "Antes de darle la palabra, decir que también lo que hemos realizado con el Partido Social Cristiano ha sido muy relevante.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 986.5,
+      "end": 991.46,
+      "text": "Fuimos socios en un pacto electoral que nos permitió un tremendo resultado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 991.72,
+      "end": 995.86,
+      "text": "Nuestro acto de cierre contó con la presencia de la presidenta del",
+      "speaker": "Kast"
+    },
+    {
+      "start": 995.86,
+      "end": 1001.24,
+      "text": "Partido Social Cristiano, con quien asumió también un desafío presidencial y declinó",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1001.24,
+      "end": 1008.14,
+      "text": "su planteamiento en favor de mi candidatura, y del alcalde de Concepción, Héctor Muñoz,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1008.52,
+      "end": 1012.26,
+      "text": "que también estuvo presente en ese acto de cierre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1012.26,
+      "end": 1016.26,
+      "text": "de nuestra campaña en regiones, que fue ahí en la Plaza Independencia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1017.3,
+      "end": 1021.42,
+      "text": "que en todas las ciudades es la Plaza de Armas, ahí en la Plaza de la Independencia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1021.98,
+      "end": 1028.0,
+      "text": "Así que agradecerle la labor al Partido Socialistiano con quienes estamos integrados porque el programa nació del trabajo conjunto,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1029.16,
+      "end": 1034.16,
+      "text": "esos tres ejes programáticos y las 33 medidas fueron coordinadas y ahora lo que estamos haciendo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1034.16,
+      "end": 1041.18,
+      "text": "es sumar a los equipos del candidato Johannes Kaiser, a quien también le agradecemos su presencia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1041.3,
+      "end": 1044.16,
+      "text": "y a los equipos que colaboraron seriamente,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1044.36,
+      "end": 1045.94,
+      "text": "muy responsablemente con Evelyn Matei,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1046.34,
+      "end": 1049.3,
+      "text": "que, como bien se señaló, se dispuso desde el primer momento",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1049.3,
+      "end": 1052.5,
+      "text": "a permitirnos incorporar a las personas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1052.5,
+      "end": 1056.94,
+      "text": "para este trabajo y cambio real que Chile necesita.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1057.06,
+      "end": 1059.62,
+      "text": "Y ahora sí, lo que usted estime es conveniente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1059.82,
+      "end": 1063.64,
+      "text": "Sí, José Antonio, voy a hacerle un pimponeo primero antes de pasar a las preguntas,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1063.8,
+      "end": 1067.3,
+      "text": "porque ya estamos hablando de los enlaces que nos mencionaron a Pardo y a Cretón.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1067.88,
+      "end": 1071.28,
+      "text": "¿A usted le gustaría tener, por ejemplo, una Paula Daza en el comando y por qué?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1072.06,
+      "end": 1078.0,
+      "text": "Nosotros estamos abiertos a que todas las personas se integren. Yo conozco a Paula Daza,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1078.12,
+      "end": 1083.68,
+      "text": "me colaboró activamente en la campaña anterior junto con Evelyn Matei. De hecho, recorrieron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1083.68,
+      "end": 1087.0,
+      "text": "Chile planteando cómo enfrentar una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1087.0,
+      "end": 1092.54,
+      "text": "crisis. Por lo tanto, nosotros, así como ustedes lo vieron el día de ayer, que todos los economistas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1092.54,
+      "end": 1101.78,
+      "text": "que trabajaron con Evelyn Matei se sumaron. Hoy día está haciendo lo mismo todos los equipos de Johannes Kaiser en el área económica",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1101.78,
+      "end": 1106.44,
+      "text": "y vamos a ir reuniéndonos con los equipos de vivienda, con los equipos de salud, con los equipos de educación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1106.44,
+      "end": 1114.74,
+      "text": "para poder recoger y también ir mostrando que en esta segunda etapa hay un objetivo más grande",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1114.74,
+      "end": 1116.1,
+      "text": "que cualquier división",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1116.1,
+      "end": 1118.2,
+      "text": "o cualquier diferencia que hayamos podido tener",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1118.2,
+      "end": 1121.38,
+      "text": "entre la inscripción y la primera vuelta",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1121.38,
+      "end": 1125.08,
+      "text": "Diego Paulsen sería una opción y también Evelyn Matei la podríamos",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1125.08,
+      "end": 1127.98,
+      "text": "ver con Johannes Kaiser en la primera línea y agregando",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1127.98,
+      "end": 1130.1,
+      "text": "a eso, ustedes en este",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1130.1,
+      "end": 1133.46,
+      "text": "caso qué cosas recogerían por ejemplo del programa de evelyn mate ya se ha",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1133.46,
+      "end": 1137.06,
+      "text": "hablado por ejemplo que hay cierta sintonía con el pie cero también se han",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1137.06,
+      "end": 1140.12,
+      "text": "abierto por ejemplo con el tema de los recortes fiscales a ver si esto puede",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1140.12,
+      "end": 1144.38,
+      "text": "bajar o no con los equipos económicos y después una pregunta también para los",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1144.38,
+      "end": 1145.24,
+      "text": "gobernadores.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1145.42,
+      "end": 1149.64,
+      "text": "Se ha hablado mucho desde sus sectores que es la muerte de Chile.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1149.74,
+      "end": 1151.18,
+      "text": "¿Ustedes concuerdan con eso?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1151.52,
+      "end": 1152.24,
+      "text": "Primero candidato.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1152.54,
+      "end": 1156.0,
+      "text": "Bueno, en primer lugar a nosotros nos interesa que todos estemos en la primera fila.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1156.9,
+      "end": 1158.18,
+      "text": "Yo lo he señalado, todos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1158.88,
+      "end": 1160.4,
+      "text": "Los gobernadores, los candidatos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1160.4,
+      "end": 1164.24,
+      "text": "presidenciales, los gobernadores, los senadores, los diputados, los diputados electos, los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1164.24,
+      "end": 1169.54,
+      "text": "senadores electos, los que no ganaron en cada una de las regiones, en cada uno de los distritos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1170.56,
+      "end": 1180.06,
+      "text": "Nosotros a los primeros que le agradecimos fue a aquellos que no llegaron a a ganar porque ellos sustentaron el éxito de otros parlamentarios les",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1180.06,
+      "end": 1183.82,
+      "text": "mencionaba la región de valdivia donde al igual que esta nueva generación de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1183.82,
+      "end": 1189.36,
+      "text": "gobernadores y no me canso de decirle un nuevo estilo de llevar el gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1189.36,
+      "end": 1191.06,
+      "text": "regional a la ciudadanía,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1191.48,
+      "end": 1196.6,
+      "text": "también se ve reflejado en algunas regiones, donde van a estar integradas personas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1196.6,
+      "end": 1199.06,
+      "text": "que antes no habían sido parlamentarios.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1199.66,
+      "end": 1204.34,
+      "text": "El mismo Eduardo Cretón no había sido parlamentario, el mismo Luis Pardo no había sido,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1204.44,
+      "end": 1210.38,
+      "text": "sí se había sido parlamentario, ya tenía un intensivo previo, estaba en la reserva",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1210.38,
+      "end": 1219.02,
+      "text": "con instrucción, pero para nosotros eso es, y Hans Marowski claramente está ahí, ¿no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1219.02,
+      "end": 1223.08,
+      "text": "es cierto?, y por el Partido Social Cristiano está su presidenta, su secretaria general,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1223.16,
+      "end": 1227.2,
+      "text": "que nos han acompañado, como ustedes saben, en cada uno de nuestros planteamientos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1227.82,
+      "end": 1231.24,
+      "text": "Por lo tanto, más allá de los candidatos mismos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1231.68,
+      "end": 1252.68,
+      "text": "lo que nosotros hemos planteado a la ciudadanía es que este no va a ser un gobierno de una persona, no va a ser gobierno de un solo partido y que nuestro éxito definitivo va a ser, si es que la ciudadanía lo permite, yo soy presidente de la república, entregarle la banda presidencial a alguien que le dé continuidad a un buen gobierno, porque nosotros queremos ponerle término a la continuidad de un mal gobierno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1253.16,
+      "end": 1258.16,
+      "text": "Y ya sabemos lo que fueron capaces de hacer con Chile en estos cortos años,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1258.46,
+      "end": 1263.0,
+      "text": "que estuvieron a cargo y siendo responsables de aquellas áreas más sensibles",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1263.52,
+      "end": 1265.48,
+      "text": "que afectan a la ciudadanía.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1265.88,
+      "end": 1272.0,
+      "text": "Por lo tanto, todos los que se quieran integrar, trabajar, salir a levantar banderas...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1272.66,
+      "end": 1278.14,
+      "text": "...hacer desde la vega más sencilla hasta las vocerías, todos muy bienvenidos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1278.36,
+      "end": 1281.36,
+      "text": "Ayer dimos una señal clara con todos los economistas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1281.36,
+      "end": 1287.78,
+      "text": "y efectivamente uno está abierto a recibir sugerencias y tenemos que incorporarlas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1288.12,
+      "end": 1291.76,
+      "text": "Por eso también agradecemos tanto el trabajo previo que han realizado los gobernadores",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1291.76,
+      "end": 1300.2,
+      "text": "y las sugerencias que nos dan. Yo sí, en temas de política más contingente, creo que los gobernadores",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1300.2,
+      "end": 1306.1,
+      "text": "tienen un rol mucho más de gestión que de política. Los gobernadores lo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1306.1,
+      "end": 1309.98,
+      "text": "quieren, precisamente, es que les lleguen los recursos a las regiones para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1309.98,
+      "end": 1311.18,
+      "text": "enfrentar el tema de la salud.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1312.0,
+      "end": 1314.78,
+      "text": "Yo creo que cualquier debate, le voy a dar la palabra al tiro a los gobernadores,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1315.16,
+      "end": 1320.72,
+      "text": "pero cualquier debate que sea de qué va a pasar con Chile Vamos, no es el debate de ahora.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1321.22,
+      "end": 1322.26,
+      "text": "Algunos lo querrán instalar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1322.96,
+      "end": 1326.74,
+      "text": "Y generalmente lo instalan los que están o a la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1326.74,
+      "end": 1332.76,
+      "text": "vereda del frente, los que quieren generar un debate político. Nosotros tenemos un debate social. La",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1332.76,
+      "end": 1338.32,
+      "text": "gente está cansada de los debates políticos. El presidente ha usado y abusado de la moneda para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1338.32,
+      "end": 1340.56,
+      "text": "instalar temas políticos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1345.32,
+      "end": 1345.66,
+      "text": "Y se ha olvidado de las fronteras, salvo por la puesta en escena que hizo en Colchane.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1349.72,
+      "end": 1350.3,
+      "text": "Se ha olvidado de la salud mental, salvo por la puesta en escena que hizo con el COSAM de Maipú.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1353.0,
+      "end": 1353.6,
+      "text": "Se ha olvidado de la educación, y la tiene al frente.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1357.2,
+      "end": 1357.96,
+      "text": "Él ve todos los días la violencia que se da en los liceos emblemáticos.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1365.0,
+      "end": 1366.2,
+      "text": "Se ha olvidado de la vivienda, porque no fueron capaces de reconstruir las viviendas de las personas que más sufrieron en el incendio de Viña.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1366.82,
+      "end": 1367.6,
+      "text": "Se han olvidado.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1369.06,
+      "end": 1385.26,
+      "text": "¿Y qué les interesa? La política. La política. Hasta la cadena nacional la usaron para la política. Por lo tanto, todas las discusiones de los partidos políticos creo que tienen que hoy día suspenderse y ver qué es lo más importante que nos toca en 25 días más, y no me voy a cansar de decirlo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1385.28,
+      "end": 1389.92,
+      "text": "en 25 días más nos juzgamos el destino de la patria, no el destino de un partido político,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1390.74,
+      "end": 1394.68,
+      "text": "el destino de la patria. Y eso tiene que estar reflejado, y eso es lo que hemos hecho en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1394.68,
+      "end": 1399.76,
+      "text": "el recorrido en regiones. Y por eso le hemos solicitado a los gobernadores, a los alcaldes,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1399.88,
+      "end": 1400.1,
+      "text": "a los cores y a los concejales, a los alcaldes, a los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1400.1,
+      "end": 1404.64,
+      "text": "cores y a los concejales que asuman un rol, porque la ciudadanía los identifica como",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1404.64,
+      "end": 1409.22,
+      "text": "las personas que tienen más cercanas, porque están ahí todos los días, los parlamentarios,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1409.38,
+      "end": 1414.86,
+      "text": "los dirigentes políticos como nosotros, muchas veces tenemos que combinar el trabajo del",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1414.86,
+      "end": 1416.62,
+      "text": "partido, legislativo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1416.92,
+      "end": 1421.78,
+      "text": "pero ¿quiénes están todos los días viendo el sufrimiento de las personas? ¿Quién fue",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1421.78,
+      "end": 1429.2,
+      "text": "el alcalde que dice que han aumentado más los asesinatos en su comuna, incluso en ataques",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1429.2,
+      "end": 1430.5,
+      "text": "a los Cefam? Héctor Muñoz.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1431.28,
+      "end": 1434.96,
+      "text": "Allí el gobernador de Bío Bío nos habló del terremoto social.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1436.4,
+      "end": 1440.6,
+      "text": "El gobernador de Maule está muy preocupado por todo el tema agrícola,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1441.24,
+      "end": 1445.38,
+      "text": "de cómo la producción agrícola llega a destino rápidamente, porque ahí",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1445.38,
+      "end": 1450.18,
+      "text": "hay mucho trabajo. Cuando estábamos en la Araucanía y veíamos que habían quemado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1450.18,
+      "end": 1457.1,
+      "text": "a agricultores que daban trabajo, en un solo atentado van a quedar eventualmente sin trabajo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1457.1,
+      "end": 1460.18,
+      "text": "20 personas. quemaron a aquellos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1460.18,
+      "end": 1463.02,
+      "text": "integrantes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1463.02,
+      "end": 1464.56,
+      "text": "del pueblo originario mapuche",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1464.56,
+      "end": 1466.54,
+      "text": "a ellos también los asesinaron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1466.54,
+      "end": 1468.72,
+      "text": "los han asesinado, los han quemado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1468.72,
+      "end": 1470.32,
+      "text": "en base a qué causa",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1470.32,
+      "end": 1472.22,
+      "text": "a la del terrorismo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1472.22,
+      "end": 1473.24,
+      "text": "y eso se tiene que acabar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1473.24,
+      "end": 1476.08,
+      "text": "perdón",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1476.08,
+      "end": 1477.32,
+      "text": "bueno",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1477.32,
+      "end": 1478.42,
+      "text": "en el empleo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1478.42,
+      "end": 1478.86,
+      "text": "o sea",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 1478.86,
+      "end": 1480.02,
+      "text": "vamos al empleo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1480.02,
+      "end": 1481.46,
+      "text": "el más directo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1481.46,
+      "end": 1482.28,
+      "text": "¿quién fue",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1482.28,
+      "end": 1483.22,
+      "text": "ministra del trabajo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1483.22,
+      "end": 1483.94,
+      "text": "del desempleo?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1484.04,
+      "end": 1484.54,
+      "text": "Janet Jara",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1484.54,
+      "end": 1486.24,
+      "text": "es Jara",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1486.24,
+      "end": 1486.9,
+      "text": "es Boric",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1486.9,
+      "end": 1488.3,
+      "text": "¿quién fue la ministra",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1488.3,
+      "end": 1488.8,
+      "text": "del empleo?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1489.12,
+      "end": 1492.06,
+      "text": "Evelyn Matei. Está súper claro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1492.06,
+      "end": 1498.62,
+      "text": "que nosotros sí tenemos todo el interés de que Evelyn Matei nos colabore con el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1498.62,
+      "end": 1503.18,
+      "text": "tema de cómo vamos a generar más empleo. Y en el tema de los recortes, lo más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1503.18,
+      "end": 1507.16,
+      "text": "relevante es que se volvió a hablar de la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1507.16,
+      "end": 1513.38,
+      "text": "responsabilidad fiscal. Si para tener una buena gestión hay que ser responsables. No hay que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1513.38,
+      "end": 1519.4,
+      "text": "esconder los números. Uno tiene que programar los presupuestos. Uno puede calcular el ingreso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1519.4,
+      "end": 1523.2,
+      "text": "que va a tener. Y de acuerdo al ingreso que va a tener, tiene que gastar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1523.9,
+      "end": 1527.86,
+      "text": "Si eso es la regla número uno que debería tener cualquier ministro de Hacienda,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1528.4,
+      "end": 1533.64,
+      "text": "en cualquier hogar, uno ve que las personas discuten, debaten,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1534.0,
+      "end": 1537.44,
+      "text": "de qué cosas son factibles poder hacer para mejorar la calidad de vida",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1537.44,
+      "end": 1539.64,
+      "text": "y cuáles no, de acuerdo al ingreso familiar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1540.6,
+      "end": 1547.86,
+      "text": "Salvo cuando llegan al gobierno algunos, que eran serios y responsables cuando dirigían alguna institución independiente,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1548.68,
+      "end": 1550.14,
+      "text": "como puede ser el Banco Central,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1550.5,
+      "end": 1555.02,
+      "text": "pero cuando asumen un rol político, se olvidan de la gestión, se olvidan de la responsabilidad.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1555.38,
+      "end": 1559.66,
+      "text": "Y ahí tenemos el presupuesto dirigido por la mejor directora de presupuesto de la historia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1561.06,
+      "end": 1565.54,
+      "text": "Pero el que la nominó se fue, antes de que se produjera el apagón total.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1566.14,
+      "end": 1568.82,
+      "text": "Porque eso es lo que está sucediendo hoy día, hoy día hay una especie de apagón.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1569.58,
+      "end": 1576.12,
+      "text": "Y lo que recibieron los gobernadores es una pequeña muestra de lo que vamos a recibir del gobierno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1576.86,
+      "end": 1580.0,
+      "text": "Por lo tanto, la colaboración que nos han brindado, que nos han ofrecido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1580.54,
+      "end": 1585.9,
+      "text": "del equipo económico de Evelin Matei, la recibimos con gratitud en el tema del trabajo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1586.26,
+      "end": 1591.82,
+      "text": "Creo que podemos centrarnos y hablar ahí de quién fue, quién va a llevarse el título",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1591.82,
+      "end": 1594.34,
+      "text": "de la ministra del Desempleo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1595.12,
+      "end": 1598.36,
+      "text": "Perdón, gobernador",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1598.36,
+      "end": 1601.9,
+      "text": "muchas gracias",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 1601.9,
+      "end": 1604.4,
+      "text": "yo solo, la pregunta era",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1604.4,
+      "end": 1608.24,
+      "text": "¿cuál es la importancia del despliegue",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1608.24,
+      "end": 1609.58,
+      "text": "junto a José Antonio Kass",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1609.58,
+      "end": 1612.7,
+      "text": "y también esta crítica que han hecho sectores de Chile Vamos",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1612.7,
+      "end": 1616.44,
+      "text": "que han puesto una especie de fin al conglomerado?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1616.56,
+      "end": 1617.82,
+      "text": "¿Usted está de acuerdo con eso?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1618.2,
+      "end": 1626.56,
+      "text": "Lo primero es decir que yo creo que no es tiempo para tomar ese tipo de decisiones, además los",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1626.56,
+      "end": 1629.9,
+      "text": "resultados electorales, desde el punto de vista de la participación en el Parlamento,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1630.9,
+      "end": 1636.38,
+      "text": "yo te diría, no son para tomar una decisión así. No obstante, creo que no es el momento,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1636.44,
+      "end": 1643.88,
+      "text": "yo comparto absolutamente lo que ha planteado José Antonio Kast, que es momento de poner en foco las urgencias de Chile. Pero yo no sé si",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1643.88,
+      "end": 1648.5,
+      "text": "ustedes saben que hoy día en los hospitales de la región del Bío Bío, los funcionarios hacen",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1648.5,
+      "end": 1656.2,
+      "text": "colectas para poder comprarse los insumos, para poder comprar mascarilla, jeringas, porque el Ministerio de Salud no",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1656.2,
+      "end": 1658.52,
+      "text": "les entregó el presupuesto que necesitaban para este año.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1659.04,
+      "end": 1663.84,
+      "text": "Entonces, con esa realidad en Chile, yo creo que hoy día no hay espacio para pensar qué",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1663.84,
+      "end": 1668.18,
+      "text": "va a pasar o no con una coalición, primero hay que decantar eso, sino más bien es urgente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1668.18,
+      "end": 1671.18,
+      "text": "poner en foco las necesidades de las personas",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1671.18,
+      "end": 1677.14,
+      "text": "para que estén en la discusión que va a primar para la elección presidencial.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1677.3,
+      "end": 1682.92,
+      "text": "Y es por eso que nosotros en bloque tomamos la decisión por un cambio que lidera José Antonio Gass,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1682.98,
+      "end": 1689.38,
+      "text": "porque tenemos la certeza que él sí va a poner el foco 100% en la urgencia de las personas que viven en Chile.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1692.32,
+      "end": 1695.74,
+      "text": "José Antonio, también le quería preguntar. Usted decía hace unos momentos que a usted",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1695.74,
+      "end": 1699.14,
+      "text": "le gustaría, si es que usted es presidente, entregarle la banda presidencial a alguien",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1699.14,
+      "end": 1701.04,
+      "text": "que sea de su sector. le cuento que a Pablo",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1701.04,
+      "end": 1703.06,
+      "text": "Longueira le encantaría exactamente lo mismo",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1703.06,
+      "end": 1704.92,
+      "text": "para nuestro país, pero dice que hay una",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1704.92,
+      "end": 1706.96,
+      "text": "fórmula con la cual se puede lograr eso, que es",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1706.96,
+      "end": 1708.82,
+      "text": "una coalición que funcione con un presidente",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1708.82,
+      "end": 1710.76,
+      "text": "un secretario general, donde los partidos",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1710.76,
+      "end": 1712.82,
+      "text": "desde el Partido Nacional Libertario hasta el PDG",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1712.82,
+      "end": 1714.44,
+      "text": "puedan conversar, algo así como la",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1714.44,
+      "end": 1715.24,
+      "text": "exconsertación.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1715.54,
+      "end": 1719.84,
+      "text": "¿Usted estaría también por impulsar eso con un liderazgo, obviamente, proviniendo desde la moneda si sale electo?",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 1720.68,
+      "end": 1727.08,
+      "text": "Nosotros en esto, desde que partimos, pusimos el foco en las emergencias nacionales.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1727.08,
+      "end": 1733.16,
+      "text": "Y de hecho, comenzamos a hablar cuando no muchos nos ponían",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1733.16,
+      "end": 1738.28,
+      "text": "atención de un gobierno de emergencia. Y ese gobierno de emergencia, de nuevo, va a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1738.28,
+      "end": 1746.34,
+      "text": "las urgencias sociales, no a un debate político. Nosotros ya lo habíamos planteado antes, tampoco nos escucharon,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1746.62,
+      "end": 1749.18,
+      "text": "si algunas medidas de las que propusimos el año 2017,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1749.58,
+      "end": 1752.62,
+      "text": "las que propusimos el año 2021 con mucho más fuerza,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1753.02,
+      "end": 1754.16,
+      "text": "se hubiesen llevado a la práctica,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1754.54,
+      "end": 1756.52,
+      "text": "hoy día no tendríamos la crisis de seguridad que tenemos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1757.34,
+      "end": 1763.26,
+      "text": "Seguramente no tendríamos el desastre en la educación pública que hoy día tenemos. Seguramente hoy día habría mejor gestión",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1763.26,
+      "end": 1768.76,
+      "text": "para que las personas tuvieran su vivienda propia. ¿Para qué decir en salud? Lo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1768.76,
+      "end": 1775.44,
+      "text": "nos cuenta el gobernador Yacaman es impresionanteante que funcionarios tengan que ser colectas para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1775.44,
+      "end": 1780.96,
+      "text": "comprar mascarillas y jeringas. Es como decir, ese es el desde. Por lo tanto, yo me vuelvo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1780.96,
+      "end": 1785.86,
+      "text": "a centrar en lo que ha sido nuestra propuesta de gobierno de emergencia en torno a la crisis",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1785.86,
+      "end": 1794.94,
+      "text": "de seguridad, y eso requiere a las mejores personas a cargo del tema de la seguridad generaron un ministerio para eso y no ha dado resultado lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1794.94,
+      "end": 1799.5,
+      "text": "advertimos pero con nosotros si va a funcionar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1799.5,
+      "end": 1804.06,
+      "text": "el tema de la reunión de seguridad le aseguro que hoy día es más importante",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1804.06,
+      "end": 1809.58,
+      "text": "para la ciudadanía que la reunión del comité político, mucho más importante, y eso no quiere decir que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1809.58,
+      "end": 1814.42,
+      "text": "no vayamos a tener reuniones de comité político, por supuesto, porque el Parlamento en esto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1814.42,
+      "end": 1819.04,
+      "text": "tiene que tomar decisiones importantes, y nosotros esperamos que esa decisión importante",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1819.04,
+      "end": 1823.86,
+      "text": "que nosotros enviemos el primer día de gobierno, recoja la unanimidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1823.86,
+      "end": 1828.72,
+      "text": "o la mayoría. La mayoría porque claramente algunos no quieren cambiar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1828.72,
+      "end": 1832.36,
+      "text": "la ley de inmigración, algunos no quieren cambiar la ley de inteligencia,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1832.58,
+      "end": 1835.26,
+      "text": "algunos no quieren hacer avance en la ley del terrorismo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1836.6,
+      "end": 1837.24,
+      "text": "no quieren mejorar la seguridad de Chile.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1842.68,
+      "end": 1843.16,
+      "text": "Pero la mayoría de los parlamentarios, les aseguro, que sí están pendientes de solucionar esos problemas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1845.34,
+      "end": 1845.82,
+      "text": "Por lo tanto, esto es mucho más amplio de lo que ustedes se imaginan.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1849.36,
+      "end": 1850.58,
+      "text": "Yo también he hablado de un gobierno de unidad nacional legislativa, porque el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1850.58,
+      "end": 1855.12,
+      "text": "tema de la salud no reconoce bandos políticos, el tema de la seguridad no reconoce bandos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1855.12,
+      "end": 1858.28,
+      "text": "políticos, perdónenme que me extienda, pero eso es lo que nosotros estamos planteando,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1858.8,
+      "end": 1863.7,
+      "text": "mejorar la gestión del país entero para solucionar los problemas reales de las personas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1864.1,
+      "end": 1865.7,
+      "text": "no los problemas de grupos políticos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1866.6,
+      "end": 1868.62,
+      "text": "Y eso es lo que se juega ahora en 25 días más.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1872.44,
+      "end": 1876.16,
+      "text": "Nosotros somos personas que estamos muy abiertas al diálogo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1876.16,
+      "end": 1877.94,
+      "text": "en torno a las urgencias sociales.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1878.54,
+      "end": 1880.22,
+      "text": "Cuando todos estemos en sintonía de las urgencias sociales, vamos a poder también deb torno a las urgencias sociales. Cuando todos estemos en sintonía",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1880.22,
+      "end": 1885.3,
+      "text": "de las urgencias sociales, vamos a poder también debatir de otras urgencias políticas. Pero",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1885.3,
+      "end": 1889.02,
+      "text": "lo primero son las urgencias sociales y no nos vamos a cansar de decirlo. Nosotros acuñamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1889.02,
+      "end": 1893.44,
+      "text": "el concepto de urgencia social. Ustedes lo pueden revisar en la historia política del",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1893.44,
+      "end": 1900.64,
+      "text": "país cuando aparece el concepto de urgencia social. Y aparece por ahí por el año 2000, no sé si el 2015 o el 2016.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1901.32,
+      "end": 1902.24,
+      "text": "Y nosotros lo instalamos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1903.66,
+      "end": 1909.1,
+      "text": "Candidato, buenas tardes. Luego de la apertura a flexibilizar el plazo para alcanzar el recorte",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1909.1,
+      "end": 1910.46,
+      "text": "fiscal,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1913.72,
+      "end": 1913.8,
+      "text": "¿siguen vigentes los 6.000 millones pensando que, por ejemplo,",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 1916.02,
+      "end": 1916.56,
+      "text": "la propuesta del candidato Caiz era superior?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 1919.72,
+      "end": 1920.2,
+      "text": "¿Y qué plazos a su juicio le parecen los más adecuados,",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1924.02,
+      "end": 1924.42,
+      "text": "considerando que buscarán también de entrada, de llegar al gobierno,",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1925.02,
+      "end": 1926.94,
+      "text": "la rebaja del impuesto corporativo.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1927.84,
+      "end": 1934.86,
+      "text": "Sí, bueno, si hiciéramos un mix entre los 4.000, los 6.000 y los 15.000, bueno,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1935.22,
+      "end": 1944.5,
+      "text": "tenemos que ponernos de acuerdo en cuál es el promedio y cuál es el plazo. Pero vuelvo a insistir, la responsabilidad fiscal es lo más importante.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1944.62,
+      "end": 1950.0,
+      "text": "Y nosotros nos alegramos que el tema del ajuste fiscal en torno a la responsabilidad fiscal",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1950.0,
+      "end": 1959.04,
+      "text": "sin pasar a llevar ningún derecho social, porque parte de la campaña que se ha levantado por mi competidora es en base a las mentiras.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1959.68,
+      "end": 1965.08,
+      "text": "Si gana la derecha, se va a acabar esto, esto, esto, esto, incluso lo que no se ha creado también se va a acabar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1966.34,
+      "end": 1971.16,
+      "text": "Es impresionante el discurso de mentiras, es como un festival de mentiras. Lo dijimos cuando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1971.16,
+      "end": 1976.5,
+      "text": "inscribimos la candidatura, van a ser 90 días de difamación de mentiras permanentes y han ocupado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1976.5,
+      "end": 1982.68,
+      "text": "incluso, y vuelvo a insistir, el Palacio de la Moneda, la cadena nacional para mentir. Por lo tanto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1982.68,
+      "end": 1985.92,
+      "text": "nosotros estamos abiertos a ver cuál es la optimización",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1985.92,
+      "end": 1991.4,
+      "text": "entre el recorte, el tiempo, siempre enfocado en el mejor uso de los recursos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1991.54,
+      "end": 1994.74,
+      "text": "Por eso queremos terminar con los abusos del Estado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1995.32,
+      "end": 1997.58,
+      "text": "Queremos mejorar la eficiencia del Estado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1997.58,
+      "end": 2003.42,
+      "text": "Y queremos trabajar en base a la austeridad para que todos los recursos, todos, lleguen a las personas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2004.0,
+      "end": 2006.8,
+      "text": "También lo dijeron los gobernadores, el foco está en las personas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2007.64,
+      "end": 2010.1,
+      "text": "Tenemos una historia que tenemos que respetar, que tenemos que cuidar,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2010.4,
+      "end": 2014.08,
+      "text": "pero hoy día están muriendo 40.000 chilenos al año en listas de espera.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2014.36,
+      "end": 2016.7,
+      "text": "Hoy día. ¿Dónde está su urgencia?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2016.74,
+      "end": 2021.66,
+      "text": "Hoy día tenemos más de 300.000 personas que están infringiendo la ley en Chile,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2022.0,
+      "end": 2025.0,
+      "text": "que no están cumpliendo con las leyes de inmigración.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2026.12,
+      "end": 2028.5,
+      "text": "A ellos los hemos invitado a dejar el país.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2028.8,
+      "end": 2031.34,
+      "text": "Y vuelvo a insistir, en los días que le",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2031.34,
+      "end": 2037.68,
+      "text": "quedan, de aquí a que asumamos el gobierno, tomen sus cosas y partan. Y si quieren volver a entrar,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2038.14,
+      "end": 2060.76,
+      "text": "entren por la puerta. Ayer me tocó una situación bien impresionante. Un inmigrante que ya es residente chileno y que me dice yo estoy trabajando aquí, soy una persona honesta, honrada, y le dije como la mayoría de las personas que están acá, pero tengo mi hijo que no está regularizado y al menos yo soy capaz de mirar la frente a la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2060.76,
+      "end": 2068.72,
+      "text": "persona, a los ojos y decirle, su hijo va a tener que salir. Es mayor de edad y va a tener que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2068.72,
+      "end": 2075.34,
+      "text": "volver a postular. Esa es la verdad. Nosotros aquí no venimos con medias tintas. Cuando decimos que vamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2075.34,
+      "end": 2079.96,
+      "text": "a recuperar el control de las cárceles, lo vamos a hacer. Cueste lo que cueste. Cuando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2079.96,
+      "end": 2085.96,
+      "text": "decimos que vamos a recuperar la paz en la Araucanía, lo vamos a hacer. Y no son palabras",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2085.96,
+      "end": 2089.94,
+      "text": "al viento. Cuando decimos que vamos a enfrentar el tema de las listas de espera, vamos a necesitar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2089.94,
+      "end": 2092.22,
+      "text": "la colaboración de todos los gobiernos regionales",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2092.22,
+      "end": 2094.62,
+      "text": "del parlamento, de todos los funcionarios",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2094.62,
+      "end": 2096.4,
+      "text": "y me he dedicado también a decirle a los funcionarios",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2096.4,
+      "end": 2097.8,
+      "text": "que vamos a pedirles de nuevo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2097.8,
+      "end": 2100.94,
+      "text": "que entreguen todo como lo hicieron para la pandemia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2100.94,
+      "end": 2104.78,
+      "text": "lo he hablado con los funcionarios de la Dirección General de Aeropuertos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2104.78,
+      "end": 2108.46,
+      "text": "con cada funcionario le digo ¿cuándo fue su último",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2108.46,
+      "end": 2113.88,
+      "text": "entrenamiento de defensa personal? No he tenido. ¿Dónde está su taser para detener",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2113.88,
+      "end": 2119.82,
+      "text": "a un agresor? No la tengo. ¿Dónde están las armas? En la loza, porque sólo ahí se",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2119.82,
+      "end": 2121.3,
+      "text": "hace el traspaso de recursos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2121.86,
+      "end": 2124.04,
+      "text": "¿Usted sabe disparar un arma? No tenía entrenamiento.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2125.24,
+      "end": 2128.62,
+      "text": "¿Dónde están carabineros? Afuera.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2129.52,
+      "end": 2131.38,
+      "text": "No tienen acceso a ese sector.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2131.62,
+      "end": 2133.34,
+      "text": "¿Dónde está la PDI? Adentro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2133.58,
+      "end": 2141.64,
+      "text": "Pero no todos son funcionarios que portan armas. Bueno, partamos de eso. ¿Cómo son nuestros detectores de maletas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2141.64,
+      "end": 2146.18,
+      "text": "que todos nosotros cuando pasamos? ¿Qué detecta ese detector? ¿Las cámaras? ¿Las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2146.18,
+      "end": 2151.88,
+      "text": "baterías? ¿Un cuchillo? ¿Un cortaúñas, ¿detecta la droga?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2153.14,
+      "end": 2154.54,
+      "text": "La mayoría no lo hace.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2157.94,
+      "end": 2160.9,
+      "text": "¿Y qué tiene que hacer un funcionario de la Dirección General de Aeronáutica Civil cuando descubre a alguien traficante de droga? Detenerlo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2160.92,
+      "end": 2163.08,
+      "text": "¿Y cómo lo hace? Casi como una especie de detención ciudadana.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2163.54,
+      "end": 2167.6,
+      "text": "Y ahí tiene que llamar a carabineros, que a veces se puede demorar una hora en llegar al aeropuerto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2169.38,
+      "end": 2173.38,
+      "text": "¿Y qué pasa si se sube un señor en estado de ebriedad, como nos tocó en el día de ayer en un",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2173.38,
+      "end": 2178.16,
+      "text": "avión de regreso de Valdivia? Bueno, tienen que ser los tripulantes del avión los que tienen que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2178.16,
+      "end": 2181.78,
+      "text": "llamarlo a la calma. ¿Pero por qué se subió en esas condiciones?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2183.04,
+      "end": 2185.34,
+      "text": "Esas son las verdaderas urgencias sociales.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2185.48,
+      "end": 2187.96,
+      "text": "Cuando usted va a un consultorio, cree que está en un lugar seguro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2188.68,
+      "end": 2193.14,
+      "text": "No piensa que va a venir la banda rival a rematar a la persona que no pudieron matar en la plaza.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2193.98,
+      "end": 2197.18,
+      "text": "Cuando usted va a un colegio, no espera que un niño saque un cuchillo o una pistola.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2198.46,
+      "end": 2201.38,
+      "text": "Esa es la realidad que nos han dejado de este gobierno fracasado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2201.72,
+      "end": 2202.8,
+      "text": "Y eso es lo que vamos a enfrentar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2204.82,
+      "end": 2212.92,
+      "text": "Se va a hacer, porque nosotros ni siquiera estamos en el nivel",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2212.92,
+      "end": 2218.36,
+      "text": "de lo que tanto se usa en Chile por la gente de mundo de izquierda.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2218.94,
+      "end": 2222.0,
+      "text": "Los porcentajes que cobran de impuestos los países de la OCDE.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2222.78,
+      "end": 2226.0,
+      "text": "Entonces tenemos un parámetro para una cosa y otro parámetro para otra cosa.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2226.0,
+      "end": 2229.68,
+      "text": "¿Y por qué necesitan más recursos? Para pagarles a los amigos, para pagar los convenios.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2230.56,
+      "end": 2234.54,
+      "text": "La plata está, y lo hemos visto, pero hay mala gestión.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2235.8,
+      "end": 2241.18,
+      "text": "Imagínense el foco en Bio Bio, un museo, con todo el respeto de nuevo de la historia de nuestro país,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2241.82,
+      "end": 2248.88,
+      "text": "pero podría haber un museo de la minería, de los trabajadores de Lota, podría haber un museo portuario,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2249.6,
+      "end": 2254.38,
+      "text": "podría haber un museo forestal, todos respetables, pero hoy día se muere gente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2254.88,
+      "end": 2256.48,
+      "text": "En la Unión se iba",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2256.48,
+      "end": 2262.72,
+      "text": "a construir un nuevo hospital. Y apareció un hallazgo. Una punta de flecha. Y se paró",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2262.72,
+      "end": 2269.66,
+      "text": "la construcción de un hospital. El hospital base de Valdivia está colapsado. Y el hospital",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2269.66,
+      "end": 2273.82,
+      "text": "de La Unión está esperando que vengan los arqueólogos a ver si el hallazgo es verdadero.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2274.78,
+      "end": 2279.12,
+      "text": "Entonces, una punta de flecha es más importante que las miles de personas que mueren.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2279.26,
+      "end": 2281.04,
+      "text": "No, el foco está en las personas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2281.72,
+      "end": 2286.48,
+      "text": "Y podemos hacer un traslado con todo el respeto que merece",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2286.48,
+      "end": 2291.06,
+      "text": "ese hallazgo y llevarlo a otro lugar. Pero ahí vamos a construir un hospital, porque",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2291.06,
+      "end": 2291.94,
+      "text": "las personas están primero.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2293.82,
+      "end": 2298.78,
+      "text": "Buenas tardes. Son varias preguntas en una, pero bien concreto. Usted decía al inicio",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2298.78,
+      "end": 2301.28,
+      "text": "que ya hubo varios debates en primera vuelta,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2301.72,
+      "end": 2303.82,
+      "text": "pero ¿qué pasa con los debates de la segunda vuelta?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2303.94,
+      "end": 2308.54,
+      "text": "¿Está en duda su participación, por ejemplo, en el debate de este domingo en Mega?",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2308.68,
+      "end": 2315.5,
+      "text": "Y también, Janet Escara dijo hoy que Kast no quiere ir porque la otra vez perdió en segunda vuelta por los debates.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2315.68,
+      "end": 2316.4,
+      "text": "Eso por una parte.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2316.54,
+      "end": 2322.62,
+      "text": "Lo otro, ¿va a asistir al programa de Franco París y Bad Boys como él hizo en la invitación?",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2323.02,
+      "end": 2324.96,
+      "text": "Sí, en esto ser muy claro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2326.12,
+      "end": 2330.32,
+      "text": "Si hay alguien que no asistió a los debates, porque los perdió todos, fue Janet Jara",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2330.32,
+      "end": 2334.92,
+      "text": "Creo que el primero donde nos encontramos fue el Salmon Summit de Frutillar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2334.92,
+      "end": 2344.88,
+      "text": "Donde ella llevó barra brava, que insultaban, gritaban, no respetaron un acto democrático de diálogo frente a la opinión pública",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2344.88,
+      "end": 2345.34,
+      "text": "Y ahí estaba presente un concejal de Frutillar, que era el activista de la barra brava No respetaron un acto democrático de diálogo frente a la opinión pública.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2349.46,
+      "end": 2350.86,
+      "text": "Y ahí estaba presente un concejal de Frutillar, que era el activista La Barra Brava.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2356.02,
+      "end": 2356.56,
+      "text": "Después de eso, cuando se le emplazó sobre un tema puntual de la ley Lafkenche,",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 2361.06,
+      "end": 2361.5,
+      "text": "y sobre el tema del trabajo, y sobre el tema del exceso de regulaciones,",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2367.36,
+      "end": 2372.52,
+      "text": "no tuvo respuesta. Después fuimos a otro debate, sobre minería, donde también le hizo un emplazamiento sobre su programa inicial de la nacionalización de los minerales. Me",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2372.52,
+      "end": 2376.48,
+      "text": "trató de mentiroso. Después fuimos a un debate",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2376.48,
+      "end": 2381.2,
+      "text": "sobre el transporte, después una sobre la Cámara Comercio. Bueno, yo los invito a ver",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2381.2,
+      "end": 2389.02,
+      "text": "sus respuestas, porque no tiene cómo explicar el desempleo, la informalidad en la que nos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2389.02,
+      "end": 2391.92,
+      "text": "van a dejar el país, los obstáculos para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2391.92,
+      "end": 2397.46,
+      "text": "avanzar. Fuimos a uno de la Cámara Chilena de la Construcción, donde fue la única vez que mencionó",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2397.46,
+      "end": 2403.28,
+      "text": "algo positivo. Dijo que iba a reformular el Consejo de Monumentos Nacionales. ¿Y qué hizo el gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2403.28,
+      "end": 2405.84,
+      "text": "después? Mandó un proyecto de ley",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2405.84,
+      "end": 2407.82,
+      "text": "para aumentar el número de consejeros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2407.82,
+      "end": 2408.98,
+      "text": "y ralentizar más.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2409.46,
+      "end": 2411.16,
+      "text": "Me encantaría escucharla",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2411.16,
+      "end": 2413.68,
+      "text": "sobre el tema del terrorismo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2414.22,
+      "end": 2415.36,
+      "text": "pero ella dice que hay violencia rural.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2416.24,
+      "end": 2417.5,
+      "text": "Me encantaría que dijera algo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2417.5,
+      "end": 2418.2,
+      "text": "sobre los ESVAP,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2418.76,
+      "end": 2419.86,
+      "text": "sobre los sitios protegidos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2419.86,
+      "end": 2420.6,
+      "text": "que están matando a la pequeña y mediana minería en la zona norte y va a seguir aumentando rural. Me encantaría que dijera algo sobre los ESVAP, sobre los sitios protegidos, que",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2420.6,
+      "end": 2425.38,
+      "text": "están matando a la pequeña y mediana minería en la zona norte, y va a seguir aumentando.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2426.12,
+      "end": 2429.78,
+      "text": "Me encantaría que allá afuera hablar con los que están llevando adelante el plan Salmón",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2429.78,
+      "end": 2437.72,
+      "text": "250, con quienes yo me reuní. Y respecto de los debates, hay dos debates que están siempre planteados",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2437.72,
+      "end": 2441.28,
+      "text": "y que nosotros siempre vamos a estar disponibles, que es el de Archie y Anatel.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2441.88,
+      "end": 2445.64,
+      "text": "Yo no tengo agendado ningún debate para el domingo. Ninguno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2447.82,
+      "end": 2450.34,
+      "text": "Porque ese es un debate que se acordó con una candidata",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2450.34,
+      "end": 2451.54,
+      "text": "ella dijo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2451.54,
+      "end": 2452.24,
+      "text": "y ella",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2452.24,
+      "end": 2453.94,
+      "text": "ha hecho un emplazamiento",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2453.94,
+      "end": 2455.48,
+      "text": "pero para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2455.48,
+      "end": 2456.68,
+      "text": "debatirse necesitan dos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2456.68,
+      "end": 2457.54,
+      "text": "y el compromiso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2457.54,
+      "end": 2458.52,
+      "text": "de dos de asistir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2458.52,
+      "end": 2460.62,
+      "text": "si usted ve",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2460.62,
+      "end": 2462.02,
+      "text": "mi correo electrónico",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2462.02,
+      "end": 2463.12,
+      "text": "mi whatsapp",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2463.12,
+      "end": 2464.64,
+      "text": "pueden haber consultas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2464.64,
+      "end": 2465.62,
+      "text": "pero no hay respuesta.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2467.02,
+      "end": 2472.72,
+      "text": "Y eso es una señal clara de que no hay un acuerdo para ese debate, porque cuando se suceden este",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2472.72,
+      "end": 2482.02,
+      "text": "tipo de cosas, yo no le entrego el poder de cuestionar a otro candidato, no quiere debatir. Bueno, hagamos un análisis de la cantidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2482.02,
+      "end": 2486.68,
+      "text": "de debates que hemos tenido. Yo le entrego el poder a un candidato para decirle que no venga, al menos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2486.68,
+      "end": 2494.44,
+      "text": "yo, a los que fui, ahí en presencia, si ella quiere ir a una entrevista, que lo haga. Yo el domingo no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2494.44,
+      "end": 2495.46,
+      "text": "tengo agendado un debate y no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2495.46,
+      "end": 2501.18,
+      "text": "tengo ningún problema en decir que no lo tengo agendado. Y yo diré, no, una cosa es",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2501.18,
+      "end": 2505.36,
+      "text": "que usted lo inviten y otra es que usted acepte una invitación. A mí me han llegado, yo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2505.36,
+      "end": 2510.24,
+      "text": "le dije, me han llegado correos, me han llegado WhatsApp. Pregúntele al que me envió",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2510.24,
+      "end": 2515.28,
+      "text": "los correos y los WhatsApp si tuvo respuesta mía. Entonces cuando uno recibe una invitación,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2515.5,
+      "end": 2521.02,
+      "text": "uno es libre de aceptarla o rechazarla. Yo no la he respondido y voy a responder cuando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2521.02,
+      "end": 2528.92,
+      "text": "corresponda y cuando encuentro oportuno. Ya le he señalado que voy a ir a dos debates, que es el de Archie y el de Anatel. Y si llegan otras propuestas, las vamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2528.92,
+      "end": 2533.86,
+      "text": "a analizar en su mérito. Pero lo que no voy a aceptar es que una candidata utilice una asociación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2533.86,
+      "end": 2540.22,
+      "text": "como esa, sobre todo cuando ella arrancó de los debates y fue a regiones en donde le fue pésimo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2540.62,
+      "end": 2544.1,
+      "text": "Porque dijo, no puedo debatir y no voy a debatir donde están los grandes empresarios.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2544.9,
+      "end": 2547.24,
+      "text": "Y después, ¿en cuál nos encontramos? En el Denagro. Ahí sí fue.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2547.66,
+      "end": 2551.92,
+      "text": "Porque tenía experiencia en el tema de las cosechas. Eso es lo que decía.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2554.34,
+      "end": 2559.36,
+      "text": "Y nosotros hemos aceptado la primera invitación que nos ha hecho Franco Parisi, que es salir a la calle.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2560.88,
+      "end": 2568.48,
+      "text": "Yo no partí en los matinales, partí en la Araucanía, donde la gente sufre la violencia del terrorismo, no la violencia rural.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2569.58,
+      "end": 2570.68,
+      "text": "Partí a los ríos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2571.2,
+      "end": 2577.4,
+      "text": "ciudad abandonada por años. No han sido capaces de construir una doble vía. Hicieron un bypass",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2577.4,
+      "end": 2583.32,
+      "text": "precioso y ahí quedó tirado el acceso a Valdivia, a San José de la Mariquina, a Máfil, donde",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2583.32,
+      "end": 2587.02,
+      "text": "estuve. Fui a hablar con el alcalde Corral, como un apuerto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2588.06,
+      "end": 2592.0,
+      "text": "Hablé con el alcalde de Ranco, que aumentó su votación al 86%,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2592.7,
+      "end": 2595.62,
+      "text": "aumentó su presupuesto de 3.000 a 14.000 millones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2596.76,
+      "end": 2602.72,
+      "text": "Eso es gestión. Y yo estoy en la calle, como me pidió Franco Parisi a través de todos los medios.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2602.8,
+      "end": 2606.7,
+      "text": "Dijo, vayan a la calle y gánense los votos. Yo me estoy ganando los votos en la calle.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2608.5,
+      "end": 2612.6,
+      "text": "Estuve hace cuatro años en el programa y lo pasé muy bien.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2614.28,
+      "end": 2630.84,
+      "text": "Otros candidatos no quisieron ir. Estamos evaluando. Pero hoy día estoy cumpliendo con la primera solicitud que nos hizo Franco Barisi. Vaya a la calle. Mañana voy a estar en Arica. Y así voy a seguir recorriendo Chile porque quiero ser un presidente en terreno no un presidente que entra en la moneda",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2630.84,
+      "end": 2631.88,
+      "text": "y se olvida del país",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2631.88,
+      "end": 2635.02,
+      "text": "y que sí, es capaz de ir a subir el cerro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2635.02,
+      "end": 2636.82,
+      "text": "en bicicleta durante el día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2636.82,
+      "end": 2637.9,
+      "text": "para despejarse",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2637.9,
+      "end": 2640.94,
+      "text": "bueno, nosotros vamos a estar en terreno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2640.94,
+      "end": 2642.48,
+      "text": "yo me voy a ir a despejar a Colchane",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2642.48,
+      "end": 2644.44,
+      "text": "me voy a ir a despejar a Timauquil",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2644.44,
+      "end": 2649.28,
+      "text": "me voy a ir a despejar a Corral me voy a ir a despejar a Ollagüe me voy a ir a despejar a Colchane, me voy a ir a despejar a Timauquil, me voy a ir a despejar a Corral, me voy a ir a despejar a Ollagüe, me voy",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2649.28,
+      "end": 2654.58,
+      "text": "a ir a despejar a Vallenar. Todas las ciudades, a Copiapó, las ciudades donde hoy día la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2654.58,
+      "end": 2668.0,
+      "text": "gente sufre las urgencias reales. La gente conoce nuestro programa, son tres ejes programáticos, son 33 medidas, todas pueden recibir colaboración y aporte, pero lo que no vamos a hacer es mentir.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2669.1,
+      "end": 2675.52,
+      "text": "Porque Gabriel Boric mintió cuando dijo que iba a rebajar los sueldos de los operadores políticos. Mintió",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2675.52,
+      "end": 2680.66,
+      "text": "cuando dijo que no iba a pitutar a nadie más. No lo hizo durante todo su gobierno. Y hoy",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2680.66,
+      "end": 2687.0,
+      "text": "día la candidata a la continuidad recoge esa parte del programa de Franco Parisi. Nadie",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2687.0,
+      "end": 2693.94,
+      "text": "va a ganar más que lo que desea Franco Parisi. ¿Y por qué no lo hicieron durante tres años? Eso es mentirle a los chilenos. Igual que les mintieron con",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2693.94,
+      "end": 2698.24,
+      "text": "la educación pública que destruyeron. Igual que les mintieron con el tema de la vivienda.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2699.52,
+      "end": 2704.18,
+      "text": "Y así suma y sigue. Porque el legado de este gobierno es fracaso. Y la continuidad de este",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2704.18,
+      "end": 2710.84,
+      "text": "gobierno es Janet Jara. Y va a tener toda la oportunidad de debatir conmigo cuando lleguemos a un acuerdo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2710.84,
+      "end": 2717.14,
+      "text": "entre los candidatos con los programas que hagan las invitaciones. Un programa puede",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2717.14,
+      "end": 2725.2,
+      "text": "invitar a entrevistas, sí, y cada uno es libre de aceptar. Pero cuando quiere invitar a un debate, primero se ponen de acuerdo los candidatos y después le confirman al canal.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2725.94,
+      "end": 2737.28,
+      "text": "Es lo mismo que hizo el presidente Boric cuando salió fuera de Chile, hizo una nominación y no tuvo el gesto siquiera de preguntarle a quienes lo podrían suceder en la presidencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2737.28,
+      "end": 2739.5,
+      "text": "para nominar a una expresidenta de Chile, que yo valoro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2740.36,
+      "end": 2746.72,
+      "text": "Pero no tuvo la capacidad de hacer el gesto, porque piensa que él es el que manda en la relación internacional de Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2746.72,
+      "end": 2748.54,
+      "text": "como buen presidente, pero lo hace mal.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2748.72,
+      "end": 2752.3,
+      "text": "Y cada vez que se lo corrigen, se taima.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2753.06,
+      "end": 2754.06,
+      "text": "Candidato, dos preguntas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2754.14,
+      "end": 2754.36,
+      "text": "Dígame.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2755.16,
+      "end": 2756.98,
+      "text": "En caso de llegar probablemente a la moneda",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2756.98,
+      "end": 2758.04,
+      "text": "el próximo 11 de marzo,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2758.16,
+      "end": 2759.4,
+      "text": "¿cuál va a ser su primera medida",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2759.4,
+      "end": 2762.34,
+      "text": "para expulsar a los inmigrantes que hay acá en Chile?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2762.42,
+      "end": 2764.28,
+      "text": "Por ejemplo, ¿van a haber readas policiales?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2764.64,
+      "end": 2765.2,
+      "text": "¿Qué es lo que...?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2765.2,
+      "end": 2770.94,
+      "text": "La primera medida ya se las mencionamos. Tomen sus cosas y salgan por la puerta",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2770.94,
+      "end": 2776.5,
+      "text": "al país por donde entraron. Llévense sus recursos. Hagan la postulación como",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2776.5,
+      "end": 2777.22,
+      "text": "corresponde.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2778.68,
+      "end": 2780.08,
+      "text": "Pero, ¿des desde el Estado.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2780.3,
+      "end": 2784.34,
+      "text": "Nosotros lo que vamos a hacer es hacer las fiscalizaciones que están de acuerdo a la ley.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2785.24,
+      "end": 2797.92,
+      "text": "Yo hoy día podría pedirle a las fuerzas policiales que cada vez que hagan una verificación de licencia a conducir de cédula de identidad, que a esa persona le digan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2797.92,
+      "end": 2803.02,
+      "text": "¿por qué usted no tiene licencia a conducir? ¿Por qué está manejando un vehículo sin licencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2803.02,
+      "end": 2807.82,
+      "text": "cumpliendo la ley de Chile? Está cometiendo una infracción. ¿Por qué circula por Chile sin su cédula de identidad?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2808.38,
+      "end": 2815.02,
+      "text": "Cualquier persona que nosotros nos pregunten en un consultorio, incluso en algún local comercial,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2815.52,
+      "end": 2818.04,
+      "text": "y nos dicen en el local comercial, oiga, ¿me das su RUT para un descuento?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2819.3,
+      "end": 2823.54,
+      "text": "No he visto nunca a nadie, pueden haber muchas personas que se nieguen a entregar el RUT.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2824.24,
+      "end": 2830.18,
+      "text": "Pero cada vez que un carabinero dice, muéstrame su cédula, la persona como que se envalentona. ¿Por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2830.18,
+      "end": 2835.52,
+      "text": "qué? Porque hay personas como la candidata Jara que alientan a quienes denigran a la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2835.52,
+      "end": 2839.74,
+      "text": "institución de carabineros. Ella tuvo una gran oportunidad de dar una señal a Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2839.74,
+      "end": 2845.14,
+      "text": "de respaldo y respeto a los carabineros y no lo hizo. Preferió seguir en la lógica de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2845.14,
+      "end": 2850.78,
+      "text": "la bolera Matapacos. Esa es la lógica de ellos y no han cambiado. Y la segunda pregunta es sobre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2850.78,
+      "end": 2858.54,
+      "text": "el Plan Nacional de Búsqueda de los Detenidos Desaparecidos. ¿Usted piensa mantener esa política pública o es algo que prefiere dejar de lado?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2858.64,
+      "end": 2863.22,
+      "text": "Nosotros lo que hemos señalado es que lo que está en curso, está en curso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2864.22,
+      "end": 2868.0,
+      "text": "Está en curso temas sociales, están en curso temas políticos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2869.24,
+      "end": 2871.68,
+      "text": "El punto es cómo ¿cómo hacemos la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2871.68,
+      "end": 2881.26,
+      "text": "gestión? Yo los invito a ver una sesión de comisión donde el diputado Kaiser",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2881.26,
+      "end": 2885.38,
+      "text": "cuestiona a la directora del Servicio Médico Legal.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2886.9,
+      "end": 2894.0,
+      "text": "Bueno, partamos por lo que hoy día tenemos, pero de nuevo, no usemos la política para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2894.6,
+      "end": 2901.86,
+      "text": "desviar los temas que son de verdadera importancia, el foco en las personas, en el que hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2901.86,
+      "end": 2903.12,
+      "text": "muere por no tener atención de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2903.12,
+      "end": 2904.82,
+      "text": "salud, en el que hoy día no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2904.82,
+      "end": 2906.08,
+      "text": "tiene reconstruida su vivienda",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2906.08,
+      "end": 2908.2,
+      "text": "que se quemó, en el que hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2908.2,
+      "end": 2910.5,
+      "text": "tiene que someterse a la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2910.5,
+      "end": 2912.42,
+      "text": "tortura de una tómbola para que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2912.42,
+      "end": 2913.88,
+      "text": "se defina el destino de su hijo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2913.88,
+      "end": 2916.68,
+      "text": "en la educación en eso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2916.68,
+      "end": 2918.2,
+      "text": "nos vamos a ocupar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2918.2,
+      "end": 2918.9,
+      "text": "candidato",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 2918.9,
+      "end": 2920.04,
+      "text": "candidato",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 2920.04,
+      "end": 2921.04,
+      "text": "candidato",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 2921.04,
+      "end": 2921.9,
+      "text": "lo último",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 2921.9,
+      "end": 2923.7,
+      "text": "lo último",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2923.7,
+      "end": 2924.14,
+      "text": "suyo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2924.14,
+      "end": 2924.66,
+      "text": "y después viene",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 2924.66,
+      "end": 2924.98,
+      "text": "todavía",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2924.98,
+      "end": 2925.76,
+      "text": "lo último",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2925.76,
+      "end": 2926.4,
+      "text": "del joven",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 2926.4,
+      "end": 2927.02,
+      "text": "por favor",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 2927.02,
+      "end": 2927.84,
+      "text": "le quiero preguntar",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2927.84,
+      "end": 2928.6,
+      "text": "por el tema",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2928.6,
+      "end": 2929.28,
+      "text": "de los bad boys",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 2929.28,
+      "end": 2932.62,
+      "text": "porque en la mañana en la cooperativa el general Enrique Basaleti",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2932.62,
+      "end": 2935.96,
+      "text": "dijo que él no cree en las primatonas y que tiene dudas de darle el carácter",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2935.96,
+      "end": 2939.0,
+      "text": "después a Franco París. ¿Qué le parece esta declaración?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2939.82,
+      "end": 2944.08,
+      "text": "Bueno, yo primero felicito al general Basaleti por su elección.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2944.5,
+      "end": 2955.76,
+      "text": "Me alegro mucho que uno de los que encabeza el plan de seguridad de republicanos haya salido electo en, yo creo que el distrito más grande, si no me equivoco, de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2956.3,
+      "end": 2964.02,
+      "text": "Junto con nuestro diputado Agustín Romero duplicamos nuestra fuerza parlamentaria en ese distrito y eso nos tiene de verdad muy",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2964.02,
+      "end": 2971.26,
+      "text": "contentos. Y en relación a los dichos, yo me quedo con lo que yo dije al principio,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2971.66,
+      "end": 2978.54,
+      "text": "estoy en la calle, así como lo están todos nuestros candidatos electos, todos los que fueron, no llegaron a la meta y perdieron la elección, están",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2978.54,
+      "end": 2985.78,
+      "text": "todos en la calle y son las personas las que van a definir esta elección con su voto y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2985.78,
+      "end": 2991.08,
+      "text": "van a tener oportunidades de verme debatir con la candidata a la continuidad sí, pero nosotros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2991.08,
+      "end": 2993.3,
+      "text": "vamos a elegir a qué programas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2993.3,
+      "end": 2995.02,
+      "text": "vamos, a cuáles no, y primero",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2995.02,
+      "end": 2997.4,
+      "text": "poniéndonos de acuerdo, porque hace cuatro años",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2997.4,
+      "end": 2999.02,
+      "text": "íbamos a ir los dos candidatos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2999.02,
+      "end": 3000.66,
+      "text": "y llegó solo uno, adivine quién",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3000.66,
+      "end": 3002.62,
+      "text": "pero quién utilizó",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3002.62,
+      "end": 3006.56,
+      "text": "este sistema, el otro candidato, que al final no fue.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3006.56,
+      "end": 3012.58,
+      "text": "¿Qué le parece el orden que está tomando París y por qué ayer no le gustó que usted hablara con el presidente de Argentina, por ejemplo?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 3012.62,
+      "end": 3018.06,
+      "text": "Bueno, yo creo que nosotros tenemos que mejorar todas las relaciones internacionales, todas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3018.22,
+      "end": 3024.02,
+      "text": "a diferencia del presidente actual, que fue destruyendo vínculos con Perú, con Argentina.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3024.68,
+      "end": 3030.08,
+      "text": "Yo espero poder tener, si soy electo presidente, y de acuerdo a una política internacional",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3030.08,
+      "end": 3037.16,
+      "text": "bien planteada, bien propuesta, conversaciones importantes con el presidente de Argentina,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3037.26,
+      "end": 3041.18,
+      "text": "Javier Milei, conversaciones importantes con el presidente de Paraguay, Santiago Peña,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3041.84,
+      "end": 3046.28,
+      "text": "conversaciones importantes con el recién electo y asumido presidente de Bolivia, con",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3046.28,
+      "end": 3053.22,
+      "text": "el presidente de Ecuador, que ha dado una lucha frontal contra el crimen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3053.22,
+      "end": 3058.74,
+      "text": "organizado. Por supuesto, con el presidente Bukele, a quien no conozco personalmente,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3059.48,
+      "end": 3067.08,
+      "text": "porque fuimos a El Salvador, fuimos con Arturo Esquella, con el general Vasaletti, conocimos cómo enfrentaron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3067.08,
+      "end": 3073.3,
+      "text": "a las pandillas, cómo tranquilizaron ese país. Ese es un país libre hoy día, de las maras,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3073.44,
+      "end": 3080.06,
+      "text": "de la delincuencia. Por supuesto que me encantaría tener un diálogo directo con él pero él fue muy",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3080.06,
+      "end": 3081.76,
+      "text": "respetuoso también de las elecciones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3081.76,
+      "end": 3084.32,
+      "text": "internas de otros países y nos juntamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3084.32,
+      "end": 3087.56,
+      "text": "con sus equipos de seguridad y por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3087.56,
+      "end": 3088.76,
+      "text": "supuesto que me gustaría hablar con él",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3088.76,
+      "end": 3092.62,
+      "text": "y lo mismo que he podido hacer ya con",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3092.62,
+      "end": 3096.3,
+      "text": "los viajes que he tenido con la primera ministra de Italia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3096.3,
+      "end": 3096.94,
+      "text": "Giorgia Meloni",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3096.94,
+      "end": 3099.78,
+      "text": "por supuesto que vamos a tener ese diálogo internacional",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3099.78,
+      "end": 3102.12,
+      "text": "Arturo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3102.12,
+      "end": 3102.76,
+      "text": "la última",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3102.76,
+      "end": 3106.08,
+      "text": "y queremos, perdón, liberar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 3106.08,
+      "end": 3106.86,
+      "text": "a los gobernadores",
+      "speaker": "Kast"
+    }
+  ],
+  "speakers": [
+    "Kast",
+    "SPK2",
+    "SPK3",
+    "SPK4",
+    "SPK5",
+    "SPK6",
+    "SPK7",
+    "SPK8",
+    "SPK9",
+    "SPK10"
+  ]
+}

@@ -1,0 +1,3829 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ]
+  },
+  "text": "Es increíble y ustedes no se imaginan la emoción que uno siente cuando recorre Chile y se encuentra con tanta gente que ama la patria. Es una cosa muy impresionante. Me pusieron esta cosita hoy día porque hay mucho viento. Así que si se me vuelan las hojas, sufran porque tengo que improvisar. Y ahí son dos obras. Pero antes de partir, lo que yo les quiero plantear, quiero saludar a personas que han hecho un trabajo, que están haciendo un trabajo desde cargos de elección popular. Nunca es fácil ejercer un cargo, sea interno del partido, joven aún, sea interno del partido o de elección popular. Y por aquí, creo que estaba por ahí, a pleno sol, muy bien acompañada, veo a Beatriz Evia, la que fue presidenta del Consejo Constitucional que con sus cortos años los dirigió todo y los tenía ordenaditos. Gracias Bea por ese trabajo, por el trabajo que está haciendo hoy día en temas de seguridad, porque es un equipo enorme que está trabajando en esos planes como escudo fronterizo, el plan cancerbero para mejorar el tema de la seguridad en las cárceles. Todo eso tiene mucho trabajo. Junto con ella veo a Patricia Besa, que estaba... ¿Dónde está la Pati? ¡Pati! Gracias. Patricia es consejera nacional del cabildo nacional de nuestro partido, donde tenemos las disputas más grandes que ustedes se puedan imaginar. Tenemos más peleas que los candidatos a diputados. No, son bromas. Somos un gran equipo. Pero ahí estamos, a pesar de las dificultades, siempre nos volvemos a encontrar, siempre entendemos que la patria está primero, más allá de que podemos tener diferencias. ¿Quién no tiene diferencias? ¿Quién que esté casado no ha peleado con la señora? ¿Quién que no esté emparejado no ha peleado con la pareja? Y junto a ella está María Jesús Wulf, que ayer salió en la segunda, no, antes de ayer, y hizo una tremenda entrevista. Párate, Jesús, para que vean, porque si se para la Jesús, puedo decirles que ahí estamos trabajando en educación, estamos trabajando en cultura, estamos trabajando en salud, en todo el área social, que también convoca a muchas personas, y María Jesús en la entrevista dijo algo muy cierto, nosotros nos estamos preparando desde ya, tenemos grandes equipos, y algunos le decían oye, pero primero tenemos que ganar ganamos o perdamos el trabajo vale igual y se lo vamos a traspasar a quien gane y esa es la gran diferencia de lo que nos convoca aquí. Porque no estamos por un cargo, estamos por Chile. Más allá de el triunfo se corona en nosotros o se corona en alguien más. Lo importante es terminar con este gobierno. Y ahí veo a Mauricio Donoso. Don Mauricio, gracias por estar aquí. Fue por mucho tiempo nuestro presidente regional. Me ha tocado alojar en su casa. He disfrutado los dones de la tierra porque me ha regalado hasta uvas. Me fui una vez cargado de uvas cuando alojé ahí. Y también hemos discutido, hemos peleado, pero aquí estamos. ¿Y qué fue? Porque nosotros, vuelvo a decirlo, entendemos que la patria está primero. Y también nos acompañan varios de los que son importantes, porque manejan las lucas. Y esos son los cores, los consejeros regionales. Que es un cargo no muy conocido por la ciudadanía, pero muy importante, porque tienen que fiscalizar a quien es la persona en quien más votos saca en una región, que es el gobernador regional. Y pucha que estamos aproblemados a nivel nacional con varios gobernadores que, como la justicia se demora, tarda, a veces no se mantienen los cargos a pesar de estar formalizados. No es el caso de la región. Pero aquí tenemos presente con nosotros a cinco consejeros regionales, que son de Colchagua, de Cachapoal, tenemos acá Claudio Schmincke, que está en alguna parte por ahí, don Claudio. Tenemos a don Juan Carlos Macay, hoy día me acordé de él, hoy día me acordé de ti cuando hicimos el semáforo, cuando hicimos semáforo hace como un año atrás, y como es más intenso que yo, me tocaba hacer el semáforo. Cuando hicimos el semáforo hace como un año atrás. Y como es más intenso que yo, me tocaba hacer el semáforo con él y estaba en otro semáforo. Juan Carlos, ven para acá. Después tenemos a Manuel Morales, que también estaba por ahí. Manuel, gracias por acompañarnos. Pedro Bustamante, don Pedro, muchas gracias, y Edgardo Vargas, que también creo que está, ahí está don Edgardo, espero que no se me haya pasado ninguno, muchas veces uno cuando hace la lista de las personas presentes, falla alguno, llega uno adicional, alguien no alcanzó a llegar porque había algún taco, algún problema. Y en los concejales, los concejales también realizan un rol muy importante. Yo partí siendo concejal por la comuna de Wynn. Quise ser alcalde, no lo logré y me quedé de concejal. Y ejercí los cuatro años porque era para lo que la y me quedé de concejal y ejercí los cuatro años porque era para lo que la gente me sacó electo y tenía que cumplir lo que el mandato popular decía y ahí está Matías Álvarez uno de los concejales más jóvenes de Chile por San Fernando ¿dónde está Matías? ahí, muy elegante de chequera y corbata. Buen republicano. Espero que a los consejos vayas igual. Ah, ya. Vamos a mirar las sesiones del consejo. Ustedes pueden además ver las sesiones, porque la mayoría son transmitidas. Y es bueno verlas. Y ponerle un comentario en el YouTube. Los estoy mirando. Después tenemos a Jesús Orellana, vecino ahí de San Francisco, Mostazal. Digo vecino porque viví muchos años en Paine. Ahora vivo en Buin, como una Jolín Dantes. Después tenemos a un gran valor que hoy día ahí en el semáforo trabajó como ninguno, una voz privilegiada, que es Héctor Lave de Machalí. ¿Está por ahí? ¿Dónde está Héctor? ¿No está? ¿No vino? Bueno, les quiero decir que hoy día en el semáforo, ¿dónde está? No lo veo. Ah, se cambió de lugar. en el semáforo... En el semáforo... ¿Dónde está? No lo veo. Ah, se cambió de lugar. Ahí está. Gritaba de un lado al otro cuando alguien no me saludaba con mucho cariño. Y decía, ¡Presidente! Gracias. Y también está Graciela Reynoso de San Vicente. ¿Dónde está la Graciela? ¡Aquí! ¡Hola! De Rancagua, perdón. El que escribió San Vicente aquí es que es Gabriela en San Vicente, ¿no? ¿La Gabriela? Pero en San Vicente, ¿cómo se llama la Gabriela? Pero en San Vicente, ¿cómo se llama la concejala? Montserrat, pero tiene dos nombres. Montserrat y Gabriela, no. Ustedes averiguan después, pero yo sé que tiene dos nombres. No sé cuál es el segundo, pero son 33 comunas, que son muchas comunas, esta es una de las regiones grandes en cantidad de comunas. Y quiero también, ustedes ya escucharon sus palabras, pero quiero saludarlos de nuevo, a nuestros candidatos a diputados del pacto que lleva la letra K. Primero, del distrito quince, tenemos a Patricio Arenas. ¿Dónde está don Patricio? Don Patricio Arenas. Tuvimos varias veces en la plaza, estuvimos en el semáforo, hemos estado en varias partes. Gracias por aceptar el desafío. También tenemos a Paula Muñoz. Paula, también hoy día estuvimos haciendo semáforo. Gracias por el compromiso, gracias por la osadía, por atreverse a ir de candidato. Tenemos también a Emiliano García, que está por ahí. Don Emiliano tiene un parecido a un actor de cine, ¿o no? Y después tenemos a Don Fernando Ugarte, que está ahí. Los dos, todos allí... Y después tenemos a Don Fernando Ugarte, que está ahí. Todos aquí estamos jugados por un gran equipo, porque cualquiera que gane en el Distrito 15 nos va a representar muy bien. Y esa es la diferencia de lo que marca una lista de otras listas. Aquí trabajamos en equipo. Todos sumamos para recuperar un parlamento para Chile. Y en el distrito 16 tenemos a María del Pilar Zúñiga. Mira, yo quiero que se pare la pata y besa. Pati, pátate. ¿Hay algún parecido? Porque yo no tengo muy buena vista, pero... ¿Algún parecido hay? ¿Podrían ser campañas en dos comunas distintas al mismo tiempo? Y yo creo que pasa piola. Gracias, María del Pilar, por también sumarte tenemos también a Francisco a María que lo vi por acá don Francisco gracias por aceptar el desafío y también tenemos a Sebastián Cristofanini que está por ahí y Sebastián es bien increíble porque estuvo a punto de ser core. ¿Ah? Y perseveró. Y eso se agradece, porque no siempre uno gana las elecciones. Y lo importante, la diferencia, es cuando uno sigue trabajando, más allá de si la rueda de la fortuna nos tocó o no nos tocó. Así que gracias por ese ejemplo, gracias a todos por su trabajo, por el empeño y por la fe que le pone ahí en gran medida el Partido Social Cristiano que nos acompaña en esta ocasión, nos acompañó en la ocasión anterior, Francesca Muñoz, que era la candidata presidencial del Partido Social Cristiano, dijo, vamos en una sola lista, y yo le agradezco mucho a Francesca, le agradezco también al alcalde de Concepción, una gran comuna Héctor Muñoz, que también nos está apoyando junto con otros alcaldes. Y hoy día, como les decía cuando entraba, uno siente orgullo, siente orgullo de recorrer Chile, siente orgullo de estar aquí en la región de O'Higgins. Como les decía, 33 comunas, y son esas de occidencias, pichilemo presente, viva el surf. Esas 33, Chimbarongo, San Francisco, La Estrella, Litueche, son muchas comunas. Pichidegua, donde hice el primer discurso público en mi vida......y que me salió un desastre......así que ahora me estoy reivindicando......Santa Cruz, Granero, Requinoa......Machalí, Rancagua......son 33 comunas......son 33, pero miren la diocidencia. Rengo, San Fernando, Arrancagua. Bueno, 33 comunas. Pero miren la diocidencia. Nuestro programa de gobierno tiene 33 medidas. Igual que las regiones de O'Higgins. Y si nosotros vemos un hecho histórico en nuestra patria, rescatamos a 33 mineros. Hace años atrás en la mina San José en Atacama, donde estuvimos la semana pasada. Aquí no tuvimos el mismo destino y hace poco hubo un gran accidente aquí en el Teniente y fallecieron seis mineros, seis mártires de la minería en Chile por un accidente. Sí, un accidente. Pero quiero que les demos un gran aplauso a esos seis mineros, a las personas que sufrieron heridas, lesiones, y que acompañemos siempre, cuando podamos, a las familias de esos seis chilenos en nuestras oraciones. Porque el dolor va a quedar ahí, pero nosotros podemos acompañar también a las familias con nuestra oración. Y esta región también es increíble y tienen que sentirse orgullosos porque ahí mismo donde ocurrió el accidente uno puede decir que tenemos la mina subterránea más grande del mundo. Y eso es para llenarse de orgullo. Es decir, pucha que somos increíbles, tenemos la mina subterránea más grande del mundo. Y no todos lo saben, no todos dicen, oye, qué orgullo. Claro, uno a veces ve la nube, yo vivo ahí en Paine, en Buin, y ve, pero dice, qué orgullo, porque igual vamos trabajando para mejorar el tema del medioambiente, se hizo una carretera especial, la carretera del ácido, que ha repletado la carretera del cobre. Bueno, pero sintámonos orgullosos de lo que hemos sido capaces de hacer en distintas generaciones en nuestra patria. Pero no solamente podemos decir que tenemos la mina más grande del mundo, también podemos decir que tenemos los mejores chamantos del mundo. Y alguna vez estuve en Doñihue y conocí a las chamanteras, a una persona que hacía chamantos y que le dedicaba su vida para que saliera perfecto. Y esos chamantos le han sido entregados a grandes autoridades a nivel mundial. También es para sentirse orgulloso. ¿Para qué? ¡El mejor candidato! ¿Tiene que decir cuál? Porque hay seis, no, siete. No, muchas gracias. Pero también podemos decir que tenemos las mejores olas. Algunos dirán que son las mejores olas del mundo. Ahí está el cartel. Alguien levantó el cartel de Pichilemu. La fuerza... ¿Cómo es? ¿Así? ¿O así? Así. La fuerza del mar que se siente la energía. Y no es solamente Pichilemu, sino que hay muchas playas de la región de O'Higgins que son increíbles, que están a nivel mundial. Y así como en el país de El Salvador hicieron Surf City de la nada, nosotros aquí tenemos varias Surf Cities, pero no hemos sabido destacarlas en el tiempo. Y de esoas en el tiempo. Y de eso se trata el futuro. También podemos decir que tenemos las mejores cerezas, los mejores vinos, las mejores termos. Ahí están las termas del flaco, que cuesta llegar a veces, pero ahí están, ¿no es cierto? Terapéuticas. Mucha gente va y se esfuerza para llegar arriba. Antes decían, ojalá que pueda subir y bajar antes de que corte el camino. Pero ahí están. Y están los mejores corderos, el mejor pollo en Lituecha, el mejor cordero en Lituecha, será en la estrella por ahí. Pero todo es, uno puede sentirse orgulloso de que está en una región productiva, en una región que Dios ha sido generoso con nosotros. Es una de las regiones de estas 16 banderas. Es increíble porque algunos se enojan porque ponemos las banderas. ¿Y quiénes son los que se enojan? Los mismos que levantaban las banderas negras. Los mismos que no querían respetar las tradiciones de nuestra patria. Y son 16, porque hay una por región. Y vamos a seguir sumando hasta que tengamos en algún día, en algún evento, 345 banderas por las comunas de Chile. Porque son, perdón, 346, son 345 que tiene el municipio. Pero algún día, en algún acto, van a haber 346 banderas para reflejar que nos sentimos orgullosos de que hayan chilenos en Bisbiri, que hayan chilenos en Puerto Natales, en Puerto Williams, porque todos hacen patria a lo largo de todo Chile. Y yo he tenido la fortuna de poder conocer ya 344 de esas 346 comunas. Voy por las dos que me quedan, pero un poquito más adelante. Y también tienen que sentirse orgullosos porque esta es la comuna del Libertador. Esta es la comuna que lleva el nombre del Padre de la Patria. Y aquí se gestaron momentos históricos de nuestra independencia. Y nosotros tenemos que trabajar de nuevo por esa independencia. Esa independencia que hoy día no la han robado. No la han robado por el miedo, por la desesperanza. Y hoy día Chile pasa varias crisis, varias emergencias. Nosotros hemos dicho que vamos a enfocar en estos 33 puntos que tocamos en el programa de gobierno las tres emergencias principales que hemos visto a lo largo de todo Chile. La primera es la de la seguridad o de la inseguridad. Nosotros no vamos a combatir la seguridad pública, vamos a combatir a los delincuentes. Algunos se pegan algunos chascarros por ahí y dan vuelta las palabras. Algunos dicen vamos a tratar a los delincuentes con amor. Nosotros no. Les decimos, vean bien a esos delincuentes, miren bien la reserva de la cárcel que van a hacer, porque tenemos varias y van a tener ocupación completa. Y vamos a construir nuevas cárceles para que ellos también tengan dignidad cuando cumplan su sanción. Pero dentro de esas emergencias también está la emergencia del desempleo. Aquí hay problemas de empleo. Y también tenemos una emergencia social que tiene tres áreas. El área de la educación, el área de la vivienda y el área de la salud. Son dolores que afectan hoy día a muchos de nuestros compatriotas. Y esta es una región muy golpeada. He ido a distintas regiones y hemos presentado los planes de acuerdo a la región. Y ahí presentamos el plan Araucanía libre, libre de terrorismo. Presentamos Arica siempre Arica, porque nos sentimos orgullosos de la gesta histórica que se produjo en Arica. Presentamos Iquique glorioso por la gran gesta naval y por ese héroe de la patria que es Arturo Pratt. Presentamos también el plan Desierto Florido, cuando estuvimos recién en Atacama. La creatividad no tiene límite. Y aquí vamos a presentar el Plan Libertador. El Plan Libertador se junta con otros planes, porque es un nombre para reflejar el trabajo, el esfuerzo que han realizado equipos en distintas áreas. Y hay un área que aquí se refleja en plenitud en la región de O'Higgins, que es la inseguridad. Me tocó hace un par de años, hace cuatro años creo, estar con un grupo de familias aquí en Rancagua. Y eran familias víctimas de delitos violentos. Porque aquí en Rancagua, al igual que en San Bernardo, un amigo mío, una familia sufrió el asesinato de un hijo por un menor de edad por robarle un celular. Y eso aquí en Rancagua ocurrió, si no me equivoco, en el año 2016, en septiembre de 2016, y asesinaron a Joaquín Fernández. Y los padres de él han dado una lucha enorme por la ley, Joaquín, que fue presentada por parlamentarios, por distintas autoridades, avanzó porque hay una ley, Tamara, que es la ley que se hizo por esa niña, que asesinaron, por no alcanzar a robarle el auto a la madre, asesinaron a la niña que iba en el asiento de atrás, en una silla de menores. Bueno, eso aquí también ocurrió, y asesinaron a un joven, a Joaquín, y lo asesinó un supuesto menor de edad. Tenía clara conciencia ese joven que tenía a esa época 16 años de lo que estaba haciendo. Le quitó la vida a un compatriota, le quitó la vida a otro joven que tenía solo 18 años. Esta zona también sufrió un secuestro conocido a nivel nacional, aquí en Santa Cruz. Un empresario fue secuestrado, estuvo retenido por más de 30 horas. Y también lamentablemente ocurrió aquí en O'Higgins, que no conocíamos ese nivel de violencia. Aquí también asesinaron a dos agricultores, a dos personas esforzadas en Mayoa, que venían de vender la producción de su campo en la feria Lo Valledor, y los asaltaron y los mataron en Mayoa. También ocurrió acá. También aquí ocurrió un asalto famoso a la sucursal Brinks. También fue aquí en Rancagua. ¿Y para qué decir el asesinato de la familia González Calleja que que ocurrió aquí en Granero este año. Bueno, eso es lo que tenemos que combatir. Y no es solamente aquí en O'Higgins, porque son hechos lamentables, pero hechos lamentables que ocurren en todo Chile. Y para eso hay que decir fuerte y claro que no hay libertad sin seguridad. no hay prosperidad sin miedo, con miedo, perdón, me mandó un chascarro, no hay prosperidad con miedo y eso es algo que tenemos que enfrentar y tenemos que ponernos de pie y todos ser valientes. Todos tenemos que respaldar a nuestras policías. Todos tenemos que aplaudir a nuestros carabineros. Esos carabineros que aquí también tienen sepultado un mártir. Porque Daniel Palma, que fue asesinado ahí cerca de Avenida Mata, cerca de 10 de julio, cerca del Teatro Caupolicán, fue sepultado aquí en Rancagua y le hicieron una despedida hermosa, pero ninguna despedida va a reemplazarlo en su familia. Y ahí están nuestros carabineros dando la vida por nosotros, arriesgando la vida por cada uno de nosotros, con todas las dificultades que tienen. Así que a ellos un reconocimiento, un aplauso, así como también a nuestros policías de investigaciones, la PDI, a nuestros gendarmes que resguardan las cárceles con dificultades. Tenemos que recuperar el control de las cárceles, pero tenemos que darle seguridad a nuestros gendarmes, que no la tienen. Y también un reconocimiento a nuestras Fuerzas Armadas, que lo han dado todo. Custodian las fronteras, combaten el terrorismo, hacen puentes aéreos cuando tuvimos pandemia. Ahí están, siempre, en esa buena primera línea. No como otros que destruyeron todos los centros de nuestras ciudades, sin ningún pudor, sin ninguna vergüenza. Destruyeron todo lo que encontraron a su paso. Y eso nosotros le decimos, no lo vamos a permitir nunca más. Que destruyan nuestras ciudades, que destruyan nuestra patria. Y por eso eso este primer punto del plan para unos Higgins libertador en libertad también es la seguridad y para eso tenemos que cerrar nuestras fronteras y decirles que ya no van a llegar más inmigrantes ilegales aquí se entra por la puerta no se entra por la ventana nosotros reconocemos Y decirles que ya no van a llegar más inmigrantes ilegales. Aquí se entra por la puerta, no se entra por la ventana. Nosotros reconocemos a los migrantes. Le damos las gracias a todos aquellos que trabajan arduamente por mejorar nuestra salud. Nuestro sistema de salud no funcionaría si no tuviéramos los médicos ecuatorianos, colombianos, venezolanos, cubanos, no funcionarían, pero a los bolivianos también, hay grandes médicos en nuestros centros de salud, y ustedes pónganse a pensar cómo funcionaría nuestro CEFAM, cómo funcionarían nuestros hospitales si no tuviéramos esos médicos, pero tenemos que decirle a todos que hay que entrar por la puerta, no por la ventana. Que todos tienen que tener los papeles en regla, porque nosotros no vamos a regularizar a nadie que esté en una situación irregular. Queremos que todos estén en la misma posición que aquellos que cumplen las normas. Tenemos que lograr recuperar el control de las cárceles. Si nosotros vemos lo que ocurrió en el asesinato de un joven en un furgón escolar, porque eso no fue un accidente. Eso fue un asalto, persecución, choque con un furgón escolar que iba lleno de niños. Y las dos personas que iban conduciendo ese vehículo ya tenían antecedentes. Son igual que esos que atropellaron a un carabinero ahí en el centro de Santiago hace un tiempo atrás. Son igual que los que asesinaron a un carabinero en Concepción. Bueno, eso nunca más. Usted entra a la cárcel, usted la hace y la paga. Y va a ser una cárcel de verdad. Una cárcel donde no se dé por supuesto que alguien pueda hablar por celular. Si en las cárceles en reo no puede hablar por celular. Y hoy día decimos que tenemos que inhibir la señal de celular. ¿Por qué tienen teléfono celular entre las cárceles los presos? No van a haber más celulares. Adentro de las cárceles. Ustedes pueden tener uno, dos, tres, cuatro, los que quieran. Pero adentro, ninguno. Y tenemos que apoyar y respaldar a nuestras policías, a nuestras Fuerzas Armadas. Desde el punto de vista político y jurídico. Nunca más un carabinero nuestro va a tener que ser dado de baja porque no tiene respaldo jurídico. Nosotros nos sentimos orgullosos de que hoy día Abigail Aburto, carabinera que fue atacada en la Plaza Italia, sea candidata a diputada por republicano. Nos sentimos orgullosos de que el carabinero Zamora sea candidato a diputado por republicano. Nos sentimos orgullosos de que el general Basaletti sea candidato a diputado por republicano. Todos carabineros. También tenemos al almirante de Soto y tenemos a muchos que han sido parte de lo que es la esencia de nuestra patria en Carabinero, en la PDI, en las Fuerzas Armadas que hoy día se postulan. Ahí tenemos al Coronel González en nuestro equipo de seguridad trabajando porque él fue gendarme y dice yo soy orgulloso de mi institución de gendarmería y lo tenemos que recuperar porque no por unos pocos van a pagar todos. Eso es en seguridad. Después tenemos otro tema que es fundamental aquí en la región, que es la infraestructura. La infraestructura de conectividad hídrica, de carreteras. ¿Cuántas veces ha venido alguien a cortar la primera cinta de la carretera La Fruta? Es como el tren a Melipilla, el tren al norte, el tren a Valparaíso. Muchas veces han venido y cuando uno va dice, oh, mira, tremenda carretera y dos lomos de toro porque hay un paso peatonal en la mitad de una carretera como no les dio para una pasarela es increíble el desarrollo y de repente dos lomos de toro en la mitad de una carretera, que iría a ser de primer nivel, si hay plata en la medida que no se la roben, porque alguien dice, no hay plata, la plata está, y la plata alcanza, si es que no se la roban. Y eso es lo que han hecho distintos gobiernos en el tiempo. La conectividad, la conectividad, si yo quiero ir de aquí a Navidad, ¿tres horas? depende de la hora pero saqué la cuenta cuando estaba ahí antes de venir y dije, de Rancagua a Navidad, dos horas cuarenta y siete y son ciento sesenta kilómetros, ciento sesenta y cinco kilómetros, anda por ahí. Tres horas. Es increíble. Y Navidad, Servicio Salud, depende de aquí de Rancagua. Le queda mucho más cerca San Antonio. Pero el tema burocrático administrativo dice, no, usted si quiere pedir un insumo, una jeringa, pídela al Rancagua, y a lo mejor la tenía ahí al lado no, Rancagua bueno, eso es, sin romper los límites regionales, es lo que hoy día afecta a cientos de compatriotas a lo largo de todo Chile, la conectividad la conectividad en carreteras, en caminos rurales, la conectividad digital. ¿Cuántas veces uno dice, oh, se cortó de nuevo el internet? Bueno, ¿cómo damos conectividad a las zonas rurales para que la calidad de vida sea igual para alguien que vive en Navidad que alguien que vive en Rancagua. ¿Para qué hablar de los embalses? Aquí el último embalse fue el Convento Viejo. Antes de eso teníamos Rappel. ¿Pero cuánto tiempo llevan discutiendo del embalse de Codewa, del de Boyenar? Boye... Boyo... ¿Ah? Boyenar. Ajá.enar, voy a llenar, voy a llenar, voy a llenar, voy a llenar, ¿Bolleruca? ¿Uno solo o fuerte? ¿Bolleruca? ¿Boy? ¿Bolleruca? Bueno, embalse me salió. Como decir futa del fú. Es complejo. Pero, ¿por qué no avanzamos más rápido en la infraestructura de embalses? Si esta es una zona agrícola. Nosotros necesitamos más hectáreas de riego. Necesitamos que más agricultores puedan dar más empleo. Porque con conectividad, con carreteras, con embalses, Chile crece. El paso a las leñas lo tengo anotado, pero está complejo. Pero lo tengo anotado. Me llevo el otro día un libro, un tazón, muchas cosas. Y me hablaban, primero, bueno, hagámoslo turístico. Después lo vamos agrandando. Pero no tenemos ni solucionado el paso de los libertadores y tenemos que ir también mejorando la infraestructura en todas partes, pero tenemos muy presente lo que tenemos que hacer porque alguien dice tan cerca y tan lejos, tan cerca de la capital nacional y tan lejos del desarrollo y el progreso. Lo mismo que dicen en Navidad, tan cerca de la capital regional y tan lejos del desarrollo que nos tocaría. Porque así como hay centralismo en la capital nacional, también hay centralismo en las regiones. El tercer punto, turismo. Ustedes son una región increíble. Ahí tienen la ciudad patrimonio de Sewell. Quienes que levanten la mano, ¿quienes conocen Sewell de los aquí presentes? ¿Han ido? Mira, pero no es ni la mitad. ¿Nacido y criado? Ah, nacido, porque ya después lo criaron abajo. Pero alguien debe haber nacido ahí. Pero imagínense, todos deberán ya poder haber tenido la opción de llegar a ver un patrimonio de la humanidad, si es algo increíble que está aquí al lado. Bueno, a veces se habla mucho del patrimonio, de esto, y nos dedicamos a cuidar un cántaro. Y vamos a buscar un cántaro que detiene la construcción de un hospital en uno o dos años. Lo guardamos, lo sacamos de cinco metros de profundidad, lo guardamos en una cajita con goma eva, lo cuidamos, después lo mandamos a un museo y lo bajan al segundo subterráneo. Queda más oculto que cuando estaba ahí donde lo encontraron los arqueólogos. Y nos costó 200 millones y como un año o dos años de construcción de un hospital, de retraso. O sea, era más importante el hallazgo que una persona. Es más importante a veces una familia de chinchillas que millones de familias de chilenos. Y yo también amo los animales. Y este ejemplo lo pongo siempre porque me encanta. Yo tomaría a la familia de chinchillas y le haría un resort a dos kilómetros de donde están hoy día. La mejor zona para vivir, Chincholandia, Chinchorolandia. Lo haría feliz y me gastaría un millón de dólares con tal de que nos dieran la posibilidad de construir la línea de transmisión que le dé electricidad a un nivel de precio razonable a los chilenos. Hoy día, este gobierno ineficiente nos tenía ocultos un detalle, que habían subido las cuentas de la luz porque nadie había hecho un doble cálculo para ver si estaba bien calculada o no la cuenta de la luz. Una vergüenza, una ineficiencia increíble. Y se tratan de sacar los pillos. No, es que esto lo hicieron hace como cinco años atrás. Todavía no sabemos quiénes son los responsables de esto, porque renunció el ministro y solo él sabía. ¿Dónde están los otros responsables? ¿No le habrán avisado a alguien antes? Porque con el tema de Monsalve nos dijeron lo mismo. Apenas supimos lo echamos. Mentira. Supieron mucho antes. Tanto antes que le dieron autorización para ir al sur a hablar con su familia, traerlo de vuelta en avión y después mandarlo a discutir la ley de presupuesto y sentado ahí, le llega el diario y dicen, este señor está acusado de abusos bueno, una vergüenza una y otra vez el mismo gobierno el mismo presidente lamentable porque habló mucho en campaña de lo que iba a hacer y no va a poder tener ningún legado ni en educación ni en salud ni en seguridad ni en respeto a las personas, ni siquiera en el tema de los pitutos, porque dijo, vamos a terminar con los pitutos, nadie va a ganar más que el presidente de la república, y ahí está. Todo, si es increíble. Bueno, el tema del turismo Subwell Minería está ahí y yo le hago un reconocimiento a don Carlos Cardun es un hombre que ha sacado adelante varios museos yo al menos conozco el museo del vino el museo del automóvil el que no conozca el museo del automóvil y del vino se los recomiendo, vale la pena, es increíble, está hasta, la gaviota se llamaba, el bus que los llevaba de San Fernando hasta Santa Cruz creo, alguna parte, está todo ahí, está el auto de Volver al Futuro, está una copia de la casa rodante que recibió a los astronautas. Es increíble, vayan a verlo. Pero el Museo de Santa Cruz es reconocido a nivel mundial. Y está aquí. Bueno, vale la pena. Vale la pena fomentar el turismo. El vino. Hay una discusión de dónde está la mejor viña del mundo. Nosotros los que somos del Maipo decimos, no, en el Valle del Maipo, otros dicen que Colchagua. Pero hay aquí, hay lugares increíbles que son reconocidos a nivel mundial por la hotelera. Un presupuesto, si los que atienden un hospital son más o menos parecidos todos los años, entonces la mejor directora de presupuesto de la historia, según Marcel. Bueno, no calcula los ingresos, no calcula los ingresos y tampoco fue capaz de hacer el presupuesto de los hospitales, porque estamos en octubre y en septiembre ya se le había acabado la plata. Y en agosto, perdón, le di un mes de gracias al gobierno. Pero bueno, si yo tengo la misma cantidad de pacientes y la aumento en un 5% todos los años porque hay gente que se enferma más, y digo, bueno, con todo esto me alcanzarán. Si hay una historia de los hospitales, no son capaces ni siquiera de hacer eso. Porque también tienen que comprometer a los funcionarios, a los buenos funcionarios. Tienen que sacar a los operadores políticos, a los apitutados. Porque hay muchas personas que no atienden personas y están sentadas en un escritorio. Y son el apitutado de un diputado, de un senador. Y ahí se llenan los hospitales de apitutados y no de mejor servicio y las listas de espera, aquí también hay un triste récord, se están peleando el segundo tercer lugar en la mayor cantidad de personas en lista de espera a nivel nacional en proporción a personas en lista de espera y cantidad de habitantes nosotros no queremos que O'Higgins dispute esos lugares. Y también el empleo. El empleo está en todo lo que dijimos anteriormente. Si hay más seguridad, va a haber más crecimiento, va a haber más inversión, va a haber prosperidad. Si es que tenemos mejor salud, la gente va a querer venir a trabajar a cualquier emprendimiento que esté en O'Higgins, porque van a decir, si me enfermo, me van a atender. Más y mejor trabajo. Eso se logra generando seguridad, inversión. Inversión trae crecimiento, crecimiento trae empleo. También uno dice, bueno, están peleando el quinto lugar con nuestra región en número de desempleados. Y quien fue la ministra del trabajo va a pasar a la historia como la ministra del desempleo. Y así es, porque los números están claros, podrán tener el relato que quieran, pero los hechos están muy claros y es inexplicable en una zona minera, una zona agrícola, una zona turística, que tengamos el nivel de desempleo que tenemos. Ya voy terminando antes que me vuelan las hojas. Y lo que pasa aquí en Los Higues no es distinto a lo que pasa en otras regiones de Chile, en otras ciudades. La inseguridad, la burocracia, el abandono que termina en desesperanza son cosas comunes a lo largo de todo Chile. Pero eso también hace que vaya surgiendo una fuerza, que vaya aflorando esa convicción en nosotros. Y cuando partimos aquí había alguien que le decía, somos fuerza, somos cambio, somos la fuerza del cambio. Y ese slogan que viene del poder a creer, del atrévete, hoy día es la fuerza del cambio, tiene también cinco recomendaciones. Porque queremos un país sin corrupción. Queremos un país sin cobardía. Queremos un país sin complejos. Queremos un país sin continuidad. Queremos un país sin continuidad y queremos un país sin comunismo. Y a mi amiga, a mi amiga Janet, que estaba muy preocupada. Y dicen, ¿nos quieren sacar del país? Cuando dicen sin comunismo, no, le contesté yo, los queremos sacar de la moneda. Y los vamos a sacar. Y déjenme decirle que ya perdieron. Y ya lo reconoció incluso quien hoy día dirige los destinos de la nación el señor Boric. ¿Y por qué ya lo reconoció? Porque en todos los gobiernos republicanos de verdad, más allá que sean de partidos republicanos, un presidente republicano, un estadista, no deja al próximo gobierno sin recursos de libre disposición para las urgencias que le están pidiendo las personas. Y él, por primera vez en la historia, elimina la glosa republicana. A él, cuando entró, le dejaron más de 500 millones de dólares para que pudiera asignarlo a las urgencias de ese momento. A él, cuando entró, le dejaron más de 500 millones de dólares para que pudiera asignarlo a las urgencias de ese momento. Y él decidió, porque la gente le dio el mandato, dónde iba a invertir esos recursos. No tuvo la dignidad, no tuvo el coraje de dejar una glosa republicana. Incluso su candidata, la candidata a la continuidad, lo criticó por ese hecho. Porque es increíble que no dejara la glosa republicana. Es increíble que ocupara la cadena nacional para atacar a un candidato. Y lo hizo sobre seguro, como lo hacen los cobardes. Lo hizo aplicando corrupción en su discurso porque usó la cadena nacional para hablar de algo que no le correspondía. Él tiene que hablarle a los chilenos de cómo está el estado de la nación, cuál va a ser el presupuesto. Lo hizo con esa cobardía de alguien que no se atreve a dar la cara y hoy día aquí le vuelvo a insistir presidente está bien no nos deje la glosa republicana pero entreguele esos recursos a la fiscalía a los tribunales y a la contraloría entregueselos a ellos para que fiscalicen para que fiscalicen para atrás y fiscalicen el para que fiscalicen para atrás y fiscalicen el presente. Porque él dice, no tengo confianza en lo que vayan a hacer los republicanos que van a ganar. Bueno, nosotros tenemos tanta confianza que vamos a hacer las cosas bien y si pillamos a alguien haciéndolo mal, lo queremos sancionar. Porque uno a veces ve caras y no ve corazones. Lo importante es cómo reacciona cuando ve el corazón. Nosotros no vamos a proteger a nadie que haya abusado de una funcionaria. Nosotros no vamos a proteger a nadie que se haya robado los recursos de los más pobres a través de un convenio. No los vamos a proteger. Les vamos a pedir la renuncia y les vamos a pedir a la Contraloría a la Fiscalía y a los tribunales que los investiguen que los juzguen y si es necesario que los condenen pero tiene que el presidente ser digno presidente tenga la dignidad de lo que decía aquí hay una persona que está en este acto pero que lo piensan todos los chilenos usted va llegando a los 40 y quiere que lo finalicen Presidente, tenga la dignidad de lo que decía aquí una persona que está en este acto, pero que lo piensan todos los chilenos. Usted va llegando a los 40 y quiere que lo financiemos hasta los 65, hasta los 80. No, presidente, eso no es digno. Usted tiene dos pies, tiene dos manos y una cabeza que le funciona. Él tuvo el privilegio de estudiar en un colegio particular pagado. Salió con excelencia académica de su colegio en Punta Arenas estudió en la universidad ha tenido el honor y el privilegio de ser presidente de la república pero eso no le impide trabajar eso no le impide hacer las cosas que hace cada chileno y por último le digo yo presidente ya quédese con la dieta pero renuncia a las asignaciones si aunque si aunque le den el doble de asignaciones usted usted no va a volver a ser presidente de la República. Nosotros le vamos a recordar una y otra vez a los chilenos el fracaso, la ineptitud de este gobierno, porque es inaceptable cómo ha dejado nuestra nación quebrada, entregada a los delincuentes, sin salud, sin trabajo. Eso es lo que son. Y no le han dado respaldo a Carabineros, no le han dado respaldo a nadie. Pero sí quiere vivir, sí quiere vivir a costa de todos los chilenos. Y eso no corresponde. Yo respeto la dignidad de la autoridad presidencial. Tiene derecho a que nosotros se la reconozcamos, que tenga un ingreso, pero ¿por qué tiene que tener más de 10 millones en asignaciones para que le paguemos el auto, el celular, la oficina. No, presidente. Tenga un sueldo. A los expresidentes, a los expresidentes. Ahí me estaban dando saludos. Se inclinó, pero no se cayó. Pero a los expresidentes yo los reconozco porque tienen un derecho adquirido. Y les reconozco que tengan sus asignaciones, que tengan su dieta. Pero los actuales presidentes, los presidentes que han dirigido los dest, que tengan su dieta, pero los presidentes, los actuales presidentes, los presidentes que han dirigido los destinos de la nación, hoy día están con su edad. Se merece que los reconozcamos. Son reconocidos a nivel internacional cuando salen. Bueno, que mantengan su dieta, que mantengan sus asignaciones. Si tienen otro cargo internacional, renuncien a la dieta, a las asignaciones y pídanle los fondos al organismo internacional. Pero si están en Chile, no hay problema. Pero usted, Presidente Boric, es muy joven. Es muy joven, así que por dignidad, al menos renuncie a las asignaciones. Y se lo vamos a record usted, Presidente Boric, es muy joven. Es muy joven, así que por dignidad, al menos renuncie a las asignaciones. Y se lo vamos a recordar, Presidente, en cada acto, en cada foro, para que la gente no olvide que usted va a tener un sueldo de cerca de 7 millones y va a tener unas asignaciones, si es que no renuncia, de más de 10 millones de pesos. Y eso golpea la dignidad de miles de personas que están hoy día en la vulnerabilidad más absoluta. Imagínense si él destinara, aunque no le va a solucionar la vida a todos los chilenos, pero si él diera el ejemplo de renunciar a sus asignaciones de 10 millones de pesos, ¿cuántas otras cosas podría exigirle a otras personas? Y tenemos que ir dando el ejemplo. Y son difíciles y duelen los ejemplos. Nosotros no queremos hacer crecer el Estado. Y siempre que vamos a estas reuniones yo les digo a aquellos que han trabajado, se han esforzado en las campañas, que el Estado no es el lugar donde van a caber todos. No es una agencia de empleo. Y lo que ustedes están haciendo es por amor a la patria no por amor a una pega que puede venir o no porque nosotros tenemos que achicar el Estado perdonen no es mi señora así que chao si fuera la PIA que está ahora en la región de Valparaíso y les pido un aplauso para la Pía la Pía me regaló estas lucecitas porque le buscamos por aquí y por allá y me dice flaco era flaco alguna vez pero estoy haciendo deporte para volver a ser flaco, me regalalo estas lucecitas. Sí, yo la amo a ella. Llevamos a la pía. Es una tremenda mujer. Nos sentimos muy orgullosos también de la familia que hemos formado. Y le damos gracias a Dios todos los días. Todos los días le damos gracias a Dios porque nos da vida, salud. nos ha regalado una familia increíble, un país maravilloso. Y todos los que tengan fe, denle gracias a Dios cada día por ese día que amanecen sin una enfermedad, sin un dolor. Porque uno se acuerda a veces de Dios cuando tiene un problema. Nos duele un dedo, ¡ay, me duele el dedo! Me duele la guata, ¡ay, me duele la guata! Pero acordémonos, sigue insistiendo la persona que me estaba llamando. No sé quién será, pero... No, no, no, no es tampoco. No tiene mi teléfono. Bueno, les quiero decir que vienen cuatro años increíbles. Porque vamos a ganar. Vamos a ganar, sí o sí. Vamos a ganar un Parlamento para Chile y por eso es tan importante que voten por alguno de nuestros candidatos a diputados, del Partido Social Cristiano, del Partido Republicano, voten por alguno de este gran equipo, porque el próximo presidente o presidenta necesita un parlamento para Chile. ¿Un parlamento? Sí, ¿no? Miren, alguno del equipo. Alguno del equipo, porque si no voy a tener que empezar yo a decir, ¿dónde están los de este candidato? ¿Dónde están los de otro candidato? No lo hagamos. Sí, todos tenemos claro cuando entremos a la urna por quien vamos a votar y lo importante va a ser que los parlamentarios que salgan electos piensen en Chile porque tenemos que hacer cambios legales si queremos que no vengan más inmigrantes ilegales, tenemos que cambiar la ley. Y ya no va a ser una falta, va a ser un delito. Y cuando crucen la frontera, van a tener que mirar en un refugio para inmigrantes ilegales. Y van a tener dos alternativas. O se van caminando o se van por avión, pero se van a ir. No van a entrar. Si usted quiere entrar a Chile, entre por la puerta, muestre sus papeles, muestre su contrato, diga que viene. Porque tenemos un colapso total en salud, en educación, en vivienda. Hoy día arrendar una pieza, arrendar una casa, vale muy caro, porque no hay suficientes viviendas para todos. Y eso tenemos que aclararlo. Por lo tanto, esos cuatro años van a ser, como les digo, increíbles. Ojalá el pueblo chileno me elija a mí. Yo sería un tipo feliz y me sentiría orgulloso de ser presidente de la nación. Porque tenemos las ideas, tenemos la fuerza, tenemos la convicción, tenemos clarísimo lo que habría que hacer. Con la misma fuerza, la banda la tengo guardada, porque la última vez me regaló una banda, pero me la regaló antes de él. Entonces ahora la voy a sacar después de él. No, no, no, no, no, no, no. Jetta, yo no solo. Está sentado ahí en la región, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, la esperanza para recuperar chile para que todos nos volvamos a poner de pie y nos sintamos orgullosos pero una pega de todos no es la pega de una persona nadie tiene una varita mágica ni un presidente de una varita mágica esto es la convicción de cada uno de ustedes de que si ganamos al día siguiente tenemos que salir a trabajar, tenemos que salir a hacer las cosas que no se han hecho por ahora. Todos aquellos que son servidores públicos, buenos servidores públicos, van a tener un antes y un después, porque los vamos a respetar. Los vamos a respetar tanto que le vamos a sacar a los operadores políticos que les impiden trabajar y por eso esa fuerza de tarea que decimos para liberar a los buenos funcionarios públicos de la carga que es tener un apitutado un operador político encima que lo único que hace es generarle más pega al que hace bien su trabajo así que para terminar pedirles que me acompañen en esto porque somos fuerza, somos cambio, somos la fuerza del cambio. Que viva O'Higgins, que viva la región del Libertador y que viva Chile. Muchas, muchas gracias. Y ahora vienen unos avisos prácticos que los va a dar la voz en off. Aquí estamos, José Antonio. Alguien va a dar la voz en off, la misma canción que dice, vota dos, vota cas. Vota cinco, vota cas. Antes de que el vota dos y vota cas, le voy a pedir que hagamos flamear las banderas. Arriba las banderas. Cada uno que tiene una bandera, hágalas flamear con orgullo. Muchas gracias por la paciencia, por haber venido, por habernos acompañado. Estas imágenes van a recorrer Chile. Las palabras que decimos en cada uno de estos actos golpean la conciencia de aquellos que han demostrado que no son conscientes de la responsabilidad que tienen y de no haber ejercido bien el mandato que el pueblo chileno les entregó. Así que gracias de nuevo, viva Chile, viva O'Higgins, viva la región del Libertador. Y ahora vienen los avisos de la voz en off. Muchas gracias José Antonio Ahora un aviso ¿Quién se quiere sacar una foto con José Antonio? Bueno, es importante que esto sea ordenado La fila va a ser desde ahí Desde acá, desde aquí hacia afuera Una fila, sin cámara, sinulares, porque acá tenemos una cámara profesional. Desde aquí, desde aquí hacia afuera. Una fila, por favor, lo más ordenada posible. Todos van a poder sacarse la foto, eso es importante. Es importante que todos los que van a sacarse la foto. Eso es importante. Todos van a poder sacarse la foto. Que todos los que van a sacarse una foto van a recibir una tarjeta que contiene un código QR. Ese código QR que está en las pantallas, ustedes lo van a escanear mañana y van a encontrar su fotografía profesional. ¿Ok? Ahora, no vamos a partir hasta que tengamos una fila ordenada. Ahí donde está el flaco Benjamín.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.62,
+      "text": "Es increíble y ustedes no se imaginan la emoción que uno siente cuando recorre Chile"
+    },
+    {
+      "start": 14.62,
+      "end": 19.48,
+      "text": "y se encuentra con tanta gente que ama la patria."
+    },
+    {
+      "start": 19.92,
+      "end": 21.0,
+      "text": "Es una cosa muy impresionante."
+    },
+    {
+      "start": 22.74,
+      "end": 25.28,
+      "text": "Me pusieron esta cosita hoy día porque hay mucho viento."
+    },
+    {
+      "start": 26.24,
+      "end": 29.06,
+      "text": "Así que si se me vuelan las hojas, sufran porque tengo que improvisar."
+    },
+    {
+      "start": 30.38,
+      "end": 32.9,
+      "text": "Y ahí son dos obras."
+    },
+    {
+      "start": 34.58,
+      "end": 41.04,
+      "text": "Pero antes de partir, lo que yo les quiero plantear, quiero saludar a personas"
+    },
+    {
+      "start": 41.04,
+      "end": 47.06,
+      "text": "que han hecho un trabajo, que están haciendo un trabajo desde cargos de elección popular. Nunca"
+    },
+    {
+      "start": 47.06,
+      "end": 50.24,
+      "text": "es fácil ejercer un cargo, sea interno del"
+    },
+    {
+      "start": 50.24,
+      "end": 58.8,
+      "text": "partido, joven aún, sea interno del partido o de elección popular. Y por aquí, creo"
+    },
+    {
+      "start": 58.8,
+      "end": 64.8,
+      "text": "que estaba por ahí, a pleno sol, muy bien acompañada, veo a Beatriz Evia, la que fue"
+    },
+    {
+      "start": 64.8,
+      "end": 66.9,
+      "text": "presidenta del Consejo Constitucional"
+    },
+    {
+      "start": 66.9,
+      "end": 73.8,
+      "text": "que con sus cortos años los dirigió todo y los tenía ordenaditos. Gracias Bea por ese trabajo,"
+    },
+    {
+      "start": 74.02,
+      "end": 78.76,
+      "text": "por el trabajo que está haciendo hoy día en temas de seguridad, porque es un equipo enorme"
+    },
+    {
+      "start": 78.76,
+      "end": 80.5,
+      "text": "que está trabajando en"
+    },
+    {
+      "start": 80.5,
+      "end": 83.56,
+      "text": "esos planes como escudo fronterizo, el"
+    },
+    {
+      "start": 83.56,
+      "end": 85.56,
+      "text": "plan cancerbero para mejorar el tema de"
+    },
+    {
+      "start": 85.56,
+      "end": 87.72,
+      "text": "la seguridad en las cárceles. Todo eso"
+    },
+    {
+      "start": 87.72,
+      "end": 90.92,
+      "text": "tiene mucho trabajo. Junto con ella veo a"
+    },
+    {
+      "start": 90.92,
+      "end": 93.62,
+      "text": "Patricia Besa, que estaba... ¿Dónde está la"
+    },
+    {
+      "start": 93.62,
+      "end": 95.12,
+      "text": "Pati? ¡Pati!"
+    },
+    {
+      "start": 95.64,
+      "end": 96.92,
+      "text": "Gracias."
+    },
+    {
+      "start": 102.32,
+      "end": 102.58,
+      "text": "Patricia es consejera nacional del cabildo nacional de nuestro partido,"
+    },
+    {
+      "start": 105.22,
+      "end": 105.86,
+      "text": "donde tenemos las disputas más grandes que ustedes se puedan imaginar."
+    },
+    {
+      "start": 108.06,
+      "end": 108.1,
+      "text": "Tenemos más peleas que los candidatos a diputados."
+    },
+    {
+      "start": 108.74,
+      "end": 108.98,
+      "text": "No, son bromas."
+    },
+    {
+      "start": 109.82,
+      "end": 111.66,
+      "text": "Somos un gran equipo."
+    },
+    {
+      "start": 116.68,
+      "end": 117.14,
+      "text": "Pero ahí estamos, a pesar de las dificultades, siempre nos volvemos a encontrar,"
+    },
+    {
+      "start": 121.82,
+      "end": 121.92,
+      "text": "siempre entendemos que la patria está primero, más allá de que podemos tener diferencias."
+    },
+    {
+      "start": 122.96,
+      "end": 123.78,
+      "text": "¿Quién no tiene diferencias?"
+    },
+    {
+      "start": 125.0,
+      "end": 131.66,
+      "text": "¿Quién que esté casado no ha peleado con la señora? ¿Quién que no esté emparejado no ha peleado con la pareja? Y junto"
+    },
+    {
+      "start": 131.66,
+      "end": 137.42,
+      "text": "a ella está María Jesús Wulf, que ayer salió en la segunda, no, antes de ayer, y hizo una tremenda"
+    },
+    {
+      "start": 137.42,
+      "end": 141.34,
+      "text": "entrevista. Párate, Jesús, para que vean, porque si se"
+    },
+    {
+      "start": 141.34,
+      "end": 146.56,
+      "text": "para la Jesús, puedo decirles que ahí estamos trabajando en educación, estamos trabajando"
+    },
+    {
+      "start": 146.56,
+      "end": 151.52,
+      "text": "en cultura, estamos trabajando en salud, en todo el área social, que también convoca"
+    },
+    {
+      "start": 151.52,
+      "end": 156.34,
+      "text": "a muchas personas, y María Jesús en la entrevista dijo algo muy cierto, nosotros nos estamos"
+    },
+    {
+      "start": 156.34,
+      "end": 158.4,
+      "text": "preparando desde ya, tenemos grandes"
+    },
+    {
+      "start": 158.4,
+      "end": 160.34,
+      "text": "equipos, y algunos le decían"
+    },
+    {
+      "start": 160.34,
+      "end": 161.46,
+      "text": "oye, pero primero tenemos que ganar"
+    },
+    {
+      "start": 161.46,
+      "end": 164.24,
+      "text": "ganamos o perdamos"
+    },
+    {
+      "start": 164.24,
+      "end": 166.28,
+      "text": "el trabajo vale igual"
+    },
+    {
+      "start": 166.28,
+      "end": 168.56,
+      "text": "y se lo vamos a traspasar a quien gane"
+    },
+    {
+      "start": 168.56,
+      "end": 170.24,
+      "text": "y esa es la gran diferencia"
+    },
+    {
+      "start": 170.24,
+      "end": 174.22,
+      "text": "de lo que nos convoca aquí. Porque no estamos por un cargo, estamos por Chile. Más allá"
+    },
+    {
+      "start": 174.22,
+      "end": 179.98,
+      "text": "de el triunfo se corona en nosotros o se corona en alguien más. Lo importante es terminar"
+    },
+    {
+      "start": 179.98,
+      "end": 200.74,
+      "text": "con este gobierno. Y ahí veo a Mauricio Donoso. Don Mauricio, gracias por estar aquí. Fue por mucho tiempo nuestro presidente regional. Me ha tocado alojar en su casa. He disfrutado los dones de la tierra porque me ha regalado hasta uvas. Me fui una vez cargado de uvas cuando alojé ahí. Y también hemos discutido, hemos peleado,"
+    },
+    {
+      "start": 200.84,
+      "end": 205.5,
+      "text": "pero aquí estamos. ¿Y qué fue? Porque nosotros, vuelvo a decirlo, entendemos que"
+    },
+    {
+      "start": 205.5,
+      "end": 210.28,
+      "text": "la patria está primero. Y también nos acompañan varios de los que son importantes, porque"
+    },
+    {
+      "start": 210.28,
+      "end": 215.06,
+      "text": "manejan las lucas. Y esos son los cores, los consejeros regionales."
+    },
+    {
+      "start": 215.42,
+      "end": 218.92,
+      "text": "Que es un cargo no muy conocido por la ciudadanía, pero muy importante,"
+    },
+    {
+      "start": 219.08,
+      "end": 223.96,
+      "text": "porque tienen que fiscalizar a quien es la persona en quien más votos saca en una región,"
+    },
+    {
+      "start": 224.08,
+      "end": 225.24,
+      "text": "que es el gobernador regional."
+    },
+    {
+      "start": 225.86,
+      "end": 229.38,
+      "text": "Y pucha que estamos aproblemados a nivel nacional con varios gobernadores"
+    },
+    {
+      "start": 229.38,
+      "end": 232.0,
+      "text": "que, como la justicia se demora, tarda,"
+    },
+    {
+      "start": 232.66,
+      "end": 237.28,
+      "text": "a veces no se mantienen los cargos a pesar de estar formalizados. No es el caso de la región."
+    },
+    {
+      "start": 238.06,
+      "end": 246.28,
+      "text": "Pero aquí tenemos presente con nosotros a cinco consejeros regionales, que son de Colchagua, de Cachapoal, tenemos acá Claudio"
+    },
+    {
+      "start": 246.28,
+      "end": 251.96,
+      "text": "Schmincke, que está en alguna parte por ahí, don Claudio. Tenemos a don Juan Carlos Macay,"
+    },
+    {
+      "start": 252.06,
+      "end": 257.44,
+      "text": "hoy día me acordé de él, hoy día me acordé de ti cuando hicimos el semáforo, cuando hicimos"
+    },
+    {
+      "start": 257.44,
+      "end": 261.58,
+      "text": "semáforo hace como un año atrás, y como es más intenso que yo, me tocaba hacer el semáforo. Cuando hicimos el semáforo hace como un año atrás. Y como"
+    },
+    {
+      "start": 261.58,
+      "end": 265.88,
+      "text": "es más intenso que yo, me tocaba hacer el semáforo con él y estaba en otro semáforo."
+    },
+    {
+      "start": 266.0,
+      "end": 270.8,
+      "text": "Juan Carlos, ven para acá. Después tenemos a Manuel Morales, que también estaba por"
+    },
+    {
+      "start": 270.8,
+      "end": 277.5,
+      "text": "ahí. Manuel, gracias por acompañarnos. Pedro Bustamante, don Pedro, muchas"
+    },
+    {
+      "start": 277.5,
+      "end": 284.28,
+      "text": "gracias, y Edgardo Vargas, que también creo que está, ahí está don Edgardo, espero que no se me haya"
+    },
+    {
+      "start": 284.28,
+      "end": 291.06,
+      "text": "pasado ninguno, muchas veces uno cuando hace la lista de las personas presentes, falla alguno, llega uno"
+    },
+    {
+      "start": 291.06,
+      "end": 294.88,
+      "text": "adicional, alguien no alcanzó a llegar porque había algún taco, algún problema. Y en"
+    },
+    {
+      "start": 294.88,
+      "end": 299.28,
+      "text": "los concejales, los concejales también realizan un rol muy importante. Yo partí siendo concejal"
+    },
+    {
+      "start": 299.28,
+      "end": 304.92,
+      "text": "por la comuna de Wynn. Quise ser alcalde, no lo logré y me quedé de concejal. Y ejercí"
+    },
+    {
+      "start": 304.92,
+      "end": 305.66,
+      "text": "los cuatro años porque era para lo que la y me quedé de concejal y ejercí los cuatro años"
+    },
+    {
+      "start": 305.66,
+      "end": 308.02,
+      "text": "porque era para lo que la gente"
+    },
+    {
+      "start": 308.02,
+      "end": 310.58,
+      "text": "me sacó electo y tenía que cumplir"
+    },
+    {
+      "start": 310.58,
+      "end": 312.82,
+      "text": "lo que el mandato popular decía"
+    },
+    {
+      "start": 312.82,
+      "end": 314.02,
+      "text": "y ahí está Matías Álvarez"
+    },
+    {
+      "start": 314.02,
+      "end": 315.9,
+      "text": "uno de los concejales más jóvenes"
+    },
+    {
+      "start": 315.9,
+      "end": 317.82,
+      "text": "de Chile por San Fernando"
+    },
+    {
+      "start": 317.82,
+      "end": 319.5,
+      "text": "¿dónde está Matías? ahí, muy elegante"
+    },
+    {
+      "start": 319.5,
+      "end": 320.36,
+      "text": "de chequera y corbata."
+    },
+    {
+      "start": 320.98,
+      "end": 321.76,
+      "text": "Buen republicano."
+    },
+    {
+      "start": 323.26,
+      "end": 324.58,
+      "text": "Espero que a los consejos vayas igual."
+    },
+    {
+      "start": 325.54,
+      "end": 327.7,
+      "text": "Ah, ya. Vamos a mirar las sesiones del consejo."
+    },
+    {
+      "start": 327.82,
+      "end": 330.92,
+      "text": "Ustedes pueden además ver las sesiones, porque la mayoría son transmitidas."
+    },
+    {
+      "start": 331.02,
+      "end": 332.02,
+      "text": "Y es bueno verlas."
+    },
+    {
+      "start": 332.58,
+      "end": 334.14,
+      "text": "Y ponerle un comentario en el YouTube."
+    },
+    {
+      "start": 334.5,
+      "end": 335.44,
+      "text": "Los estoy mirando."
+    },
+    {
+      "start": 336.72,
+      "end": 340.66,
+      "text": "Después tenemos a Jesús Orellana, vecino ahí de San Francisco, Mostazal."
+    },
+    {
+      "start": 340.72,
+      "end": 342.68,
+      "text": "Digo vecino porque viví muchos años en Paine."
+    },
+    {
+      "start": 343.64,
+      "end": 346.44,
+      "text": "Ahora vivo en Buin, como una Jolín Dantes."
+    },
+    {
+      "start": 346.98,
+      "end": 351.86,
+      "text": "Después tenemos a un gran valor que hoy día ahí en el semáforo"
+    },
+    {
+      "start": 351.86,
+      "end": 359.48,
+      "text": "trabajó como ninguno, una voz privilegiada, que es Héctor Lave de Machalí. ¿Está por ahí? ¿Dónde"
+    },
+    {
+      "start": 359.48,
+      "end": 364.94,
+      "text": "está Héctor? ¿No está? ¿No vino? Bueno, les quiero decir que hoy día en el semáforo, ¿dónde"
+    },
+    {
+      "start": 364.94,
+      "end": 365.8,
+      "text": "está? No lo veo. Ah, se cambió de lugar. en el semáforo... En el semáforo... ¿Dónde está? No lo veo."
+    },
+    {
+      "start": 366.08,
+      "end": 367.66,
+      "text": "Ah, se cambió de lugar. Ahí está."
+    },
+    {
+      "start": 368.36,
+      "end": 371.62,
+      "text": "Gritaba de un lado al otro cuando alguien no me saludaba con mucho cariño."
+    },
+    {
+      "start": 371.7,
+      "end": 372.46,
+      "text": "Y decía, ¡Presidente!"
+    },
+    {
+      "start": 373.88,
+      "end": 374.28,
+      "text": "Gracias."
+    },
+    {
+      "start": 375.56,
+      "end": 378.12,
+      "text": "Y también está Graciela Reynoso de San Vicente."
+    },
+    {
+      "start": 378.18,
+      "end": 379.12,
+      "text": "¿Dónde está la Graciela?"
+    },
+    {
+      "start": 380.0,
+      "end": 382.0,
+      "text": "¡Aquí! ¡Hola!"
+    },
+    {
+      "start": 386.0,
+      "end": 388.0,
+      "text": "De Rancagua, perdón."
+    },
+    {
+      "start": 388.0,
+      "end": 393.0,
+      "text": "El que escribió San Vicente aquí es que es Gabriela en San Vicente, ¿no?"
+    },
+    {
+      "start": 393.0,
+      "end": 394.0,
+      "text": "¿La Gabriela?"
+    },
+    {
+      "start": 394.0,
+      "end": 395.64,
+      "text": "Pero en San Vicente, ¿cómo se llama la Gabriela? Pero en San Vicente, ¿cómo"
+    },
+    {
+      "start": 395.64,
+      "end": 404.16,
+      "text": "se llama la concejala? Montserrat, pero tiene dos nombres. Montserrat y Gabriela, no. Ustedes"
+    },
+    {
+      "start": 404.16,
+      "end": 408.46,
+      "text": "averiguan después, pero yo sé que tiene dos nombres. No sé cuál es el segundo, pero"
+    },
+    {
+      "start": 408.46,
+      "end": 412.24,
+      "text": "son 33 comunas, que son"
+    },
+    {
+      "start": 412.24,
+      "end": 416.9,
+      "text": "muchas comunas, esta es una de las regiones grandes en cantidad de comunas. Y quiero también,"
+    },
+    {
+      "start": 417.34,
+      "end": 421.98,
+      "text": "ustedes ya escucharon sus palabras, pero quiero saludarlos de nuevo, a nuestros candidatos"
+    },
+    {
+      "start": 421.98,
+      "end": 428.24,
+      "text": "a diputados del pacto que lleva la letra K. Primero, del distrito"
+    },
+    {
+      "start": 428.24,
+      "end": 430.62,
+      "text": "quince, tenemos a Patricio"
+    },
+    {
+      "start": 430.62,
+      "end": 432.6,
+      "text": "Arenas. ¿Dónde está don Patricio?"
+    },
+    {
+      "start": 432.68,
+      "end": 435.82,
+      "text": "Don Patricio Arenas. Tuvimos"
+    },
+    {
+      "start": 435.82,
+      "end": 437.08,
+      "text": "varias veces en la plaza,"
+    },
+    {
+      "start": 437.24,
+      "end": 439.2,
+      "text": "estuvimos en el semáforo, hemos"
+    },
+    {
+      "start": 439.2,
+      "end": 440.14,
+      "text": "estado en varias partes."
+    },
+    {
+      "start": 440.52,
+      "end": 442.16,
+      "text": "Gracias por aceptar el desafío."
+    },
+    {
+      "start": 443.06,
+      "end": 449.14,
+      "text": "También tenemos a Paula Muñoz. Paula, también hoy día estuvimos haciendo semáforo."
+    },
+    {
+      "start": 449.92,
+      "end": 455.16,
+      "text": "Gracias por el compromiso, gracias por la osadía, por atreverse a ir de candidato."
+    },
+    {
+      "start": 455.56,
+      "end": 458.24,
+      "text": "Tenemos también a Emiliano García, que está por ahí."
+    },
+    {
+      "start": 458.66,
+      "end": 463.62,
+      "text": "Don Emiliano tiene un parecido a un actor de cine, ¿o no?"
+    },
+    {
+      "start": 466.24,
+      "end": 469.68,
+      "text": "Y después tenemos a Don Fernando Ugarte, que está ahí."
+    },
+    {
+      "start": 476.52,
+      "end": 483.28,
+      "text": "Los dos, todos allí... Y después tenemos a Don Fernando Ugarte, que está ahí. Todos aquí estamos jugados por un gran equipo, porque cualquiera que gane en el Distrito 15 nos va a representar muy bien. Y esa es la"
+    },
+    {
+      "start": 483.28,
+      "end": 485.46,
+      "text": "diferencia de lo que marca una"
+    },
+    {
+      "start": 485.46,
+      "end": 491.3,
+      "text": "lista de otras listas. Aquí trabajamos en equipo. Todos sumamos para recuperar un parlamento"
+    },
+    {
+      "start": 491.3,
+      "end": 498.8,
+      "text": "para Chile. Y en el distrito 16 tenemos a María del Pilar Zúñiga. Mira, yo quiero"
+    },
+    {
+      "start": 498.8,
+      "end": 500.14,
+      "text": "que se pare la pata y besa."
+    },
+    {
+      "start": 500.7,
+      "end": 502.2,
+      "text": "Pati, pátate."
+    },
+    {
+      "start": 503.08,
+      "end": 503.22,
+      "text": "¿Hay algún parecido?"
+    },
+    {
+      "start": 505.0,
+      "end": 505.56,
+      "text": "Porque yo no tengo muy buena vista, pero..."
+    },
+    {
+      "start": 506.9,
+      "end": 506.98,
+      "text": "¿Algún parecido hay?"
+    },
+    {
+      "start": 509.44,
+      "end": 510.06,
+      "text": "¿Podrían ser campañas en dos comunas distintas al mismo tiempo?"
+    },
+    {
+      "start": 511.14,
+      "end": 512.94,
+      "text": "Y yo creo que pasa piola."
+    },
+    {
+      "start": 515.88,
+      "end": 518.1,
+      "text": "Gracias, María del Pilar, por también sumarte tenemos también a Francisco"
+    },
+    {
+      "start": 518.1,
+      "end": 520.06,
+      "text": "a María que lo vi por acá"
+    },
+    {
+      "start": 520.06,
+      "end": 520.96,
+      "text": "don Francisco"
+    },
+    {
+      "start": 520.96,
+      "end": 524.32,
+      "text": "gracias por aceptar"
+    },
+    {
+      "start": 524.32,
+      "end": 525.88,
+      "text": "el desafío y también tenemos"
+    },
+    {
+      "start": 525.88,
+      "end": 528.24,
+      "text": "a Sebastián Cristofanini que está por ahí"
+    },
+    {
+      "start": 528.24,
+      "end": 534.2,
+      "text": "y Sebastián es bien increíble porque estuvo a punto de ser core."
+    },
+    {
+      "start": 535.1,
+      "end": 535.62,
+      "text": "¿Ah?"
+    },
+    {
+      "start": 536.04,
+      "end": 536.88,
+      "text": "Y perseveró."
+    },
+    {
+      "start": 537.28,
+      "end": 541.02,
+      "text": "Y eso se agradece, porque no siempre uno gana las elecciones."
+    },
+    {
+      "start": 541.66,
+      "end": 545.6,
+      "text": "Y lo importante, la diferencia, es cuando uno sigue trabajando, más"
+    },
+    {
+      "start": 545.6,
+      "end": 552.5,
+      "text": "allá de si la rueda de la fortuna nos tocó o no nos tocó. Así que gracias por ese ejemplo, gracias a"
+    },
+    {
+      "start": 552.5,
+      "end": 559.74,
+      "text": "todos por su trabajo, por el empeño y por la fe que le pone ahí en gran medida el Partido Social"
+    },
+    {
+      "start": 559.74,
+      "end": 561.24,
+      "text": "Cristiano que nos acompaña"
+    },
+    {
+      "start": 561.24,
+      "end": 566.26,
+      "text": "en esta ocasión, nos acompañó en la ocasión anterior, Francesca Muñoz, que era la candidata"
+    },
+    {
+      "start": 566.26,
+      "end": 571.14,
+      "text": "presidencial del Partido Social Cristiano, dijo, vamos en una sola lista, y yo le agradezco"
+    },
+    {
+      "start": 571.14,
+      "end": 575.22,
+      "text": "mucho a Francesca, le agradezco también al alcalde de Concepción, una"
+    },
+    {
+      "start": 575.22,
+      "end": 582.42,
+      "text": "gran comuna Héctor Muñoz, que también nos está apoyando junto con otros alcaldes. Y hoy día, como"
+    },
+    {
+      "start": 582.42,
+      "end": 588.6,
+      "text": "les decía cuando entraba, uno siente orgullo, siente orgullo de recorrer Chile, siente orgullo de estar"
+    },
+    {
+      "start": 588.6,
+      "end": 590.36,
+      "text": "aquí en la región de O'Higgins."
+    },
+    {
+      "start": 590.9,
+      "end": 597.4,
+      "text": "Como les decía, 33 comunas, y son esas de occidencias, pichilemo presente, viva el surf."
+    },
+    {
+      "start": 598.2,
+      "end": 603.66,
+      "text": "Esas 33, Chimbarongo, San Francisco, La Estrella, Litueche, son muchas comunas."
+    },
+    {
+      "start": 603.74,
+      "end": 606.38,
+      "text": "Pichidegua, donde hice el primer discurso público en mi vida..."
+    },
+    {
+      "start": 606.38,
+      "end": 607.36,
+      "text": "...y que me salió un desastre..."
+    },
+    {
+      "start": 607.36,
+      "end": 609.66,
+      "text": "...así que ahora me estoy reivindicando..."
+    },
+    {
+      "start": 609.66,
+      "end": 612.0,
+      "text": "...Santa Cruz, Granero, Requinoa..."
+    },
+    {
+      "start": 613.02,
+      "end": 614.0,
+      "text": "...Machalí, Rancagua..."
+    },
+    {
+      "start": 614.94,
+      "end": 616.0,
+      "text": "...son 33 comunas..."
+    },
+    {
+      "start": 617.6,
+      "end": 620.28,
+      "text": "...son 33, pero miren la diocidencia."
+    },
+    {
+      "start": 622.98,
+      "end": 624.42,
+      "text": "Rengo, San Fernando,"
+    },
+    {
+      "start": 625.2,
+      "end": 626.14,
+      "text": "Arrancagua."
+    },
+    {
+      "start": 626.64,
+      "end": 627.62,
+      "text": "Bueno, 33 comunas."
+    },
+    {
+      "start": 627.7,
+      "end": 628.84,
+      "text": "Pero miren la diocidencia."
+    },
+    {
+      "start": 629.0,
+      "end": 630.28,
+      "text": "Nuestro programa de gobierno"
+    },
+    {
+      "start": 630.28,
+      "end": 631.78,
+      "text": "tiene 33 medidas."
+    },
+    {
+      "start": 632.7,
+      "end": 635.0,
+      "text": "Igual que las regiones de O'Higgins."
+    },
+    {
+      "start": 638.42,
+      "end": 647.22,
+      "text": "Y si nosotros vemos un hecho histórico en nuestra patria, rescatamos a 33 mineros."
+    },
+    {
+      "start": 647.72,
+      "end": 651.06,
+      "text": "Hace años atrás en la mina San José en Atacama, donde estuvimos"
+    },
+    {
+      "start": 651.06,
+      "end": 658.96,
+      "text": "la semana pasada. Aquí no tuvimos el mismo destino y hace poco hubo un gran accidente"
+    },
+    {
+      "start": 658.96,
+      "end": 666.3,
+      "text": "aquí en el Teniente y fallecieron seis mineros, seis mártires de la minería en Chile por un accidente."
+    },
+    {
+      "start": 666.44,
+      "end": 670.66,
+      "text": "Sí, un accidente. Pero quiero que les demos un gran aplauso a esos seis mineros,"
+    },
+    {
+      "start": 670.92,
+      "end": 676.54,
+      "text": "a las personas que sufrieron heridas, lesiones, y que acompañemos siempre,"
+    },
+    {
+      "start": 676.74,
+      "end": 681.0,
+      "text": "cuando podamos, a las familias de esos seis chilenos en nuestras oraciones."
+    },
+    {
+      "start": 681.8,
+      "end": 687.9,
+      "text": "Porque el dolor va a quedar ahí, pero nosotros podemos acompañar también a las familias con nuestra oración."
+    },
+    {
+      "start": 689.42,
+      "end": 695.6,
+      "text": "Y esta región también es increíble y tienen que sentirse orgullosos porque ahí mismo donde ocurrió el accidente"
+    },
+    {
+      "start": 695.6,
+      "end": 699.96,
+      "text": "uno puede decir que tenemos la mina subterránea más grande del mundo."
+    },
+    {
+      "start": 700.68,
+      "end": 702.44,
+      "text": "Y eso es para llenarse de orgullo."
+    },
+    {
+      "start": 702.56,
+      "end": 707.16,
+      "text": "Es decir, pucha que somos increíbles, tenemos la mina subterránea más grande del mundo."
+    },
+    {
+      "start": 707.2,
+      "end": 715.06,
+      "text": "Y no todos lo saben, no todos dicen, oye, qué orgullo. Claro, uno a veces ve la nube, yo vivo ahí en Paine, en Buin, y ve, pero"
+    },
+    {
+      "start": 715.06,
+      "end": 718.98,
+      "text": "dice, qué orgullo, porque igual vamos trabajando para mejorar el tema del medioambiente, se"
+    },
+    {
+      "start": 718.98,
+      "end": 721.92,
+      "text": "hizo una carretera especial, la carretera del ácido, que ha repletado la carretera"
+    },
+    {
+      "start": 721.92,
+      "end": 725.16,
+      "text": "del cobre. Bueno, pero sintámonos orgullosos de lo"
+    },
+    {
+      "start": 725.16,
+      "end": 730.46,
+      "text": "que hemos sido capaces de hacer en distintas generaciones en nuestra patria. Pero no solamente"
+    },
+    {
+      "start": 730.46,
+      "end": 736.08,
+      "text": "podemos decir que tenemos la mina más grande del mundo, también podemos decir que tenemos los mejores"
+    },
+    {
+      "start": 736.08,
+      "end": 741.12,
+      "text": "chamantos del mundo. Y alguna vez estuve en Doñihue y"
+    },
+    {
+      "start": 741.12,
+      "end": 747.12,
+      "text": "conocí a las chamanteras, a una persona que hacía chamantos y que le dedicaba su vida"
+    },
+    {
+      "start": 747.12,
+      "end": 752.3,
+      "text": "para que saliera perfecto. Y esos chamantos le han sido entregados a grandes autoridades"
+    },
+    {
+      "start": 752.3,
+      "end": 755.88,
+      "text": "a nivel mundial. También es para sentirse orgulloso."
+    },
+    {
+      "start": 764.5,
+      "end": 770.9,
+      "text": "¿Para qué? ¡El mejor candidato! ¿Tiene que decir cuál? Porque hay seis, no, siete. No, muchas gracias. Pero también podemos decir que tenemos las mejores olas. Algunos dirán que son las mejores olas del mundo."
+    },
+    {
+      "start": 770.98,
+      "end": 771.7,
+      "text": "Ahí está el cartel."
+    },
+    {
+      "start": 771.78,
+      "end": 773.24,
+      "text": "Alguien levantó el cartel de Pichilemu."
+    },
+    {
+      "start": 773.86,
+      "end": 774.94,
+      "text": "La fuerza..."
+    },
+    {
+      "start": 774.94,
+      "end": 775.3,
+      "text": "¿Cómo es?"
+    },
+    {
+      "start": 775.48,
+      "end": 775.78,
+      "text": "¿Así?"
+    },
+    {
+      "start": 776.22,
+      "end": 776.58,
+      "text": "¿O así?"
+    },
+    {
+      "start": 777.18,
+      "end": 777.56,
+      "text": "Así."
+    },
+    {
+      "start": 778.36,
+      "end": 780.76,
+      "text": "La fuerza del mar que se siente la energía."
+    },
+    {
+      "start": 781.5,
+      "end": 786.06,
+      "text": "Y no es solamente Pichilemu, sino que hay muchas playas de la región de O'Higgins que"
+    },
+    {
+      "start": 786.06,
+      "end": 793.6,
+      "text": "son increíbles, que están a nivel mundial. Y así como en el país de El Salvador hicieron Surf City"
+    },
+    {
+      "start": 793.6,
+      "end": 799.98,
+      "text": "de la nada, nosotros aquí tenemos varias Surf Cities, pero no hemos sabido destacarlas en el"
+    },
+    {
+      "start": 799.98,
+      "end": 800.28,
+      "text": "tiempo. Y de esoas en el tiempo."
+    },
+    {
+      "start": 800.46,
+      "end": 801.66,
+      "text": "Y de eso se trata el futuro."
+    },
+    {
+      "start": 802.32,
+      "end": 806.94,
+      "text": "También podemos decir que tenemos las mejores cerezas, los mejores vinos, las mejores termos."
+    },
+    {
+      "start": 806.96,
+      "end": 810.16,
+      "text": "Ahí están las termas del flaco, que cuesta llegar a veces, pero ahí están, ¿no es cierto?"
+    },
+    {
+      "start": 810.98,
+      "end": 811.42,
+      "text": "Terapéuticas."
+    },
+    {
+      "start": 811.5,
+      "end": 813.62,
+      "text": "Mucha gente va y se esfuerza para llegar arriba."
+    },
+    {
+      "start": 814.0,
+      "end": 817.12,
+      "text": "Antes decían, ojalá que pueda subir y bajar antes de que corte el camino."
+    },
+    {
+      "start": 817.66,
+      "end": 827.16,
+      "text": "Pero ahí están. Y están los mejores corderos, el mejor pollo en Lituecha, el mejor cordero en Lituecha, será en la estrella por ahí."
+    },
+    {
+      "start": 827.98,
+      "end": 830.1,
+      "text": "Pero todo es, uno puede sentirse"
+    },
+    {
+      "start": 830.1,
+      "end": 835.28,
+      "text": "orgulloso de que está en una región productiva, en una región que Dios ha sido generoso con"
+    },
+    {
+      "start": 835.28,
+      "end": 840.48,
+      "text": "nosotros. Es una de las regiones de estas 16 banderas. Es increíble porque algunos"
+    },
+    {
+      "start": 840.48,
+      "end": 847.88,
+      "text": "se enojan porque ponemos las banderas. ¿Y quiénes son los que se enojan? Los mismos que levantaban las banderas negras."
+    },
+    {
+      "start": 848.34,
+      "end": 851.72,
+      "text": "Los mismos que no querían respetar las tradiciones de nuestra patria."
+    },
+    {
+      "start": 852.24,
+      "end": 854.34,
+      "text": "Y son 16, porque hay una por región."
+    },
+    {
+      "start": 855.22,
+      "end": 859.0,
+      "text": "Y vamos a seguir sumando hasta que tengamos en algún día, en algún evento,"
+    },
+    {
+      "start": 859.2,
+      "end": 863.06,
+      "text": "345 banderas por las comunas de Chile."
+    },
+    {
+      "start": 863.82,
+      "end": 868.02,
+      "text": "Porque son, perdón, 346, son 345 que tiene el municipio."
+    },
+    {
+      "start": 868.36,
+      "end": 876.44,
+      "text": "Pero algún día, en algún acto, van a haber 346 banderas para reflejar que nos sentimos orgullosos de que hayan chilenos"
+    },
+    {
+      "start": 876.44,
+      "end": 882.28,
+      "text": "en Bisbiri, que hayan chilenos en Puerto Natales, en Puerto Williams, porque todos hacen patria"
+    },
+    {
+      "start": 882.28,
+      "end": 888.88,
+      "text": "a lo largo de todo Chile. Y yo he tenido la fortuna de poder conocer ya 344 de esas 346"
+    },
+    {
+      "start": 888.88,
+      "end": 892.58,
+      "text": "comunas. Voy por las dos que me quedan, pero un poquito más adelante."
+    },
+    {
+      "start": 893.3,
+      "end": 897.84,
+      "text": "Y también tienen que sentirse orgullosos porque esta es la comuna del Libertador."
+    },
+    {
+      "start": 898.42,
+      "end": 900.96,
+      "text": "Esta es la comuna que lleva el nombre del Padre de la Patria."
+    },
+    {
+      "start": 901.8,
+      "end": 906.38,
+      "text": "Y aquí se gestaron momentos históricos de nuestra independencia."
+    },
+    {
+      "start": 907.22,
+      "end": 910.22,
+      "text": "Y nosotros tenemos que trabajar de nuevo por esa independencia."
+    },
+    {
+      "start": 910.94,
+      "end": 913.8,
+      "text": "Esa independencia que hoy día no la han robado."
+    },
+    {
+      "start": 914.14,
+      "end": 916.86,
+      "text": "No la han robado por el miedo, por la desesperanza."
+    },
+    {
+      "start": 917.46,
+      "end": 920.42,
+      "text": "Y hoy día Chile pasa varias crisis, varias emergencias."
+    },
+    {
+      "start": 920.96,
+      "end": 926.42,
+      "text": "Nosotros hemos dicho que vamos a enfocar en estos 33 puntos que tocamos en el programa"
+    },
+    {
+      "start": 926.42,
+      "end": 930.9,
+      "text": "de gobierno las tres emergencias principales que hemos visto a lo largo de todo Chile."
+    },
+    {
+      "start": 931.24,
+      "end": 936.12,
+      "text": "La primera es la de la seguridad o de la inseguridad. Nosotros no vamos"
+    },
+    {
+      "start": 936.12,
+      "end": 941.52,
+      "text": "a combatir la seguridad pública, vamos a combatir a los delincuentes. Algunos se pegan algunos"
+    },
+    {
+      "start": 941.52,
+      "end": 947.22,
+      "text": "chascarros por ahí y dan vuelta las palabras. Algunos dicen vamos a tratar a los delincuentes"
+    },
+    {
+      "start": 947.22,
+      "end": 951.36,
+      "text": "con amor. Nosotros no. Les decimos, vean bien"
+    },
+    {
+      "start": 951.36,
+      "end": 956.4,
+      "text": "a esos delincuentes, miren bien la reserva de la cárcel que van a hacer, porque tenemos"
+    },
+    {
+      "start": 956.4,
+      "end": 963.04,
+      "text": "varias y van a tener ocupación completa. Y vamos a construir nuevas cárceles para"
+    },
+    {
+      "start": 963.04,
+      "end": 968.24,
+      "text": "que ellos también tengan dignidad cuando cumplan su sanción."
+    },
+    {
+      "start": 968.64,
+      "end": 972.68,
+      "text": "Pero dentro de esas emergencias también está la emergencia del desempleo."
+    },
+    {
+      "start": 973.76,
+      "end": 975.0,
+      "text": "Aquí hay problemas de empleo."
+    },
+    {
+      "start": 975.82,
+      "end": 979.3,
+      "text": "Y también tenemos una emergencia social que tiene tres áreas."
+    },
+    {
+      "start": 979.66,
+      "end": 983.04,
+      "text": "El área de la educación, el área de la vivienda y el área de la salud."
+    },
+    {
+      "start": 983.6,
+      "end": 987.0,
+      "text": "Son dolores que afectan hoy día a muchos de nuestros compatriotas."
+    },
+    {
+      "start": 988.54,
+      "end": 991.28,
+      "text": "Y esta es una región muy golpeada."
+    },
+    {
+      "start": 992.5,
+      "end": 996.78,
+      "text": "He ido a distintas regiones y hemos presentado los planes de acuerdo"
+    },
+    {
+      "start": 996.78,
+      "end": 1003.76,
+      "text": "a la región. Y ahí presentamos el plan Araucanía libre, libre de terrorismo. Presentamos Arica"
+    },
+    {
+      "start": 1003.76,
+      "end": 1008.82,
+      "text": "siempre Arica, porque nos sentimos orgullosos de la gesta histórica que se produjo en Arica."
+    },
+    {
+      "start": 1009.08,
+      "end": 1014.94,
+      "text": "Presentamos Iquique glorioso por la gran gesta naval y por ese héroe de la patria que es Arturo Pratt."
+    },
+    {
+      "start": 1015.48,
+      "end": 1021.46,
+      "text": "Presentamos también el plan Desierto Florido, cuando estuvimos recién en Atacama."
+    },
+    {
+      "start": 1021.68,
+      "end": 1022.88,
+      "text": "La creatividad no tiene límite."
+    },
+    {
+      "start": 1023.6,
+      "end": 1026.84,
+      "text": "Y aquí vamos a presentar el Plan Libertador."
+    },
+    {
+      "start": 1028.12,
+      "end": 1035.14,
+      "text": "El Plan Libertador se junta con otros planes, porque es un nombre para reflejar el trabajo,"
+    },
+    {
+      "start": 1035.26,
+      "end": 1038.26,
+      "text": "el esfuerzo que han realizado equipos en distintas áreas."
+    },
+    {
+      "start": 1039.06,
+      "end": 1041.22,
+      "text": "Y hay un área que aquí se refleja"
+    },
+    {
+      "start": 1041.22,
+      "end": 1047.66,
+      "text": "en plenitud en la región de O'Higgins, que es la inseguridad. Me tocó hace un par de"
+    },
+    {
+      "start": 1047.66,
+      "end": 1052.56,
+      "text": "años, hace cuatro años creo, estar con un grupo de familias aquí en Rancagua. Y eran"
+    },
+    {
+      "start": 1052.56,
+      "end": 1057.1,
+      "text": "familias víctimas de delitos violentos. Porque"
+    },
+    {
+      "start": 1057.1,
+      "end": 1062.12,
+      "text": "aquí en Rancagua, al igual que en San Bernardo, un amigo mío, una familia sufrió el asesinato"
+    },
+    {
+      "start": 1062.12,
+      "end": 1068.3,
+      "text": "de un hijo por un menor de edad por robarle un celular. Y eso aquí en Rancagua ocurrió,"
+    },
+    {
+      "start": 1068.56,
+      "end": 1071.0,
+      "text": "si no me equivoco, en el año 2016, en septiembre"
+    },
+    {
+      "start": 1071.0,
+      "end": 1077.7,
+      "text": "de 2016, y asesinaron a Joaquín Fernández. Y los padres de él han dado una lucha enorme"
+    },
+    {
+      "start": 1077.7,
+      "end": 1085.52,
+      "text": "por la ley, Joaquín, que fue presentada por parlamentarios, por distintas autoridades,"
+    },
+    {
+      "start": 1085.84,
+      "end": 1090.98,
+      "text": "avanzó porque hay una ley, Tamara, que es la ley que se hizo por esa niña,"
+    },
+    {
+      "start": 1090.98,
+      "end": 1094.64,
+      "text": "que asesinaron, por no alcanzar a robarle el auto a la madre,"
+    },
+    {
+      "start": 1094.78,
+      "end": 1098.16,
+      "text": "asesinaron a la niña que iba en el asiento de atrás, en una silla de menores."
+    },
+    {
+      "start": 1098.78,
+      "end": 1105.68,
+      "text": "Bueno, eso aquí también ocurrió, y asesinaron a un joven, a Joaquín, y lo asesinó un supuesto menor de edad. Tenía clara"
+    },
+    {
+      "start": 1105.68,
+      "end": 1111.96,
+      "text": "conciencia ese joven que tenía a esa época 16 años de lo que estaba haciendo. Le quitó la vida a un"
+    },
+    {
+      "start": 1111.96,
+      "end": 1115.68,
+      "text": "compatriota, le quitó la vida a otro joven que tenía solo 18 años."
+    },
+    {
+      "start": 1116.6,
+      "end": 1123.3,
+      "text": "Esta zona también sufrió un secuestro conocido a nivel nacional, aquí en Santa Cruz."
+    },
+    {
+      "start": 1123.86,
+      "end": 1128.24,
+      "text": "Un empresario fue secuestrado, estuvo retenido por más de 30 horas."
+    },
+    {
+      "start": 1128.96,
+      "end": 1135.12,
+      "text": "Y también lamentablemente ocurrió aquí en O'Higgins, que no conocíamos ese nivel de violencia."
+    },
+    {
+      "start": 1135.28,
+      "end": 1139.32,
+      "text": "Aquí también asesinaron a dos agricultores, a dos personas esforzadas en Mayoa,"
+    },
+    {
+      "start": 1139.68,
+      "end": 1143.76,
+      "text": "que venían de vender la producción de su campo en la feria Lo Valledor,"
+    },
+    {
+      "start": 1143.88,
+      "end": 1149.74,
+      "text": "y los asaltaron y los mataron en Mayoa. También ocurrió acá. También aquí ocurrió un asalto famoso"
+    },
+    {
+      "start": 1149.74,
+      "end": 1155.26,
+      "text": "a la sucursal Brinks. También fue aquí en Rancagua. ¿Y para qué decir el asesinato"
+    },
+    {
+      "start": 1155.26,
+      "end": 1161.14,
+      "text": "de la familia González Calleja que que ocurrió aquí en Granero este año."
+    },
+    {
+      "start": 1161.72,
+      "end": 1163.9,
+      "text": "Bueno, eso es lo que tenemos que combatir."
+    },
+    {
+      "start": 1164.66,
+      "end": 1167.76,
+      "text": "Y no es solamente aquí en O'Higgins, porque son hechos lamentables,"
+    },
+    {
+      "start": 1167.8,
+      "end": 1170.18,
+      "text": "pero hechos lamentables que ocurren en todo Chile."
+    },
+    {
+      "start": 1170.84,
+      "end": 1190.3,
+      "text": "Y para eso hay que decir fuerte y claro que no hay libertad sin seguridad. no hay prosperidad sin miedo, con miedo, perdón, me mandó un chascarro, no hay prosperidad con miedo y eso es algo que tenemos que enfrentar y tenemos que ponernos de pie y todos ser valientes. Todos tenemos que respaldar a nuestras"
+    },
+    {
+      "start": 1190.3,
+      "end": 1197.98,
+      "text": "policías. Todos tenemos que aplaudir a nuestros carabineros. Esos carabineros que aquí también"
+    },
+    {
+      "start": 1197.98,
+      "end": 1207.44,
+      "text": "tienen sepultado un mártir. Porque Daniel Palma, que fue asesinado ahí cerca de Avenida Mata, cerca de 10 de julio,"
+    },
+    {
+      "start": 1207.44,
+      "end": 1212.72,
+      "text": "cerca del Teatro Caupolicán, fue sepultado aquí en Rancagua y le hicieron una despedida"
+    },
+    {
+      "start": 1212.72,
+      "end": 1218.0,
+      "text": "hermosa, pero ninguna despedida va a reemplazarlo en su familia."
+    },
+    {
+      "start": 1218.52,
+      "end": 1222.9,
+      "text": "Y ahí están nuestros carabineros dando la vida por nosotros, arriesgando la vida por cada uno de nosotros, con todas las"
+    },
+    {
+      "start": 1222.9,
+      "end": 1229.08,
+      "text": "dificultades que tienen. Así que a ellos un reconocimiento, un aplauso, así como también"
+    },
+    {
+      "start": 1229.08,
+      "end": 1236.34,
+      "text": "a nuestros policías de investigaciones, la PDI, a nuestros gendarmes que resguardan las cárceles con"
+    },
+    {
+      "start": 1236.34,
+      "end": 1240.56,
+      "text": "dificultades. Tenemos que recuperar el control de las cárceles, pero tenemos que darle seguridad"
+    },
+    {
+      "start": 1240.56,
+      "end": 1244.62,
+      "text": "a nuestros gendarmes, que no la tienen. Y también un reconocimiento a nuestras Fuerzas"
+    },
+    {
+      "start": 1244.62,
+      "end": 1251.94,
+      "text": "Armadas, que lo han dado todo. Custodian las fronteras, combaten el terrorismo, hacen puentes aéreos cuando tuvimos pandemia."
+    },
+    {
+      "start": 1252.36,
+      "end": 1255.66,
+      "text": "Ahí están, siempre, en esa buena primera línea."
+    },
+    {
+      "start": 1256.08,
+      "end": 1263.0,
+      "text": "No como otros que destruyeron todos los centros de nuestras ciudades, sin ningún pudor, sin ninguna vergüenza."
+    },
+    {
+      "start": 1264.06,
+      "end": 1266.64,
+      "text": "Destruyeron todo lo que encontraron a su paso."
+    },
+    {
+      "start": 1267.18,
+      "end": 1272.34,
+      "text": "Y eso nosotros le decimos, no lo vamos a permitir nunca más."
+    },
+    {
+      "start": 1272.6,
+      "end": 1276.26,
+      "text": "Que destruyan nuestras ciudades, que destruyan nuestra patria."
+    },
+    {
+      "start": 1277.54,
+      "end": 1280.76,
+      "text": "Y por eso eso este primer punto"
+    },
+    {
+      "start": 1280.76,
+      "end": 1281.5,
+      "text": "del plan"
+    },
+    {
+      "start": 1281.5,
+      "end": 1282.84,
+      "text": "para"
+    },
+    {
+      "start": 1282.84,
+      "end": 1284.02,
+      "text": "unos Higgins"
+    },
+    {
+      "start": 1284.02,
+      "end": 1285.06,
+      "text": "libertador"
+    },
+    {
+      "start": 1285.06,
+      "end": 1286.88,
+      "text": "en libertad también"
+    },
+    {
+      "start": 1286.88,
+      "end": 1288.16,
+      "text": "es la seguridad"
+    },
+    {
+      "start": 1288.16,
+      "end": 1290.32,
+      "text": "y para eso tenemos que cerrar nuestras fronteras"
+    },
+    {
+      "start": 1290.32,
+      "end": 1291.7,
+      "text": "y decirles que ya"
+    },
+    {
+      "start": 1291.7,
+      "end": 1292.58,
+      "text": "no van a llegar"
+    },
+    {
+      "start": 1292.58,
+      "end": 1294.36,
+      "text": "más inmigrantes ilegales"
+    },
+    {
+      "start": 1294.36,
+      "end": 1295.28,
+      "text": "aquí se entra por la puerta no se entra por la ventana nosotros reconocemos Y decirles que ya no van a llegar más inmigrantes ilegales."
+    },
+    {
+      "start": 1298.06,
+      "end": 1298.92,
+      "text": "Aquí se entra por la puerta, no se entra por la ventana."
+    },
+    {
+      "start": 1301.24,
+      "end": 1306.36,
+      "text": "Nosotros reconocemos a los migrantes. Le damos las gracias a todos aquellos que trabajan arduamente por mejorar nuestra salud."
+    },
+    {
+      "start": 1306.88,
+      "end": 1316.7,
+      "text": "Nuestro sistema de salud no funcionaría si no tuviéramos los médicos ecuatorianos, colombianos, venezolanos, cubanos, no funcionarían, pero a los bolivianos"
+    },
+    {
+      "start": 1316.7,
+      "end": 1321.22,
+      "text": "también, hay grandes médicos en nuestros centros de salud, y ustedes pónganse a pensar"
+    },
+    {
+      "start": 1321.22,
+      "end": 1324.84,
+      "text": "cómo funcionaría nuestro CEFAM, cómo funcionarían nuestros hospitales si no tuviéramos esos"
+    },
+    {
+      "start": 1324.84,
+      "end": 1327.64,
+      "text": "médicos, pero tenemos que decirle a todos que hay que entrar"
+    },
+    {
+      "start": 1327.64,
+      "end": 1331.76,
+      "text": "por la puerta, no por la ventana. Que todos tienen que tener los papeles en regla, porque"
+    },
+    {
+      "start": 1331.76,
+      "end": 1337.84,
+      "text": "nosotros no vamos a regularizar a nadie que esté en una situación irregular. Queremos que todos"
+    },
+    {
+      "start": 1337.84,
+      "end": 1340.38,
+      "text": "estén en la misma posición"
+    },
+    {
+      "start": 1340.38,
+      "end": 1342.5,
+      "text": "que aquellos que cumplen las normas."
+    },
+    {
+      "start": 1342.9,
+      "end": 1345.76,
+      "text": "Tenemos que lograr recuperar el control de las cárceles."
+    },
+    {
+      "start": 1346.32,
+      "end": 1350.98,
+      "text": "Si nosotros vemos lo que ocurrió en el asesinato de un joven"
+    },
+    {
+      "start": 1350.98,
+      "end": 1354.0,
+      "text": "en un furgón escolar, porque eso no fue un accidente."
+    },
+    {
+      "start": 1354.3,
+      "end": 1361.0,
+      "text": "Eso fue un asalto, persecución, choque con un furgón escolar que iba lleno de niños."
+    },
+    {
+      "start": 1361.0,
+      "end": 1365.0,
+      "text": "Y las dos personas que iban conduciendo ese vehículo ya tenían antecedentes."
+    },
+    {
+      "start": 1365.0,
+      "end": 1370.26,
+      "text": "Son igual que esos que atropellaron a un carabinero ahí en el centro de Santiago hace un tiempo"
+    },
+    {
+      "start": 1370.26,
+      "end": 1375.56,
+      "text": "atrás. Son igual que los que asesinaron a un carabinero en Concepción. Bueno, eso"
+    },
+    {
+      "start": 1375.56,
+      "end": 1380.88,
+      "text": "nunca más. Usted entra a la cárcel, usted la hace y la paga. Y va a ser una cárcel"
+    },
+    {
+      "start": 1380.88,
+      "end": 1386.26,
+      "text": "de verdad. Una cárcel donde no se dé por supuesto que alguien pueda hablar por celular."
+    },
+    {
+      "start": 1386.4,
+      "end": 1388.9,
+      "text": "Si en las cárceles en reo no puede hablar por celular."
+    },
+    {
+      "start": 1389.26,
+      "end": 1391.76,
+      "text": "Y hoy día decimos que tenemos que inhibir la señal de celular."
+    },
+    {
+      "start": 1392.0,
+      "end": 1394.7,
+      "text": "¿Por qué tienen teléfono celular entre las cárceles los presos?"
+    },
+    {
+      "start": 1395.92,
+      "end": 1396.94,
+      "text": "No van a haber más celulares."
+    },
+    {
+      "start": 1398.22,
+      "end": 1399.16,
+      "text": "Adentro de las cárceles."
+    },
+    {
+      "start": 1399.3,
+      "end": 1401.92,
+      "text": "Ustedes pueden tener uno, dos, tres, cuatro, los que quieran."
+    },
+    {
+      "start": 1402.02,
+      "end": 1403.16,
+      "text": "Pero adentro, ninguno."
+    },
+    {
+      "start": 1404.26,
+      "end": 1408.58,
+      "text": "Y tenemos que apoyar y respaldar a nuestras policías, a nuestras Fuerzas Armadas."
+    },
+    {
+      "start": 1408.74,
+      "end": 1411.14,
+      "text": "Desde el punto de vista político y jurídico."
+    },
+    {
+      "start": 1411.58,
+      "end": 1416.2,
+      "text": "Nunca más un carabinero nuestro va a tener que ser dado de baja porque no tiene respaldo jurídico."
+    },
+    {
+      "start": 1416.5,
+      "end": 1426.0,
+      "text": "Nosotros nos sentimos orgullosos de que hoy día Abigail Aburto, carabinera que fue atacada en la Plaza Italia, sea candidata a diputada por republicano."
+    },
+    {
+      "start": 1426.6,
+      "end": 1434.42,
+      "text": "Nos sentimos orgullosos de que el carabinero Zamora sea candidato a diputado por republicano. Nos sentimos orgullosos de que el general Basaletti sea candidato"
+    },
+    {
+      "start": 1434.42,
+      "end": 1440.28,
+      "text": "a diputado por republicano. Todos carabineros. También tenemos al almirante de Soto y tenemos"
+    },
+    {
+      "start": 1440.28,
+      "end": 1445.48,
+      "text": "a muchos que han sido parte de lo que es la esencia de nuestra patria"
+    },
+    {
+      "start": 1445.48,
+      "end": 1447.52,
+      "text": "en Carabinero, en la PDI, en las Fuerzas"
+    },
+    {
+      "start": 1447.52,
+      "end": 1449.9,
+      "text": "Armadas que hoy día se postulan. Ahí"
+    },
+    {
+      "start": 1449.9,
+      "end": 1451.8,
+      "text": "tenemos al Coronel González en nuestro"
+    },
+    {
+      "start": 1451.8,
+      "end": 1454.42,
+      "text": "equipo de seguridad trabajando porque"
+    },
+    {
+      "start": 1454.42,
+      "end": 1456.9,
+      "text": "él fue gendarme y dice yo soy orgulloso"
+    },
+    {
+      "start": 1456.9,
+      "end": 1458.7,
+      "text": "de mi institución de gendarmería y lo"
+    },
+    {
+      "start": 1458.7,
+      "end": 1462.36,
+      "text": "tenemos que recuperar porque no por unos pocos van a pagar todos."
+    },
+    {
+      "start": 1462.82,
+      "end": 1463.88,
+      "text": "Eso es en seguridad."
+    },
+    {
+      "start": 1464.34,
+      "end": 1469.36,
+      "text": "Después tenemos otro tema que es fundamental aquí en la región, que es la infraestructura."
+    },
+    {
+      "start": 1469.6,
+      "end": 1473.92,
+      "text": "La infraestructura de conectividad hídrica, de carreteras."
+    },
+    {
+      "start": 1477.24,
+      "end": 1483.64,
+      "text": "¿Cuántas veces ha venido alguien a cortar la primera cinta de la carretera La Fruta? Es como el tren a Melipilla, el tren al norte,"
+    },
+    {
+      "start": 1484.1,
+      "end": 1489.42,
+      "text": "el tren a Valparaíso. Muchas veces han venido y cuando uno va dice, oh, mira, tremenda"
+    },
+    {
+      "start": 1489.42,
+      "end": 1490.92,
+      "text": "carretera y dos lomos"
+    },
+    {
+      "start": 1490.92,
+      "end": 1493.2,
+      "text": "de toro porque hay un paso peatonal"
+    },
+    {
+      "start": 1493.2,
+      "end": 1494.66,
+      "text": "en la mitad de una carretera"
+    },
+    {
+      "start": 1494.66,
+      "end": 1496.84,
+      "text": "como no les dio para"
+    },
+    {
+      "start": 1496.84,
+      "end": 1497.82,
+      "text": "una pasarela"
+    },
+    {
+      "start": 1497.82,
+      "end": 1501.06,
+      "text": "es increíble el desarrollo"
+    },
+    {
+      "start": 1501.06,
+      "end": 1502.86,
+      "text": "y de repente dos lomos de toro en la mitad"
+    },
+    {
+      "start": 1502.86,
+      "end": 1504.82,
+      "text": "de una carretera, que iría a ser"
+    },
+    {
+      "start": 1504.82,
+      "end": 1508.44,
+      "text": "de primer nivel, si hay plata en la medida que no se la roben, porque alguien"
+    },
+    {
+      "start": 1508.44,
+      "end": 1513.38,
+      "text": "dice, no hay plata, la plata está, y la plata alcanza, si es que no se la roban. Y eso es"
+    },
+    {
+      "start": 1513.38,
+      "end": 1521.26,
+      "text": "lo que han hecho distintos gobiernos en el tiempo. La conectividad, la conectividad, si yo quiero ir de aquí"
+    },
+    {
+      "start": 1521.26,
+      "end": 1523.22,
+      "text": "a Navidad, ¿tres horas?"
+    },
+    {
+      "start": 1523.98,
+      "end": 1524.74,
+      "text": "depende de la hora"
+    },
+    {
+      "start": 1524.74,
+      "end": 1527.16,
+      "text": "pero saqué la cuenta cuando estaba ahí"
+    },
+    {
+      "start": 1527.16,
+      "end": 1529.18,
+      "text": "antes de venir y dije, de Rancagua"
+    },
+    {
+      "start": 1529.18,
+      "end": 1531.02,
+      "text": "a Navidad, dos horas cuarenta y siete"
+    },
+    {
+      "start": 1531.02,
+      "end": 1532.98,
+      "text": "y son ciento"
+    },
+    {
+      "start": 1532.98,
+      "end": 1537.56,
+      "text": "sesenta kilómetros, ciento sesenta y cinco kilómetros, anda por ahí. Tres"
+    },
+    {
+      "start": 1537.56,
+      "end": 1541.04,
+      "text": "horas. Es increíble. Y Navidad,"
+    },
+    {
+      "start": 1541.22,
+      "end": 1543.0,
+      "text": "Servicio Salud, depende de aquí de"
+    },
+    {
+      "start": 1543.0,
+      "end": 1545.3,
+      "text": "Rancagua. Le queda mucho más cerca San"
+    },
+    {
+      "start": 1545.3,
+      "end": 1547.18,
+      "text": "Antonio. Pero el tema burocrático"
+    },
+    {
+      "start": 1547.18,
+      "end": 1548.8,
+      "text": "administrativo dice, no, usted si quiere"
+    },
+    {
+      "start": 1548.8,
+      "end": 1550.9,
+      "text": "pedir un insumo, una jeringa, pídela"
+    },
+    {
+      "start": 1550.9,
+      "end": 1553.06,
+      "text": "al Rancagua, y a lo mejor la tenía ahí al lado"
+    },
+    {
+      "start": 1553.06,
+      "end": 1554.56,
+      "text": "no, Rancagua"
+    },
+    {
+      "start": 1554.56,
+      "end": 1557.0,
+      "text": "bueno, eso es, sin romper los límites"
+    },
+    {
+      "start": 1557.0,
+      "end": 1559.26,
+      "text": "regionales, es lo que hoy día afecta"
+    },
+    {
+      "start": 1559.26,
+      "end": 1560.88,
+      "text": "a cientos de compatriotas a lo largo"
+    },
+    {
+      "start": 1560.88,
+      "end": 1562.5,
+      "text": "de todo Chile, la conectividad"
+    },
+    {
+      "start": 1562.5,
+      "end": 1565.38,
+      "text": "la conectividad en carreteras,"
+    },
+    {
+      "start": 1565.56,
+      "end": 1570.22,
+      "text": "en caminos rurales, la conectividad digital. ¿Cuántas veces uno dice, oh, se cortó de"
+    },
+    {
+      "start": 1570.22,
+      "end": 1575.72,
+      "text": "nuevo el internet? Bueno, ¿cómo damos conectividad a las zonas rurales para que la calidad de"
+    },
+    {
+      "start": 1575.72,
+      "end": 1580.26,
+      "text": "vida sea igual para alguien que vive en Navidad que alguien que vive en Rancagua."
+    },
+    {
+      "start": 1581.58,
+      "end": 1582.16,
+      "text": "¿Para qué hablar de los embalses?"
+    },
+    {
+      "start": 1584.8,
+      "end": 1585.36,
+      "text": "Aquí el último embalse fue el Convento Viejo."
+    },
+    {
+      "start": 1586.5,
+      "end": 1587.04,
+      "text": "Antes de eso teníamos Rappel."
+    },
+    {
+      "start": 1588.7,
+      "end": 1591.24,
+      "text": "¿Pero cuánto tiempo llevan discutiendo del embalse de Codewa, del de Boyenar?"
+    },
+    {
+      "start": 1593.0,
+      "end": 1593.48,
+      "text": "Boye..."
+    },
+    {
+      "start": 1593.48,
+      "end": 1610.8,
+      "text": "Boyo... ¿Ah? Boyenar. Ajá.enar, voy a llenar, voy a llenar, voy a llenar, voy a llenar, ¿Bolleruca? ¿Uno solo o fuerte? ¿Bolleruca?"
+    },
+    {
+      "start": 1612.78,
+      "end": 1613.66,
+      "text": "¿Boy?"
+    },
+    {
+      "start": 1614.34,
+      "end": 1615.22,
+      "text": "¿Bolleruca?"
+    },
+    {
+      "start": 1615.52,
+      "end": 1617.8,
+      "text": "Bueno, embalse me salió."
+    },
+    {
+      "start": 1618.12,
+      "end": 1619.18,
+      "text": "Como decir futa del fú."
+    },
+    {
+      "start": 1620.18,
+      "end": 1621.54,
+      "text": "Es complejo."
+    },
+    {
+      "start": 1622.08,
+      "end": 1628.0,
+      "text": "Pero, ¿por qué no avanzamos más rápido en la infraestructura de embalses?"
+    },
+    {
+      "start": 1628.0,
+      "end": 1629.88,
+      "text": "Si esta es una zona agrícola."
+    },
+    {
+      "start": 1630.6,
+      "end": 1632.96,
+      "text": "Nosotros necesitamos más hectáreas de riego."
+    },
+    {
+      "start": 1633.46,
+      "end": 1636.0,
+      "text": "Necesitamos que más agricultores puedan dar más empleo."
+    },
+    {
+      "start": 1637.0,
+      "end": 1640.4,
+      "text": "Porque con conectividad, con carreteras, con embalses, Chile crece."
+    },
+    {
+      "start": 1641.84,
+      "end": 1646.88,
+      "text": "El paso a las leñas lo tengo anotado, pero está complejo. Pero lo tengo anotado. Me llevo el otro día"
+    },
+    {
+      "start": 1646.88,
+      "end": 1654.24,
+      "text": "un libro, un tazón, muchas cosas. Y me hablaban, primero, bueno, hagámoslo turístico. Después lo"
+    },
+    {
+      "start": 1654.24,
+      "end": 1677.48,
+      "text": "vamos agrandando. Pero no tenemos ni solucionado el paso de los libertadores y tenemos que ir también mejorando la infraestructura en todas partes, pero tenemos muy presente lo que tenemos que hacer porque alguien dice tan cerca y tan lejos, tan cerca de la capital nacional y tan lejos del desarrollo y el progreso."
+    },
+    {
+      "start": 1677.94,
+      "end": 1683.62,
+      "text": "Lo mismo que dicen en Navidad, tan cerca de la capital regional y tan lejos del desarrollo que nos tocaría."
+    },
+    {
+      "start": 1683.76,
+      "end": 1689.08,
+      "text": "Porque así como hay centralismo en la capital nacional, también hay centralismo en las regiones."
+    },
+    {
+      "start": 1690.22,
+      "end": 1692.36,
+      "text": "El tercer punto, turismo."
+    },
+    {
+      "start": 1693.84,
+      "end": 1695.0,
+      "text": "Ustedes son una región increíble."
+    },
+    {
+      "start": 1696.08,
+      "end": 1698.6,
+      "text": "Ahí tienen la ciudad patrimonio de Sewell."
+    },
+    {
+      "start": 1699.8,
+      "end": 1703.0,
+      "text": "Quienes que levanten la mano, ¿quienes conocen Sewell de los aquí presentes?"
+    },
+    {
+      "start": 1703.76,
+      "end": 1706.78,
+      "text": "¿Han ido? Mira, pero no es ni la mitad."
+    },
+    {
+      "start": 1708.44,
+      "end": 1712.22,
+      "text": "¿Nacido y criado? Ah, nacido, porque ya después lo criaron abajo."
+    },
+    {
+      "start": 1712.56,
+      "end": 1714.1,
+      "text": "Pero alguien debe haber nacido ahí."
+    },
+    {
+      "start": 1716.68,
+      "end": 1717.22,
+      "text": "Pero imagínense,"
+    },
+    {
+      "start": 1722.36,
+      "end": 1722.76,
+      "text": "todos deberán ya poder haber tenido la opción de llegar a ver un patrimonio de la humanidad,"
+    },
+    {
+      "start": 1728.44,
+      "end": 1728.54,
+      "text": "si es algo increíble que está aquí al lado. Bueno, a veces se habla mucho del patrimonio,"
+    },
+    {
+      "start": 1731.04,
+      "end": 1731.58,
+      "text": "de esto, y nos dedicamos a cuidar un cántaro."
+    },
+    {
+      "start": 1736.8,
+      "end": 1737.54,
+      "text": "Y vamos a buscar un cántaro que detiene la construcción de un hospital en uno o dos años."
+    },
+    {
+      "start": 1742.94,
+      "end": 1743.22,
+      "text": "Lo guardamos, lo sacamos de cinco metros de profundidad, lo guardamos en una cajita con goma eva, lo cuidamos,"
+    },
+    {
+      "start": 1749.56,
+      "end": 1755.74,
+      "text": "después lo mandamos a un museo y lo bajan al segundo subterráneo. Queda más oculto que cuando estaba ahí donde lo encontraron los arqueólogos. Y nos costó 200 millones y como un año o"
+    },
+    {
+      "start": 1755.74,
+      "end": 1759.92,
+      "text": "dos años de construcción de un hospital, de retraso. O sea, era más importante el"
+    },
+    {
+      "start": 1759.92,
+      "end": 1765.2,
+      "text": "hallazgo que una persona. Es más importante a veces una familia de chinchillas que millones"
+    },
+    {
+      "start": 1765.2,
+      "end": 1769.7,
+      "text": "de familias de chilenos. Y yo también amo los animales. Y este ejemplo lo pongo siempre"
+    },
+    {
+      "start": 1769.7,
+      "end": 1776.28,
+      "text": "porque me encanta. Yo tomaría a la familia de chinchillas y le haría un resort a dos kilómetros de donde están hoy día."
+    },
+    {
+      "start": 1777.48,
+      "end": 1782.3,
+      "text": "La mejor zona para vivir, Chincholandia, Chinchorolandia."
+    },
+    {
+      "start": 1782.7,
+      "end": 1789.84,
+      "text": "Lo haría feliz y me gastaría un millón de dólares con tal de que nos dieran la posibilidad de construir la línea de transmisión"
+    },
+    {
+      "start": 1789.84,
+      "end": 1794.64,
+      "text": "que le dé electricidad a un nivel de precio razonable a los chilenos."
+    },
+    {
+      "start": 1795.14,
+      "end": 1799.26,
+      "text": "Hoy día, este gobierno ineficiente nos tenía ocultos un detalle,"
+    },
+    {
+      "start": 1799.86,
+      "end": 1803.9,
+      "text": "que habían subido las cuentas de la luz porque nadie había hecho un doble cálculo"
+    },
+    {
+      "start": 1803.9,
+      "end": 1810.0,
+      "text": "para ver si estaba bien calculada o no la cuenta de la luz. Una vergüenza, una ineficiencia"
+    },
+    {
+      "start": 1810.56,
+      "end": 1814.1,
+      "text": "increíble. Y se tratan de sacar los pillos. No, es que esto lo hicieron hace como cinco"
+    },
+    {
+      "start": 1814.1,
+      "end": 1819.2,
+      "text": "años atrás. Todavía no sabemos quiénes son los responsables de esto, porque renunció"
+    },
+    {
+      "start": 1819.2,
+      "end": 1820.3,
+      "text": "el ministro y solo"
+    },
+    {
+      "start": 1820.3,
+      "end": 1825.44,
+      "text": "él sabía. ¿Dónde están los otros responsables? ¿No le habrán avisado a alguien antes?"
+    },
+    {
+      "start": 1825.98,
+      "end": 1831.44,
+      "text": "Porque con el tema de Monsalve nos dijeron lo mismo. Apenas supimos lo echamos. Mentira."
+    },
+    {
+      "start": 1831.9,
+      "end": 1835.58,
+      "text": "Supieron mucho antes. Tanto antes que le dieron autorización para ir al sur"
+    },
+    {
+      "start": 1835.58,
+      "end": 1838.08,
+      "text": "a hablar con su familia, traerlo de vuelta en avión"
+    },
+    {
+      "start": 1838.08,
+      "end": 1840.72,
+      "text": "y después mandarlo a discutir la ley de presupuesto"
+    },
+    {
+      "start": 1840.72,
+      "end": 1843.64,
+      "text": "y sentado ahí, le llega el diario"
+    },
+    {
+      "start": 1843.64,
+      "end": 1848.6,
+      "text": "y dicen, este señor está acusado de abusos"
+    },
+    {
+      "start": 1848.6,
+      "end": 1851.18,
+      "text": "bueno, una vergüenza"
+    },
+    {
+      "start": 1851.18,
+      "end": 1852.54,
+      "text": "una y otra vez"
+    },
+    {
+      "start": 1852.54,
+      "end": 1853.6,
+      "text": "el mismo gobierno"
+    },
+    {
+      "start": 1853.6,
+      "end": 1854.94,
+      "text": "el mismo presidente"
+    },
+    {
+      "start": 1854.94,
+      "end": 1856.08,
+      "text": "lamentable"
+    },
+    {
+      "start": 1856.08,
+      "end": 1857.56,
+      "text": "porque habló mucho"
+    },
+    {
+      "start": 1857.56,
+      "end": 1858.2,
+      "text": "en campaña"
+    },
+    {
+      "start": 1858.2,
+      "end": 1859.06,
+      "text": "de lo que iba a hacer"
+    },
+    {
+      "start": 1859.06,
+      "end": 1860.44,
+      "text": "y no va a poder"
+    },
+    {
+      "start": 1860.44,
+      "end": 1861.18,
+      "text": "tener"
+    },
+    {
+      "start": 1861.18,
+      "end": 1862.4,
+      "text": "ningún legado"
+    },
+    {
+      "start": 1862.4,
+      "end": 1863.06,
+      "text": "ni en educación"
+    },
+    {
+      "start": 1863.06,
+      "end": 1863.98,
+      "text": "ni en salud"
+    },
+    {
+      "start": 1863.98,
+      "end": 1864.98,
+      "text": "ni en seguridad"
+    },
+    {
+      "start": 1864.98,
+      "end": 1865.86,
+      "text": "ni en respeto"
+    },
+    {
+      "start": 1865.86,
+      "end": 1869.96,
+      "text": "a las personas, ni siquiera en el tema de los pitutos, porque dijo, vamos a terminar"
+    },
+    {
+      "start": 1869.96,
+      "end": 1873.5,
+      "text": "con los pitutos, nadie va a ganar más que el presidente de la república, y ahí está."
+    },
+    {
+      "start": 1874.54,
+      "end": 1876.26,
+      "text": "Todo, si es increíble."
+    },
+    {
+      "start": 1876.62,
+      "end": 1880.22,
+      "text": "Bueno, el tema del turismo Subwell Minería"
+    },
+    {
+      "start": 1880.22,
+      "end": 1880.58,
+      "text": "está ahí"
+    },
+    {
+      "start": 1880.58,
+      "end": 1881.48,
+      "text": "y yo"
+    },
+    {
+      "start": 1881.48,
+      "end": 1882.32,
+      "text": "le hago"
+    },
+    {
+      "start": 1882.32,
+      "end": 1883.48,
+      "text": "un reconocimiento"
+    },
+    {
+      "start": 1883.48,
+      "end": 1884.28,
+      "text": "a don Carlos Cardun"
+    },
+    {
+      "start": 1884.28,
+      "end": 1885.72,
+      "text": "es un hombre"
+    },
+    {
+      "start": 1885.72,
+      "end": 1887.16,
+      "text": "que ha sacado adelante"
+    },
+    {
+      "start": 1887.16,
+      "end": 1888.1,
+      "text": "varios museos"
+    },
+    {
+      "start": 1888.1,
+      "end": 1888.74,
+      "text": "yo al menos"
+    },
+    {
+      "start": 1888.74,
+      "end": 1889.62,
+      "text": "conozco el museo"
+    },
+    {
+      "start": 1889.62,
+      "end": 1890.1,
+      "text": "del vino"
+    },
+    {
+      "start": 1890.1,
+      "end": 1891.16,
+      "text": "el museo"
+    },
+    {
+      "start": 1891.16,
+      "end": 1891.92,
+      "text": "del automóvil"
+    },
+    {
+      "start": 1891.92,
+      "end": 1893.44,
+      "text": "el que no conozca"
+    },
+    {
+      "start": 1893.44,
+      "end": 1893.8,
+      "text": "el museo"
+    },
+    {
+      "start": 1893.8,
+      "end": 1894.24,
+      "text": "del automóvil"
+    },
+    {
+      "start": 1894.24,
+      "end": 1894.7,
+      "text": "y del vino"
+    },
+    {
+      "start": 1894.7,
+      "end": 1895.58,
+      "text": "se los recomiendo,"
+    },
+    {
+      "start": 1895.94,
+      "end": 1901.08,
+      "text": "vale la pena, es increíble, está hasta, la gaviota se llamaba, el bus que los llevaba"
+    },
+    {
+      "start": 1901.08,
+      "end": 1908.2,
+      "text": "de San Fernando hasta Santa Cruz creo, alguna parte, está todo ahí, está el auto de Volver"
+    },
+    {
+      "start": 1908.2,
+      "end": 1914.2,
+      "text": "al Futuro, está una copia de la casa rodante que recibió a los astronautas."
+    },
+    {
+      "start": 1914.7,
+      "end": 1916.02,
+      "text": "Es increíble, vayan a verlo."
+    },
+    {
+      "start": 1916.3,
+      "end": 1918.76,
+      "text": "Pero el Museo de Santa Cruz es reconocido a nivel mundial."
+    },
+    {
+      "start": 1919.26,
+      "end": 1919.7,
+      "text": "Y está aquí."
+    },
+    {
+      "start": 1920.66,
+      "end": 1921.58,
+      "text": "Bueno, vale la pena."
+    },
+    {
+      "start": 1922.06,
+      "end": 1923.88,
+      "text": "Vale la pena fomentar el turismo."
+    },
+    {
+      "start": 1926.4,
+      "end": 1931.7,
+      "text": "El vino. Hay una discusión de dónde está la mejor viña del mundo."
+    },
+    {
+      "start": 1932.22,
+      "end": 1936.94,
+      "text": "Nosotros los que somos del Maipo decimos, no, en el Valle del Maipo, otros dicen que Colchagua."
+    },
+    {
+      "start": 1936.94,
+      "end": 1942.58,
+      "text": "Pero hay aquí, hay lugares increíbles que son reconocidos a nivel"
+    },
+    {
+      "start": 1942.58,
+      "end": 1948.24,
+      "text": "mundial por la hotelera. Un presupuesto, si los que atienden un hospital son más o menos parecidos todos los años,"
+    },
+    {
+      "start": 1948.9,
+      "end": 1955.82,
+      "text": "entonces la mejor directora de presupuesto de la historia, según Marcel. Bueno, no calcula los ingresos, no"
+    },
+    {
+      "start": 1955.82,
+      "end": 1959.76,
+      "text": "calcula los ingresos y tampoco fue capaz de hacer el presupuesto de los hospitales, porque"
+    },
+    {
+      "start": 1959.76,
+      "end": 1965.02,
+      "text": "estamos en octubre y en septiembre ya se le había acabado la plata. Y en agosto, perdón,"
+    },
+    {
+      "start": 1965.22,
+      "end": 1970.3,
+      "text": "le di un mes de gracias al gobierno. Pero bueno, si yo tengo la misma cantidad de pacientes"
+    },
+    {
+      "start": 1970.3,
+      "end": 1973.48,
+      "text": "y la aumento en un 5% todos los años porque hay gente que se enferma más,"
+    },
+    {
+      "start": 1974.06,
+      "end": 1976.0,
+      "text": "y digo, bueno, con todo esto me alcanzarán."
+    },
+    {
+      "start": 1976.66,
+      "end": 1980.26,
+      "text": "Si hay una historia de los hospitales, no son capaces ni siquiera de hacer eso."
+    },
+    {
+      "start": 1980.8,
+      "end": 1984.48,
+      "text": "Porque también tienen que comprometer a los funcionarios, a los buenos funcionarios."
+    },
+    {
+      "start": 1985.04,
+      "end": 1989.48,
+      "text": "Tienen que sacar a los operadores políticos, a los apitutados. Porque hay muchas personas"
+    },
+    {
+      "start": 1989.48,
+      "end": 1995.18,
+      "text": "que no atienden personas y están sentadas en un escritorio. Y son el apitutado de un"
+    },
+    {
+      "start": 1995.18,
+      "end": 2000.16,
+      "text": "diputado, de un senador. Y ahí se llenan los hospitales de apitutados y no de mejor servicio"
+    },
+    {
+      "start": 2000.16,
+      "end": 2002.78,
+      "text": "y las listas de espera, aquí también hay un triste"
+    },
+    {
+      "start": 2002.78,
+      "end": 2004.76,
+      "text": "récord, se están peleando el segundo"
+    },
+    {
+      "start": 2004.76,
+      "end": 2006.82,
+      "text": "tercer lugar en la mayor cantidad"
+    },
+    {
+      "start": 2006.82,
+      "end": 2008.84,
+      "text": "de personas en lista de espera a nivel nacional"
+    },
+    {
+      "start": 2008.84,
+      "end": 2011.02,
+      "text": "en proporción a personas en lista de espera"
+    },
+    {
+      "start": 2011.02,
+      "end": 2012.22,
+      "text": "y cantidad de habitantes"
+    },
+    {
+      "start": 2012.22,
+      "end": 2014.44,
+      "text": "nosotros no queremos que"
+    },
+    {
+      "start": 2014.44,
+      "end": 2017.22,
+      "text": "O'Higgins dispute esos"
+    },
+    {
+      "start": 2017.22,
+      "end": 2023.44,
+      "text": "lugares. Y también el empleo. El empleo está en todo lo que dijimos anteriormente. Si hay más"
+    },
+    {
+      "start": 2023.44,
+      "end": 2029.3,
+      "text": "seguridad, va a haber más crecimiento, va a haber más inversión, va a haber prosperidad. Si es que tenemos"
+    },
+    {
+      "start": 2029.3,
+      "end": 2031.5,
+      "text": "mejor salud, la gente"
+    },
+    {
+      "start": 2031.5,
+      "end": 2035.88,
+      "text": "va a querer venir a trabajar a cualquier emprendimiento que esté en O'Higgins, porque van a decir, si me"
+    },
+    {
+      "start": 2035.88,
+      "end": 2043.98,
+      "text": "enfermo, me van a atender. Más y mejor trabajo. Eso se logra generando seguridad, inversión. Inversión"
+    },
+    {
+      "start": 2043.98,
+      "end": 2046.46,
+      "text": "trae crecimiento, crecimiento trae empleo."
+    },
+    {
+      "start": 2046.84,
+      "end": 2054.34,
+      "text": "También uno dice, bueno, están peleando el quinto lugar con nuestra región en número de desempleados."
+    },
+    {
+      "start": 2055.26,
+      "end": 2060.88,
+      "text": "Y quien fue la ministra del trabajo va a pasar a la historia como la ministra del desempleo."
+    },
+    {
+      "start": 2061.32,
+      "end": 2066.64,
+      "text": "Y así es, porque los números están claros, podrán tener el relato que quieran,"
+    },
+    {
+      "start": 2067.04,
+      "end": 2071.7,
+      "text": "pero los hechos están muy claros y es inexplicable en una zona minera,"
+    },
+    {
+      "start": 2071.86,
+      "end": 2077.18,
+      "text": "una zona agrícola, una zona turística, que tengamos el nivel de desempleo que tenemos."
+    },
+    {
+      "start": 2077.18,
+      "end": 2079.2,
+      "text": "Ya voy terminando antes que me vuelan las hojas."
+    },
+    {
+      "start": 2081.76,
+      "end": 2088.28,
+      "text": "Y lo que pasa aquí en Los Higues no es distinto a lo que pasa en otras regiones de Chile,"
+    },
+    {
+      "start": 2088.54,
+      "end": 2089.42,
+      "text": "en otras ciudades."
+    },
+    {
+      "start": 2089.62,
+      "end": 2095.02,
+      "text": "La inseguridad, la burocracia, el abandono que termina en desesperanza"
+    },
+    {
+      "start": 2095.02,
+      "end": 2098.48,
+      "text": "son cosas comunes a lo largo de todo Chile."
+    },
+    {
+      "start": 2099.22,
+      "end": 2102.28,
+      "text": "Pero eso también hace que vaya surgiendo una fuerza,"
+    },
+    {
+      "start": 2103.36,
+      "end": 2106.46,
+      "text": "que vaya aflorando esa convicción en nosotros. Y cuando"
+    },
+    {
+      "start": 2106.46,
+      "end": 2113.1,
+      "text": "partimos aquí había alguien que le decía, somos fuerza, somos cambio, somos la fuerza"
+    },
+    {
+      "start": 2113.1,
+      "end": 2120.7,
+      "text": "del cambio. Y ese slogan que viene del poder a creer, del atrévete, hoy día es la fuerza del cambio,"
+    },
+    {
+      "start": 2121.26,
+      "end": 2123.56,
+      "text": "tiene también cinco recomendaciones."
+    },
+    {
+      "start": 2124.3,
+      "end": 2127.2,
+      "text": "Porque queremos un país sin corrupción."
+    },
+    {
+      "start": 2128.2,
+      "end": 2130.64,
+      "text": "Queremos un país sin cobardía."
+    },
+    {
+      "start": 2131.46,
+      "end": 2133.4,
+      "text": "Queremos un país sin complejos."
+    },
+    {
+      "start": 2133.72,
+      "end": 2136.92,
+      "text": "Queremos un país sin continuidad. Queremos un país sin continuidad y queremos un país sin"
+    },
+    {
+      "start": 2136.92,
+      "end": 2147.84,
+      "text": "comunismo. Y a mi amiga, a mi amiga Janet, que estaba muy preocupada. Y dicen, ¿nos quieren sacar del"
+    },
+    {
+      "start": 2147.84,
+      "end": 2152.88,
+      "text": "país? Cuando dicen sin comunismo, no, le contesté yo, los queremos sacar de la moneda."
+    },
+    {
+      "start": 2154.06,
+      "end": 2155.46,
+      "text": "Y los vamos a sacar."
+    },
+    {
+      "start": 2156.74,
+      "end": 2160.64,
+      "text": "Y déjenme decirle que ya perdieron."
+    },
+    {
+      "start": 2162.02,
+      "end": 2166.12,
+      "text": "Y ya lo reconoció incluso quien hoy día dirige los destinos de la nación"
+    },
+    {
+      "start": 2166.12,
+      "end": 2173.4,
+      "text": "el señor Boric. ¿Y por qué ya lo reconoció? Porque en todos los gobiernos republicanos"
+    },
+    {
+      "start": 2173.4,
+      "end": 2178.68,
+      "text": "de verdad, más allá que sean de partidos republicanos, un presidente republicano, un"
+    },
+    {
+      "start": 2178.68,
+      "end": 2181.12,
+      "text": "estadista, no deja al próximo"
+    },
+    {
+      "start": 2181.12,
+      "end": 2187.22,
+      "text": "gobierno sin recursos de libre disposición para las urgencias que le están pidiendo las personas."
+    },
+    {
+      "start": 2187.9,
+      "end": 2194.18,
+      "text": "Y él, por primera vez en la historia, elimina la glosa republicana. A él, cuando entró, le dejaron"
+    },
+    {
+      "start": 2194.18,
+      "end": 2195.78,
+      "text": "más de 500 millones de dólares para que pudiera asignarlo a las urgencias de ese momento. A él, cuando entró, le dejaron más de 500 millones de dólares"
+    },
+    {
+      "start": 2195.78,
+      "end": 2201.12,
+      "text": "para que pudiera asignarlo a las urgencias de ese momento. Y él decidió, porque la"
+    },
+    {
+      "start": 2201.12,
+      "end": 2206.76,
+      "text": "gente le dio el mandato, dónde iba a invertir esos recursos. No tuvo la dignidad, no tuvo"
+    },
+    {
+      "start": 2206.76,
+      "end": 2213.44,
+      "text": "el coraje de dejar una glosa republicana. Incluso su candidata, la candidata a la continuidad, lo criticó por ese hecho."
+    },
+    {
+      "start": 2214.0,
+      "end": 2216.9,
+      "text": "Porque es increíble que no dejara la glosa republicana."
+    },
+    {
+      "start": 2217.04,
+      "end": 2221.14,
+      "text": "Es increíble que ocupara la cadena nacional para atacar a un candidato."
+    },
+    {
+      "start": 2221.92,
+      "end": 2224.0,
+      "text": "Y lo hizo sobre seguro, como lo hacen los cobardes."
+    },
+    {
+      "start": 2227.0,
+      "end": 2231.4,
+      "text": "Lo hizo aplicando corrupción en su discurso porque usó la cadena nacional para hablar de algo que no"
+    },
+    {
+      "start": 2231.4,
+      "end": 2235.22,
+      "text": "le correspondía. Él tiene que hablarle a los chilenos de cómo está el estado de la"
+    },
+    {
+      "start": 2235.22,
+      "end": 2240.38,
+      "text": "nación, cuál va a ser el presupuesto. Lo hizo con esa cobardía de alguien que no se atreve"
+    },
+    {
+      "start": 2240.38,
+      "end": 2240.96,
+      "text": "a dar la cara"
+    },
+    {
+      "start": 2240.96,
+      "end": 2242.28,
+      "text": "y hoy día aquí"
+    },
+    {
+      "start": 2242.28,
+      "end": 2243.16,
+      "text": "le vuelvo a insistir"
+    },
+    {
+      "start": 2243.16,
+      "end": 2243.74,
+      "text": "presidente"
+    },
+    {
+      "start": 2243.74,
+      "end": 2244.62,
+      "text": "está bien"
+    },
+    {
+      "start": 2244.62,
+      "end": 2245.52,
+      "text": "no nos deje"
+    },
+    {
+      "start": 2245.52,
+      "end": 2246.44,
+      "text": "la glosa republicana"
+    },
+    {
+      "start": 2246.44,
+      "end": 2247.08,
+      "text": "pero entreguele"
+    },
+    {
+      "start": 2247.08,
+      "end": 2247.68,
+      "text": "esos recursos"
+    },
+    {
+      "start": 2247.68,
+      "end": 2248.9,
+      "text": "a la fiscalía"
+    },
+    {
+      "start": 2248.9,
+      "end": 2249.68,
+      "text": "a los tribunales"
+    },
+    {
+      "start": 2249.68,
+      "end": 2250.68,
+      "text": "y a la contraloría"
+    },
+    {
+      "start": 2250.68,
+      "end": 2252.34,
+      "text": "entregueselos a ellos"
+    },
+    {
+      "start": 2252.34,
+      "end": 2253.66,
+      "text": "para que fiscalicen"
+    },
+    {
+      "start": 2253.66,
+      "end": 2254.82,
+      "text": "para que fiscalicen"
+    },
+    {
+      "start": 2254.82,
+      "end": 2255.88,
+      "text": "para atrás y fiscalicen el para que fiscalicen para atrás y"
+    },
+    {
+      "start": 2255.88,
+      "end": 2260.88,
+      "text": "fiscalicen el presente. Porque él dice, no tengo confianza en lo que vayan a hacer los republicanos"
+    },
+    {
+      "start": 2260.88,
+      "end": 2265.58,
+      "text": "que van a ganar. Bueno, nosotros tenemos tanta confianza que vamos a hacer las cosas bien y si"
+    },
+    {
+      "start": 2265.58,
+      "end": 2273.06,
+      "text": "pillamos a alguien haciéndolo mal, lo queremos sancionar. Porque uno a veces ve caras y no ve corazones. Lo importante es cómo reacciona cuando ve el corazón."
+    },
+    {
+      "start": 2273.48,
+      "end": 2277.22,
+      "text": "Nosotros no vamos a proteger a nadie que haya abusado de una funcionaria. Nosotros no vamos"
+    },
+    {
+      "start": 2277.22,
+      "end": 2280.44,
+      "text": "a proteger a nadie que se haya robado los recursos de los más pobres a través de un"
+    },
+    {
+      "start": 2280.44,
+      "end": 2284.38,
+      "text": "convenio. No los vamos a proteger. Les vamos a pedir la renuncia y les vamos a pedir a"
+    },
+    {
+      "start": 2284.38,
+      "end": 2285.12,
+      "text": "la Contraloría"
+    },
+    {
+      "start": 2285.12,
+      "end": 2286.16,
+      "text": "a la Fiscalía"
+    },
+    {
+      "start": 2286.16,
+      "end": 2287.1,
+      "text": "y a los tribunales"
+    },
+    {
+      "start": 2287.1,
+      "end": 2288.48,
+      "text": "que los investiguen"
+    },
+    {
+      "start": 2288.48,
+      "end": 2289.2,
+      "text": "que los juzguen"
+    },
+    {
+      "start": 2289.2,
+      "end": 2290.02,
+      "text": "y si es necesario"
+    },
+    {
+      "start": 2290.02,
+      "end": 2290.88,
+      "text": "que los condenen"
+    },
+    {
+      "start": 2290.88,
+      "end": 2292.62,
+      "text": "pero tiene que"
+    },
+    {
+      "start": 2292.62,
+      "end": 2293.36,
+      "text": "el presidente"
+    },
+    {
+      "start": 2293.36,
+      "end": 2294.94,
+      "text": "ser digno"
+    },
+    {
+      "start": 2294.94,
+      "end": 2295.46,
+      "text": "presidente"
+    },
+    {
+      "start": 2295.46,
+      "end": 2296.86,
+      "text": "tenga la dignidad"
+    },
+    {
+      "start": 2296.86,
+      "end": 2297.9,
+      "text": "de lo que decía"
+    },
+    {
+      "start": 2297.9,
+      "end": 2298.7,
+      "text": "aquí hay una persona"
+    },
+    {
+      "start": 2298.7,
+      "end": 2299.78,
+      "text": "que está en este acto"
+    },
+    {
+      "start": 2299.78,
+      "end": 2300.02,
+      "text": "pero que lo piensan todos los chilenos usted va llegando a los 40 y quiere que lo finalicen Presidente, tenga la dignidad de lo que decía aquí una persona que está en este acto,"
+    },
+    {
+      "start": 2301.5,
+      "end": 2301.86,
+      "text": "pero que lo piensan todos los chilenos."
+    },
+    {
+      "start": 2307.92,
+      "end": 2308.28,
+      "text": "Usted va llegando a los 40 y quiere que lo financiemos hasta los 65, hasta los 80."
+    },
+    {
+      "start": 2310.24,
+      "end": 2311.06,
+      "text": "No, presidente, eso no es digno."
+    },
+    {
+      "start": 2320.12,
+      "end": 2325.1,
+      "text": "Usted tiene dos pies, tiene dos manos y una cabeza que le funciona. Él tuvo el privilegio de estudiar en un colegio particular pagado. Salió con excelencia académica"
+    },
+    {
+      "start": 2325.1,
+      "end": 2331.0,
+      "text": "de su colegio en Punta Arenas estudió en la universidad ha tenido el honor"
+    },
+    {
+      "start": 2331.0,
+      "end": 2331.54,
+      "text": "y el privilegio"
+    },
+    {
+      "start": 2331.54,
+      "end": 2332.0,
+      "text": "de ser presidente"
+    },
+    {
+      "start": 2332.0,
+      "end": 2332.56,
+      "text": "de la república"
+    },
+    {
+      "start": 2332.56,
+      "end": 2333.68,
+      "text": "pero eso no le impide"
+    },
+    {
+      "start": 2333.68,
+      "end": 2334.2,
+      "text": "trabajar"
+    },
+    {
+      "start": 2334.2,
+      "end": 2335.78,
+      "text": "eso no le impide"
+    },
+    {
+      "start": 2335.78,
+      "end": 2337.0,
+      "text": "hacer las cosas"
+    },
+    {
+      "start": 2337.0,
+      "end": 2337.98,
+      "text": "que hace cada chileno"
+    },
+    {
+      "start": 2337.98,
+      "end": 2339.2,
+      "text": "y por último"
+    },
+    {
+      "start": 2339.2,
+      "end": 2339.66,
+      "text": "le digo yo"
+    },
+    {
+      "start": 2339.66,
+      "end": 2340.3,
+      "text": "presidente ya"
+    },
+    {
+      "start": 2340.3,
+      "end": 2341.28,
+      "text": "quédese con la dieta"
+    },
+    {
+      "start": 2341.28,
+      "end": 2342.2,
+      "text": "pero renuncia"
+    },
+    {
+      "start": 2342.2,
+      "end": 2343.12,
+      "text": "a las asignaciones"
+    },
+    {
+      "start": 2343.12,
+      "end": 2344.8,
+      "text": "si aunque"
+    },
+    {
+      "start": 2344.8,
+      "end": 2349.28,
+      "text": "si aunque le den el doble de asignaciones usted usted no va a volver a ser presidente de la República."
+    },
+    {
+      "start": 2350.16,
+      "end": 2356.14,
+      "text": "Nosotros le vamos a recordar una y otra vez a los chilenos el fracaso, la ineptitud de este gobierno,"
+    },
+    {
+      "start": 2356.46,
+      "end": 2362.34,
+      "text": "porque es inaceptable cómo ha dejado nuestra nación quebrada, entregada"
+    },
+    {
+      "start": 2362.34,
+      "end": 2369.44,
+      "text": "a los delincuentes, sin salud, sin trabajo. Eso es lo que son. Y no le han dado respaldo"
+    },
+    {
+      "start": 2369.44,
+      "end": 2378.26,
+      "text": "a Carabineros, no le han dado respaldo a nadie. Pero sí quiere vivir, sí quiere vivir a costa de todos los chilenos. Y eso"
+    },
+    {
+      "start": 2378.26,
+      "end": 2384.9,
+      "text": "no corresponde. Yo respeto la dignidad de la autoridad presidencial. Tiene derecho a"
+    },
+    {
+      "start": 2384.9,
+      "end": 2389.0,
+      "text": "que nosotros se la reconozcamos, que tenga un ingreso, pero ¿por qué tiene que tener"
+    },
+    {
+      "start": 2389.0,
+      "end": 2393.54,
+      "text": "más de 10 millones en asignaciones para que le paguemos el auto, el celular, la oficina."
+    },
+    {
+      "start": 2394.12,
+      "end": 2401.46,
+      "text": "No, presidente. Tenga un sueldo. A los expresidentes, a los expresidentes. Ahí me estaban dando"
+    },
+    {
+      "start": 2401.46,
+      "end": 2406.14,
+      "text": "saludos. Se inclinó, pero no se cayó."
+    },
+    {
+      "start": 2408.42,
+      "end": 2413.92,
+      "text": "Pero a los expresidentes yo los reconozco porque tienen un derecho adquirido."
+    },
+    {
+      "start": 2414.34,
+      "end": 2418.52,
+      "text": "Y les reconozco que tengan sus asignaciones, que tengan su dieta."
+    },
+    {
+      "start": 2418.52,
+      "end": 2422.3,
+      "text": "Pero los actuales presidentes, los presidentes que han dirigido los dest, que tengan su dieta, pero los presidentes, los actuales presidentes,"
+    },
+    {
+      "start": 2422.88,
+      "end": 2428.88,
+      "text": "los presidentes que han dirigido los destinos de la nación, hoy día están con su edad."
+    },
+    {
+      "start": 2429.44,
+      "end": 2433.96,
+      "text": "Se merece que los reconozcamos. Son reconocidos a nivel internacional cuando salen."
+    },
+    {
+      "start": 2434.3,
+      "end": 2435.46,
+      "text": "Bueno, que mantengan su dieta,"
+    },
+    {
+      "start": 2435.56,
+      "end": 2439.36,
+      "text": "que mantengan sus asignaciones. Si tienen otro cargo internacional, renuncien a la dieta,"
+    },
+    {
+      "start": 2439.46,
+      "end": 2444.18,
+      "text": "a las asignaciones y pídanle los fondos al organismo internacional. Pero si están en"
+    },
+    {
+      "start": 2444.18,
+      "end": 2449.82,
+      "text": "Chile, no hay problema. Pero usted, Presidente Boric, es muy joven. Es muy joven, así que"
+    },
+    {
+      "start": 2449.82,
+      "end": 2451.6,
+      "text": "por dignidad, al menos renuncie a las asignaciones. Y se lo vamos a record usted, Presidente Boric, es muy joven. Es muy joven, así que por dignidad, al menos"
+    },
+    {
+      "start": 2451.6,
+      "end": 2457.24,
+      "text": "renuncie a las asignaciones. Y se lo vamos a recordar, Presidente, en cada acto, en cada foro,"
+    },
+    {
+      "start": 2457.66,
+      "end": 2462.96,
+      "text": "para que la gente no olvide que usted va a tener un sueldo de cerca de 7 millones y va a tener"
+    },
+    {
+      "start": 2462.96,
+      "end": 2465.14,
+      "text": "unas asignaciones, si es que no renuncia,"
+    },
+    {
+      "start": 2471.8,
+      "end": 2478.76,
+      "text": "de más de 10 millones de pesos. Y eso golpea la dignidad de miles de personas que están hoy día en la vulnerabilidad más absoluta. Imagínense si él destinara, aunque no le"
+    },
+    {
+      "start": 2478.76,
+      "end": 2480.14,
+      "text": "va a solucionar la vida a todos los chilenos,"
+    },
+    {
+      "start": 2480.6,
+      "end": 2484.5,
+      "text": "pero si él diera el ejemplo de renunciar a sus asignaciones de 10 millones de pesos,"
+    },
+    {
+      "start": 2485.04,
+      "end": 2487.86,
+      "text": "¿cuántas otras cosas podría exigirle a otras personas?"
+    },
+    {
+      "start": 2488.68,
+      "end": 2490.18,
+      "text": "Y tenemos que ir dando el ejemplo."
+    },
+    {
+      "start": 2490.54,
+      "end": 2492.94,
+      "text": "Y son difíciles y duelen los ejemplos."
+    },
+    {
+      "start": 2493.28,
+      "end": 2494.96,
+      "text": "Nosotros no queremos hacer crecer el Estado."
+    },
+    {
+      "start": 2496.56,
+      "end": 2501.12,
+      "text": "Y siempre que vamos a estas reuniones yo les digo a aquellos que han trabajado, se han esforzado en las campañas,"
+    },
+    {
+      "start": 2501.7,
+      "end": 2509.12,
+      "text": "que el Estado no es el lugar donde van a caber todos. No es una agencia de empleo. Y lo que"
+    },
+    {
+      "start": 2509.12,
+      "end": 2511.2,
+      "text": "ustedes están haciendo es por amor a la patria"
+    },
+    {
+      "start": 2511.2,
+      "end": 2512.88,
+      "text": "no por amor a una pega"
+    },
+    {
+      "start": 2512.88,
+      "end": 2514.44,
+      "text": "que puede venir o no"
+    },
+    {
+      "start": 2514.44,
+      "end": 2516.6,
+      "text": "porque nosotros tenemos que achicar el Estado"
+    },
+    {
+      "start": 2516.6,
+      "end": 2517.08,
+      "text": "perdonen"
+    },
+    {
+      "start": 2517.08,
+      "end": 2519.56,
+      "text": "no es mi señora"
+    },
+    {
+      "start": 2519.56,
+      "end": 2520.92,
+      "text": "así que chao"
+    },
+    {
+      "start": 2520.92,
+      "end": 2522.7,
+      "text": "si fuera la PIA"
+    },
+    {
+      "start": 2522.7,
+      "end": 2524.66,
+      "text": "que está ahora en la región de Valparaíso"
+    },
+    {
+      "start": 2524.66,
+      "end": 2526.02,
+      "text": "y les pido un aplauso para la Pía"
+    },
+    {
+      "start": 2526.02,
+      "end": 2528.2,
+      "text": "la Pía"
+    },
+    {
+      "start": 2528.2,
+      "end": 2530.08,
+      "text": "me regaló estas lucecitas"
+    },
+    {
+      "start": 2530.08,
+      "end": 2533.14,
+      "text": "porque le buscamos por aquí"
+    },
+    {
+      "start": 2533.14,
+      "end": 2534.76,
+      "text": "y por allá y me dice flaco"
+    },
+    {
+      "start": 2534.76,
+      "end": 2536.52,
+      "text": "era flaco alguna vez pero"
+    },
+    {
+      "start": 2536.52,
+      "end": 2538.68,
+      "text": "estoy haciendo deporte para volver a ser"
+    },
+    {
+      "start": 2538.68,
+      "end": 2540.78,
+      "text": "flaco, me regalalo estas lucecitas."
+    },
+    {
+      "start": 2541.24,
+      "end": 2542.06,
+      "text": "Sí, yo la amo a ella."
+    },
+    {
+      "start": 2542.88,
+      "end": 2543.72,
+      "text": "Llevamos a la pía."
+    },
+    {
+      "start": 2544.58,
+      "end": 2546.32,
+      "text": "Es una tremenda mujer."
+    },
+    {
+      "start": 2546.58,
+      "end": 2550.6,
+      "text": "Nos sentimos muy orgullosos también de la familia que hemos formado."
+    },
+    {
+      "start": 2551.14,
+      "end": 2553.3,
+      "text": "Y le damos gracias a Dios todos los días."
+    },
+    {
+      "start": 2553.64,
+      "end": 2559.78,
+      "text": "Todos los días le damos gracias a Dios porque nos da vida, salud. nos ha regalado una familia increíble, un país maravilloso."
+    },
+    {
+      "start": 2560.6,
+      "end": 2570.84,
+      "text": "Y todos los que tengan fe, denle gracias a Dios cada día por ese día que amanecen sin una enfermedad, sin un dolor. Porque uno se acuerda a veces de Dios cuando tiene un problema."
+    },
+    {
+      "start": 2571.9,
+      "end": 2574.48,
+      "text": "Nos duele un dedo, ¡ay, me duele el dedo!"
+    },
+    {
+      "start": 2574.52,
+      "end": 2576.14,
+      "text": "Me duele la guata, ¡ay, me duele la guata!"
+    },
+    {
+      "start": 2577.02,
+      "end": 2580.88,
+      "text": "Pero acordémonos, sigue insistiendo la persona que me estaba llamando."
+    },
+    {
+      "start": 2581.96,
+      "end": 2583.0,
+      "text": "No sé quién será, pero..."
+    },
+    {
+      "start": 2584.18,
+      "end": 2585.36,
+      "text": "No, no, no, no es tampoco. No"
+    },
+    {
+      "start": 2585.36,
+      "end": 2592.26,
+      "text": "tiene mi teléfono. Bueno, les quiero decir que vienen cuatro años increíbles. Porque"
+    },
+    {
+      "start": 2592.26,
+      "end": 2600.7,
+      "text": "vamos a ganar. Vamos a ganar, sí o sí. Vamos a ganar un Parlamento para Chile y por eso es tan importante"
+    },
+    {
+      "start": 2600.7,
+      "end": 2605.66,
+      "text": "que voten por alguno de nuestros candidatos a diputados, del Partido Social Cristiano,"
+    },
+    {
+      "start": 2605.88,
+      "end": 2612.7,
+      "text": "del Partido Republicano, voten por alguno de este gran equipo, porque el próximo presidente"
+    },
+    {
+      "start": 2612.7,
+      "end": 2616.22,
+      "text": "o presidenta necesita un parlamento para Chile."
+    },
+    {
+      "start": 2616.42,
+      "end": 2617.6,
+      "text": "¿Un parlamento?"
+    },
+    {
+      "start": 2618.06,
+      "end": 2618.54,
+      "text": "Sí, ¿no?"
+    },
+    {
+      "start": 2619.04,
+      "end": 2620.54,
+      "text": "Miren, alguno del equipo."
+    },
+    {
+      "start": 2621.56,
+      "end": 2623.46,
+      "text": "Alguno del equipo, porque si no voy a tener que empezar yo a decir,"
+    },
+    {
+      "start": 2623.58,
+      "end": 2626.42,
+      "text": "¿dónde están los de este candidato?"
+    },
+    {
+      "start": 2626.5,
+      "end": 2627.46,
+      "text": "¿Dónde están los de otro candidato?"
+    },
+    {
+      "start": 2627.56,
+      "end": 2628.14,
+      "text": "No lo hagamos."
+    },
+    {
+      "start": 2628.28,
+      "end": 2632.26,
+      "text": "Sí, todos tenemos claro cuando entremos a la urna por quien vamos a votar"
+    },
+    {
+      "start": 2632.26,
+      "end": 2634.14,
+      "text": "y lo importante"
+    },
+    {
+      "start": 2634.14,
+      "end": 2636.16,
+      "text": "va a ser"
+    },
+    {
+      "start": 2636.16,
+      "end": 2638.56,
+      "text": "que los parlamentarios que salgan electos"
+    },
+    {
+      "start": 2638.56,
+      "end": 2639.68,
+      "text": "piensen en Chile"
+    },
+    {
+      "start": 2639.68,
+      "end": 2642.04,
+      "text": "porque tenemos que hacer cambios legales"
+    },
+    {
+      "start": 2642.04,
+      "end": 2644.32,
+      "text": "si queremos que no vengan más inmigrantes"
+    },
+    {
+      "start": 2644.32,
+      "end": 2646.1,
+      "text": "ilegales, tenemos que cambiar la ley."
+    },
+    {
+      "start": 2646.62,
+      "end": 2648.72,
+      "text": "Y ya no va a ser una falta, va a ser un delito."
+    },
+    {
+      "start": 2648.72,
+      "end": 2655.18,
+      "text": "Y cuando crucen la frontera, van a tener que mirar en un refugio para inmigrantes ilegales."
+    },
+    {
+      "start": 2655.8,
+      "end": 2656.8,
+      "text": "Y van a tener dos alternativas."
+    },
+    {
+      "start": 2656.94,
+      "end": 2658.92,
+      "text": "O se van caminando o se van por avión, pero se van a ir."
+    },
+    {
+      "start": 2659.32,
+      "end": 2659.88,
+      "text": "No van a entrar."
+    },
+    {
+      "start": 2661.3,
+      "end": 2667.56,
+      "text": "Si usted quiere entrar a Chile, entre por la puerta, muestre sus papeles, muestre su contrato, diga que viene."
+    },
+    {
+      "start": 2668.44,
+      "end": 2673.26,
+      "text": "Porque tenemos un colapso total en salud, en educación, en vivienda."
+    },
+    {
+      "start": 2673.4,
+      "end": 2675.18,
+      "text": "Hoy día arrendar una pieza, arrendar una"
+    },
+    {
+      "start": 2675.18,
+      "end": 2678.54,
+      "text": "casa, vale muy caro, porque no"
+    },
+    {
+      "start": 2678.54,
+      "end": 2680.1,
+      "text": "hay suficientes viviendas para"
+    },
+    {
+      "start": 2680.1,
+      "end": 2681.36,
+      "text": "todos. Y eso tenemos que"
+    },
+    {
+      "start": 2681.36,
+      "end": 2683.7,
+      "text": "aclararlo. Por lo tanto, esos"
+    },
+    {
+      "start": 2683.7,
+      "end": 2685.36,
+      "text": "cuatro años van a ser, como les"
+    },
+    {
+      "start": 2685.36,
+      "end": 2689.18,
+      "text": "digo, increíbles. Ojalá el"
+    },
+    {
+      "start": 2689.18,
+      "end": 2692.34,
+      "text": "pueblo chileno me elija a mí. Yo sería un tipo"
+    },
+    {
+      "start": 2692.34,
+      "end": 2700.38,
+      "text": "feliz y me sentiría orgulloso de ser presidente de la nación. Porque tenemos las ideas, tenemos"
+    },
+    {
+      "start": 2700.38,
+      "end": 2705.22,
+      "text": "la fuerza, tenemos la convicción, tenemos clarísimo lo que habría que hacer."
+    },
+    {
+      "start": 2710.8,
+      "end": 2711.02,
+      "text": "Con la misma fuerza, la banda la tengo guardada, porque la última vez me regaló una banda,"
+    },
+    {
+      "start": 2716.8,
+      "end": 2716.94,
+      "text": "pero me la regaló antes de él. Entonces ahora la voy a sacar después de él. No, no, no, no, no, no, no."
+    },
+    {
+      "start": 2737.74,
+      "end": 2743.3,
+      "text": "Jetta, yo no solo. Está sentado ahí en la región, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, la esperanza para recuperar chile para que todos nos volvamos a poner de pie y nos sintamos orgullosos pero una pega de todos no es la pega de una persona nadie tiene una varita mágica ni un"
+    },
+    {
+      "start": 2743.3,
+      "end": 2749.04,
+      "text": "presidente de una varita mágica esto es la convicción de cada uno de ustedes de que si ganamos al día"
+    },
+    {
+      "start": 2749.04,
+      "end": 2750.74,
+      "text": "siguiente tenemos que salir"
+    },
+    {
+      "start": 2750.74,
+      "end": 2755.96,
+      "text": "a trabajar, tenemos que salir a hacer las cosas que no se han hecho por ahora. Todos aquellos que"
+    },
+    {
+      "start": 2755.96,
+      "end": 2759.98,
+      "text": "son servidores públicos, buenos servidores públicos, van a tener un antes y un después,"
+    },
+    {
+      "start": 2760.16,
+      "end": 2763.88,
+      "text": "porque los vamos a respetar. Los vamos a respetar tanto que le vamos a sacar a los operadores"
+    },
+    {
+      "start": 2763.88,
+      "end": 2765.54,
+      "text": "políticos que les impiden trabajar"
+    },
+    {
+      "start": 2765.54,
+      "end": 2767.98,
+      "text": "y por eso esa fuerza de tarea que decimos"
+    },
+    {
+      "start": 2767.98,
+      "end": 2771.46,
+      "text": "para liberar a los buenos funcionarios públicos"
+    },
+    {
+      "start": 2771.46,
+      "end": 2772.8,
+      "text": "de la carga que es"
+    },
+    {
+      "start": 2772.8,
+      "end": 2774.34,
+      "text": "tener un apitutado"
+    },
+    {
+      "start": 2774.34,
+      "end": 2775.78,
+      "text": "un operador político encima"
+    },
+    {
+      "start": 2775.78,
+      "end": 2777.98,
+      "text": "que lo único que hace es generarle más pega"
+    },
+    {
+      "start": 2777.98,
+      "end": 2779.86,
+      "text": "al que hace bien su trabajo"
+    },
+    {
+      "start": 2779.86,
+      "end": 2781.8,
+      "text": "así que para"
+    },
+    {
+      "start": 2781.8,
+      "end": 2790.16,
+      "text": "terminar pedirles que me acompañen en esto porque somos fuerza, somos cambio, somos la fuerza del"
+    },
+    {
+      "start": 2790.16,
+      "end": 2799.56,
+      "text": "cambio. Que viva O'Higgins, que viva la región del Libertador y que viva Chile. Muchas, muchas"
+    },
+    {
+      "start": 2799.56,
+      "end": 2807.74,
+      "text": "gracias. Y ahora vienen unos avisos prácticos que los va a dar la voz en off. Aquí estamos, José"
+    },
+    {
+      "start": 2807.74,
+      "end": 2810.0,
+      "text": "Antonio. Alguien va a dar la voz en off, la"
+    },
+    {
+      "start": 2810.0,
+      "end": 2811.38,
+      "text": "misma canción que dice, vota"
+    },
+    {
+      "start": 2811.38,
+      "end": 2813.76,
+      "text": "dos, vota cas. Vota cinco,"
+    },
+    {
+      "start": 2813.92,
+      "end": 2816.34,
+      "text": "vota cas. Antes de que el vota"
+    },
+    {
+      "start": 2816.34,
+      "end": 2817.44,
+      "text": "dos y vota cas, le voy a pedir"
+    },
+    {
+      "start": 2817.44,
+      "end": 2818.38,
+      "text": "que hagamos flamear las"
+    },
+    {
+      "start": 2818.38,
+      "end": 2819.76,
+      "text": "banderas. Arriba las banderas."
+    },
+    {
+      "start": 2819.76,
+      "end": 2820.86,
+      "text": "Cada uno que tiene una bandera,"
+    },
+    {
+      "start": 2821.82,
+      "end": 2823.26,
+      "text": "hágalas flamear con orgullo."
+    },
+    {
+      "start": 2824.94,
+      "end": 2829.84,
+      "text": "Muchas gracias por la paciencia, por haber venido, por habernos acompañado."
+    },
+    {
+      "start": 2830.28,
+      "end": 2832.08,
+      "text": "Estas imágenes van a recorrer Chile."
+    },
+    {
+      "start": 2832.68,
+      "end": 2841.5,
+      "text": "Las palabras que decimos en cada uno de estos actos golpean la conciencia de aquellos que han demostrado que no son conscientes"
+    },
+    {
+      "start": 2841.5,
+      "end": 2846.58,
+      "text": "de la responsabilidad que tienen y de no haber ejercido bien el mandato que el pueblo chileno"
+    },
+    {
+      "start": 2846.58,
+      "end": 2851.74,
+      "text": "les entregó. Así que gracias de nuevo, viva Chile, viva O'Higgins, viva la región del"
+    },
+    {
+      "start": 2851.74,
+      "end": 2854.82,
+      "text": "Libertador. Y ahora vienen los avisos de la voz en off."
+    },
+    {
+      "start": 2856.48,
+      "end": 2858.68,
+      "text": "Muchas gracias José Antonio Ahora un aviso"
+    },
+    {
+      "start": 2858.68,
+      "end": 2861.7,
+      "text": "¿Quién se quiere sacar una foto con José Antonio?"
+    },
+    {
+      "start": 2862.9,
+      "end": 2865.0,
+      "text": "Bueno, es importante que esto sea ordenado"
+    },
+    {
+      "start": 2865.54,
+      "end": 2867.56,
+      "text": "La fila va a ser desde ahí"
+    },
+    {
+      "start": 2867.56,
+      "end": 2869.66,
+      "text": "Desde acá, desde aquí hacia afuera"
+    },
+    {
+      "start": 2869.66,
+      "end": 2875.26,
+      "text": "Una fila, sin cámara, sinulares, porque acá tenemos una cámara profesional."
+    },
+    {
+      "start": 2875.92,
+      "end": 2878.1,
+      "text": "Desde aquí, desde aquí hacia afuera."
+    },
+    {
+      "start": 2878.48,
+      "end": 2880.7,
+      "text": "Una fila, por favor, lo más ordenada posible."
+    },
+    {
+      "start": 2880.9,
+      "end": 2883.28,
+      "text": "Todos van a poder sacarse la foto, eso es importante."
+    },
+    {
+      "start": 2884.34,
+      "end": 2886.0,
+      "text": "Es importante que todos los que van a sacarse la foto. Eso es importante. Todos van a poder sacarse la foto."
+    },
+    {
+      "start": 2886.0,
+      "end": 2888.06,
+      "text": "Que todos los que van a sacarse una foto"
+    },
+    {
+      "start": 2888.06,
+      "end": 2890.18,
+      "text": "van a recibir una tarjeta que contiene"
+    },
+    {
+      "start": 2890.18,
+      "end": 2892.24,
+      "text": "un código QR. Ese código QR"
+    },
+    {
+      "start": 2892.24,
+      "end": 2894.12,
+      "text": "que está en las pantallas, ustedes lo van"
+    },
+    {
+      "start": 2894.12,
+      "end": 2895.92,
+      "text": "a escanear mañana y van a encontrar"
+    },
+    {
+      "start": 2895.92,
+      "end": 2897.7,
+      "text": "su fotografía profesional. ¿Ok?"
+    },
+    {
+      "start": 2898.06,
+      "end": 2900.14,
+      "text": "Ahora, no vamos a partir hasta que tengamos"
+    },
+    {
+      "start": 2900.14,
+      "end": 2902.08,
+      "text": "una fila ordenada. Ahí donde está el flaco"
+    },
+    {
+      "start": 2902.08,
+      "end": 2903.24,
+      "text": "Benjamín."
+    }
+  ]
+}

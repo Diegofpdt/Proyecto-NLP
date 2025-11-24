@@ -1,0 +1,3207 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "No es con discursos ni frases fonitas La fuerza del cambio es la que palpita Si nos unimos la historia Cambiamos Chile se levanta Y todos ganamos Oh, oh, oh, oh Del que yo quiero un favorito Más fuerte, más fuerte Que se junte vida y mal Para todos ustedes, para todos! ¡Feliz Navidad! Antonio, ha acompañado por la primera vez a la ciudad, un tremendo aplauso para todos los que están representando a los perros del campo y a todos aquellos que están disponibles! ¡Milloneros, fuerza! ¡Cambio! ¡Fuerza! ¡Cambio! ¡Fuerza! ¡Cambio! ¡Fuerza! ¡Cambio! ¡Si vosotros cinco, si vosotros atacás, vota cinco! ¡Vota cinco! ¡Vota cinco! ¡Vota cinco! ¡Un aplauso, Villa del Mar! ¡Muchas gracias! Muchas gracias. ¿Tenía el micrófono? ¿Tenía un micrófono? Voy a... no sé si con este se escucha, pero... Muy, muy buenas tardes. ¿Cómo les explico lo contento que puedo estar aquí? Ustedes podrían decir, ¡Anthony! Siempre quise hacer esto. Les agradezco infinito, infinito que estén acá, la paciencia que nos han tenido, el trabajo que han realizado y gracias también a la PIA, que me ha bancado y me ha acompañado en todas estas aventuras. Y como decimos, la tercera es la vencida así que gracias una vez más por estar aquí, gracias a todos los que son candidatos, a los que se la han jugado lo van a pasar increíble y acuérdense que después vienen también unos artistas connotados que llevan, aunque estén lo que eran, el 5. Y miren el día que nos han regalado. Una ventana al cielo para mirar alto, para volver a tener esperanza y creer de verdad que todo es posible y que todo va a estar bien. Sonrían a la cámara. Ahora levanten la bandera Toda la bandera que tengan Se pasaron De verdad, gracias ¡Gracias! De verdad, gracias. Gracias. Casi me lo como. ¡La juventud de Chile porque yo solamente levanto la voz como la hemos levantado varios por todos los chilenos así que somos chilenos de corazón, somos la juventud de Chile, somos los adultos mayores, las personas mayores de Chile, son los candidatos de Chile, porque vamos a recuperar también el Parlamento. No solamente vamos a recuperar Chile, sino que vamos a recuperar el Parlamento. Y quiero partir agradeciéndole a usted, ya lo saludaron, lo escucharon. Pero aquí están nuestros candidatos al Senado, nuestros candidatos al Parlamento en la Cámara de Diputados. Y así como es importante ganar ahora la presidencial, es muy importante ganar la parlamentaria. Y ahí todos ustedes son clave, porque ese día, el día 16, tenemos que estar todos ahí firmes como apoderados de mesa. Y ese es un compromiso que les quiero pedir ahora, porque muchas veces uno mira la presidencial, pero al lado se elige lo más relevante para un futuro presidente, que es un Congreso para Chile. Así que a nuestros candidatos al Senado, a Alberto Soto, gracias Alberto por aceptar este desafío. A Soledad Loyola, gracias por levantar las banderas de la libertad. A Esteban Maraona, un hombre de fe, un hombre comprometido, gracias por también jugártela por Chile. Y a uno que yo tengo que hacerle un reconocimiento especial a un candidato, porque permitió que tuviéramos un pacto, que firmó por todos nosotros para que fuéramos candidato, Arturo Esquella, gracias una vez más por estar ahí ayudándonos y levantando de nuevo la esperanza de Chile y nuestros candidatos a diputados porque hoy día nos acompañan de los dos distritos, del distrito 6 que es el interior, la cordillera majestuosa y ahí está Benjamín Lorca, un hombre también de fe, un hombre que se la juega. Está Manuel Millones, con quien nos conocemos hace mucho tiempo. Gracias, Manuel, por estar ahí y dar la cara en esta batalla, que es una batalla por Chile. Marlén González está por ahí también. Marlén, muchas gracias por estar ahí y dar la cara en esta batalla, que es una batalla por Chile. Marlén González está por ahí también. Marlén, muchas gracias. Y está también Rodolfo Ponce por ahí. Ahí está Rodolfo. Gracias también por atreverte, por ser un atrevido. Y para qué decir también a Kiara Barquesi, que está por ahí. Kiara, que ha defendido todos nuestros principios y valores en la Cámara de Diputados. Y aquí, junto al mar, el Distrito Número 7, tenemos a Rafael González. Don Rafa, ¿dónde? Levanta la mano, Rafa. Ahí, gracias. Muy elegante. Está también Ángela Carrasco, que está aquí acompañándonos. Está Sebastián Zamora. Vamos a reivindicar. Ahí está Sebastián. Vamos a reivindicar el nombre de nuestra noble institución de carabineros de Chile. Está también una voz que ustedes conocen, Juan Alberto Sepúlveda, una voz conocida en la radio festival. Y también Bárbara Vera. Bárbara, gracias por estar aquí. Y para qué decir, uno grande y nuestro, uno alto que destaca. Ahí está Luis Fernando Sánchez, muy bien acompañado además, lo veo. Gracias Luis Fernando por el trabajo que realizan hoy día en el Congreso. Y como les decía cuando caminaba ahí con la pía, qué orgullo, qué alegría de verlos aquí. Gracias por esa sonrisa, gracias por esa mano levantada, abierta, como decía Rodolfo Carter, nos ha enseñado, que nosotros levantamos la mano abierta, esa mano generosa, no un puño cerrado. El puño cerrado es para combatir la delincuencia. La mano abierta es para acoger a los necesitados. Y aquí somos miles, en Chile somos millones. Y lo que uno ve aquí es esperanza, es fuerza, es trabajo, es amor por Chile. Ese amor por Chile que nos distingue a nosotros. Nosotros vamos con la frente en alto, vamos mirando a las personas a la cara. No ocultamos nuestro rostro detrás de un paño oscuro. No organizamos manifestaciones para destruir lo que a todos nos ha costado construir. Nosotros amamos Chile y por eso cuidamos nuestra patria. Y este no es un encuentro cualquiera, este no es un acto cualquiera. Es el primer acto de cierre de campaña, porque estamos en la recta final. Gracias. Estamos en esa recta final. Nos quedan diez días y en un domingo más allá espero que puedan y estoy seguro que aquí mismo se van a reunir a celebrar un triunfo histórico que le vamos a dar a nuestros compatriotas, un triunfo que va a ser un anticipo de lo que va a ocurrir en Chile, de cómo vamos a recuperar y reconstruir nuestra patria. Y eso lo vamos a celebrar el 16, el domingo 16, aquí, después de que cada uno vuelva de haber cuidado los votos en las mesas. Y nada de salir a celebrar la presidencial si no hemos cuidado los votos de los diputados y los senadores. Así que cuidamos los votos y después celebramos. Y como les digo, ese va a ser un anticipo. Y un anticipo de un trabajo que hemos desarrollado hace ya muchos años. Y ustedes son aquellas personas que han creído, que han vuelto a creer, a creer en Chile. Esta pulsera para volver a creer del año 2017, que algunos todavía guardan como un recuerdo, algunos yokis, algunas banderas, porque nos atrevimos y dijimos vamos a volver a creer. Y el 2021 nos atrevimos. Todos ustedes son atrevidos. Personas que levantaron, a pesar de las dificultades, a pesar del momento duro que vivía Chile, levantaron de nuevo la bandera nacional. Porque nos fuimos cansando y nos hemos cansado de cómo han mancillado nuestra bandera. Y ese volver a creer, ese atrevimiento, es para recuperar nuestra patria libre, grande, soberana, una patria que estamos dispuestos a defender desde Arica a Magallanes. Dale las gracias a todos los que han venido de los distintos rincones de esta gran región de Valparaíso. 38 comunas, no las voy a mencionar porque son muchas, pero las he recorrido todas menos una. Ya vamos a ir a Juan Fernández. En algún momento llegaremos a Juan Fernández y también le daremos las gracias a los que hacen patria en una isla, aislados. Es muy difícil llegar, pero pucha que es importante el trabajo que realizan ahí nuestros pescadores. Pucha que es importante ahí recibir a esos turistas. Es importante recordar también a aquellos que perdieron la vida viajando a esa isla. Ellos nos fijaron un norte, nos plantearon un desafío, que era un desafío de levantar Chile. Y nosotros vamos a volver a levantar Chile. Porque no hay terremoto, no hay aluvión, no hay protesta, no hay estallido que nos detenga, porque ahí estamos. Y gracias también a los que ayudan a levantar este escenario, a que nosotros podamos estar aquí y después también disfrutar un rato entretenido en familia. Es mucho trabajo, es gente que se ha esforzado aquí y a lo largo de todo Chile. Este es un acto para nosotros de verdad relevante. Gracias por ese trabajo. Ahí está Fonsi, y en nombre tuyo saludo y agradezco a todos los que hacen posible que esté todo bien dispuesto. Gracias a todos ustedes que han llevado por largo tiempo el mensaje del cambio, de la fuerza del cambio a todos los hogares, en todas las ferias, en sus trabajos, en sus tiempos de recreación. Ustedes hablan de libertad, ustedes hablan de esfuerzo, ustedes hablan de alegría, de esperanza. Bueno, eso nos ha permitido ir llegando a todo Chile. Gracias a aquellos que comparten nuestro mensaje en las redes sociales. Eso es muy importante y ahí los jóvenes tienen un rol fundamental. Siempre, siempre con la verdad, siempre con las ideas, nunca con ofensas, porque nuestras ideas bastan para derrotar a la ideología de la izquierda. Tenemos mejores ideas y no necesitamos ni insultar, ni agredir, ni violentar a nadie para defender lo que creemos. Gracias también a los que bajan la música de ese disco cast, que está increíble. Y ustedes pueden casi todos los días disfrutar algo nuevo, algo entretenido. Y así he hecho también con mucho esfuerzo. Cuando ustedes ven, gracias, ajá, aquí está el backstage, ajá, cuando ustedes escuchen, vota dos, vota cinco, perdón, me quedé pegado, vota cinco, vota casi, vota cinco, vota casi. Ese es un gran amigo, una mente brillante, creativo, impresionante. O cuando escuchen un rap por ahí, también son personas que son parte del equipo. Cuando ustedes vean la franja, piensen en un joven que partió hace ocho años ayudándonos con un celular, y hoy día tiene una cámara de este porte, y ese es el mérito, eso es lo que nosotros creemos, que alguien que con esfuerzo está ahí y se sacrifica puede llegar a dirigir la franja presidencial de alguien que, en representación de todos ustedes, puede dirigir los destinos del país. Eso es mérito, eso es esfuerzo, y eso es lo que a nosotros nos llena de orgullo. Y como les digo, en el disco de Kast, en el disco del cambio, hay una de las canciones que recorre de Arica a Magallanes, y como les digo, aquí somos miles, pero al nivel de Chile somos millones, y esos millones entran a este disco y ven una canción que dice, yo no sé cantarla, si estuviera Fonsi, perdón, si estuviera Yeti, Yeti, Yeti, no, no lo voy a encontrar, pero después lo van a poder escuchar y dice que si hacemos un llamado de emergencia a todas las fuerzas, a todos los chilenos, a todos los chilenos que ya no aguantan más, que no quieren saber más de odio, de resentimiento, de destrucción. A todos ellos, a lo largo de Chile, a través de ustedes, a través de las redes sociales, de los medios de comunicación, les decimos que vamos a recuperar y reconstruir Chile, que vamos a recuperar la seguridad, la libertad, la dignidad y el orgullo de ser chilenos. Todos, levantemos nuestras banderas para demostrar el orgullo que sentimos por nuestra patria. Y me ha tocado, como les decía, recorrer Chile entero. He visto el norte que ha sido golpeado por la inmigración ilegal. He estado en comunidades en el sur que han sido asoladas por el terrorismo. Ahora las pueden bajar, gracias. He visto comunidades golpeadas por el terrorismo, víctimas del terrorismo. He visto el miedo en los ojos de miles de chilenos, que es el mismo miedo que a veces sienten ustedes cuando salen de su hogar y dicen habrá alguien esperándome afuera para robarme el vehículo, para atentar contra la vida de mis hijos. Es la angustia que percibimos y que vemos en el rostro de las madres, que no saben si su hijo va a volver sano del colegio, porque el día hasta el lugar más protegido se ha convertido en algunos lugares en un lugar peligroso para los niños. He visto el dolor de miles de chilenos que no saben si van a llegar a fin de mes con el ingreso que tienen, porque viven en la informalidad, viven lamentablemente el desempleo que nos ha heredado este gobierno. Pero así como he visto el sufrimiento de miles de personas, también he visto la fuerza, esa fuerza que brota del alma de los chilenos, esa fuerza del emprendedor, esa fuerza del que dice esto no va a durar tanto tiempo, no hay mal que dure 100 años. En este caso, este mal nos va a durar 4 años y nos vamos a recuperar. Porque yo al menos cuando escucho el himno, y lo escuché ahí a todo pulmón por parte de Rodolfo Cárter que siempre nos sorprende. Nos sorprendió cuando derribó las casas narcos. Nos ha sorprendido cuando enfrenta con valentía el terrorismo. Y también cuando canta, cuando canta nuestro himno nacional. Y nuestro himno nacional. Y nuestro himno nacional dice que nuestra patria es la copia feliz del Edén. Y eso es Chile, un país maravilloso, un país increíble, que tiene esas montañas majestuosas, que tiene este mar que ahora nos baña tranquilo. Hay veces que se encabrita un poco, pero tenemos las montañas, tenemos el mar, tenemos un desierto que nos provee de minerales, de energía, que lamentablemente todavía no alcanza a llegar toda la energía que producimos en el norte a la zona central. Tenemos el campo chileno, ese campo que nos alimenta y tenemos una tremenda Patagonia y un territorio antártico increíble que nos promete ese futuro esplendor. Y ahí está todo reflejado en aquel autor que reflejó en nuestro himno nacional lo que es ese Chile maravilloso, grande, nuestro, que promete ser un centro, un lugar de libertad para aquel que estaba oprimido y a todos aquellos que hoy día sufren, que tienen dolor, que tienen miedo les digo que no están solos y así como no se entendió cuando partimos con esa frase que decía no se preocupen, todo va a estar bien, les puedo reiterar que todo va a estar bien. Que vamos a estar con los que más sufren, con los que tienen más temor, con los que tienen la angustia de enfermarse o de quedarse sin empleo. Y les digo fuerte y claro, no les vamos a fallar. Nosotros nos vamos a jugar el todo por el todo por nuestra patria. Y aquellos pesimistas, aquellos agoreros que dicen que el orden no se puede recuperar, aquellos que nos dicen que el narco nos ganó, aquellos que nos dicen que las fronteras no se puede recuperar, aquellos que nos dicen que el narco nos ganó, aquellos que nos dicen que las fronteras no se pueden cerrar, les decimos no sigan mintiendo, porque eso ha ocurrido porque han sido incapaces, ineficientes, no han sido si se puede y lo vamos a hacer con la fuerza de todos los que están acá, porque esto no es el trabajo de una persona, es el trabajo de un equipo, de ese equipo que tiene esa fuerza, que va a estar representada en el Parlamento, que hoy día representan nuestros cores, a quienes olvidé saludar al inicio, gracias a los que están en los cores regionales, gracias a nuestros concejales, a todos los concejales que están acá, a los que no han pagado la cuota, pónganse al día, porque la próxima vez van a aparecer aquí en la pantalla gigante, y no es broma, así que cada uno sabe que no está al día, porque nosotros también queremos cambiar algunas normas y queremos que nuestros partidos sean autosuficientes y cada uno tiene que ponerse, tiene que pagar la camiseta, como la pagan todos los equipos de fútbol amateur. Todos pagan la camiseta. Bueno, nosotros vamos a pagar la cuotita. Así que todos los que están ahí, que no estén al día, mañana los quiero ver a todos ahí al día y la Cata Ugarte y Dulger, la Catita está por ahí. Y a Dulger lo vieron. Están anotando, ya están recordándoles ahí ese tema. Ese fue un bonus track. Gracias a todos los que no son militantes, pero tengo que hablarle también a los militantes, a los más comprometidos. Pero a aquellos agoreros de las malas noticias les digo, no sigan mintiendo. Chile tiene toda la fuerza, toda la energía, todas las capacidades para volver a crecer, para cerrar las fronteras, para luchar contra el crimen organizado. Porque ellos lo que quieren ver es personas resignadas, personas asustadas, un pueblo dividido. Y nosotros queremos un pueblo unido, un pueblo unido en torno a esos mensajes, a esos mensajes de esperanza, de alegría, no al mensaje del odio, no al mensaje del miedo al cual ellos nos quieren llevar. También les digo fuerte y claro, Chile no se rinde, caramba, hay otros epítetos más que no los voy a decir aquí, pero Chile no se rinde, Chile resiste todos los embates de la naturaleza y también de aquellos malos políticos que siembran el odio. ¿Y por qué? Nosotros se lo decimos porque tenemos la fuerza y somos capaces de volver a creer. Más allá de donde hayamos bajado, vamos a volver a creer y vamos a volver a recuperar nuestro país. Y aquí, desde Valparaíso, yo les puedo hacer una promesa. Vamos a recuperar el orden en nuestras calles y ustedes van a volver a caminar tranquilos por cada una de sus comunas. Vamos a recuperar la autoridad de nuestras instituciones. Vamos a recuperar el respeto a nuestros carabineros, policía de investigación, gendarme, fuerzas armadas. Y a aquellos que se han dedicado a matar, a violar, a secuestrar, a traficar, a destruir los bienes públicos, les decimos que se preparen, porque vamos a ir por ellos. Y ya no van a tener la libertad de amenazar, ahora van a tener que ir tras las rejas. Vamos a aplicar la justicia, vamos a pedirle a los fiscales que hagan su trabajo como lo están haciendo y con más fuerza, con más recursos. Le vamos a pedir a nuestros jueces que hagan la pega con más recursos, con más medios. Y vamos a respaldar con toda la energía, con todo el respaldo político y jurídico a nuestros carabineros. Y les pido un aplauso para nuestros carabineros que salvaron nuestra patria. Un aplauso que se extienda también para la Policía de Investigaciones, para Gendarmería y para nuestras Fuerzas Armadas, aquellos que defienden nuestra frontera y que enfrentan a los terroristas en el sur. Y así, como les digo, que vamos a recuperar el orden, les digo que vamos a cerrar las fronteras. Las vamos a cerrar de verdad. Le vamos a exigir a esas 300 mil personas que entraron de manera irregular y que no han regularizado sus documentos que dejen nuestra patria. Que dejen nuestra patria. Y les quedan 126 días. 126 días para que libremente dejen nuestra patria. Porque después van a tener que abandonar siempre con respeto, porque nosotros les estamos dando un aviso respetuoso. Les decimos, ustedes se enteraron por la ventana, ustedes están infringiendo las normas de Chile, no vuelvan a hacerlo. Si quieren algún día volver a Chile, salgan por la puerta, para que vuelvan a entrar por la puerta. Pero si no, no van a volver nunca más a Chile. Y si no se van antes, se van a ir con lo opuesto. Va a ser duro, va a ser difícil, pero lo vamos a hacer. Y tenemos no se van antes, se van a ir con lo opuesto. Va a ser duro, va a ser difícil, pero lo vamos a hacer. Y tenemos que pedirle a los parlamentarios que nos apoyen, porque buscamos un parlamento para Chile. No queremos más parlamentarios que nos digan que van a hacer una cosa y votan algo distinto. Tenemos que exigirle a nuestros parlamentarios que cumplan la palabra, que cumplan lo que dicen en sus carteles, que cumplan lo que dicen en sus programas. Y ahí vamos a trabajar juntos, más allá de las diferencias políticas, más allá de la diferencia partidaria que tengamos, porque resguardar el orden y la libertad estaría de todos los parlamentarios, no de un grupo. También le decimos a aquellos delincuentes, a aquellos líderes del crimen organizado, que los vamos a buscar, los vamos a juzgar y los vamos a encerrar. Y van a respetar a los gendarmes, y van a usar su uniforme, y van a comerse la comida que se les dé. Vamos a recuperar las cárceles, porque el Estado es el que manda, no los delincuentes. También les digo que vamos a cortar el gasto político. Y ahora sí pueden decir fuerte y claro a aquellos operadores políticos, a aquellos apitutados. A ellos delegamos, y fuera! ¡Y fuera! Y ordenen sus cosas antes de que queden en vergüenza. Porque algunos de ellos ocultan todo y nada queda en la oscuridad. Todo aparece. La luz va a llegar y con fuerza. Y también les decimos que vamos a recuperar la economía en Chile. Vamos a volver a crecer. Así como hemos vuelto a creer, vamos a volver a crecer. Y va a haber más y mejor empleo. Porque lo que Chile necesita hoy día es pleno empleo. Y cuando ellos obstaculizan todo y no dejan que se agrande el puerto aquí en Valparaíso, cuando no dejan que tengamos un puerto externo y un megapuerto en San Antonio, lo que le están haciendo es darle la facilidad a nuestros vecinos. Sí, y nuestros vecinos crecen y crecen y crecen. Y nosotros ahí, preocupados por las limitaciones que nos imponen algunos que dicen que cuidan la naturaleza, pero no son capaces de cuidar a las personas. Y ahí están los hospitales que detienen un año porque hay un hallazgo. Aparece una punta de una flecha. Sí, cuidémosla, mostrémosla. Aparece un cántaro. Y se preocupan más del cántaro que de una persona que está por morir por cáncer. Aquí en San Antonio, una niña no pudo acceder a una cama prioritaria en el mundo privado porque la ideología de una persona dijo yo no la voy a llevar a un hospital privado, a una cama privada. Una vergüenza lo que ha ocurrido en Chile con la ideología. Y el extremo animalismo, el extremo ambientalismo, el extremo indigenismo nos tiene hoy día detenidos. Un país que podría estar creciendo con fuerza, que podría dar empleo a millones de personas, no lo hace, porque la ideología de unos pocos nos limita. Y ese desafío que nos dejó planteado un gran hombre en Chile después de un terremoto, ese desafío de levantar Chile, nosotros lo vamos a hacer. Porque nos vamos a recuperar de este terremoto político al que nos ha sometido este gobierno. Y ese orden, ese mérito, ese trabajo, esa economía por la cual vamos a trabajar, también nos tiene que llevar a pensar en el alma de Chile. Porque esto es lo económico, el pleno empleo, la vivienda, el trabajo, pero el alma de Chile también está rota, porque esa alma de Chile no ha tenido la libertad, la libertad de expresión, la libertad de culto, la libertad de volver a creer en lo que cada uno siente en su corazón. Han mancillado nuestra bandera. Esa bandera que hoy día, curiosamente, volvieron a levantar. Y hoy día ustedes los pueden ver, sin ninguna vergüenza, a aquellos que mancillaron la bandera, a aquellos que aplaudieron a los que mancillaron la bandera aquí, en Valparaíso, con el auspicio de alguien que hoy día se presenta al Parlamento y que dirigió los destinos de la ciudad de Valparaíso, a esos les decimos que nosotros nos sentimos orgullosos de nuestra bandera, de nuestro himno nacional, que nuestra bandera va a volver a flamear en lo alto de nuestros cerros, así como flanea hoy día en las viviendas más humildes. Ese chileno humilde, ese chileno humilde que cuando va a la graduación de su hijo en octavo básico, en cuarto medio, en un título universitario, se pone corbata, se pone corbata, porque la corbata no es clasista, no es discriminatoria, la corbata para un evento familiar, para un evento importante, distingue y refleja el cariño que sentimos, el esfuerzo que hemos hecho para que nuestros hijos salgan adelante. Por lo tanto, señor presidente, empieza a usar la corbata igual que su ministro de Hacienda, igual que su pupilo que perdió en las primarias que le cuesta por Chile no reniegue de algo que todos hacen un esfuerzo a nosotros el himno, al menos a mí, el himno nacional me emociona, ellos quisieron cambiar el himno, gracias ellos quisieron cambiar nuestro himno, ellos quisieron anular himno. Gracias. Ellos quisieron cambiar nuestro himno. Ellos quisieron anular nuestra fe. Y esos principios, esos principios que son de aquí, del corazón, esa cruz, esa fe que llevamos en el corazón, también la vamos a defender. ¿No es cierto, Esteban? La vamos a defender. ¿Es cierto, Benja? Que ahí el corazón, también la vamos a defender. ¿No es cierto Esteban? La vamos a defender. ¿No es cierto Benja? Que ahí está Benja. La vamos a defender. Y lo haremos con esperanza, con templanza y con coraje. Y vamos a volver a hablar de Dios. Vamos a volver a hablar de la patria. Y vamos a volver a hablar de la familia, porque son esos los valores que han sustentado la solidez de nuestra patria y no tenemos que sentir temor frente a lo que nos digan. Y con esa mirada puesta en el futuro vamos a cuidar esos valores trascendentes que han hecho de Chile una gran nación y ya voy terminando para que no se preocupen vamos a ir cerrando en breve saluden al dron que está volando ahí hagamos una imagen saluden Vamos a ir cerrando en breve. ¡Saluden al dron que está volando ahí! Hagamos una imagen. Se siente, sí, se siente que vamos a recuperar y reconstruir Chile. Pero... ¡Más presidente, presidente! Muchas gracias. ¡Más presidente, presidente! ¡Más presidente, presidente! Les quiero decir que esta no es una elección más. Esta es la elección más importante de toda nuestra generación. Ahora, el 16 y después el 14, tenemos que decir que vamos a tener que elegir entre el caos, el desorden, el desgobierno y la destrucción a la que hemos visto sometida nuestra nación frente al orden, al verdadero gobierno y a la prosperidad. Es esto contra esto. Y le aseguro que esto va a envolver a esto. Y los vamos a derrotar. Los vamos a derrotar. Porque esta mano abierta, esta mano amable, va a envolver a este puño duro, a este puño duro político que ahora va a ser un puño duro contra la delincuencia. Pero esto va a ganar y vamos a recuperar la seguridad, el empleo, vamos a mejorar la atención en salud, vamos a terminar con las listas de espera. Hoy día hablaba con un amigo que venía de Petorca, con una persona a cambiarse a una operación de cadera. Y cuando venía llegando le dicen, no, devuélvase. Habían hecho la hora, habían hecho los exámenes, y cuando ya tenía toda la esperanza puesta de que le iban a atender,, no, devuélvase. Habían hecho la hora, habían hecho los exámenes. Cuando ya tenía toda la esperanza puesta de que le iban a atender, le dicen devuélvase. ¿Devuélvase quizás hasta cuándo? Porque cada año en Chile mueren 40.000 compatriotas en la lista de espera y eso es inaceptable. Eso debería hacer que el presidente no duerma. Eso debería hacer que el presidente pida cuentas todos los días de cuál es el avance en la reducción de la lista de espera. Pero no hay mucho que esperar de él. Porque tampoco ha sido capaz de mirar todos los días cuántas casas se han recuperado del incendio que ocurrió aquí en esta zona. Porque no les interesa. No les interesa. Les interesa más apitutar a sus amigos en alguna embajada, después traerlos de vuelta para que vayan a alguna candidatura. Les interesa más cuidarse entre ellos que cuidar a los chilenos. Un presidente que de verdad ame a la patria tiene que estar preocupado todos los días de cuántas personas han sido bien atendidas en su salud, de cuántas personas han recuperado su vivienda después de un mega incendio. Los recursos están porque se asignaron. Lo que no hay es gestión, lo que no hay es dedicación al trabajo bien hecho. Y lamentablemente hemos tenido en estos años un presidente que no ha estado a la altura del cargo. Entró a la moneda y no salió más a ver el sufrimiento de los chilenos. Prometió cuidar a las mujeres y protegió a un abusador......esos son, así se comportan......cuántas personas creyeron que él de verdad iba a proteger a las mujeres......y votaron por él y hoy día están arrepentidas......porque cuando tenía que denunciar a un abusador lo protegió y le prestó la moneda para que se despidiera le prestó los recursos para que viajara y volviera lo dejó ir al parlamento a defender el presupuesto y sólo cuando un medio de comunicación lo publicó le le dijo que tienes que ir. Pero no te preocupes, aprovecha la moneda y despídete. Inaceptable. Alguien que prometió más trabajo ha generado más desempleo que nadie en los últimos 15 años. Y tienen tan poca vergüenza que le han pedido a la persona que estaba a cargo del tema del trabajo que asumiera la continuidad de este gobierno fracasado y ese es el legado que nos va a dejar, el desempleo la inseguridad. El actual presidente no va a dejar ningún legado, ninguno, por más que se esfuerce, por más que levante temas para dividirnos, por más que use la cadena nacional para agredir cobardemente a sólo un candidato. Alguien que ni siquiera ha sabido llevar el presupuesto de la nación, porque llevan tres años con presupuestos desbalanceados. Y después nos apuntan a nosotros con el dedo y dicen no es posible recortar 6 mil millones y le decimos si es posible y lo vamos a hacer en 18 meses y lo vamos a sorprender y le vamos a quitar los pitutos, le vamos a quitar los convenios, le vamos a demostrar lo que es gestión, le vamos a mostrar cómo la genteutos, les vamos a quitar los convenios, les vamos a demostrar lo que es gestión, les vamos a mostrar cómo la gente vuelve a invertir en Chile. Y también, así como el actual presidente amenazó al expresidente Piñera, lo acusaron constitucionalmente. Yo tuve diferencias con el gobierno de Sebastián Piñera, pero nunca me perdí. Siempre estuve al lado de la defensa de la patria. Y cuando se nos requirió, estuvimos ahí, en pandemia y en estallido. Tuvimos diferencias, sí, pero jamás se nos habría ocurrido acusarlo constitucionalmente por algo que no era su responsabilidad y que fue incentivado por la misma izquierda, esa izquierda que quería derrocar a un gobierno legítimamente elegido por la ciudadanía. Ellos son capaces de todo y también ocultan todo. Y así como él amenazó al presidente Sebastián Piñera, nosotros no lo amenazamos al actual presidente. Solo le decimos que vamos a transparentar todo, que nada va a quedar oculto, que todo se va a saber, que vamos a hacer una auditoría total de todos los ministerios, de todas las asignaciones que hicieron y los vamos a dejar en evidencia. Y aunque le entreguen su dieta, aunque le entreguen las asignaciones, porque le hemos pedido que sea digno, que reciba la dieta, sí, pero que renuncie a las asignaciones. Presidente, yo creo que usted con la dieta de 6 millones líqu, puede perfectamente tener y honrar el cargo de expresidente. Aunque no se lo merezca, dejémoselo, pero renuncie a las asignaciones. Dele esos 10 millones de asignaciones a los chilenos más necesitados. Aquellos que usted no cuidó, que no protegió durante su gobierno, dé el ejemplo. Los 10 millones mensuales, los 120 millones al año, no le van a cambiar la vida a Chile. Pero son una señal. Son la muestra de algo que él puede hacer para que otros también se la jueguen pero como les digo lo vamos a transparentar todo y lo que sí les puedo asegurar es que nunca más va a volver a ser presidente de Chile nunca más va a volver a ser presidente de Chile. Nunca más. Cinco, cinco. Vamos a contar. Cinco, cinco, vamos a contar Cinco, cinco, cinco, cinco, cinco Y ese cinco lo vamos a celebrar porque vamos a ganar Esta elección más importante la vamos a ganar Pero también tenemos que ganar el Parlamentocción más importante la vamos a ganar, pero también tenemos que ganar el Parlamento. Y ahí les quiero pedir el último esfuerzo. Diez días. Diez días. Diez días donde les pedimos media hora, media hora al día, para difundir el mensaje del cambio a través de las redes sociales, en un semáforo, en una feria. Las banderas que se van a llevar, levántenlas en un semáforo. Todos van a saber que son patriotas, que son chilenos de corazón. Cada vez que vayan a la oficina, dedíquenle media hora, llevan la bandera bien guardadita en el bolsito, separan un semáforo y la agitan. 15 minutos, en cualquier semáforo, en cualquiera. Todos van a saber que ustedes son la fuerza del cambio, que ustedes están apoyando a la lista K al Parlamento. Ayúdennos, si no pueden esa media hora en la calle, porque hubo unos más tímidos, en las redes sociales, pero de frente, con el nombre real. No usen pseudónimo. Digan, aquí estoy, yo soy José Antonio Kast y voy por ti, Gabriel Boric. Yo soy, te miro a los ojos, así como te miré el día que ganaste, el día que te fui a felicitar, el día que te dije que íbamos a apoyar en lo que pudiéramos si pensabas en Chile. Pero se te olvidó Chile. Entraste a la moneda, no saliste nunca más. Y te olvidaste de los chilenos y solo te acordaste de tus amigos. Bueno, nosotros queremos que ustedes en las redes sociales, con su cara, con su rostro, defiendan las ideas de la libertad. Porque tenemos las mejores ideas. Como les digo, nosotros no necesitamos agredir a nadie, no necesitamos insultar a nadie. Porque nuestras ideas son las que hacen surgirir las naciones son nuestras ideas en la libertad los que mejoran la calidad de vida de las personas y eso lo tenemos que hacer mirando los ojos con valentía sin miedo sin temor y el triunfo como decían antes va a ser hermoso y va a ser hermoso. Y va a ser hermoso. Y vamos a recuperar la dignidad de Chile. Esa dignidad que nos quisieron arrebatar. Esa bandera va a volver a flamear limpia y orgullosa en nuestros techos. Y hicemos nuestras banderas en nuestras casas. Himos la bandera el Día del Triunfo, pero les quiero decir que en cuatro años más ustedes se van a sentir orgullosos, orgullosos de ustedes porque se atrevieron, porque levantaron la bandera, porque votaron por el cambio y se van a sentir orgullosos, orgullosos de ustedes porque se atrevieron, porque levantaron la bandera, porque votaron por el cambio y se van a sentir orgullosos de un gobierno que le va a entregar la banda presidencial a alguien del sector, porque nosotros vamos a celebrar de verdad, vamos a celebrar de verdad el día que este gobierno que parte el 11 de marzo, aquí al lado, en Valparaíso, ahí donde nos entreguen, donde me entreguen la banda presidencial. Y lo decreto. Lo decreto hoy día. Vamos a ganar. Y va a ser un gran triunfo. Y ese día, ese día comienza nuestro trabajo. Ese día vamos a comenzar a cambiarle la vida a los chilenos. Y ustedes, cuando entreguemos esa banda, van a sonreír. Igual que van a sonreír hoy día, o que están sonriendo hoy día, que van a sonreír el 16 de no que están sonriendo hoy día, que van a sonreír el 16 de diciembre, el 14, perdón, el 16 de noviembre, el 14 de diciembre y van a volver a decir qué bien se siente en esta patria, esta patria grande, libre y justa para todos los chilenos. ¡Que viva Chile! ¡Que viva Valparaíso! ¡Que viva la fuerza del cambio! Muchas, muchas gracias y nos vemos aquí en 10 días más, celebrando el triunfo del cambio. De verdad, muchas, muchas gracias. Y ahora le voy a pedir, aquí está, le voy a pedir a la pía que levanten las banderas, sonrían y que nos saquemos una gran selfie. Y después que se queden a celebrar con la fiesta del cambio. Con los vikings 5, 5, 5. Un aplauso para José Antonio Cásico y la primera dama fría de la zona. Levanten las banderas, sonrían, estén preparados. Quiero un grito, quiero un grito, un grito de Niña del Mar para Valparaíso, para toda la región, para todo Chile. Todas las banderas arriba para una foto con el futuro presidente de Chile, José Antonio Kast. Muchas gracias. Gracias. No te des más vueltas. No te des más vueltas! ¡No te des más vueltas! ¡Cambiate al cinco! ¡Cambiate acá! ¡Ponta cinco! ¡Ponta cinco! ¡Tiene el mejor plan! ¡Implacable escudo fronterizo! ¡Mano firme es lo preciso! ¡Cero esperas auditoria total! ¡Todo en orden, punto final. Quiero un grito de Villa del Mar. Tu casa reinicia, sácate la mochila, cáncer, pero protección a la infancia Muchas gracias Fidel Mar Y ya comienza en breve Mis buenos amigos Del aclamado grupo musical Los Piquín 5 Yo te dejo a suelta Yo te dejo a suelta del aclamado grupo musical Los Piquen 5 Este es un llamado de emergencia a todas las fuerzas, a cada chileno que ya no va a trabajar. Somos la fuerza, la fuerza del cambio. Del cambio, la fuerza del cambio. Somos la fuerza, la fuerza del cambio. Del cambio, la fuerza del el cambio lo empuja, la gente es val espera, el cambio no miente El cambio lo empuja, la gente valiente El cambio no es moda, es necesidad Es romper la trampa de la desigualdad El cambio es semilla, es grito, camino Es fuerza en la pime, en la madre, en el niño Cambia la historia si juntos remamos Si Chile no se rinde, lo transformamos No es con discursos, ni frases bonitas, la fuerza del cambio es la que palpita Si nos unimos, la historia cambia, Mochile se levanta y todos ganamos La fuerza, la fuerza del cambio, del cambio, del cambio Nos unimos la historia, cambiamos Chile, se levanta y todo ganamos. ¡Somos la fuerza, la fuerza del cambio! ¡Del cambio, del cambio! ¡Somos la fuerza, la fuerza del cambio! ¡Del cambio, la fuerza del cambio! ¡Somos la fuerza, la fuerza del cambio! ¡Del cambio, la fuerza del cambio! ¡Somos la fuerza, la fuerza del cambio! ¡Del cambio, la fuerza del cambio Del cambio, la fuerza del cambio La fuerza, la fuerza del cambio Del cambio, la fuerza del cambio",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "No es con discursos ni frases fonitas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "La fuerza del cambio es la que palpita",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Si nos unimos la historia",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Cambiamos Chile se levanta",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Y todos ganamos",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Oh, oh, oh, oh",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Del que yo quiero un favorito",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "Más fuerte, más fuerte",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 19.0,
+      "end": 24.18,
+      "text": "Que se junte vida y mal Para todos ustedes, para todos! ¡Feliz Navidad!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 26.08,
+      "end": 38.0,
+      "text": "Antonio, ha acompañado por la primera vez a la ciudad, un tremendo aplauso para todos los que están representando a los perros del campo y a todos aquellos que están disponibles!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 39.46,
+      "end": 48.8,
+      "text": "¡Milloneros, fuerza! ¡Cambio! ¡Fuerza! ¡Cambio! ¡Fuerza! ¡Cambio! ¡Fuerza! ¡Cambio!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 48.98,
+      "end": 52.68,
+      "text": "¡Si vosotros cinco, si vosotros atacás, vota cinco!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 53.76,
+      "end": 58.56,
+      "text": "¡Vota cinco! ¡Vota cinco! ¡Vota cinco!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 59.3,
+      "end": 70.0,
+      "text": "¡Un aplauso, Villa del Mar! ¡Muchas gracias! Muchas gracias.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 74.0,
+      "end": 86.0,
+      "text": "¿Tenía el micrófono? ¿Tenía un micrófono? Voy a... no sé si con este se escucha, pero...",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 88.72,
+      "end": 92.36,
+      "text": "Muy, muy buenas tardes.",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 94.82,
+      "end": 97.76,
+      "text": "¿Cómo les explico lo contento que puedo estar aquí?",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 98.76,
+      "end": 100.28,
+      "text": "Ustedes podrían decir, ¡Anthony!",
+      "speaker": "Kast"
+    },
+    {
+      "start": 105.28,
+      "end": 106.88,
+      "text": "Siempre quise hacer esto.",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 108.62,
+      "end": 113.32,
+      "text": "Les agradezco infinito, infinito que estén acá, la paciencia que nos han",
+      "speaker": "Kast"
+    },
+    {
+      "start": 113.32,
+      "end": 121.24,
+      "text": "tenido, el trabajo que han realizado y gracias también a la PIA, que me ha bancado y me ha",
+      "speaker": "Kast"
+    },
+    {
+      "start": 121.24,
+      "end": 125.98,
+      "text": "acompañado en todas estas aventuras. Y como decimos, la tercera es la vencida",
+      "speaker": "Kast"
+    },
+    {
+      "start": 125.98,
+      "end": 128.02,
+      "text": "así que",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 128.02,
+      "end": 130.5,
+      "text": "gracias una vez más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 130.5,
+      "end": 132.36,
+      "text": "por estar aquí, gracias a todos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 132.36,
+      "end": 134.66,
+      "text": "los que son candidatos, a los que se la han jugado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 134.66,
+      "end": 136.68,
+      "text": "lo van a pasar increíble",
+      "speaker": "Kast"
+    },
+    {
+      "start": 136.68,
+      "end": 137.9,
+      "text": "y acuérdense que después",
+      "speaker": "Kast"
+    },
+    {
+      "start": 137.9,
+      "end": 140.78,
+      "text": "vienen también unos artistas connotados",
+      "speaker": "Kast"
+    },
+    {
+      "start": 140.78,
+      "end": 143.26,
+      "text": "que llevan, aunque estén lo que eran, el 5.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 146.64,
+      "end": 149.34,
+      "text": "Y miren el día que nos han regalado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 149.82,
+      "end": 152.86,
+      "text": "Una ventana al cielo para mirar alto,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 153.56,
+      "end": 155.0,
+      "text": "para volver a tener esperanza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 155.0,
+      "end": 159.58,
+      "text": "y creer de verdad que todo es posible y que todo va a estar bien.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 168.24,
+      "end": 169.38,
+      "text": "Sonrían a la cámara.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 174.54,
+      "end": 175.8,
+      "text": "Ahora levanten la bandera Toda la bandera que tengan",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 175.8,
+      "end": 179.5,
+      "text": "Se pasaron",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 179.5,
+      "end": 182.36,
+      "text": "De verdad, gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 190.0,
+      "end": 191.0,
+      "text": "¡Gracias! De verdad, gracias. Gracias.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 193.0,
+      "end": 194.0,
+      "text": "Casi me lo como.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 204.68,
+      "end": 206.64,
+      "text": "¡La juventud de Chile porque yo solamente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 206.64,
+      "end": 209.12,
+      "text": "levanto la voz",
+      "speaker": "Kast"
+    },
+    {
+      "start": 209.12,
+      "end": 210.94,
+      "text": "como la hemos levantado varios",
+      "speaker": "Kast"
+    },
+    {
+      "start": 210.94,
+      "end": 213.04,
+      "text": "por todos los chilenos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 213.04,
+      "end": 217.26,
+      "text": "así que somos chilenos de corazón, somos la juventud de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 217.26,
+      "end": 223.42,
+      "text": "Chile, somos los adultos mayores, las personas mayores de Chile, son los candidatos de Chile, porque vamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 223.42,
+      "end": 228.48,
+      "text": "a recuperar también el Parlamento. No solamente vamos a recuperar Chile, sino que vamos a recuperar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 228.48,
+      "end": 233.86,
+      "text": "el Parlamento. Y quiero partir agradeciéndole a usted, ya lo saludaron, lo escucharon.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 234.34,
+      "end": 240.08,
+      "text": "Pero aquí están nuestros candidatos al Senado, nuestros candidatos al Parlamento en la Cámara de Diputados.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 240.08,
+      "end": 249.38,
+      "text": "Y así como es importante ganar ahora la presidencial, es muy importante ganar la parlamentaria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 249.78,
+      "end": 258.6,
+      "text": "Y ahí todos ustedes son clave, porque ese día, el día 16, tenemos que estar todos ahí firmes como apoderados de mesa.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 259.26,
+      "end": 264.62,
+      "text": "Y ese es un compromiso que les quiero pedir ahora, porque muchas veces uno mira la presidencial,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 265.48,
+      "end": 271.54,
+      "text": "pero al lado se elige lo más relevante para un futuro presidente, que es un Congreso para Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 272.14,
+      "end": 276.38,
+      "text": "Así que a nuestros candidatos al Senado, a Alberto Soto, gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 276.38,
+      "end": 283.14,
+      "text": "Alberto por aceptar este desafío. A Soledad Loyola, gracias por levantar las banderas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 283.14,
+      "end": 289.22,
+      "text": "de la libertad. A Esteban Maraona, un hombre de fe, un hombre comprometido, gracias por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 289.22,
+      "end": 290.34,
+      "text": "también jugártela",
+      "speaker": "Kast"
+    },
+    {
+      "start": 290.34,
+      "end": 296.82,
+      "text": "por Chile. Y a uno que yo tengo que hacerle un reconocimiento especial a un candidato,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 297.06,
+      "end": 302.98,
+      "text": "porque permitió que tuviéramos un pacto, que firmó por todos nosotros para que fuéramos candidato,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 303.12,
+      "end": 305.86,
+      "text": "Arturo Esquella, gracias una vez más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 305.86,
+      "end": 312.22,
+      "text": "por estar ahí ayudándonos y levantando de nuevo la esperanza de Chile y nuestros candidatos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 312.22,
+      "end": 317.64,
+      "text": "diputados porque hoy día nos acompañan de los dos distritos, del distrito 6 que es el interior, la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 317.64,
+      "end": 321.88,
+      "text": "cordillera majestuosa y ahí está Benjamín Lorca, un hombre también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 321.88,
+      "end": 327.98,
+      "text": "de fe, un hombre que se la juega. Está Manuel Millones, con quien nos conocemos hace mucho",
+      "speaker": "Kast"
+    },
+    {
+      "start": 327.98,
+      "end": 334.4,
+      "text": "tiempo. Gracias, Manuel, por estar ahí y dar la cara en esta batalla, que es una batalla",
+      "speaker": "Kast"
+    },
+    {
+      "start": 334.4,
+      "end": 335.44,
+      "text": "por Chile. Marlén González está por ahí también. Marlén, muchas gracias por estar ahí y dar la cara en esta batalla, que es una batalla por Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 340.1,
+      "end": 340.64,
+      "text": "Marlén González está por ahí también. Marlén, muchas gracias.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 344.0,
+      "end": 344.9,
+      "text": "Y está también Rodolfo Ponce por ahí. Ahí está Rodolfo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 347.84,
+      "end": 347.92,
+      "text": "Gracias también por atreverte, por ser un atrevido.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 351.24,
+      "end": 351.84,
+      "text": "Y para qué decir también a Kiara Barquesi, que está por ahí.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 358.02,
+      "end": 358.36,
+      "text": "Kiara, que ha defendido todos nuestros principios y valores en la Cámara de Diputados.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 363.0,
+      "end": 368.04,
+      "text": "Y aquí, junto al mar, el Distrito Número 7, tenemos a Rafael González. Don Rafa, ¿dónde? Levanta la mano, Rafa. Ahí,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 368.26,
+      "end": 376.38,
+      "text": "gracias. Muy elegante. Está también Ángela Carrasco, que está aquí acompañándonos. Está",
+      "speaker": "Kast"
+    },
+    {
+      "start": 376.38,
+      "end": 386.66,
+      "text": "Sebastián Zamora. Vamos a reivindicar. Ahí está Sebastián. Vamos a reivindicar el nombre de nuestra noble institución de carabineros de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 387.2,
+      "end": 398.94,
+      "text": "Está también una voz que ustedes conocen, Juan Alberto Sepúlveda, una voz conocida en la radio festival. Y también Bárbara Vera. Bárbara, gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 398.94,
+      "end": 406.86,
+      "text": "por estar aquí. Y para qué decir, uno grande y nuestro, uno alto que destaca. Ahí está Luis Fernando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 406.86,
+      "end": 410.48,
+      "text": "Sánchez, muy bien acompañado además, lo veo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 415.6,
+      "end": 416.92,
+      "text": "Gracias Luis Fernando por el trabajo que realizan hoy día en el Congreso.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 424.1,
+      "end": 424.76,
+      "text": "Y como les decía cuando caminaba ahí con la pía, qué orgullo, qué alegría de verlos aquí.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 427.5,
+      "end": 433.24,
+      "text": "Gracias por esa sonrisa, gracias por esa mano levantada, abierta, como decía Rodolfo Carter, nos ha enseñado, que nosotros levantamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 433.24,
+      "end": 439.08,
+      "text": "la mano abierta, esa mano generosa, no un puño cerrado. El puño cerrado es para combatir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 439.08,
+      "end": 440.72,
+      "text": "la delincuencia. La mano",
+      "speaker": "Kast"
+    },
+    {
+      "start": 440.72,
+      "end": 446.82,
+      "text": "abierta es para acoger a los necesitados. Y aquí somos miles, en Chile somos millones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 447.24,
+      "end": 456.32,
+      "text": "Y lo que uno ve aquí es esperanza, es fuerza, es trabajo, es amor por Chile. Ese amor por Chile que nos distingue a nosotros.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 456.92,
+      "end": 461.5,
+      "text": "Nosotros vamos con la frente en alto, vamos mirando a las personas a la cara.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 462.08,
+      "end": 465.54,
+      "text": "No ocultamos nuestro rostro detrás de un paño oscuro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 466.1,
+      "end": 470.64,
+      "text": "No organizamos manifestaciones para destruir lo que a todos nos ha costado construir.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 471.34,
+      "end": 480.86,
+      "text": "Nosotros amamos Chile y por eso cuidamos nuestra patria. Y este no es un encuentro cualquiera,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 480.94,
+      "end": 488.72,
+      "text": "este no es un acto cualquiera. Es el primer acto de cierre de campaña, porque estamos en la recta final.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 490.7,
+      "end": 491.5,
+      "text": "Gracias.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 495.94,
+      "end": 498.74,
+      "text": "Estamos en esa recta final.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 499.58,
+      "end": 506.34,
+      "text": "Nos quedan diez días y en un domingo más allá espero que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 506.34,
+      "end": 513.04,
+      "text": "puedan y estoy seguro que aquí mismo se van a reunir a celebrar un triunfo histórico que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 513.04,
+      "end": 516.86,
+      "text": "le vamos a dar a nuestros compatriotas, un triunfo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 516.86,
+      "end": 523.22,
+      "text": "que va a ser un anticipo de lo que va a ocurrir en Chile, de cómo vamos a recuperar y reconstruir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 523.22,
+      "end": 532.62,
+      "text": "nuestra patria. Y eso lo vamos a celebrar el 16, el domingo 16, aquí, después de que cada uno vuelva de haber cuidado los votos en las mesas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 533.42,
+      "end": 536.0,
+      "text": "Y nada de salir a celebrar la presidencial",
+      "speaker": "Kast"
+    },
+    {
+      "start": 536.54,
+      "end": 539.74,
+      "text": "si no hemos cuidado los votos de los diputados y los senadores.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 540.8,
+      "end": 544.28,
+      "text": "Así que cuidamos los votos y después celebramos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 545.1,
+      "end": 547.0,
+      "text": "Y como les digo, ese va a ser un anticipo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 547.66,
+      "end": 553.12,
+      "text": "Y un anticipo de un trabajo que hemos desarrollado hace ya muchos años.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 553.88,
+      "end": 560.66,
+      "text": "Y ustedes son aquellas personas que han creído, que han vuelto a creer, a creer en Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 561.1,
+      "end": 567.28,
+      "text": "Esta pulsera para volver a creer del año 2017, que algunos todavía guardan como un recuerdo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 567.88,
+      "end": 573.12,
+      "text": "algunos yokis, algunas banderas, porque nos atrevimos y dijimos vamos a volver a creer.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 573.62,
+      "end": 576.94,
+      "text": "Y el 2021 nos atrevimos. Todos ustedes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 576.94,
+      "end": 582.24,
+      "text": "son atrevidos. Personas que levantaron, a pesar de las dificultades, a pesar del momento",
+      "speaker": "Kast"
+    },
+    {
+      "start": 582.24,
+      "end": 588.58,
+      "text": "duro que vivía Chile, levantaron de nuevo la bandera nacional. Porque nos fuimos cansando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 588.58,
+      "end": 591.36,
+      "text": "y nos hemos cansado de cómo han mancillado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 591.36,
+      "end": 598.36,
+      "text": "nuestra bandera. Y ese volver a creer, ese atrevimiento, es para recuperar nuestra patria",
+      "speaker": "Kast"
+    },
+    {
+      "start": 598.36,
+      "end": 607.9,
+      "text": "libre, grande, soberana, una patria que estamos dispuestos a defender desde Arica a Magallanes. Dale las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 607.9,
+      "end": 613.96,
+      "text": "gracias a todos los que han venido de los distintos rincones de esta gran región de Valparaíso. 38",
+      "speaker": "Kast"
+    },
+    {
+      "start": 613.96,
+      "end": 620.62,
+      "text": "comunas, no las voy a mencionar porque son muchas, pero las he recorrido todas menos una. Ya vamos a ir a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 620.62,
+      "end": 625.0,
+      "text": "Juan Fernández. En algún momento llegaremos a Juan Fernández y también le daremos las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 625.0,
+      "end": 631.02,
+      "text": "gracias a los que hacen patria en una isla, aislados. Es muy difícil llegar, pero pucha",
+      "speaker": "Kast"
+    },
+    {
+      "start": 631.02,
+      "end": 637.72,
+      "text": "que es importante el trabajo que realizan ahí nuestros pescadores. Pucha que es importante ahí recibir a esos turistas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 638.34,
+      "end": 643.28,
+      "text": "Es importante recordar también a aquellos que perdieron la vida viajando a esa isla.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 644.02,
+      "end": 648.44,
+      "text": "Ellos nos fijaron un norte, nos plantearon un desafío, que era un desafío de levantar Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 649.02,
+      "end": 653.5,
+      "text": "Y nosotros vamos a volver a levantar Chile. Porque no hay terremoto, no hay aluvión, no hay protesta,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 653.6,
+      "end": 656.42,
+      "text": "no hay estallido que nos detenga, porque ahí estamos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 657.84,
+      "end": 664.52,
+      "text": "Y gracias también a los que ayudan a levantar este escenario, a que nosotros podamos estar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 664.52,
+      "end": 666.46,
+      "text": "aquí y después también disfrutar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 666.46,
+      "end": 672.9,
+      "text": "un rato entretenido en familia. Es mucho trabajo, es gente que se ha esforzado aquí y a lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 672.9,
+      "end": 678.04,
+      "text": "largo de todo Chile. Este es un acto para nosotros de verdad relevante. Gracias por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 678.04,
+      "end": 681.06,
+      "text": "ese trabajo. Ahí está Fonsi, y en nombre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 681.06,
+      "end": 687.78,
+      "text": "tuyo saludo y agradezco a todos los que hacen posible que esté todo bien dispuesto. Gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 687.78,
+      "end": 693.24,
+      "text": "a todos ustedes que han llevado por largo tiempo el mensaje del cambio, de la fuerza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 693.24,
+      "end": 695.58,
+      "text": "del cambio a todos los hogares,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 696.18,
+      "end": 702.32,
+      "text": "en todas las ferias, en sus trabajos, en sus tiempos de recreación. Ustedes hablan de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 702.32,
+      "end": 708.06,
+      "text": "libertad, ustedes hablan de esfuerzo, ustedes hablan de alegría, de esperanza. Bueno, eso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 708.06,
+      "end": 711.38,
+      "text": "nos ha permitido ir llegando a todo Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 711.96,
+      "end": 716.72,
+      "text": "Gracias a aquellos que comparten nuestro mensaje en las redes sociales.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 717.72,
+      "end": 721.04,
+      "text": "Eso es muy importante y ahí los jóvenes tienen un rol fundamental.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 722.0,
+      "end": 726.42,
+      "text": "Siempre, siempre con la verdad, siempre con las ideas, nunca",
+      "speaker": "Kast"
+    },
+    {
+      "start": 726.42,
+      "end": 733.04,
+      "text": "con ofensas, porque nuestras ideas bastan para derrotar a la ideología de la izquierda.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 733.38,
+      "end": 738.76,
+      "text": "Tenemos mejores ideas y no necesitamos ni insultar, ni agredir, ni violentar a nadie",
+      "speaker": "Kast"
+    },
+    {
+      "start": 738.76,
+      "end": 741.24,
+      "text": "para defender lo que creemos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 741.9,
+      "end": 748.82,
+      "text": "Gracias también a los que bajan la música de ese disco cast, que está increíble.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 750.2,
+      "end": 755.3,
+      "text": "Y ustedes pueden casi todos los días disfrutar algo nuevo, algo entretenido.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 755.86,
+      "end": 757.48,
+      "text": "Y así he hecho también con mucho esfuerzo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 758.08,
+      "end": 763.84,
+      "text": "Cuando ustedes ven, gracias, ajá, aquí está el backstage, ajá, cuando ustedes escuchen,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 764.38,
+      "end": 768.84,
+      "text": "vota dos, vota cinco, perdón, me quedé pegado, vota cinco, vota casi, vota cinco, vota casi.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 769.4,
+      "end": 774.04,
+      "text": "Ese es un gran amigo, una mente brillante, creativo, impresionante.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 774.18,
+      "end": 779.84,
+      "text": "O cuando escuchen un rap por ahí, también son personas que son parte del equipo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 780.48,
+      "end": 787.32,
+      "text": "Cuando ustedes vean la franja, piensen en un joven que partió hace ocho años ayudándonos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 787.32,
+      "end": 793.14,
+      "text": "con un celular, y hoy día tiene una cámara de este porte, y ese es el mérito, eso es",
+      "speaker": "Kast"
+    },
+    {
+      "start": 793.14,
+      "end": 798.62,
+      "text": "lo que nosotros creemos, que alguien que con esfuerzo está ahí y se sacrifica puede llegar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 798.62,
+      "end": 801.04,
+      "text": "a dirigir la franja presidencial",
+      "speaker": "Kast"
+    },
+    {
+      "start": 801.04,
+      "end": 806.74,
+      "text": "de alguien que, en representación de todos ustedes, puede dirigir los destinos del país.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 806.98,
+      "end": 811.78,
+      "text": "Eso es mérito, eso es esfuerzo, y eso es lo que a nosotros nos llena de orgullo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 812.36,
+      "end": 830.86,
+      "text": "Y como les digo, en el disco de Kast, en el disco del cambio, hay una de las canciones que recorre de Arica a Magallanes, y como les digo, aquí somos miles, pero al nivel de Chile somos millones, y esos millones entran a este disco y ven una canción que dice, yo no sé",
+      "speaker": "Kast"
+    },
+    {
+      "start": 830.86,
+      "end": 837.1,
+      "text": "cantarla, si estuviera Fonsi, perdón, si estuviera Yeti, Yeti, Yeti, no, no lo voy a encontrar, pero",
+      "speaker": "Kast"
+    },
+    {
+      "start": 837.1,
+      "end": 843.62,
+      "text": "después lo van a poder escuchar y dice que si hacemos un llamado de emergencia a todas las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 843.62,
+      "end": 847.66,
+      "text": "fuerzas, a todos los chilenos, a todos los chilenos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 847.66,
+      "end": 855.04,
+      "text": "que ya no aguantan más, que no quieren saber más de odio, de resentimiento, de destrucción. A todos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 855.04,
+      "end": 859.64,
+      "text": "ellos, a lo largo de Chile, a través de ustedes, a través de las redes sociales, de los medios de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 859.64,
+      "end": 864.98,
+      "text": "comunicación, les decimos que vamos a recuperar y reconstruir Chile, que vamos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 864.98,
+      "end": 872.7,
+      "text": "recuperar la seguridad, la libertad, la dignidad y el orgullo de ser chilenos. Todos, levantemos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 872.7,
+      "end": 878.38,
+      "text": "nuestras banderas para demostrar el orgullo que sentimos por nuestra patria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 879.16,
+      "end": 881.56,
+      "text": "Y me ha tocado, como les decía, recorrer Chile entero.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 882.52,
+      "end": 887.88,
+      "text": "He visto el norte que ha sido golpeado por la inmigración ilegal.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 888.64,
+      "end": 892.54,
+      "text": "He estado en comunidades en el sur que han sido asoladas por el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 892.54,
+      "end": 902.68,
+      "text": "terrorismo. Ahora las pueden bajar, gracias. He visto comunidades golpeadas por el terrorismo, víctimas del",
+      "speaker": "Kast"
+    },
+    {
+      "start": 902.68,
+      "end": 907.8,
+      "text": "terrorismo. He visto el miedo en los ojos de miles de chilenos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 908.4,
+      "end": 912.98,
+      "text": "que es el mismo miedo que a veces sienten ustedes cuando salen de su hogar y dicen habrá alguien",
+      "speaker": "Kast"
+    },
+    {
+      "start": 912.98,
+      "end": 919.24,
+      "text": "esperándome afuera para robarme el vehículo, para atentar contra la vida de mis hijos. Es la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 919.24,
+      "end": 921.46,
+      "text": "angustia que percibimos y que vemos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 921.46,
+      "end": 927.32,
+      "text": "en el rostro de las madres, que no saben si su hijo va a volver sano del colegio, porque el día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 927.32,
+      "end": 933.54,
+      "text": "hasta el lugar más protegido se ha convertido en algunos lugares en un lugar peligroso para los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 933.54,
+      "end": 936.22,
+      "text": "niños. He visto el dolor de miles",
+      "speaker": "Kast"
+    },
+    {
+      "start": 936.22,
+      "end": 941.44,
+      "text": "de chilenos que no saben si van a llegar a fin de mes con el ingreso que tienen, porque",
+      "speaker": "Kast"
+    },
+    {
+      "start": 941.44,
+      "end": 947.58,
+      "text": "viven en la informalidad, viven lamentablemente el desempleo que nos ha heredado este gobierno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 948.78,
+      "end": 951.66,
+      "text": "Pero así como he visto el sufrimiento de miles de personas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 952.32,
+      "end": 956.82,
+      "text": "también he visto la fuerza, esa fuerza que brota del alma de los chilenos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 957.44,
+      "end": 962.44,
+      "text": "esa fuerza del emprendedor, esa fuerza del que dice",
+      "speaker": "Kast"
+    },
+    {
+      "start": 962.44,
+      "end": 967.7,
+      "text": "esto no va a durar tanto tiempo, no hay mal que dure 100 años. En este",
+      "speaker": "Kast"
+    },
+    {
+      "start": 967.7,
+      "end": 976.7,
+      "text": "caso, este mal nos va a durar 4 años y nos vamos a recuperar. Porque yo al menos cuando escucho el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 976.7,
+      "end": 981.8,
+      "text": "himno, y lo escuché ahí a todo pulmón por parte de Rodolfo Cárter",
+      "speaker": "Kast"
+    },
+    {
+      "start": 981.8,
+      "end": 989.86,
+      "text": "que siempre nos sorprende. Nos sorprendió cuando derribó las casas narcos. Nos ha sorprendido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 989.86,
+      "end": 994.84,
+      "text": "cuando enfrenta con valentía el terrorismo. Y también cuando canta, cuando canta nuestro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 994.84,
+      "end": 995.84,
+      "text": "himno nacional. Y nuestro himno nacional.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 996.44,
+      "end": 1001.88,
+      "text": "Y nuestro himno nacional dice que nuestra patria es la copia feliz del Edén. Y eso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1001.88,
+      "end": 1008.6,
+      "text": "es Chile, un país maravilloso, un país increíble, que tiene esas montañas majestuosas, que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1008.6,
+      "end": 1012.22,
+      "text": "tiene este mar que ahora nos baña tranquilo. Hay veces",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1012.22,
+      "end": 1018.54,
+      "text": "que se encabrita un poco, pero tenemos las montañas, tenemos el mar, tenemos un desierto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1018.54,
+      "end": 1023.54,
+      "text": "que nos provee de minerales, de energía, que lamentablemente todavía no alcanza a llegar toda",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1023.54,
+      "end": 1031.16,
+      "text": "la energía que producimos en el norte a la zona central. Tenemos el campo chileno, ese campo que nos alimenta",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1031.16,
+      "end": 1038.9,
+      "text": "y tenemos una tremenda Patagonia y un territorio antártico increíble que nos promete ese",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1038.9,
+      "end": 1045.06,
+      "text": "futuro esplendor. Y ahí está todo reflejado en aquel autor que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1045.06,
+      "end": 1051.84,
+      "text": "reflejó en nuestro himno nacional lo que es ese Chile maravilloso, grande, nuestro, que promete",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1051.84,
+      "end": 1056.96,
+      "text": "ser un centro, un lugar de libertad para aquel que estaba oprimido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1056.96,
+      "end": 1062.44,
+      "text": "y a todos aquellos que hoy día sufren, que tienen dolor, que tienen miedo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1062.44,
+      "end": 1064.58,
+      "text": "les digo que no están solos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1064.58,
+      "end": 1069.34,
+      "text": "y así como no se entendió cuando partimos con esa frase que decía",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1069.34,
+      "end": 1074.86,
+      "text": "no se preocupen, todo va a estar bien, les puedo reiterar que todo va a estar bien.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1075.6,
+      "end": 1079.56,
+      "text": "Que vamos a estar con los que más sufren, con los que tienen más temor,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1079.98,
+      "end": 1083.92,
+      "text": "con los que tienen la angustia de enfermarse o de quedarse sin empleo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1084.3,
+      "end": 1086.78,
+      "text": "Y les digo fuerte y claro, no les vamos a fallar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1087.42,
+      "end": 1091.3,
+      "text": "Nosotros nos vamos a jugar el todo por el todo por nuestra patria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1091.92,
+      "end": 1097.48,
+      "text": "Y aquellos pesimistas, aquellos agoreros que dicen que el orden no se puede recuperar,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1097.98,
+      "end": 1100.34,
+      "text": "aquellos que nos dicen que el narco nos ganó, aquellos que nos dicen que las fronteras no se puede recuperar, aquellos que nos dicen que el narco nos ganó,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1100.88,
+      "end": 1106.0,
+      "text": "aquellos que nos dicen que las fronteras no se pueden cerrar, les decimos no sigan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1106.0,
+      "end": 1112.84,
+      "text": "mintiendo, porque eso ha ocurrido porque han sido incapaces, ineficientes, no han sido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1112.84,
+      "end": 1118.42,
+      "text": "si se puede y lo vamos a hacer con la fuerza de todos los que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1118.42,
+      "end": 1124.74,
+      "text": "están acá, porque esto no es el trabajo de una persona, es el trabajo de un equipo, de ese equipo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1124.74,
+      "end": 1129.5,
+      "text": "que tiene esa fuerza, que va a estar representada en el Parlamento, que hoy día representan nuestros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1129.5,
+      "end": 1134.14,
+      "text": "cores, a quienes olvidé saludar al inicio, gracias a los que están en los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1134.14,
+      "end": 1139.14,
+      "text": "cores regionales, gracias a nuestros concejales, a todos los concejales que están acá, a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1139.14,
+      "end": 1143.18,
+      "text": "los que no han pagado la cuota, pónganse al día, porque la próxima vez van a aparecer",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1143.18,
+      "end": 1150.34,
+      "text": "aquí en la pantalla gigante, y no es broma, así que cada uno sabe que no está al día, porque nosotros también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1150.34,
+      "end": 1155.3,
+      "text": "queremos cambiar algunas normas y queremos que nuestros partidos sean autosuficientes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1155.3,
+      "end": 1161.64,
+      "text": "y cada uno tiene que ponerse, tiene que pagar la camiseta, como la pagan todos los equipos de fútbol amateur.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1162.2,
+      "end": 1165.42,
+      "text": "Todos pagan la camiseta. Bueno, nosotros vamos a pagar la cuotita.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1166.1,
+      "end": 1177.02,
+      "text": "Así que todos los que están ahí, que no estén al día, mañana los quiero ver a todos ahí al día y la Cata Ugarte y Dulger, la Catita está por ahí. Y a Dulger",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1177.02,
+      "end": 1185.96,
+      "text": "lo vieron. Están anotando, ya están recordándoles ahí ese tema. Ese fue un bonus track. Gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1185.96,
+      "end": 1189.44,
+      "text": "a todos los que no son militantes, pero tengo que hablarle también a los militantes, a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1189.44,
+      "end": 1190.44,
+      "text": "los más comprometidos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1191.06,
+      "end": 1195.38,
+      "text": "Pero a aquellos agoreros de las malas noticias les digo, no sigan mintiendo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1196.06,
+      "end": 1202.0,
+      "text": "Chile tiene toda la fuerza, toda la energía, todas las capacidades para volver a crecer, para cerrar las fronteras,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1203.06,
+      "end": 1205.32,
+      "text": "para luchar contra el crimen organizado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1205.9,
+      "end": 1213.1,
+      "text": "Porque ellos lo que quieren ver es personas resignadas, personas asustadas, un pueblo dividido.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1213.64,
+      "end": 1219.32,
+      "text": "Y nosotros queremos un pueblo unido, un pueblo unido en torno a esos mensajes,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1219.98,
+      "end": 1221.9,
+      "text": "a esos mensajes de esperanza, de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1221.9,
+      "end": 1228.26,
+      "text": "alegría, no al mensaje del odio, no al mensaje del miedo al cual ellos nos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1228.26,
+      "end": 1247.88,
+      "text": "quieren llevar. También les digo fuerte y claro, Chile no se rinde, caramba, hay otros epítetos más que no los voy a decir aquí, pero Chile no se rinde, Chile resiste todos los embates de la naturaleza y también de aquellos malos políticos que siembran el odio.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1248.36,
+      "end": 1251.28,
+      "text": "¿Y por qué? Nosotros se lo decimos porque tenemos la fuerza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1251.28,
+      "end": 1257.06,
+      "text": "y somos capaces de volver a creer. Más allá de donde hayamos bajado, vamos a volver a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1257.06,
+      "end": 1263.86,
+      "text": "creer y vamos a volver a recuperar nuestro país. Y aquí, desde Valparaíso, yo les puedo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1263.86,
+      "end": 1267.32,
+      "text": "hacer una promesa. Vamos a recuperar el orden en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1267.32,
+      "end": 1274.84,
+      "text": "nuestras calles y ustedes van a volver a caminar tranquilos por cada una de sus comunas. Vamos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1274.84,
+      "end": 1280.36,
+      "text": "recuperar la autoridad de nuestras instituciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1280.72,
+      "end": 1288.0,
+      "text": "Vamos a recuperar el respeto a nuestros carabineros, policía de investigación, gendarme, fuerzas armadas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1289.5,
+      "end": 1298.22,
+      "text": "Y a aquellos que se han dedicado a matar, a violar, a secuestrar, a traficar, a destruir los bienes públicos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1298.6,
+      "end": 1302.46,
+      "text": "les decimos que se preparen, porque vamos a ir por ellos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1303.04,
+      "end": 1309.98,
+      "text": "Y ya no van a tener la libertad de amenazar, ahora van a tener que ir tras las rejas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1310.84,
+      "end": 1316.36,
+      "text": "Vamos a aplicar la justicia, vamos a pedirle a los fiscales que hagan su trabajo como lo están haciendo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1316.36,
+      "end": 1320.38,
+      "text": "y con más fuerza, con más recursos. Le vamos a pedir a nuestros jueces que hagan la pega",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1320.38,
+      "end": 1324.92,
+      "text": "con más recursos, con más medios. Y vamos a respaldar con toda la energía,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1325.34,
+      "end": 1329.38,
+      "text": "con todo el respaldo político y jurídico a nuestros carabineros. Y les pido un aplauso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1329.38,
+      "end": 1336.34,
+      "text": "para nuestros carabineros que salvaron nuestra patria. Un aplauso que se extienda también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1336.34,
+      "end": 1344.02,
+      "text": "para la Policía de Investigaciones, para Gendarmería y para nuestras Fuerzas Armadas, aquellos que defienden nuestra frontera y que enfrentan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1344.02,
+      "end": 1350.52,
+      "text": "a los terroristas en el sur. Y así, como les digo, que vamos a recuperar el orden,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1351.94,
+      "end": 1359.46,
+      "text": "les digo que vamos a cerrar las fronteras. Las vamos a cerrar de verdad. Le",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1359.46,
+      "end": 1365.8,
+      "text": "vamos a exigir a esas 300 mil personas que entraron de manera irregular y que no han",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1365.8,
+      "end": 1371.64,
+      "text": "regularizado sus documentos que dejen nuestra patria. Que dejen nuestra patria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1372.74,
+      "end": 1375.76,
+      "text": "Y les quedan 126 días.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1377.42,
+      "end": 1382.08,
+      "text": "126 días para que libremente dejen nuestra patria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1382.52,
+      "end": 1385.0,
+      "text": "Porque después van a tener que abandonar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1388.0,
+      "end": 1394.0,
+      "text": "siempre con respeto, porque nosotros les estamos dando un aviso respetuoso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1394.98,
+      "end": 1397.32,
+      "text": "Les decimos, ustedes se enteraron por la ventana,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1397.66,
+      "end": 1402.54,
+      "text": "ustedes están infringiendo las normas de Chile, no vuelvan a hacerlo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1403.04,
+      "end": 1407.84,
+      "text": "Si quieren algún día volver a Chile, salgan por la puerta, para que vuelvan a entrar por la puerta.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1408.66,
+      "end": 1410.72,
+      "text": "Pero si no, no van a volver nunca más a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1411.34,
+      "end": 1414.58,
+      "text": "Y si no se van antes, se van a ir con lo opuesto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1416.24,
+      "end": 1416.36,
+      "text": "Va a ser duro, va a ser difícil, pero lo vamos a hacer. Y tenemos no se van antes, se van a ir con lo opuesto. Va a ser duro,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1420.64,
+      "end": 1426.02,
+      "text": "va a ser difícil, pero lo vamos a hacer. Y tenemos que pedirle a los parlamentarios que nos apoyen, porque buscamos un parlamento para Chile. No queremos más parlamentarios",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1426.02,
+      "end": 1430.18,
+      "text": "que nos digan que van a hacer una cosa y votan algo distinto. Tenemos que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1430.18,
+      "end": 1435.08,
+      "text": "exigirle a nuestros parlamentarios que cumplan la palabra, que cumplan lo que dicen en sus",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1435.08,
+      "end": 1440.0,
+      "text": "carteles, que cumplan lo que dicen en sus programas. Y ahí vamos a trabajar juntos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1440.94,
+      "end": 1444.4,
+      "text": "más allá de las diferencias políticas, más allá de la diferencia partidaria que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1444.4,
+      "end": 1445.54,
+      "text": "tengamos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1451.84,
+      "end": 1452.72,
+      "text": "porque resguardar el orden y la libertad estaría de todos los parlamentarios, no de un grupo.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1458.24,
+      "end": 1458.68,
+      "text": "También le decimos a aquellos delincuentes, a aquellos líderes del crimen organizado,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1460.42,
+      "end": 1466.8,
+      "text": "que los vamos a buscar, los vamos a juzgar y los vamos a encerrar. Y van a respetar a los gendarmes, y van a usar su",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1466.8,
+      "end": 1472.46,
+      "text": "uniforme, y van a comerse la comida que se les dé. Vamos a recuperar las cárceles,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1472.8,
+      "end": 1476.5,
+      "text": "porque el Estado es el que manda, no los delincuentes.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1477.3,
+      "end": 1480.76,
+      "text": "También les digo que vamos a cortar el gasto político.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1481.56,
+      "end": 1487.0,
+      "text": "Y ahora sí pueden decir fuerte y claro a aquellos operadores políticos, a aquellos apitutados.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1487.92,
+      "end": 1491.82,
+      "text": "A ellos delegamos, y fuera! ¡Y fuera!",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1493.06,
+      "end": 1496.3,
+      "text": "Y ordenen sus cosas antes de que queden en vergüenza.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1497.14,
+      "end": 1501.54,
+      "text": "Porque algunos de ellos ocultan todo y nada queda en la oscuridad.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1501.78,
+      "end": 1506.68,
+      "text": "Todo aparece. La luz va a llegar y con fuerza. Y también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1506.68,
+      "end": 1512.16,
+      "text": "les decimos que vamos a recuperar la economía en Chile. Vamos a volver a crecer. Así como",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1512.16,
+      "end": 1519.62,
+      "text": "hemos vuelto a creer, vamos a volver a crecer. Y va a haber más y mejor empleo. Porque lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1519.62,
+      "end": 1521.84,
+      "text": "que Chile necesita hoy día es pleno empleo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1522.22,
+      "end": 1528.0,
+      "text": "Y cuando ellos obstaculizan todo y no dejan que se agrande el puerto aquí en Valparaíso,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1528.98,
+      "end": 1534.38,
+      "text": "cuando no dejan que tengamos un puerto externo y un megapuerto en San Antonio,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1534.98,
+      "end": 1536.0,
+      "text": "lo que le están haciendo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1536.0,
+      "end": 1541.54,
+      "text": "es darle la facilidad a nuestros vecinos. Sí, y nuestros vecinos crecen y crecen y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1541.54,
+      "end": 1548.52,
+      "text": "crecen. Y nosotros ahí, preocupados por las limitaciones que nos imponen algunos que dicen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1548.52,
+      "end": 1551.06,
+      "text": "que cuidan la naturaleza, pero no son",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1551.06,
+      "end": 1556.5,
+      "text": "capaces de cuidar a las personas. Y ahí están los hospitales que detienen un año porque",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1556.5,
+      "end": 1561.94,
+      "text": "hay un hallazgo. Aparece una punta de una flecha. Sí, cuidémosla, mostrémosla. Aparece",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1561.94,
+      "end": 1567.58,
+      "text": "un cántaro. Y se preocupan más del cántaro que de una persona que está por morir por cáncer.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1568.2,
+      "end": 1573.7,
+      "text": "Aquí en San Antonio, una niña no pudo acceder a una cama prioritaria en el mundo privado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1573.7,
+      "end": 1580.5,
+      "text": "porque la ideología de una persona dijo yo no la voy a llevar a un hospital privado, a una cama privada.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1581.02,
+      "end": 1583.8,
+      "text": "Una vergüenza lo que ha ocurrido en Chile con la ideología.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1584.44,
+      "end": 1590.88,
+      "text": "Y el extremo animalismo, el extremo ambientalismo, el extremo indigenismo nos tiene hoy día detenidos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1591.3,
+      "end": 1596.7,
+      "text": "Un país que podría estar creciendo con fuerza, que podría dar empleo a millones de personas, no lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1596.7,
+      "end": 1599.4,
+      "text": "hace, porque la ideología de unos pocos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1599.4,
+      "end": 1600.16,
+      "text": "nos limita.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1601.62,
+      "end": 1605.78,
+      "text": "Y ese desafío que nos dejó planteado un",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1605.78,
+      "end": 1607.4,
+      "text": "gran hombre en Chile después de un",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1607.4,
+      "end": 1611.04,
+      "text": "terremoto, ese desafío de levantar Chile, nosotros lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1611.04,
+      "end": 1615.9,
+      "text": "vamos a hacer. Porque nos vamos a recuperar de este terremoto político al que nos ha",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1615.9,
+      "end": 1623.14,
+      "text": "sometido este gobierno. Y ese orden, ese mérito, ese trabajo, esa economía por la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1623.14,
+      "end": 1626.38,
+      "text": "cual vamos a trabajar, también nos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1626.38,
+      "end": 1629.06,
+      "text": "tiene que llevar a pensar en el alma de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1629.8,
+      "end": 1637.62,
+      "text": "Porque esto es lo económico, el pleno empleo, la vivienda, el trabajo, pero el alma de Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1637.62,
+      "end": 1641.4,
+      "text": "también está rota, porque esa alma de Chile no ha",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1641.4,
+      "end": 1648.82,
+      "text": "tenido la libertad, la libertad de expresión, la libertad de culto, la libertad de volver",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1648.82,
+      "end": 1653.02,
+      "text": "a creer en lo que cada uno siente en su corazón.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1653.74,
+      "end": 1655.72,
+      "text": "Han mancillado nuestra bandera.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1656.44,
+      "end": 1659.3,
+      "text": "Esa bandera que hoy día, curiosamente, volvieron a levantar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1660.06,
+      "end": 1663.62,
+      "text": "Y hoy día ustedes los pueden ver, sin ninguna vergüenza,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1664.38,
+      "end": 1666.38,
+      "text": "a aquellos que mancillaron la bandera,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1667.08,
+      "end": 1675.4,
+      "text": "a aquellos que aplaudieron a los que mancillaron la bandera aquí, en Valparaíso, con el auspicio de alguien que hoy día se presenta al Parlamento y que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1675.4,
+      "end": 1680.52,
+      "text": "dirigió los destinos de la ciudad de Valparaíso, a esos les decimos que nosotros nos sentimos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1680.52,
+      "end": 1689.82,
+      "text": "orgullosos de nuestra bandera, de nuestro himno nacional, que nuestra bandera va a volver a flamear en lo alto de nuestros cerros, así como flanea hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1689.82,
+      "end": 1696.84,
+      "text": "en las viviendas más humildes. Ese chileno humilde, ese chileno humilde que cuando va",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1696.84,
+      "end": 1715.72,
+      "text": "a la graduación de su hijo en octavo básico, en cuarto medio, en un título universitario, se pone corbata, se pone corbata, porque la corbata no es clasista, no es discriminatoria, la corbata para un evento familiar, para un evento importante, distingue y refleja el cariño que sentimos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1715.86,
+      "end": 1721.22,
+      "text": "el esfuerzo que hemos hecho para que nuestros hijos salgan adelante. Por lo tanto, señor",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1721.22,
+      "end": 1727.1,
+      "text": "presidente, empieza a usar la corbata igual que su ministro de Hacienda, igual que su pupilo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1727.1,
+      "end": 1730.34,
+      "text": "perdió en las primarias que le cuesta por Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1730.34,
+      "end": 1732.44,
+      "text": "no reniegue de algo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1732.44,
+      "end": 1735.14,
+      "text": "todos hacen un esfuerzo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1735.14,
+      "end": 1736.94,
+      "text": "a nosotros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1736.94,
+      "end": 1738.74,
+      "text": "el himno, al menos a mí, el himno nacional",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1738.74,
+      "end": 1740.68,
+      "text": "me emociona, ellos quisieron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1740.68,
+      "end": 1742.46,
+      "text": "cambiar el himno, gracias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1742.46,
+      "end": 1744.86,
+      "text": "ellos quisieron cambiar nuestro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1744.86,
+      "end": 1745.2,
+      "text": "himno, ellos quisieron anular himno. Gracias. Ellos quisieron cambiar nuestro himno.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1745.76,
+      "end": 1747.24,
+      "text": "Ellos quisieron anular nuestra fe.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1748.12,
+      "end": 1749.9,
+      "text": "Y esos principios,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1750.68,
+      "end": 1753.8,
+      "text": "esos principios que son de aquí, del corazón,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1754.76,
+      "end": 1757.12,
+      "text": "esa cruz, esa fe que llevamos en el corazón,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1757.42,
+      "end": 1758.38,
+      "text": "también la vamos a defender.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1759.8,
+      "end": 1760.12,
+      "text": "¿No es cierto, Esteban? La vamos a defender. ¿Es cierto, Benja? Que ahí el corazón, también la vamos a defender. ¿No es cierto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1760.12,
+      "end": 1765.1,
+      "text": "Esteban? La vamos a defender. ¿No es cierto Benja? Que ahí está Benja. La vamos a defender.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1765.9,
+      "end": 1772.76,
+      "text": "Y lo haremos con esperanza, con templanza y con coraje. Y vamos a volver a hablar de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1772.76,
+      "end": 1787.6,
+      "text": "Dios. Vamos a volver a hablar de la patria. Y vamos a volver a hablar de la familia, porque son esos los valores que han sustentado la solidez de nuestra patria y no tenemos que sentir temor frente a lo que nos digan.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1788.18,
+      "end": 1790.94,
+      "text": "Y con esa mirada puesta en el futuro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1790.94,
+      "end": 1792.26,
+      "text": "vamos a cuidar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1792.26,
+      "end": 1793.8,
+      "text": "esos valores trascendentes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1793.8,
+      "end": 1795.16,
+      "text": "que han hecho de Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1795.16,
+      "end": 1796.4,
+      "text": "una gran nación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1796.4,
+      "end": 1798.18,
+      "text": "y ya voy terminando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1798.18,
+      "end": 1799.24,
+      "text": "para que no se preocupen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1799.24,
+      "end": 1802.84,
+      "text": "vamos a ir cerrando en breve",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1802.84,
+      "end": 1803.54,
+      "text": "saluden al dron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1803.54,
+      "end": 1804.5,
+      "text": "que está volando ahí",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 1804.5,
+      "end": 1805.38,
+      "text": "hagamos una imagen saluden Vamos a ir cerrando en breve. ¡Saluden al dron que está volando ahí!",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1806.58,
+      "end": 1813.02,
+      "text": "Hagamos una imagen.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1817.04,
+      "end": 1819.44,
+      "text": "Se siente, sí, se siente que vamos a recuperar y reconstruir Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1820.12,
+      "end": 1822.12,
+      "text": "Pero... ¡Más presidente, presidente!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1822.66,
+      "end": 1823.44,
+      "text": "Muchas gracias.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1823.88,
+      "end": 1827.0,
+      "text": "¡Más presidente, presidente!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1827.78,
+      "end": 1830.18,
+      "text": "¡Más presidente, presidente!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1830.72,
+      "end": 1834.1,
+      "text": "Les quiero decir que esta no es una elección más.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1834.66,
+      "end": 1838.16,
+      "text": "Esta es la elección más importante de toda nuestra generación.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1839.46,
+      "end": 1846.0,
+      "text": "Ahora, el 16 y después el 14, tenemos que decir que vamos a tener que elegir",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1846.0,
+      "end": 1851.0,
+      "text": "entre el caos, el desorden, el desgobierno y la destrucción",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1851.94,
+      "end": 1854.04,
+      "text": "a la que hemos visto sometida nuestra nación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1854.04,
+      "end": 1858.82,
+      "text": "frente al orden, al verdadero gobierno y a la prosperidad.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1860.0,
+      "end": 1863.1,
+      "text": "Es esto contra esto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1863.9,
+      "end": 1867.3,
+      "text": "Y le aseguro que esto va a envolver a esto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1868.48,
+      "end": 1870.26,
+      "text": "Y los vamos a derrotar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1871.3,
+      "end": 1872.9,
+      "text": "Los vamos a derrotar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1873.3,
+      "end": 1882.22,
+      "text": "Porque esta mano abierta, esta mano amable, va a envolver a este puño duro, a este puño duro político",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1882.22,
+      "end": 1885.3,
+      "text": "que ahora va a ser un puño duro contra la delincuencia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1885.88,
+      "end": 1891.96,
+      "text": "Pero esto va a ganar y vamos a recuperar la seguridad, el empleo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1892.2,
+      "end": 1896.72,
+      "text": "vamos a mejorar la atención en salud, vamos a terminar con las listas de espera.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1897.56,
+      "end": 1904.4,
+      "text": "Hoy día hablaba con un amigo que venía de Petorca, con una persona a cambiarse a una operación de cadera.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1905.3,
+      "end": 1907.44,
+      "text": "Y cuando venía llegando le dicen, no, devuélvase.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1908.9,
+      "end": 1910.68,
+      "text": "Habían hecho la hora, habían hecho los exámenes, y cuando ya tenía toda la esperanza puesta de que le iban a atender,, no, devuélvase. Habían hecho la hora, habían hecho los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1910.68,
+      "end": 1914.22,
+      "text": "exámenes. Cuando ya tenía toda la esperanza puesta de que le iban a atender, le dicen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1914.22,
+      "end": 1920.4,
+      "text": "devuélvase. ¿Devuélvase quizás hasta cuándo? Porque cada año en Chile mueren 40.000 compatriotas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1920.4,
+      "end": 1942.32,
+      "text": "en la lista de espera y eso es inaceptable. Eso debería hacer que el presidente no duerma. Eso debería hacer que el presidente pida cuentas todos los días de cuál es el avance en la reducción de la lista de espera. Pero no hay mucho que esperar de él. Porque tampoco ha sido capaz de mirar todos los días cuántas casas se han recuperado del incendio que ocurrió aquí en esta zona.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1943.02,
+      "end": 1944.34,
+      "text": "Porque no les interesa.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1945.48,
+      "end": 1946.84,
+      "text": "No les interesa.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1947.4,
+      "end": 1954.86,
+      "text": "Les interesa más apitutar a sus amigos en alguna embajada, después traerlos de vuelta para que vayan a alguna candidatura.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1954.86,
+      "end": 1960.28,
+      "text": "Les interesa más cuidarse entre ellos que cuidar a los chilenos. Un",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1960.28,
+      "end": 1964.34,
+      "text": "presidente que de verdad ame a la patria tiene que estar preocupado todos los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1964.34,
+      "end": 1971.36,
+      "text": "días de cuántas personas han sido bien atendidas en su salud, de cuántas personas han recuperado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1971.36,
+      "end": 1976.6,
+      "text": "su vivienda después de un mega incendio. Los recursos están porque se asignaron. Lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1976.6,
+      "end": 1983.38,
+      "text": "que no hay es gestión, lo que no hay es dedicación al trabajo bien hecho. Y lamentablemente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1983.38,
+      "end": 1987.82,
+      "text": "hemos tenido en estos años un presidente que no ha estado a la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1987.82,
+      "end": 1995.84,
+      "text": "altura del cargo. Entró a la moneda y no salió más a ver el sufrimiento de los chilenos. Prometió",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1995.84,
+      "end": 2001.0,
+      "text": "cuidar a las mujeres y protegió a un abusador...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2001.0,
+      "end": 2004.46,
+      "text": "...esos son, así se comportan...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2004.46,
+      "end": 2009.68,
+      "text": "...cuántas personas creyeron que él de verdad iba a proteger a las mujeres...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2009.68,
+      "end": 2012.5,
+      "text": "...y votaron por él y hoy día están arrepentidas...",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2012.5,
+      "end": 2015.96,
+      "text": "...porque cuando tenía que denunciar a un abusador lo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2015.96,
+      "end": 2022.12,
+      "text": "protegió y le prestó la moneda para que se despidiera le prestó los recursos para que viajara",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2022.12,
+      "end": 2029.1,
+      "text": "y volviera lo dejó ir al parlamento a defender el presupuesto y sólo cuando un medio de comunicación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2029.1,
+      "end": 2031.28,
+      "text": "lo publicó le le dijo que tienes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2031.28,
+      "end": 2037.34,
+      "text": "que ir. Pero no te preocupes, aprovecha la moneda y despídete. Inaceptable. Alguien",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2037.34,
+      "end": 2043.84,
+      "text": "que prometió más trabajo ha generado más desempleo que nadie en los últimos 15 años.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2044.94,
+      "end": 2046.3,
+      "text": "Y tienen tan poca vergüenza",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2046.3,
+      "end": 2047.74,
+      "text": "que le han pedido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2047.74,
+      "end": 2049.9,
+      "text": "a la persona que estaba a cargo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2049.9,
+      "end": 2051.72,
+      "text": "del tema del trabajo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2051.72,
+      "end": 2054.12,
+      "text": "que asumiera la continuidad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2054.12,
+      "end": 2055.5,
+      "text": "de este gobierno fracasado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2055.5,
+      "end": 2057.9,
+      "text": "y ese es el legado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2057.9,
+      "end": 2059.58,
+      "text": "que nos va a dejar, el desempleo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2059.58,
+      "end": 2060.0,
+      "text": "la inseguridad.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2062.96,
+      "end": 2078.7,
+      "text": "El actual presidente no va a dejar ningún legado, ninguno, por más que se esfuerce, por más que levante temas para dividirnos, por más que use la cadena nacional para agredir cobardemente a sólo un candidato.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2079.52,
+      "end": 2087.18,
+      "text": "Alguien que ni siquiera ha sabido llevar el presupuesto de la nación, porque llevan tres años con presupuestos desbalanceados.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2088.06,
+      "end": 2090.28,
+      "text": "Y después nos apuntan a nosotros con el dedo y dicen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2090.28,
+      "end": 2096.78,
+      "text": "no es posible recortar 6 mil millones y le decimos si es posible y lo vamos a hacer en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2096.78,
+      "end": 2103.4,
+      "text": "18 meses y lo vamos a sorprender y le vamos a quitar los pitutos, le vamos a quitar los convenios,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2104.38,
+      "end": 2105.2,
+      "text": "le vamos a demostrar lo que es gestión, le vamos a mostrar cómo la genteutos, les vamos a quitar los convenios, les vamos a demostrar lo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2105.2,
+      "end": 2112.24,
+      "text": "es gestión, les vamos a mostrar cómo la gente vuelve a invertir en Chile. Y también, así",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2112.24,
+      "end": 2118.96,
+      "text": "como el actual presidente amenazó al expresidente Piñera, lo acusaron constitucionalmente. Yo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2118.96,
+      "end": 2121.66,
+      "text": "tuve diferencias con el gobierno de Sebastián",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2121.66,
+      "end": 2128.34,
+      "text": "Piñera, pero nunca me perdí. Siempre estuve al lado de la defensa de la patria. Y cuando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2128.34,
+      "end": 2134.06,
+      "text": "se nos requirió, estuvimos ahí, en pandemia y en estallido. Tuvimos diferencias, sí,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2134.56,
+      "end": 2136.86,
+      "text": "pero jamás se nos habría ocurrido acusarlo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2136.86,
+      "end": 2142.16,
+      "text": "constitucionalmente por algo que no era su responsabilidad y que fue incentivado por la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2142.16,
+      "end": 2147.52,
+      "text": "misma izquierda, esa izquierda que quería derrocar a un gobierno legítimamente elegido por la ciudadanía.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2148.28,
+      "end": 2151.06,
+      "text": "Ellos son capaces de todo y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2151.06,
+      "end": 2153.72,
+      "text": "también ocultan todo. Y así como él",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2153.72,
+      "end": 2155.34,
+      "text": "amenazó al presidente Sebastián Piñera,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2155.44,
+      "end": 2157.18,
+      "text": "nosotros no lo amenazamos al actual",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2157.18,
+      "end": 2161.0,
+      "text": "presidente. Solo le decimos que vamos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2161.0,
+      "end": 2164.1,
+      "text": "transparentar todo, que nada va a quedar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2164.1,
+      "end": 2166.62,
+      "text": "oculto, que todo se va a saber,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2167.16,
+      "end": 2173.1,
+      "text": "que vamos a hacer una auditoría total de todos los ministerios, de todas las asignaciones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2173.1,
+      "end": 2183.72,
+      "text": "que hicieron y los vamos a dejar en evidencia. Y aunque le entreguen su dieta, aunque le entreguen las asignaciones, porque le hemos pedido que sea digno,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2184.66,
+      "end": 2188.26,
+      "text": "que reciba la dieta, sí, pero que renuncie a las asignaciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2189.28,
+      "end": 2199.96,
+      "text": "Presidente, yo creo que usted con la dieta de 6 millones líqu, puede perfectamente tener y honrar el cargo de expresidente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2200.44,
+      "end": 2204.44,
+      "text": "Aunque no se lo merezca, dejémoselo, pero renuncie a las asignaciones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2205.16,
+      "end": 2209.1,
+      "text": "Dele esos 10 millones de asignaciones a los chilenos más necesitados.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2209.56,
+      "end": 2215.12,
+      "text": "Aquellos que usted no cuidó, que no protegió durante su gobierno, dé el ejemplo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2215.7,
+      "end": 2221.28,
+      "text": "Los 10 millones mensuales, los 120 millones al año, no le van a cambiar la vida a Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2221.92,
+      "end": 2222.84,
+      "text": "Pero son una señal.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2224.42,
+      "end": 2225.46,
+      "text": "Son la muestra",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2225.46,
+      "end": 2227.38,
+      "text": "de algo que él puede hacer",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2227.38,
+      "end": 2229.56,
+      "text": "para que otros también se la jueguen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2229.56,
+      "end": 2231.16,
+      "text": "pero",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2231.16,
+      "end": 2232.68,
+      "text": "como les digo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2232.68,
+      "end": 2234.9,
+      "text": "lo vamos a transparentar todo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2234.9,
+      "end": 2236.66,
+      "text": "y lo que sí les puedo asegurar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2236.66,
+      "end": 2239.62,
+      "text": "es que nunca más va a volver a ser presidente de Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2239.62,
+      "end": 2240.36,
+      "text": "nunca más va a volver a ser presidente de Chile. Nunca más.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2251.78,
+      "end": 2253.4,
+      "text": "Cinco, cinco.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2254.2,
+      "end": 2254.86,
+      "text": "Vamos a contar.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2262.1,
+      "end": 2266.2,
+      "text": "Cinco, cinco, vamos a contar Cinco, cinco, cinco, cinco, cinco Y ese cinco lo vamos a celebrar porque vamos a ganar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2266.2,
+      "end": 2268.72,
+      "text": "Esta elección más importante la vamos a ganar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2268.72,
+      "end": 2270.2,
+      "text": "Pero también tenemos que ganar el Parlamentocción más importante la vamos a ganar, pero también tenemos que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2270.2,
+      "end": 2277.92,
+      "text": "ganar el Parlamento. Y ahí les quiero pedir el último esfuerzo. Diez días. Diez días.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2278.48,
+      "end": 2291.0,
+      "text": "Diez días donde les pedimos media hora, media hora al día, para difundir el mensaje del cambio a través de las redes sociales, en un semáforo, en una feria.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2291.98,
+      "end": 2299.76,
+      "text": "Las banderas que se van a llevar, levántenlas en un semáforo. Todos van a saber que son patriotas, que son chilenos de corazón.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2301.82,
+      "end": 2307.94,
+      "text": "Cada vez que vayan a la oficina, dedíquenle media hora, llevan la bandera bien guardadita en el bolsito,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2308.66,
+      "end": 2316.34,
+      "text": "separan un semáforo y la agitan. 15 minutos, en cualquier semáforo, en cualquiera. Todos van a saber que ustedes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2316.34,
+      "end": 2323.22,
+      "text": "son la fuerza del cambio, que ustedes están apoyando a la lista K al Parlamento. Ayúdennos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2323.44,
+      "end": 2327.08,
+      "text": "si no pueden esa media hora en la calle, porque hubo unos más tímidos, en las redes sociales,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2327.8,
+      "end": 2330.52,
+      "text": "pero de frente, con el nombre real. No usen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2330.52,
+      "end": 2336.5,
+      "text": "pseudónimo. Digan, aquí estoy, yo soy José Antonio Kast y voy por ti, Gabriel Boric.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2338.14,
+      "end": 2344.44,
+      "text": "Yo soy, te miro a los ojos, así como te miré el día que ganaste, el día que te fui a felicitar,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2346.2,
+      "end": 2351.28,
+      "text": "el día que te dije que íbamos a apoyar en lo que pudiéramos si pensabas en Chile. Pero se te olvidó Chile. Entraste a la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2351.28,
+      "end": 2356.94,
+      "text": "moneda, no saliste nunca más. Y te olvidaste de los chilenos y solo te acordaste de tus amigos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2357.9,
+      "end": 2360.76,
+      "text": "Bueno, nosotros queremos que ustedes en las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2360.76,
+      "end": 2367.14,
+      "text": "redes sociales, con su cara, con su rostro, defiendan las ideas de la libertad. Porque",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2367.14,
+      "end": 2371.0,
+      "text": "tenemos las mejores ideas. Como les digo, nosotros no necesitamos agredir a nadie, no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2371.0,
+      "end": 2378.38,
+      "text": "necesitamos insultar a nadie. Porque nuestras ideas son las que hacen surgirir las naciones son nuestras ideas en la libertad los que mejoran la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2378.38,
+      "end": 2382.64,
+      "text": "calidad de vida de las personas y eso lo tenemos que hacer mirando los ojos con",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2382.64,
+      "end": 2389.02,
+      "text": "valentía sin miedo sin temor y el triunfo como decían antes va a ser",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2389.02,
+      "end": 2390.18,
+      "text": "hermoso y va a ser hermoso.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 2390.18,
+      "end": 2391.16,
+      "text": "Y va a ser hermoso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2391.62,
+      "end": 2393.52,
+      "text": "Y vamos a recuperar la dignidad de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2394.38,
+      "end": 2396.88,
+      "text": "Esa dignidad que nos quisieron arrebatar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2398.2,
+      "end": 2404.0,
+      "text": "Esa bandera va a volver a flamear limpia y orgullosa en nuestros techos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2407.16,
+      "end": 2414.5,
+      "text": "Y hicemos nuestras banderas en nuestras casas. Himos la bandera el Día del Triunfo, pero les quiero decir que en cuatro años",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2414.5,
+      "end": 2419.84,
+      "text": "más ustedes se van a sentir orgullosos, orgullosos de ustedes porque se atrevieron,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2421.32,
+      "end": 2426.62,
+      "text": "porque levantaron la bandera, porque votaron por el cambio y se van a sentir orgullosos, orgullosos de ustedes porque se atrevieron, porque levantaron la bandera, porque votaron por el cambio y se van a sentir orgullosos de un gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2426.62,
+      "end": 2432.48,
+      "text": "que le va a entregar la banda presidencial a alguien del sector, porque nosotros vamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2432.48,
+      "end": 2436.7,
+      "text": "a celebrar de verdad, vamos a celebrar de verdad el día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2436.7,
+      "end": 2444.76,
+      "text": "que este gobierno que parte el 11 de marzo, aquí al lado, en Valparaíso, ahí donde",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2444.76,
+      "end": 2451.16,
+      "text": "nos entreguen, donde me entreguen la banda presidencial. Y lo decreto. Lo decreto hoy día. Vamos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2451.16,
+      "end": 2460.96,
+      "text": "ganar. Y va a ser un gran triunfo. Y ese día, ese día comienza nuestro trabajo. Ese día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2460.96,
+      "end": 2465.64,
+      "text": "vamos a comenzar a cambiarle la vida a los chilenos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2473.9,
+      "end": 2474.12,
+      "text": "Y ustedes, cuando entreguemos esa banda, van a sonreír.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2477.74,
+      "end": 2478.1,
+      "text": "Igual que van a sonreír hoy día, o que están sonriendo hoy día,",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2485.84,
+      "end": 2492.54,
+      "text": "que van a sonreír el 16 de no que están sonriendo hoy día, que van a sonreír el 16 de diciembre, el 14, perdón, el 16 de noviembre, el 14 de diciembre y van a volver a decir qué bien se siente en esta patria, esta patria grande, libre y",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2492.54,
+      "end": 2496.18,
+      "text": "justa para todos los chilenos. ¡Que viva Chile! ¡Que viva",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2496.18,
+      "end": 2506.44,
+      "text": "Valparaíso! ¡Que viva la fuerza del cambio! Muchas, muchas gracias y nos vemos aquí en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2506.44,
+      "end": 2510.04,
+      "text": "10 días más, celebrando el triunfo del cambio.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2510.9,
+      "end": 2513.6,
+      "text": "De verdad, muchas, muchas gracias.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2514.62,
+      "end": 2524.2,
+      "text": "Y ahora le voy a pedir, aquí está, le voy a pedir a la pía que levanten las banderas, sonrían y que nos saquemos una gran selfie.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2524.88,
+      "end": 2529.66,
+      "text": "Y después que se queden a celebrar con la fiesta del cambio.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2530.12,
+      "end": 2533.66,
+      "text": "Con los vikings 5, 5, 5.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 2534.16,
+      "end": 2537.7,
+      "text": "Un aplauso para José Antonio Cásico y la primera dama fría de la zona.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2537.9,
+      "end": 2541.44,
+      "text": "Levanten las banderas, sonrían, estén preparados.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2541.58,
+      "end": 2550.34,
+      "text": "Quiero un grito, quiero un grito, un grito de Niña del Mar para Valparaíso, para toda la región, para todo Chile.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2552.1,
+      "end": 2555.9,
+      "text": "Todas las banderas arriba para una foto con el futuro",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2555.9,
+      "end": 2558.08,
+      "text": "presidente de Chile, José",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2558.08,
+      "end": 2561.2,
+      "text": "Antonio Kast. Muchas gracias.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2566.0,
+      "end": 2566.76,
+      "text": "Gracias.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 2568.14,
+      "end": 2570.3,
+      "text": "No te des más vueltas. No te des más vueltas!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2570.66,
+      "end": 2572.46,
+      "text": "¡No te des más vueltas!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2572.7,
+      "end": 2574.24,
+      "text": "¡Cambiate al cinco!",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2574.86,
+      "end": 2576.0,
+      "text": "¡Cambiate acá!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2576.4,
+      "end": 2577.08,
+      "text": "¡Ponta cinco!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2577.32,
+      "end": 2578.0,
+      "text": "¡Ponta cinco!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2578.36,
+      "end": 2579.18,
+      "text": "¡Tiene el mejor plan!",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2579.28,
+      "end": 2580.0,
+      "text": "¡Implacable escudo fronterizo!",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2581.06,
+      "end": 2582.84,
+      "text": "¡Mano firme es lo preciso!",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2582.96,
+      "end": 2584.42,
+      "text": "¡Cero esperas auditoria total!",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2584.86,
+      "end": 2586.26,
+      "text": "¡Todo en orden, punto",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2586.26,
+      "end": 2589.14,
+      "text": "final. Quiero un grito de",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2589.14,
+      "end": 2590.54,
+      "text": "Villa del Mar.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2595.54,
+      "end": 2597.12,
+      "text": "Tu casa reinicia, sácate la",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2597.12,
+      "end": 2599.04,
+      "text": "mochila, cáncer, pero protección",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2599.04,
+      "end": 2602.38,
+      "text": "a la infancia Muchas gracias Fidel Mar",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2602.38,
+      "end": 2606.24,
+      "text": "Y ya comienza en breve",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2606.24,
+      "end": 2609.46,
+      "text": "Mis buenos amigos",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2609.46,
+      "end": 2613.34,
+      "text": "Del aclamado grupo musical Los Piquín 5",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 2613.34,
+      "end": 2635.0,
+      "text": "Yo te dejo a suelta Yo te dejo a suelta del aclamado grupo musical Los Piquen 5 Este es un llamado de emergencia a todas las fuerzas,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2635.0,
+      "end": 2638.0,
+      "text": "a cada chileno que ya no va a trabajar.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 2638.0,
+      "end": 2641.0,
+      "text": "Somos la fuerza, la fuerza del cambio.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2641.0,
+      "end": 2643.0,
+      "text": "Del cambio, la fuerza del cambio.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2643.0,
+      "end": 2661.06,
+      "text": "Somos la fuerza, la fuerza del cambio. Del cambio, la fuerza del el cambio lo empuja, la gente es val espera, el cambio no miente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2661.06,
+      "end": 2663.0,
+      "text": "El cambio lo empuja, la gente valiente",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2663.58,
+      "end": 2665.98,
+      "text": "El cambio no es moda, es necesidad",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2665.98,
+      "end": 2668.0,
+      "text": "Es romper la trampa de la desigualdad",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2668.58,
+      "end": 2671.14,
+      "text": "El cambio es semilla, es grito, camino",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2671.14,
+      "end": 2673.78,
+      "text": "Es fuerza en la pime, en la madre, en el niño",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2673.78,
+      "end": 2678.98,
+      "text": "Cambia la historia si juntos remamos Si Chile no se rinde, lo transformamos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2678.98,
+      "end": 2684.7,
+      "text": "No es con discursos, ni frases bonitas, la fuerza del cambio es la que palpita",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2684.7,
+      "end": 2689.84,
+      "text": "Si nos unimos, la historia cambia, Mochile se levanta y todos ganamos",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 2689.84,
+      "end": 2690.5,
+      "text": "La fuerza, la fuerza del cambio, del cambio, del cambio Nos unimos la historia, cambiamos Chile, se levanta y todo ganamos.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2692.32,
+      "end": 2693.0,
+      "text": "¡Somos la fuerza, la fuerza del cambio!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2694.9,
+      "end": 2695.16,
+      "text": "¡Del cambio, del cambio!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2697.64,
+      "end": 2698.12,
+      "text": "¡Somos la fuerza, la fuerza del cambio!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2700.0,
+      "end": 2702.78,
+      "text": "¡Del cambio, la fuerza del cambio! ¡Somos la fuerza, la fuerza del cambio!",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2703.22,
+      "end": 2705.18,
+      "text": "¡Del cambio, la fuerza del cambio! ¡Somos la fuerza, la fuerza del cambio! ¡Del cambio, la fuerza del cambio Del cambio, la fuerza del cambio",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2705.18,
+      "end": 2707.94,
+      "text": "La fuerza, la fuerza del cambio",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2707.94,
+      "end": 2710.32,
+      "text": "Del cambio, la fuerza del cambio",
+      "speaker": "SPK2"
+    }
+  ],
+  "speakers": [
+    "Kast",
+    "SPK2",
+    "SPK3",
+    "SPK4",
+    "SPK5",
+    "SPK6",
+    "SPK7",
+    "SPK8",
+    "SPK9",
+    "SPK10"
+  ]
+}

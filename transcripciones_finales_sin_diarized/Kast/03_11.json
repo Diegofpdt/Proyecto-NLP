@@ -1,0 +1,4034 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ]
+  },
+  "text": "Muy buenos días, muchas gracias por acompañarnos hoy una vez más. Le damos gracias también a las personas que nos siguen a través de todas las plataformas digitales a lo largo de todo Chile, de Arica a Magallanes. Y queremos agradecerle a ustedes estar hoy día presentes con nosotros para hablar de una operación rescate, no de un plan, porque esta operación de rescate capital......integra los distintos planes en los que hemos trabajado, ustedes estuvieron presentes el lunes pasado......en el plan Escudo Fronterizo, han visto lo que es el barrio total, el plan cancerbero, el plan implacable y todo esto hoy día lo queremos llevar a esta operación rescate capital que es para rescatar las principales ciudades, para rescatar la vida en comunidad. Y nos hemos querido focalizar en cinco zonas urbanas principalmente, que es el Gran Santiago, el Gran Valparaíso, que es la conurbación de Valparaíso-Viña del Mar, el Gran Concepción, Coquimbo-La Serena y Antofagasta. Ustedes van a ver ahí imágenes de la destrucción de barrios, como lo que ocurre en el barrio Meigs. Van a ver los toldos azules de Santiago, pero esto incorpora la persecución criminal a lo largo de todo el Gran Santiago. Van a ver ahí un sector del Gran Concepción que está tomado por el narco. Van a ver ahí una zona denominada Tucapel. Van a ver el Gran Valparaíso y van a ver las calles comerciales de Valparaíso Centro, van a ver también la destrucción en la avenida principal de La Serena, pero esto es proyectable también a lo que ocurre en Coquimbo, y van a ver también la Plaza Bicentenario de Antofagasta, que es un centro cívico y que costó mucho construirlo y que está absolutamente vandalizado en todo lo que son la prestación de servicios públicos que fue quemado para el estallido. Y nuestro objetivo, como ustedes saben, es claro, es recuperar el orden, la paz, la seguridad y vamos a ir aplicando en concreto en los primeros 90 días, que es el desafío 90, esto que no es una promesa, es una decisión. Y tenemos una decisión muy clara de combatir al crimen organizado, al narcotráfico, a la inmigración ilegal, a la delincuencia, para rescatar nuestros centros urbanos. Son cinco ejes sobre los cuales vamos a enfocarnos principalmente en estos primeros 90 días, que es tolerancia cero contra las incivilidades. Ustedes han escuchado que también hemos hablado del registro único de vándalos. Esto se va a llevar a la práctica para recuperar los espacios públicos. Espacios públicos que hoy día están tomados por el comercio ilegal. Vean ahí los toldos azules famosos ya del barrio Meigs. Las casas ocupas, que son fuente de incivilidades permanentes y son propiedades que no son de aquellos que hoy día las usan. Vamos a ir en contra de aquellos que vandalizan cada infraestructura pública. Aquí en Santiago hace poco vimos lo que hicieron con la fuente alemana recién restaurada. Nosotros vamos a ir detectando a las personas que hacen eso y van a quedar marginadas de cualquier tipo de beneficio social que se les pudiera otorgar. Vamos a ir también a fiscalizar todo lo que se denomina como micro basurales y hay puntos que todos conocemos que reiteradamente son utilizados por personas inescrupulosas, que van casa por casa diciéndole, yo les retiro los escombros y no se preocupe, yo los voy a llevar a un vertedero, a algún lugar, a un relleno, y van a la comuna vecina y dejan abandonados los restos de una mini construcción o de los bienes que tienen las personas que no saben cómo deshacerse de ellos, porque no todos los municipios hay una ronda frecuente para sacar todos los bienes de las personas. Y también vamos a perseguir la venta y consumo de alcohol en la vía pública. El segundo punto es tener barrios libres de narcos, porque no hay barrios intocables ni narcos intocables. Y el narcotráfico, ustedes saben, es una pandemia. Hoy día ha capturado espacios públicos y también nuestros colegios, nuestros liceos, donde se le entrega de manera gratuita droga a los jóvenes para incorporarlos, ¿no es cierto?, a su red de narco y de crimen organizado. Y la tecnología hoy día, al igual que lo vamos a ver en el punto siguiente, nos ayuda. Hoy día podemos contar con mapas dinámicos de microtráfico, de venta de microtráfico. Todos sabemos cuáles son más o menos las rutas de escape de las personas, tanto que cuidan como que venden, y que hacen el microtráfico parte de su vida. Tenemos la inteligencia policial, vamos a operar, como que venden y que hacen el microtráfico parte de su vida. Tenemos la inteligencia policial, vamos a operar, como le decía, con las demoliciones y vamos a seguir también la ruta del dinero. El tercero es el cerco total al crimen organizado y aquí sí la inteligencia artificial colabora y mucho. Hoy día no solamente tenemos los pórticos, que han sido de gran utilidad para perseguir a algunas personas que realizan el delito del portonazo, pero también tenemos escáner que pueden ser móviles, tenemos cámaras con reconocimiento facial, hay municipios, por ejemplo, el municipio de La Florida, nos acompaña aquí el alcalde de La Florida, donde hay plazas seguras, porque tienen un sistema de cámaras integradas entre los vecinos, un monitoreo de los vecinos, pero que también le hace la denuncia a la seguridad ciudadana. Y eso es factible en lugares como lo vimos en la Florida, con el compromiso de los vecinos. Esto, antiguamente se usaban los portones para cerrar los pasajes. Hoy día uno puede hacer un cierre con inteligencia artificial y puede detectar donde se arruguen más de tres personas, si hay un auto detenido, se pueden detectar ciertos instrumentos o objetos que tengan las personas. Y esto no es solamente pensando en espacios como las plazas, también tenemos que pensar en los terminales nacionales, porque hemos hablado del escudo fronterizo, Cristian Vial hizo una reseña de que no solamente eran los pasos inhabilitados, sino los centros fronterizos, que incluía puertos y aeropuertos. Pero esto va más allá. Esto también va a los terminales de buses, que todos conocemos. Esto también va a los muelles, de donde parten los transbordadores y parten botes a los centros de pesca y a otros lugares. Esto es mucho más que el cierre fronterizo, es la detección en cualquier aeropuerto del tráfico de drogas. Hoy día la DGAC, ustedes saben, cuenta con instrumental para detectar cuchillos, tijeras, armas, pero no todos están con sus equipos al día para detectar el tráfico de drogas. Y también vemos con preocupación que en muchos aeropuertos, que no son los aeropuertos internacionales, no tenemos fuerza policial. No está Policía de Investigaciones porque no hay migración y Carabineros no tiene la dotación suficiente. ¿Qué hace un funcionario de la DGAC si es que detiene a un narcotraficante? Tiene que retenerlo, de alguna manera, porque, dadas las normas, no es cierto, no siquiera tienen una pistola Taser, las esposas las tendrán guardadas, pero tendrían que reducirlo físicamente, corporalmente. Bueno, eso requiere también un avance y contar con fuerza policial cercana, porque si no en un aeropuerto nacional alguien puede traficar droga, se le retiene las mismas horas que necesita carabineros para llegar. Estamos hablando de algo un poquito más allá de una detención ciudadana, porque es una autoridad y claro va a ser más grave que lo detengan dentro de la sala de embarque del aeropuerto y que lo tengan en la calle. Pero quien tiene que detenerlo, pasarlo a fiscalías, carabineros de Chile o la Policía de Investigaciones. Bueno, eso también se tiene que abordar con fuerza, para que el crimen organizado deje de moverse por Chile. Hay antecedentes claros que maneja Gendarmería de cómo algunos presos que no tienen vínculo entre ellos supuestamente son visitados por las mismas personas y esa persona puede ir a visitar a un preso en Santiago, en Colina 1, y también lo puede ir a visitar a la cárcel de Chillán o lo puede ir a visitar al centro de detención de Hacha. Y es la misma persona. ¿Cuál es el vínculo? Claramente la organización criminal. Por lo tanto, tenemos que evitar ese movimiento de esas personas que vinculan al crimen organizado. Después tenemos que recuperar los espacios tomados. Y esto es, como les decía, viendo el tema de las casas narco, de las casas Ocupa, pero también de los terrenos que han sido ocupados ilegalmente. Y aquí hacer una mención a una situación que está ocurriendo hoy día. El ministro de la Vivienda, una vez más, engaña a la ciudadanía. Porque a comienzos de año, cuando tenía que desalojar, una toma importante, grande, compleja de desalojar, dice, paren todo, porque los vecinos se están organizando, van a hacer una cooperativa, una comunidad, y van a comprar el terreno. Y hoy día, meses después, cuando se detuvo el desalojo, nos dice no juntaron los recursos suficientes, por lo tanto no van a poder comprar. Y como no tenemos fuerza policial, porque estamos en fiestas, en algún tipo de fiestas, porque hay baja dotación, tampoco tenemos hoy día la colaboración del delegado, del gobernador, para poder proceder al desalojo. Por lo tanto, el problema queda para el próximo gobierno. Ministro, deje de mentirle a los ciudadanos. Si nos quieren usar el trabajo, dígalo. Háganse cargo ustedes en el próximo gobierno. Lo vamos a hacer por usted. Pero no sigan hallando a las personas. Usted no fue capaz de reconstruir las viviendas quemadas en Viña del Mar y tampoco ha sido capaz de devolver la ley al lugar que le corresponde. Por lo tanto, aquí no estamos hablando solamente de las usurpaciones, también de casas narcos, de casas ocupa, de bodegas que están siendo utilizadas por el crimen organizado y vamos a ir focalizando nuestro esfuerzo para ir recuperando esos espacios tomados. Finalmente, algo que es bastante evidente y que todos saben, la luz da seguridad y por lo tanto vamos a establecer rutas seguras, porque no vamos a ser capaces de hacerlo todo de una vez, para llegar a un centro de salud, para llegar a los centros educacionales, para que las personas que caminen, sea por la oscuridad de la mañana o por el temprano atardecer, que al menos por algunas vías hacia esos lugares sepan que está todo iluminado. Y el centro de salud, el centro educacional, va a estar muy iluminado y va a tener también un control de inteligencia artificial que nos va a permitir detectar todos los rostros, todas las patentes, todo lo que se mueva en el entorno de ese centro de salud, ese centro educacional. Porque algunos se aprovechan de la oscuridad, se aprovechan de las esquinas que no tienen cobertura de cámaras. Bueno, esos tipos de situaciones van a ir cambiando radicalmente y cierro diciendo que quedan 128 días. El lunes anterior le señalé el tiempo que quedaba para que los inmigrantes ilegales decidieran tomar sus bienes y partir con todos sus bienes para que pudieran vender, si tienen un vehículo que lo puedan vender a tiempo, si tienen enseres importantes en su hogar como un refrigerador, un microondas, lo que tengan, véndanlo, llévenlo a dinero en efectivo y partan. Porque si no lo hacen antes de los 128 días y nosotros detenemos a alguien que esté en condición de inmigrante irregular, se va a ir con lo opuesto. No va a haber espacio para nada que él pueda llevar. Y los bienes que tiene acá, bueno, van a quedar ahí. No podemos resguardar lo que pueda pasar en un terreno que esté sin el resguardo, porque no tenemos el resguardo suficiente para cuidar los bienes de los chilenos......no podemos cuidarle los bienes a personas que entraron por la ventana y no por la puerta. También van a tener la oportunidad, si salen por algún punto de embarque nacional......o si quieren ocupar otra vía, de, desde fuera en algún momento, en dos, tres, cuatro años más, volver a solicitar el ingreso como corresponde a Chile por la puerta, nunca más por la ventana. Y si insisten en quedarse y esas personas son en algún momento retenidas o detenidas, nunca más van a volver a entrar a Chile porque van a quedar en un registro que va a ser más duro que el de la seguridad de los estadios. Hoy día alguien que arroje una botella puede quedarse seis años fuera del estadio, alguien que haya ingresado de manera irregular se va a quedar de bordilla fuera de Chile, no va a volver a entrar ni siquiera a ver un centro turístico, no va a entrar. Y por eso nosotros vamos haciendo la advertencia ahora. 128 días. Y yo puedo estar muy calmado, como ustedes me ven, y no me va a cambiar la misma calma cuando apliquemos la ley. Y eso es lo relevante. Lo relevante no es golpear la mesa, sino mantener la calma y aplicar la ley. Para eso también es necesario que contemos con un Parlamento para Chile. Hoy día me acompañan numerosos candidatos y candidatas a la Cámara de Diputados y al Senado. Para nosotros es muy importante el respaldo ciudadano no solamente para la candidatura presidencial, sino también para la candidatura parlamentaria. Porque algunas de estas materias que hemos planteado requieren cambios legislativos. Y los vamos a presentar dentro de los primeros 90 días. El ejemplo que ustedes conocen es que la inmigración irregular pase de falta a delito Y eso tiene que ser rápido Hoy día me preguntaban por el tema de los sumarios administrativos Para aquellas personas que infringen las normas que corresponde al buen ejercicio de un funcionario público también requiere un cambio legislativo, pero es en resguardo de los buenos funcionarios públicos, de aquellos que hacen el trabajo y que son recargados en sus funciones por aquellos que usan licencias falsas. Nosotros queremos destacar la labor de los funcionarios públicos que lo hacen bien, pero queremos también evitarles a ellos la sobrecarga de trabajo por aquellos que abusan del sistema. Y eso requiere cambios legislativos. En el primer tema, que es el tema de la operación rescate capital, quiero dejar en primer lugar a Iván Poduje con ustedes. Después va a hacer uso de la palabra el alcalde Daniel Reyes, a quien le hemos pedido también su colaboración. Y finalmente en esa línea va a hablar Francesca Muñoz, con quien compartimos haber recorrido Chile entero. Y conocemos bien las necesidades y las urgencias sociales en temas de seguridad para todos nuestros compatriotas. Don Iván. Bueno, muchas gracias solo precisar algunos alcances del plan que ha anunciado nuestro candidato esto involucra, como dijo 5 áreas metropolitanas que suman 62 comunas 10 millones de habitantes equivalente al 56% de la población nacional. Este plan es un plan que aprovecha toda la información que existe hoy día en el Estado para hacer un cruce de datos, lo que se llama inteligencia peredial, que permita detectar dónde están los focos de conflicto a nivel de 184 barrios críticos. En estas cinco ciudades ya tenemos identificados 184 barrios críticos en función del plan cuadrante, con los índices de carabineros más altos por cuadrante. En segundo lugar, de los trabajos que ha hecho la Fiscalía, la Unidad Especial de Droga, con georeferenciación de delitos de narcotráfico. En tercer lugar, tenemos los trabajos hechos por la Dirección de Seguridad Pública de los municipios en su diagnóstico. Y por último, algunos reportajes, siendo uno muy relevante para el caso Santiago, el de CIPER, de las zonas ocupadas. En estos barrios, lo que se va a hacer, van a ser definir polígonos para aplicar los cinco planes que nuestro candidato especificó. Como ejemplo, en Valparaíso, va a haber una intervención inmediata para recuperar el deterioro de las calles Conde y Esmeralda, donde la situación actual es de absoluto abandono. Se van a aplicar pinturas anti-graffiti, refuerzo de cámaras y brigadas de apoyo al municipio para que una vez que se raya, se pinte y además se detecta el infractor para que ingrese al registro único de se pinte y además se detecta el infractor para que ingrese al registro único de vándalos. Lo mismo vamos a hacer en el centro de Santiago, en particular en los sectores más deteriorados, Paso Bandera es un ejemplo, el barrio Meix es otro ejemplo, donde además hay problemas de incivilidades, barrio inglés de Coquimbo, el centro de Antofagasta, que también tiene un problema ahí. El centro oriente de Viña del Mar, sector rodoviario, donde hay problemas de narcotráfico, de violencia y además de deterioro. Otro aspecto fundamental es la recuperación, como dijo otro candidato, de los barrios afectados por el narco. Esto tiene dos etapas. Primero, desplegarse en el barrio y con inteligencia predial identificar los inmuebles donde hay personas que tienen causas de narcotráfico o empresas que están usando sus inmuebles para guardar mercadería robada. Van a ser intuidos y esas viviendas van a ser requisadas, expropiadas y demolidas, como se hizo en el caso de la Florida, o reconvertidas a oficinas municipales, como lo hizo el alcalde Reyes con el exalcalde Carter en Los Quillalles, que es un ejemplo que estamos tomando ahí. Esto se va a aplicar en barrios como Meigs, en barrios como Franklin, en barrios como el centro oriente de Viña del Mar, el centro del Paraíso, el centro comercial, el barrio inglés de Coquimbo, tenemos un desarrollo turístico pero muy afectado por el consumo de drogas también y también y muy especialmente en barrios periféricos afectados por control de narcotráfico como la población Bonilla en Antofagasta donde tenemos un inmueble de un centro cívico en la Plaza Bicentenario vandalizado desde el año 2019, que sigue abandonado ahí, sin luminaria, donde los niños no pueden entrar. Vamos a hacer lo mismo en la población Montedónico del Paraíso, en la población Forestal Alto de Viña del Mar, en el barrio El Rodoviario de Viña del Mar, en el Campamento Nuevo Amanecer de Cerrillo, donde tenemos 10 homicidios por año y donde ya tenemos, o vamos a tener con más precisión, pero ya tenemos una pre-identificación de las viviendas, que no son todos los vecinos, donde se van a hacer las erradicaciones selectivas de los delincuentes que están controlando esos lugares. Eso se va a hacer en Lampa también, se va a hacer en Melipilla, se va a hacer en las localidades que rodean el Gran Valparaíso y otro foco para terminar, tiene que ver con los servicios ya explicó nuestro candidato los centros de luz queremos que los consultorios las escuelas, los centros digamos de adulto mayor los centros de luz. Queremos que los consultorios, las escuelas, los centros, digamos, de adulto mayor, los centros de salud mental, que es una propuesta muy potente, puedan estar iluminados y puedan estar seguros. Esto implica, lamentablemente, pero tenemos que hacerlo, el blindaje de algunos recintos que hoy día están expuestos a tiroteos en escuelas, en consultorios y también en juntas de vecinos que están expuestas a balazos hoy día. Eso es lo que ocurre, por ejemplo, en la calle Juanita de la Pintana, pero tenemos en muchos sectores. Y por último, lo que es el deporte, ¿cierto? El brazo punitivo del Estado, con toda la inteligencia previa que les comenté, vamos a usar el Estado del arte de la inteligencia. Nos hemos inspirado en el Plan Marsella de Francia, en el Vigipirat de París, también en el Plan de Medellín y en el Plan de Recuperación del Centro Histórico de Quito. Acá vamos a tener toda la inteligencia aplicada para poder detectar estos sectores e intervenirlo en tiempo y forma. Pero lo que importa es que va a haber después en esos sectores piscinas temperadas, canchas que pueden ser ocupadas por los niños con control de accesos y quitar todos los sitios de riazo que hoy día son microbasurales. Si son privados los van a tener que cerrar, si son públicos los vamos a destinar. Estas son algunas de las medidas, pero como les dije, tenemos ya 184 barrios definidos en estas 5 ciudades con mucha precisión y una vez que nuestro candidato sea presidente va a poder cruzar todas las bases de datos para en tiempo y forma identificar estos lunares y erradicarlos para darle paz y tranquilidad a estos barrios muchas gracias le pido ahora al alcalde Daniel Reyes. Muchas gracias, muy buenas tardes. Hoy día los chilenos básicamente buscan respuesta a una gran pregunta. ¿Cómo llegar? ¿Cómo llegar a fin de mes producto de una crisis económica que los agobia? Pero también, ¿cómo llegar a sus casas sin ser víctima del delito? ¿Cómo llegar incluso con vida a sus propios hogares? Por eso, esta operación rescate apunta en la dirección correcta, justamente recuperar el espacio público para las personas, construir entre los cinco núcleos urbanos ciudades limpias, seguras y ordenadas. La delincuencia ciertamente y el crimen organizado se combate reforzando nuestras policías, por cierto, pero también recuperando el espacio público, generando estos espacios de calidad para que las personas puedan desplegarse y construir sus proyectos de vida. En ese sentido, transmitir con absoluta certeza, con absoluta convicción, tal como lo ha señalado nuestro candidato. Vamos a acercar el crimen organizado, vamos a acercar el narcotráfico para recuperar esos lugares. ¿Recuperarlos para quién? Para las personas. Por eso, evidentemente, la iluminación de las ciudades es algo completamente relevante. Evidentemente, una persona, un delincuente, va a priorizar siempre un lugar que se encuentra oscuro, un lugar que se encuentra abandonado, por sobre un espacio que haya sido recuperado. Decirle a todos los vándalos, las personas que vandalizan nuestra ciudad, ya sea a través de rayados, de micro basurales, de rucos, que no hay momento para más. Ciertamente vamos a aplicar todo el peso de la ley, no solo aumentando las sanciones, sino también estableciendo procedimientos simplificados para la aplicación de las mismas. Hoy día no puede ser básicamente que cuando encontramos a una persona que comete un delito o una incivilidad como esta, muchas veces pasa el tiempo en manos, por ejemplo, de los juzgados de policía local. Tenemos que simplificar aquello ciertamente porque es absolutamente relevante. Y por cierto, también, si son menores de edad, sus padres van a tener que responder. Los adultos responsables van a tener que responder por las conductas de sus hijos. Llegó el momento que recuperemos las ciudades para las personas. Por eso, esta operación rescate precisamente apunta en esa dirección, en construir ciudades limpias, seguras y ordenadas. Vamos a tener una mano muy dura, por cierto, con esas personas y un corazón muy grande, como señalaba Iván, justamente para recuperar los espacios, para recuperar las plazas, las canchas, precisamente para los chilenos y chilenas. Y ahora le doy la palabra a Francesca Muñoz. Gracias. Bueno, saludar a todos los presentes. Evidentemente, destaco enormemente este plan Rescate, porque desde la visión de las regiones, específicamente de mi región del Bío Bío, la ciudadanía nos ha transmitido constantemente su dolor, su abandono, frente a la grave crisis de seguridad que están viviendo día a día y también cómo el gobierno ha sido indolente frente a esta grave crisis. Por eso yo valoro enormemente este plan rescate porque hemos vivido y quiero transmitirlo con mucha sensibilidad como en comunas del gran concepción donde se han duplicado los homicidios donde lamentablemente tenemos balacera en los esfam donde han muerto estudiantes afuera de los establecimientos educacionales, además de ser baleados u heridos en otros enfrentamientos, con bandas de crimen organizado. Entonces, en ese contexto es donde nosotros quienes estamos aquí estamos comprometidos, y aquí también nuestro candidato presidencial, José Antonio Kass, de manera irrestricta con la seguridad en nuestro país. Por eso, valoro enormemente estas acciones que se van a tomar en los primeros 90 días de nuestro futuro gobierno. Gracias. Ahora si tienen algunas consultas sobre la operación rescate capital, tanto Iván Poduje, Francesca Muñoz, como Daniel Reyes y quien les habla. Encantado de contestar las preguntas en esa línea. Y después vendrán las consultas más políticas que alguien podrá tener interés. Creo que es menor porque esto es mucho más relevante. Y ahí me acompañará como siempre Sara Concha y Arturo Esquella, que por aquí está, ahí que vamos a hacer el movimiento para que puedan hacer las consultas entonces no sé si hay consultas técnicas para preguntarle a Iván que está ahí en la defensa para que pueda pasar ahora sí candidato, buenas tardes precisamente sobre la pauta algunos de sus rivales como Franco Parisi proponen que se ocupen fuerzas militares en los centros históricos para asegurar precisamente esas zonas. En este plan está considerado ocupar algún efectivo militar, no solamente en el cuidado de ciertas zonas, sino que en estas conovaciones que usted dice. Y además, ¿quién va a coordinar este plan? ¿Si va a ser el Ministro de Seguridad Pública o va a haber algún coordinador, algún SAR para aplicarlo. Nosotros siempre hemos valorado la labor de nuestras fuerzas policiales y Carabineros tiene un rol que cumplir. El tema es que no han tenido muchas veces el respaldo político y jurídico que ahora lo van a tener, no han tenido el equipamiento moderno suficiente para poder resguardar los espacios públicos y lo mismo ha sucedido en un rol distinto con la Policía de Investigaciones, que no es un rol preventivo ni de orden público, pero esas son nuestras policías. Si en algún momento alguna infraestructura crítica corriera peligro, nosotros en esas infraestructuras públicas, también lo hemos señalado, podríamos recurrir a instrumentos constitucionales para solicitar la colaboración, pero esto no es algo permanente. Nosotros creemos que se puede requerir el apoyo de las fuerzas armadas pero esto no es algo permanente nosotros no nos podemos acostumbrar a que la macro zona sur viva en estado de excepción. Por algo es estado de excepción. Nosotros tenemos que volver a recuperar el orden, la seguridad a partir de nuestras fuerzas policiales. Y en algunos lugares tendrá que haber una especie de mando único. Por ejemplo, si ustedes van hoy día a algún aeropuerto internacional, se van a dar cuenta de que hay al menos cinco autoridades que toman resoluciones distintas. La Dirección General de Aeronáutica Civil, la Policía de Investigaciones, Carabineros de Chile, el Ministerio de Obras Públicas, incluso la concesionaria podría opinar en algunas ocasiones. ¿Se requiere un mando único para coordinar? Sí. Lo planteó también el general Vial cuando hablamos del escudo fronterizo. Él señaló que esto era en fases, que eran distintas etapas y que lo que tenemos que hacer es volver a la normalidad, a que cada uno pueda caminar tranquilo por las calles sin temor. Y eso en algún momento puede requerir más energía, más fuerza de la autoridad, que se ejerza la autoridad, hasta atender a la normalidad, donde básicamente con inteligencia artificial podamos controlar las incivilidades. Buenas tardes, tengo una pregunta para el señor Iván Pugge, específicamente sobre el tema de los grafitis. Sé que está la necesidad de discutir una ley que sancione los grafitis y cuáles deberían ser las sanciones si es que es suficiente con una multa o con la limpieza inmediata por ejemplo bueno primero hay una ley ya que está operando sobre los consejos monumentos nacionales lo que nosotros vamos a hacer es aplicando esa, extender un polígono de preservación donde van a aplicarse todos los requerimientos de la ley. Hoy día es ilegal vandalizar un monumento. Lo que pasa es que la ley no se cumple. Y respecto a las multas, va a haber el registro único de vándalos, que es la gran medida. Las personas que sean sorprendidas, igual que ocurre en Europa, van a ser fiscalizadas in situ, se les va a retirar su documento de identidad. Si no pagan la multa, que van a ser multas altas, van a perder todos los beneficios sociales de los cuales son parte. Si es un menor de edad, van a ser los padres los que van a perder beneficios sociales. Esto es muy relevante y esto está tomado desde el caso de París y de Londres. ¿Por qué? Y de Nueva York también. Porque estos grafitis, estos vandalismos generan un fenómeno de ventana rota, que se llama, donde empiezan a aumentar la visibilidad y el lugar se empieza a salir de control. Ejemplo, paseo bandera. Ejemplo, paseo puente. Ejemplo, arrestación en Concepción. Entonces, nosotros tenemos que parar esa cadena y para pararla lo más importante es identificar al infractor y aplicarle el registro único de vándalo y que él responda en función de eso. Quería pasar a otros temas, candidato. Quería consultarle a propósito de lo que es la perspectiva, ya que se realiza en torno a lo que pueda ocurrir el próximo 16 de noviembre que han planteado la irrupción de la candidatura de un segundo ahora sí ahora ya estoy con mis asesores en área política hay algunos que han planteado la irrupción de la candidatura de Johannes Kaiser. ¿Cuánto creen ustedes que puede afectar ese fenómeno y cuán competitivo puede ser una eventual participación de Johannes Kaiser en una segunda vuelta enfrentando eventualmente la candidata también del oficialismo? Nosotros esto lo hemos planteado desde el inicio del año, que valoramos y felicitamos la fuerza de los sectores de oposición al actual gobierno. Y eso lo hemos hecho desde el inicio. Ustedes saben, las encuestas suben, bajan. Nosotros las hemos publicado siempre. Hoy día no las podemos publicar porque hay una especie de veda que no compartimos y que ustedes tampoco comparten, que no permite mostrar lo que está ocurriendo si llega información información privada que no se puede publicar. Si fuera pública nosotros subiríamos las encuestas como todos los domingos lo hacemos porque nosotros tenemos una estrategia, un plan muy definido que va a definir la ciudadanía el 16 de noviembre, a quién va a favorecer con su apoyo. Por lo tanto, nosotros no estamos hoy día ocupados de quienes son opositores al gobierno. Felicitamos el trabajo que hace cada uno de ellos, como puede hacerlo Evelyn Matei, Franco Parisi y Johannes Kaiser. Con Johannes Kaiser además compartimos una lista parlamentaria, que para nosotros es muy importante, y por eso hemos reforzado siempre la lista K, de Kast. Pero básicamente es eso. Nosotros más que profundizar las diferencias con candidaturas de oposición, tenemos un enemigo claro, que es el narcotráfico, el crimen organizado. Y no nos vamos a cansar de repetirlo. Ustedes nos podrán preguntar muchas veces por lo que opinan nuestros colegas del sector y nosotros les vamos a contestar lo mismo. Estamos ocupados al 100% en cerrar las fronteras, en combatir las incivilidades, en mejorar la atención de salud de las personas, en recuperar la educación pública en Chile. Ese es nuestro objetivo. El resto de la ciudadanía determinará cuál es su favorito el día 16. Todos son competitivos y será la ciudadanía la que defina. Cada uno elige su estrategia para el momento. Algunos han planteado, no es cierto, que hay un empate en el tercer lugar en su estrategia. Nosotros lo que vamos a decir es que hay una tendencia y esa tendencia dice que este gobierno fracasado e ineficiente se va a ir el 11 de marzo candidato, el alza de perdón, está el micrófono acá y después vamos a ir entregando el micrófono para mantener el orden si no va a ir al registro el alza de Johannes Kaiser, candidato, tiene que ver con la estrategia de su comando de llamar al voto útil, es decir que apelen desde su comando a que las personas sufrajen por la carta del sector que tiene más posibilidades de ganar ¿tiene que ver el alza de Kaiser con esto? Nosotros, en esto de nuevo, hemos a que las personas sufrajen por la carta del sector que tiene más posibilidades de ganar. ¿Tiene que ver el alza de Kaiser con esto? Nosotros, en esto de nuevo, hemos sido muy claros. Hay que ganar la primera. Y hay que ganarle a la candidata a la continuidad. Nuestro mensaje es ganémosle a la candidata a la continuidad. Ella ha mostrado que está cerca del treinta por ciento. Eh que es quizás un poco menos de lo que hoy día marca marcaban porque hoy día no no hay encuesta que marcaban las encuestas respecto del apoyo ciudadano a al presidente. Es mucho menos de lo que obtuvieron en el primer planteamiento de reforma radical a nuestra ley fundamental. Por lo tanto, no vemos tan lejano ganarle a la candidata a la continuidad en la primera vuelta y ese es nuestro objetivo hoy día y estamos enfocados en eso cada ciudadano tiene que sacar sus conclusiones de cómo es más fácil ganarle a Janet Jara nosotros creemos y estimamos que podemos ganarle en la primera vuelta y estamos enfocados en esa línea. Llegó la luz. Algo no se escucha. Es que lo que pasa es que como transmitimos también a nuestras redes, así pueden escucharla. Ahí sí, gracias. Bueno, quería preguntarle cuáles son sus principales diferencias con el candidato Kaiser. ¿Qué es lo que lo diferencia a usted de él? Y también quería preguntarle sobre un anuncio que hizo el presidente Boric esta mañana sobre... Bueno, es la concreción de un anuncio que había hecho ya en la cuenta pública sobre que el penal de Punta Peuco, especiales para personas juzgadas por violación a los derechos humanos, va a pasar a ser un penal, no va a dejar de ser esa categoría especial. ¿Qué le parece a usted esa medida y también las diferencias con el señor Cáceres? Nosotros destacamos las coincidencias. Y la coincidencia más fuerte es que queremos que termine este mal gobierno. Precisamente por cosas que usted señala. Por lo tanto, nosotros no vamos a profundizar en cosas que cada uno plantea respecto de qué quiere decirle a la ciudadanía nosotros tenemos nuestro planteamiento muy claro, lo hemos venido desarrollando todos los días, lunes desde comienzos de año. Y respecto de lo otro, el presidente está de salida. Y todo lo que hace hoy día es pensando en su supuesto legado. Pero es tarde. El presidente abusó de la cadena nacional. Y se dirigió a un solo candidato en la cadena nacional en un acto de corrupción y cobardía, porque nosotros no tenemos una oportunidad de una cadena nacional para aclararle los puntos al gobierno. El presidente usó su poder para sacar a aquellos que no le hicieron caso en las listas parlamentarias, una especie de berrinche presidencial. Y nos tiene acostumbrados. El presidente fue a Colchane, no para inaugurar la unidad policial que prometió al inicio su gobierno, sino para decir que ahora estaba dispuesto a mandar una ley para que el despliegue de las fuerzas militares no pasara por el Congreso una especie de autoritarismo que él sueña de tener y que no va a poder cumplir nunca porque no va a salir nunca más reelecto como presidente de la nación. Y lo ha hecho en distintas situaciones. Nos tiene acostumbrado al ocultamiento. Ocultó al señor Monsalve. Le prestó la moneda para despedirse. Ese es nuestro presidente. Por lo tanto, lo que haga o diga el presidente en estos meses que le quedan a cargo del gobierno, porque claramente no va a gobernar, prefiere transformar la moneda en la sucursal de campaña de la candidata, tratando de apelar a lo que sea para que su candidata suba, la verdad es que nos tiene sin cuidado. Se termina en 128 días su mandato y va a haber un antes y un después. Nuestra guerra es contra el crimen organizado, contra el narcotráfico, contra la delincuencia, contra la inmigración ilegal. Ya el presidente claramente no está gobernando, sino que está tratando de mantener algo delegado. Si hubiese sido de interés para él situaciones como esta u otras que empieza a levantarar lo habría hecho el primer día sí que si me hablan así en las redes no se va a poder escuchar si le pasa el micrófono estoy pensando en nuestros seguidores a lo largo de todo chile que no escuchan la pregunta un poquito más alto no sé si en lo concreto respecto a Punta Peduco ¿está de acuerdo en el fondo con la razón que toma Contraloría y lo que dice el presidente que ahora en Chile no va a haber presos de primera o segunda categoría, que es un acto de justicia ¿está de acuerdo con lo que se hace ahora en Punta Peduco? vuelvo a insistir dice el presidente, que ahora en Chile no va a haber presos de primera o segunda categoría, que es un acto de justicia. ¿Está de acuerdo con lo que se hace ahora? Vuelvo a insistirle. El presidente demostró en su actuar durante el gobierno que él tiene privilegiados. Él defendió a un abusador, lo escondió, lo ocultó. Él premió a sus amigos con embajadas. Nos tiene acostumbrados a decir una cosa y hacer otra. Él salió electo, primero insultando a la fuerza pública, después casi poniéndose el uniforme de la fuerza pública. Hoy día dice que tenemos que cuidar y resguardar a nuestros carabineros porque son quienes nos cuidan a quienes él mismo insultó por lo tanto cualquier palabra o hecho o decreto o ley que envíe el presidente hoy día al congreso incluso que tenga todas las firmas necesarias nos tiene sin cuidado en las conferencias sí, aquí estamos Congreso, incluso que tenga todas las firmas necesarias, nos tiene sin cuidado. En las conferencias, sí, aquí estamos. Nosotros lo único que le podemos decir es que va a haber un antes y un después de este gobierno fracasado. Candidato, dentro de los próximos días se suma la visión dentro de su equipo político de que en primera vuelta el votante de derecha elegirá a una coalición que le represente no solamente en esta carrera presidencial, sino incluso posterior al resultado del balotaje? ¿Sienten esa responsabilidad de ser la nueva derecha? Nosotros hablamos más que de una derecha u otra derecha, de recuperar Chile, de reconstruir Chile. Y por eso hemos llamado ahora a un gobierno de emergencia, que nos tiene que convocar a todos. A todos los que vibren con la patria los cambios legislativos que tenemos que hacer no van a depender solamente de los diputados electos en la lista K van a depender de todos los parlamentarios que quieran cerrar el paso a la inmigración ilegal, va a depender de todos los diputados yan cerrar el paso a la inmigración ilegal. Va a depender de todos los diputados y senadores que quieran combatir el crimen organizado, el comercio ilegal. ¿Eso requiere modificaciones legales? Sí. Y por eso nuestro interés es que, ganando en la primera vuelta y pasando en primer lugar a la segunda vuelta, que todos aquellos que se sientan comprometidos con Chile colaboren. Esa es la libertad de cada uno. Cada uno podrá elegir si quiere trabajar por Chile, si siente que algo no le representó y quiere marginarse, viva la libertad. Pero una vez que juren como senadores o diputados, la patria les va a demandar ese valor necesario que tiene que tener un senador y un diputado para ir contra viento y marea para recuperar la patria. No con populismo, con hechos concretos. Por eso nosotros decimos que esto no es una promesa lo que estamos haciendo, es una decisión. Y eso implica jugarnos por completo desde el gobierno. Y así como lo dijimos el primer día, cuando generó algún grado de nerviosismo o risas en alguno, no vayan por los carabineros, no vayan por la Policía de Investigaciones, no vayan por las Fuerzas Armadas, vengan por nosotros. Y hoy día estamos todos comprometidos en eso. Candidato, buenas tardes. Le quería preguntar por unos dichos del presidente Laudi Guillermo Ramírez, dichos ayer, pero... Tenemos al presidente del Partido Republicano para que le conteste al presidente del Partido Unión de Margarita Independiente. Y también tenemos a la presidenta del Partido Social Cristiano para que entre en el debate político de presidencias de partidos. Correcto, pero le pregunto por el escenario de la primera vuelta que es justamente lo que estaba hablando. Él dice que tiene cierto temor por 10 puntos de ventaja que tendría en estos momentos la candidata Janet Jara. ¿Comparte primeramente ese temor dado que en ese sentido el perseguidor más cercano que vendría a ser en estos momentos, ¿usted podría pasar a segunda vuelta? ¿Eso podría seguir fraccionando a la derecha? ¿Eso podría poner cuesta arriba la elección? Dejo a Arturo. Yo creo que nosotros tenemos de nuevo Un norte muy claro Nosotros no hemos abonado a ningún fraccionamiento Hemos sido muy claros donde están Nuestros objetivos y nuestros adversarios Y no están en los opositores Al actual gobierno Y los dejo con Arturo Esquella Bueno, yo soy más optimista a la actual gobierno. Y los dejo con Arturo Esquella. Bueno, yo soy más optimista que el presidente Labudi. Estamos entre 3 a 6 puntos de diferencia. Y por lo mismo, creo adecuado a 14 días de la elección, resaltar la importancia de que todos quienes comparten una idea que es matriz en estas elecciones, que es que no sigan gobernando quienes han llevado a Chile al desastre durante estos cuatro años, se tienen que sumar a permitirnos pasar primero a segunda vuelta. Hay muchas personas que ya tomaron la decisión de votar por la oposición y que todavía no le ponen nombre y apellido a ese candidato. Quiero resaltar hoy día, ya no estamos en época de hablar de encuestas, pero por lo menos el congelamiento nos permite ver que sí es alcanzable, si es posible que todos quienes comparten esa premisa de que no gobiernen más los que han estado durante cuatro años, se sumen y se cambien o refuercen el voto de José Antonio Kass para pasar primero esa segunda vuelta. Eso tiene un efecto no sólo para los 30 días de campaña para la elección final, sino que también tiene una repercusión muy importante para lograr el que ese futuro gobierno tenga mayoría en ambas cámaras. Ese es nuestro mensaje, estamos optimistas de poder lograrlo, estos 14 días son fundamentales para quienes están ahí en familia reflexionando sobre el voto, se sumen acá a quien efectivamente tiene las mayores posibilidades de con holgura ganarle a Janet Jara en segunda vuelta y que no olviden la importancia de pasar primeros esa segunda vuelta. Yo sé que el micrófono está ahí, pero ¿cómo lo van a hacer precisamente para lograr aquello? Para lograr aquello que el candidato aquí presente pase primero a la segunda vuelta, ¿cómo van a convencer a los votantes de Matei, de Kaiser y otros para que pasen el voto para acá? Bueno, por de pronto, logrando que tú lleves en la nota este mensaje, y todos los medios de comunicación lo mismo. Yo le estoy hablando más allá de, y quiero ser súper sincero, que tampoco la idea es generar algún tipo de revuelta, todo lo contrario. Estamos nosotros pensando en que en 14 días más vamos a estar trabajando todos juntos. Yo le estoy hablando a quienes no han tomado todavía la decisión definitiva de cuál es el candidato de oposición. A esas personas quiero transmitirles el valor que tiene de concentrar los votos en José Antonio Kast. Eso es clave. Es la persona que evidentemente, de acuerdo a todos los estudios que se conocieron hasta el sábado de la noche, está más cerca de poder alcanzar a Janet Jara y no tengo ninguna duda de que también superarla. Pero ese mensaje tiene que llegar. Y por lo mismo es tan importante que tú nos consideres con este mensaje en la nota. Por lo mismo, usted mencionaba que ya está sacado que en 15 días másición que no vaya a hacer todo lo que esté de su parte por hacer lo imposible porque no siga este gobierno y se proyecte por cuatro años más. Ese mismo día no tengo dudas de que van a estar todos disponibles como también nosotros por supuesto lo hemos estado en el pasado día, y vamos a seguir siempre adelante como proyecto político republicano poniendo el foco en qué es lo mejor para Chile. De quienes lideran los partidos, quienes son candidatos, sin duda van a estar trabajando y ya tendremos la oportunidad de ver la manera en que se va a hacer dentro, digamos, de las próximas semanas. Buenas tardes, tengo una pregunta para el candidato Kass. Sé que se refirió hoy al tema de lo que le dijo Johannes Kaiser por renunciar a su agenda valórica, pero me gustaría preguntarle nuevamente qué le parecen estos dichos y si cree que esa crítica es injusta o revela también una diferencia real de prioridades dentro de la oposición. Como estamos acá, me va a permitir una licencia y contestar algo también que es importante porque parte importante tiene que ver con algo que rescatamos que se ha dicho de que uno tiene que ir al fondo de las medidas que quiere transformar en el país y si hay una que de repente no se ve tan visiblemente pero que está en el corazón de lo que hemos propuesto para los próximos cuatro años, es precisamente romper esta lógica cultural instalada desde el progresismo de izquierda principalmente, de que las medidas privativas de libertad cuando se quiere perseguir a los delincuentes no son el camino, de que en el fondo hay que tratar, como lo decía una candidata, a los presos con amor, hay que tratarlos con dignidad, con justicia. Pero eso, que parece un eslogan, responde a una instalación cultural que está incluso dentro de nuestro sistema progresal penal. Para los más estudiosos recordarán, por ahí por el año 2000 en adelante, cómo instalaron una lógica garantista con una lógica muy de fondo, digamos, ir instalando culturalmente, Estado por Estado, país por país, un cambio en la manera de generar las condiciones de vida en sociedad. Ese es el propósito, esa es la primera gran batalla que nosotros estamos dando, evidentemente que también es de resorte cultural cambiar la mentalidad en materia de combate a la delincuencia y también en el plano económico, porque muchas veces la gente de izquierda ha ido instalando de que el Estado tiene que ser una suerte de obstáculo para quienes quieren desarrollar actividades económicas, para quienes tienen un proyecto de inversión. Y nosotros culturalmente queremos cambiar esa mentalidad. Queremos, en el fondo, transmitirle a todos los chilenos, incluso a los extranjeros, que acá en Chile, desde el 11 de marzo en adelante, van a encontrar un Estado que promueve la inversión, que promueve y que va a hacer todo lo que esté a su alcance para que las cosas resulten y no para generar un obstáculo. Señor candidato, si puede responder por el tema de las críticas de Jóvenes Keiser. Sí, vuelvo a insistir. Nosotros no vamos a ahondar en los dichos de algún candidato que sea opositor al actual gobierno. Nuestro desafío es mucho más grande que debatir entre nosotros. Nosotros tenemos que mostrarle a la ciudadanía el fracaso rotundo de las políticas que ha llevado adelante este gobierno y de sus colaboradores, dentro de los cuales estuvo la candidata Janet Jara, que fue ministra del trabajo del actual presidente y nos va a dejar un legado de desempleo muy grande, un legado de informalidad enorme. Por lo tanto, toda nuestra fuerza en estos días está en enfrentar a este gobierno desastroso. Candidato, acá está también en el sentido sobre la unidad de la oposición que usted ha planteado, también han planteado desde otros partidos. ¿Cómo se toma el apoyo público, ya que le dio Mario Desbordes aquí al diputado y candidato a diputado Álvaro Carter de alguna manera decía Jimena Osandón que eso no aporta a la unidad del sector y también preguntarles es que Mario Desbordes ha tenido una cercanía quizás con el Partido Republicano o la propia candidatura pese a que él apoya a Evelyn Matei. Hay apoyos que se van dando focalizadamente......y en este caso hay un apoyo directo, ¿no es cierto?, del alcalde Desbordes......al candidato Carter, y él menciona por qué lo apoya. Porque tiene ciertos desafíos, donde él ha un hombre valiente que da la cara y que ha generado una política pública que para él es absolutamente necesaria. Eso es un apoyo específico, puntual a una candidatura parlamentaria y se une con lo que viene en la segunda vuelta, donde la vez anterior a mí me tocó encabezar eso y prácticamente todos los que ejercían algún liderazgo dentro de lo que hoy es la lista que respalda Chile Vamos Ampliada colaboraron para tener un mejor resultado que nos permitió marcar un punto importante luego de las derrotas que tuvimos en mayo, porque algunos sólo recuerdan diciembre, no recuerdan que en noviembre paramos el Senado y no recuerdan que en mayo del mismo año, en una votación de dos días, nosotros perdimos 15 de las 16 gobernaciones, perdimos 80 alcaldías y también muchas concejalías. Esa elección se aprendió y a eso se le suma el voto obligatorio, donde están estas personas indecisas a las cuales nosotros hoy día le estamos hablando. Y hay un porcentaje que puede ser el 6, el 8, el 10% de las personas que aún no deciden su voto. A esas personas le estamos diciendo, vengan a nuestra propuesta, porque es clara y específica en los puntos que a usted más le importan. Por lo tanto, en estos 14 días nosotros no vamos a entrar a polemizar sobre apoyos, no apoyos. El único objetivo es infringirle una derrota importante, histórica, al actual gobierno. ¿Y en ese sentido ha tenido conversaciones con el alcalde Mario Desbordes? Lo felicité para el cumpleaños. Diputado Carter, también si pudiera preguntarle sobre el tema. Un segundito que sale, quería comentar algo. Ningún problema. Soy un poco más baja. Bueno, primero señalar que las encuestas como acá se ha señalado suben, bajan, tenemos diagnósticos, tenemos opiniones respecto a cuáles son los resultados que se puedan tener, que son proyecciones, pero lo real lo vamos a tener el 16 de noviembre y ahí es donde tenemos que focalizar nuestro esfuerzo. Acá se ha señalado, lo dijo Arturo, lo dijo José Antonio, nuestro objetivo hoy día está en derrotar a la candidata a la continuidad de este gobierno que ha sido un mal gobierno y es evidente en la opinión ciudadana cuando uno recorre los distritos y nos damos cuenta que hay un descontento......cómo ha llevado adelante este gobierno y nosotros porque hoy día estamos acá......como Partido Social Cristiano y no estamos en el comando de otro candidato de oposición......porque también nosotros respaldamos el programa de gobierno de José Antonio Kassass, que primero está basado en un gobierno de emergencia que se va a hacer cargo del día uno, en que asuma la realidad que hoy día está enfrentando nuestro país en las distintas crisis, en seguridad, en educación, y ya tenemos una educación que está en deterioro, y tenemos que hacernos cargo de eso y cómo la vamos a recuperar. Pero además, porque estamos hoy día apoyando como Partido Socialistiano a José Antonio Kass, porque nosotros hemos visto que no se ha movido ni un centímetro en lo que son los temas que para algunos son importantes, para nosotros también, por supuesto, que son los temas valóricos, en donde obviamente no está nuestro foco sino como lo señalé anteriormente, está en recuperar la seguridad que eso sí le tiene atemorizado a los chilenos y que no les permite hoy día llevar una vida tranquila y por supuesto recuperando la seguridad vamos a recuperar el fortalecer a las familias que es clave y por eso es que estamos acá y lo otro que quiero señalar es que hoy día más allá de lo que diga o no diga un candidato creo que lo importante es poder colocar el foco en cómo nosotros vamos a elaborar esa unidad que nos va a permitir gobernar en el próximo periodo y poder sacar adelante todas aquellas leyes que le van a hacer bien a nuestro país, hacer ejercer nuestro rol fiscalizador para que las leyes que ya están establecidas y las pocas leyes que este gobierno de turno logró sacar adelante para poder ayudar a la ciudadanía se cumplan y así obviamente devolver en parte la tranquilidad y algunas cosas que la ciudadanía está esperando. Y por eso creo que es importante lo que hoy día se ha señalado en las propuestas que se han ido señalando a lo largo de este periodo, porque vuelvo a insistir, a lo largo de todo lo que ha sido la campaña electoral, se han dado diagnósticos, pero el resultado final lo vamos a tener el 16 de noviembre y quien pase a la segunda vuelta de oposición no nos perdemos ni un centímetro en que lo vamos a apoyar para hacer un gobierno que haga frente a lo que hoy día la ciudadanía está esperando. Diputada, solamente para hacer una consulta dentro del mismo... ¿Diputada? Sí, sí, uno, uno, sí. Diputada, le he consultado lo mismo hace un rato al candidato Kast la primera vuelta va a ser el votante de derecha va a elegir que coalición de derecha quiere para su sector ustedes se ven cómodos llevando la batuta dentro de la derecha entendiendo que el elector de oposición puede elegirlo a ustedes? Hoy día la ciudadanía obviamente tiene que elegir cuál es la posición que más le acomoda. Nosotros hemos presentado un proyecto, hemos respaldado un proyecto que creo yo que hoy día, y además también creemos que José Antonio Kast tiene todas las condiciones, las capacidades y el más capacitado en este caso para poder gobernar. Y hoy día la verdad es que nosotros no podemos decir algo que la ciudadanía tiene que decidir el 16 de noviembre la ciudadanía tendrá que elegir si quiere que José Antonio Caso gobierne con la lista que hoy día estamos presentando en las parlamentarias o querrá combinar las distintas listas de oposición pero lo que tenemos claro es que nosotros hoy día creemos que la mejor opción y el candidato más capacitado para gobernar con un parlamento acorde a ese programa de gobierno es José Antonio Caso Diputado Carter, preguntarle justamente sobre el apoyo de Mario Desbordes a su candidatura también, ¿no responde quizás a una polémica antigua entre los Carter y los Osandón? Muy buenas tardes primero que todo a todos los que están presentes. Primero decir que Mario Desbordes, lo conozco hace muchos años, nos tocó tener batallas en el Congreso y también en la vida muy pare parecidas, y eso nos une. Y el cariño y el respeto es mutuo. Por lo tanto, de aquí darle muchas gracias por su apoyo desinteresado. Respecto a su pregunta, Mario nos une también otras cosas. El gran amor a Chile y la batalla contra el narcotráfico, el crimen organizado y derrotar las bandas criminales. Él está dando una gran batalla en Santiago para sacar los toldos azules y él entiende que para poder lograrlo en el próximo gobierno, sea quien sea, nosotros creemos que va a ser José Antonio Kast, pero quien sea, si nosotros no pasamos, sea Evelin Matei, sea Johannes Kaiser o sea Parisi, tenemos que trabajar como un solo equipo. Y dentro de eso no existen las peleas pequeñas. Hoy día la patria, el país nos llama a ser más grandes que que eso y eso Mario Desbordes ya lo ha demostrado por lo tanto yo espero estar a la altura del llamado, de su cariño y ojalá en dos semanas más justo dos semanas más, estemos trabajando en conjunto para poder lograr recuperar Chile y terminar con este nefasto gobierno que ha dañado a millones de chilenos y chilenas Candidato, última pregunta Hay como 25 No hay problema A usted más específico porque mañana va a encontrarse con el resto de sus rivales en un nuevo debate organizado por la Radio Chile a través del Archie ¿Qué espera precisamente ese encuentro? ¿Se van a enfatizar más las diferencias o van a mantener sus posiciones? Nosotros, de nuevo, a mí me ha tocado ir ya a varios debates, he tratado de hacerlo más claro en todas las propuestas que hacemos y esperamos que mañana sea una gran oportunidad para que esos chilenos que aún no En varios debates he tratado de hacerlo más claro en todas las propuestas que hacemos y esperamos que mañana sea una gran oportunidad para que esos chilenos que aún no han decidido por quién votar, lo puedan hacer en base a las propuestas de cada candidato. Y esas propuestas, nosotros al menos las tenemos muy claras, las hemos ido profundizando en el tiempo, ustedes han visto como un plan se va transformando en una acción concreta y vamos a seguir en la misma línea, con la misma tranquilidad, con la misma fortaleza, con las mismas ideas claras y con un tremendo equipo que ustedes pueden ver que está trabajando en todas las áreas que hemos planteado a la ciudadanía. Muchas gracias. Sí, vamos a ver. Gracias.",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 6.22,
+      "text": "Muy buenos días, muchas gracias por acompañarnos hoy una vez más."
+    },
+    {
+      "start": 6.86,
+      "end": 11.28,
+      "text": "Le damos gracias también a las personas que nos siguen a través de todas las plataformas digitales"
+    },
+    {
+      "start": 11.28,
+      "end": 14.4,
+      "text": "a lo largo de todo Chile, de Arica a Magallanes."
+    },
+    {
+      "start": 15.36,
+      "end": 19.58,
+      "text": "Y queremos agradecerle a ustedes estar hoy día presentes con nosotros"
+    },
+    {
+      "start": 19.58,
+      "end": 28.26,
+      "text": "para hablar de una operación rescate, no de un plan, porque esta operación de rescate capital..."
+    },
+    {
+      "start": 28.26,
+      "end": 33.44,
+      "text": "...integra los distintos planes en los que hemos trabajado, ustedes estuvieron presentes el lunes pasado..."
+    },
+    {
+      "start": 33.44,
+      "end": 38.86,
+      "text": "...en el plan Escudo Fronterizo, han visto lo que es el barrio total, el plan cancerbero, el plan"
+    },
+    {
+      "start": 38.86,
+      "end": 46.26,
+      "text": "implacable y todo esto hoy día lo queremos llevar a esta operación rescate capital que"
+    },
+    {
+      "start": 46.26,
+      "end": 53.76,
+      "text": "es para rescatar las principales ciudades, para rescatar la vida en comunidad."
+    },
+    {
+      "start": 54.56,
+      "end": 61.56,
+      "text": "Y nos hemos querido focalizar en cinco zonas urbanas principalmente, que es el Gran Santiago,"
+    },
+    {
+      "start": 62.66,
+      "end": 67.34,
+      "text": "el Gran Valparaíso, que es la conurbación de Valparaíso-Viña del Mar,"
+    },
+    {
+      "start": 67.64,
+      "end": 72.02,
+      "text": "el Gran Concepción, Coquimbo-La Serena y Antofagasta."
+    },
+    {
+      "start": 72.16,
+      "end": 80.02,
+      "text": "Ustedes van a ver ahí imágenes de la destrucción de barrios, como lo que ocurre en el barrio Meigs."
+    },
+    {
+      "start": 80.22,
+      "end": 85.0,
+      "text": "Van a ver los toldos azules de Santiago, pero esto incorpora la persecución criminal"
+    },
+    {
+      "start": 85.58,
+      "end": 87.22,
+      "text": "a lo largo de todo el Gran Santiago."
+    },
+    {
+      "start": 87.82,
+      "end": 92.02,
+      "text": "Van a ver ahí un sector del Gran Concepción que está tomado por el narco."
+    },
+    {
+      "start": 92.02,
+      "end": 94.46,
+      "text": "Van a ver ahí una zona denominada Tucapel."
+    },
+    {
+      "start": 95.04,
+      "end": 100.06,
+      "text": "Van a ver el Gran Valparaíso y van a ver las calles comerciales de Valparaíso Centro,"
+    },
+    {
+      "start": 100.62,
+      "end": 105.44,
+      "text": "van a ver también la destrucción en la avenida principal de La Serena,"
+    },
+    {
+      "start": 105.86,
+      "end": 108.62,
+      "text": "pero esto es proyectable también a lo que ocurre en Coquimbo,"
+    },
+    {
+      "start": 109.4,
+      "end": 110.36,
+      "text": "y van a ver también"
+    },
+    {
+      "start": 110.36,
+      "end": 116.88,
+      "text": "la Plaza Bicentenario de Antofagasta, que es un centro cívico y que costó mucho construirlo"
+    },
+    {
+      "start": 116.88,
+      "end": 122.78,
+      "text": "y que está absolutamente vandalizado en todo lo que son la prestación de servicios públicos"
+    },
+    {
+      "start": 122.78,
+      "end": 126.62,
+      "text": "que fue quemado para el estallido."
+    },
+    {
+      "start": 127.52,
+      "end": 132.72,
+      "text": "Y nuestro objetivo, como ustedes saben, es claro, es recuperar el orden, la paz, la seguridad"
+    },
+    {
+      "start": 132.72,
+      "end": 144.0,
+      "text": "y vamos a ir aplicando en concreto en los primeros 90 días, que es el desafío 90, esto que no es una promesa, es una decisión."
+    },
+    {
+      "start": 144.0,
+      "end": 156.14,
+      "text": "Y tenemos una decisión muy clara de combatir al crimen organizado, al narcotráfico, a la inmigración ilegal, a la delincuencia, para rescatar nuestros centros urbanos."
+    },
+    {
+      "start": 156.5,
+      "end": 164.78,
+      "text": "Son cinco ejes sobre los cuales vamos a enfocarnos principalmente en estos primeros 90 días,"
+    },
+    {
+      "start": 165.4,
+      "end": 169.66,
+      "text": "que es tolerancia cero contra las incivilidades."
+    },
+    {
+      "start": 171.34,
+      "end": 173.96,
+      "text": "Ustedes han escuchado que también hemos hablado del registro único"
+    },
+    {
+      "start": 173.96,
+      "end": 176.44,
+      "text": "de vándalos. Esto se va a llevar a la"
+    },
+    {
+      "start": 176.44,
+      "end": 178.8,
+      "text": "práctica para recuperar los espacios"
+    },
+    {
+      "start": 178.8,
+      "end": 180.8,
+      "text": "públicos. Espacios públicos que hoy día"
+    },
+    {
+      "start": 180.8,
+      "end": 182.26,
+      "text": "están tomados por el comercio ilegal."
+    },
+    {
+      "start": 182.8,
+      "end": 193.14,
+      "text": "Vean ahí los toldos azules famosos ya del barrio Meigs. Las casas ocupas, que son fuente de incivilidades permanentes"
+    },
+    {
+      "start": 193.14,
+      "end": 202.18,
+      "text": "y son propiedades que no son de aquellos que hoy día las usan. Vamos a ir en contra de aquellos que vandalizan cada"
+    },
+    {
+      "start": 202.18,
+      "end": 206.84,
+      "text": "infraestructura pública. Aquí en Santiago hace poco vimos lo que hicieron con la fuente alemana"
+    },
+    {
+      "start": 206.84,
+      "end": 212.68,
+      "text": "recién restaurada. Nosotros vamos a ir detectando a las personas que hacen eso y van a quedar"
+    },
+    {
+      "start": 212.68,
+      "end": 216.58,
+      "text": "marginadas de cualquier tipo de beneficio social"
+    },
+    {
+      "start": 216.58,
+      "end": 222.38,
+      "text": "que se les pudiera otorgar. Vamos a ir también a fiscalizar todo lo que se denomina como micro"
+    },
+    {
+      "start": 222.38,
+      "end": 228.68,
+      "text": "basurales y hay puntos que todos conocemos que reiteradamente son utilizados por personas"
+    },
+    {
+      "start": 228.68,
+      "end": 231.02,
+      "text": "inescrupulosas, que van casa"
+    },
+    {
+      "start": 231.02,
+      "end": 235.48,
+      "text": "por casa diciéndole, yo les retiro los escombros y no se preocupe, yo los voy a llevar a un"
+    },
+    {
+      "start": 235.48,
+      "end": 241.8,
+      "text": "vertedero, a algún lugar, a un relleno, y van a la comuna vecina y dejan abandonados"
+    },
+    {
+      "start": 241.8,
+      "end": 245.74,
+      "text": "los restos de una mini construcción o de los bienes que tienen las"
+    },
+    {
+      "start": 245.74,
+      "end": 249.9,
+      "text": "personas que no saben cómo deshacerse de ellos, porque no todos los municipios hay una ronda"
+    },
+    {
+      "start": 249.9,
+      "end": 257.1,
+      "text": "frecuente para sacar todos los bienes de las personas. Y también vamos a perseguir la venta"
+    },
+    {
+      "start": 257.1,
+      "end": 260.26,
+      "text": "y consumo de alcohol en la vía pública."
+    },
+    {
+      "start": 265.06,
+      "end": 265.42,
+      "text": "El segundo punto es tener barrios libres de narcos,"
+    },
+    {
+      "start": 269.1,
+      "end": 270.08,
+      "text": "porque no hay barrios intocables ni narcos intocables."
+    },
+    {
+      "start": 272.92,
+      "end": 273.36,
+      "text": "Y el narcotráfico, ustedes saben, es una pandemia."
+    },
+    {
+      "start": 277.82,
+      "end": 278.24,
+      "text": "Hoy día ha capturado espacios públicos y también nuestros colegios, nuestros liceos,"
+    },
+    {
+      "start": 282.9,
+      "end": 286.3,
+      "text": "donde se le entrega de manera gratuita droga a los jóvenes para incorporarlos, ¿no es cierto?, a su red de narco y de crimen organizado."
+    },
+    {
+      "start": 286.72,
+      "end": 294.08,
+      "text": "Y la tecnología hoy día, al igual que lo vamos a ver en el punto siguiente, nos ayuda. Hoy día podemos contar con mapas dinámicos de"
+    },
+    {
+      "start": 294.08,
+      "end": 297.58,
+      "text": "microtráfico, de venta de microtráfico. Todos sabemos cuáles son más o menos las"
+    },
+    {
+      "start": 297.58,
+      "end": 302.4,
+      "text": "rutas de escape de las personas, tanto que cuidan como que venden, y que hacen"
+    },
+    {
+      "start": 302.4,
+      "end": 304.98,
+      "text": "el microtráfico parte de su vida."
+    },
+    {
+      "start": 305.0,
+      "end": 305.5,
+      "text": "Tenemos la inteligencia policial, vamos a operar, como que venden y que hacen el microtráfico parte de su vida."
+    },
+    {
+      "start": 310.0,
+      "end": 313.02,
+      "text": "Tenemos la inteligencia policial, vamos a operar, como le decía, con las demoliciones y vamos a seguir también la ruta del dinero."
+    },
+    {
+      "start": 313.84,
+      "end": 319.48,
+      "text": "El tercero es el cerco total al crimen organizado y aquí sí la inteligencia"
+    },
+    {
+      "start": 319.48,
+      "end": 321.68,
+      "text": "artificial colabora y mucho."
+    },
+    {
+      "start": 322.34,
+      "end": 328.02,
+      "text": "Hoy día no solamente tenemos los pórticos, que han sido de gran utilidad para perseguir"
+    },
+    {
+      "start": 328.02,
+      "end": 333.9,
+      "text": "a algunas personas que realizan el delito del portonazo, pero también tenemos escáner"
+    },
+    {
+      "start": 333.9,
+      "end": 336.8,
+      "text": "que pueden ser móviles, tenemos cámaras"
+    },
+    {
+      "start": 336.8,
+      "end": 341.2,
+      "text": "con reconocimiento facial, hay municipios, por ejemplo, el municipio de La Florida, nos"
+    },
+    {
+      "start": 341.2,
+      "end": 345.96,
+      "text": "acompaña aquí el alcalde de La Florida, donde hay plazas seguras, porque tienen un"
+    },
+    {
+      "start": 345.96,
+      "end": 350.08,
+      "text": "sistema de cámaras integradas entre los vecinos, un monitoreo de los vecinos,"
+    },
+    {
+      "start": 352.72,
+      "end": 353.3,
+      "text": "pero que también le hace la denuncia a la seguridad ciudadana."
+    },
+    {
+      "start": 361.62,
+      "end": 362.56,
+      "text": "Y eso es factible en lugares como lo vimos en la Florida, con el compromiso de los vecinos."
+    },
+    {
+      "start": 367.78,
+      "end": 372.36,
+      "text": "Esto, antiguamente se usaban los portones para cerrar los pasajes. Hoy día uno puede hacer un cierre con inteligencia artificial y puede detectar donde se arruguen más de tres"
+    },
+    {
+      "start": 372.36,
+      "end": 377.7,
+      "text": "personas, si hay un auto detenido, se pueden detectar ciertos instrumentos o objetos que"
+    },
+    {
+      "start": 377.7,
+      "end": 385.08,
+      "text": "tengan las personas. Y esto no es solamente pensando en espacios como las plazas, también tenemos que"
+    },
+    {
+      "start": 385.08,
+      "end": 389.9,
+      "text": "pensar en los terminales nacionales, porque hemos hablado del escudo"
+    },
+    {
+      "start": 389.9,
+      "end": 393.14,
+      "text": "fronterizo, Cristian Vial hizo una reseña de que no solamente eran los"
+    },
+    {
+      "start": 393.14,
+      "end": 397.48,
+      "text": "pasos inhabilitados, sino los centros fronterizos, que incluía puertos y aeropuertos."
+    },
+    {
+      "start": 397.92,
+      "end": 402.24,
+      "text": "Pero esto va más allá. Esto también va a los terminales de buses, que todos conocemos."
+    },
+    {
+      "start": 402.62,
+      "end": 407.98,
+      "text": "Esto también va a los muelles, de donde parten los transbordadores y parten botes"
+    },
+    {
+      "start": 407.98,
+      "end": 410.2,
+      "text": "a los centros de pesca y a otros lugares."
+    },
+    {
+      "start": 410.76,
+      "end": 419.08,
+      "text": "Esto es mucho más que el cierre fronterizo, es la detección en cualquier aeropuerto del tráfico de drogas."
+    },
+    {
+      "start": 419.38,
+      "end": 426.78,
+      "text": "Hoy día la DGAC, ustedes saben, cuenta con instrumental para detectar cuchillos, tijeras, armas,"
+    },
+    {
+      "start": 427.32,
+      "end": 432.96,
+      "text": "pero no todos están con sus equipos al día para detectar el tráfico de drogas."
+    },
+    {
+      "start": 433.72,
+      "end": 439.76,
+      "text": "Y también vemos con preocupación que en muchos aeropuertos, que no son los aeropuertos internacionales,"
+    },
+    {
+      "start": 440.22,
+      "end": 443.68,
+      "text": "no tenemos fuerza policial. No está Policía de Investigaciones porque no hay migración"
+    },
+    {
+      "start": 443.68,
+      "end": 449.2,
+      "text": "y Carabineros no tiene la dotación suficiente. ¿Qué hace un funcionario de la DGAC si es"
+    },
+    {
+      "start": 449.2,
+      "end": 456.42,
+      "text": "que detiene a un narcotraficante? Tiene que retenerlo, de alguna manera, porque, dadas las normas,"
+    },
+    {
+      "start": 456.5,
+      "end": 461.2,
+      "text": "no es cierto, no siquiera tienen una pistola Taser, las esposas las tendrán guardadas,"
+    },
+    {
+      "start": 461.3,
+      "end": 465.62,
+      "text": "pero tendrían que reducirlo físicamente, corporalmente. Bueno, eso requiere también"
+    },
+    {
+      "start": 465.62,
+      "end": 470.34,
+      "text": "un avance y contar con fuerza policial cercana, porque si no en un aeropuerto"
+    },
+    {
+      "start": 470.34,
+      "end": 478.06,
+      "text": "nacional alguien puede traficar droga, se le retiene las mismas horas que necesita carabineros"
+    },
+    {
+      "start": 478.06,
+      "end": 482.66,
+      "text": "para llegar. Estamos hablando de algo un poquito más allá de una detención ciudadana, porque es"
+    },
+    {
+      "start": 482.66,
+      "end": 485.64,
+      "text": "una autoridad y claro va a ser más grave que lo"
+    },
+    {
+      "start": 485.64,
+      "end": 489.46,
+      "text": "detengan dentro de la sala de embarque"
+    },
+    {
+      "start": 489.46,
+      "end": 490.94,
+      "text": "del aeropuerto y que lo tengan en la"
+    },
+    {
+      "start": 490.94,
+      "end": 494.14,
+      "text": "calle. Pero quien tiene que detenerlo,"
+    },
+    {
+      "start": 494.2,
+      "end": 495.5,
+      "text": "pasarlo a fiscalías, carabineros de"
+    },
+    {
+      "start": 495.5,
+      "end": 497.02,
+      "text": "Chile o la Policía de Investigaciones."
+    },
+    {
+      "start": 497.76,
+      "end": 503.62,
+      "text": "Bueno, eso también se tiene que abordar con fuerza, para que el crimen organizado deje de moverse por"
+    },
+    {
+      "start": 503.62,
+      "end": 511.18,
+      "text": "Chile. Hay antecedentes claros que maneja Gendarmería de cómo algunos presos que"
+    },
+    {
+      "start": 511.18,
+      "end": 514.38,
+      "text": "no tienen vínculo entre ellos supuestamente son visitados por las"
+    },
+    {
+      "start": 514.38,
+      "end": 522.62,
+      "text": "mismas personas y esa persona puede ir a visitar a un preso en Santiago, en Colina 1, y también lo puede"
+    },
+    {
+      "start": 522.62,
+      "end": 529.32,
+      "text": "ir a visitar a la cárcel de Chillán o lo puede ir a visitar al centro de detención de Hacha. Y es la"
+    },
+    {
+      "start": 529.32,
+      "end": 532.16,
+      "text": "misma persona. ¿Cuál es el vínculo? Claramente"
+    },
+    {
+      "start": 532.16,
+      "end": 537.56,
+      "text": "la organización criminal. Por lo tanto, tenemos que evitar ese movimiento de esas personas que"
+    },
+    {
+      "start": 537.56,
+      "end": 543.52,
+      "text": "vinculan al crimen organizado. Después tenemos que recuperar los espacios tomados. Y esto es, como les"
+    },
+    {
+      "start": 543.52,
+      "end": 547.42,
+      "text": "decía, viendo el tema de las casas narco, de las casas Ocupa,"
+    },
+    {
+      "start": 547.74,
+      "end": 551.2,
+      "text": "pero también de los terrenos que han sido ocupados ilegalmente."
+    },
+    {
+      "start": 551.84,
+      "end": 555.44,
+      "text": "Y aquí hacer una mención a una situación que está ocurriendo hoy día."
+    },
+    {
+      "start": 555.86,
+      "end": 559.22,
+      "text": "El ministro de la Vivienda, una vez más, engaña a la ciudadanía."
+    },
+    {
+      "start": 559.7,
+      "end": 564.64,
+      "text": "Porque a comienzos de año, cuando tenía que desalojar, una toma importante, grande, compleja de desalojar,"
+    },
+    {
+      "start": 565.1,
+      "end": 571.6,
+      "text": "dice, paren todo, porque los vecinos se están organizando, van a hacer una cooperativa, una comunidad, y van a comprar el terreno."
+    },
+    {
+      "start": 573.06,
+      "end": 576.82,
+      "text": "Y hoy día, meses después, cuando se detuvo el desalojo, nos dice"
+    },
+    {
+      "start": 576.82,
+      "end": 582.6,
+      "text": "no juntaron los recursos suficientes, por lo tanto no van a poder comprar. Y como no tenemos fuerza"
+    },
+    {
+      "start": 582.6,
+      "end": 588.78,
+      "text": "policial, porque estamos en fiestas, en algún tipo de fiestas, porque hay baja dotación, tampoco tenemos"
+    },
+    {
+      "start": 588.78,
+      "end": 590.42,
+      "text": "hoy día la colaboración"
+    },
+    {
+      "start": 590.42,
+      "end": 595.74,
+      "text": "del delegado, del gobernador, para poder proceder al desalojo. Por lo tanto, el problema queda"
+    },
+    {
+      "start": 595.74,
+      "end": 601.08,
+      "text": "para el próximo gobierno. Ministro, deje de mentirle a los ciudadanos. Si nos quieren"
+    },
+    {
+      "start": 601.08,
+      "end": 604.66,
+      "text": "usar el trabajo, dígalo. Háganse cargo ustedes en el próximo gobierno. Lo vamos a hacer"
+    },
+    {
+      "start": 604.66,
+      "end": 606.86,
+      "text": "por usted. Pero no sigan hallando a las personas."
+    },
+    {
+      "start": 607.9,
+      "end": 611.16,
+      "text": "Usted no fue capaz de reconstruir las viviendas quemadas en Viña del Mar"
+    },
+    {
+      "start": 611.16,
+      "end": 616.04,
+      "text": "y tampoco ha sido capaz de devolver la ley al lugar que le corresponde."
+    },
+    {
+      "start": 616.86,
+      "end": 634.64,
+      "text": "Por lo tanto, aquí no estamos hablando solamente de las usurpaciones, también de casas narcos, de casas ocupa, de bodegas que están siendo utilizadas por el crimen organizado y vamos a ir focalizando nuestro esfuerzo para ir recuperando esos espacios tomados."
+    },
+    {
+      "start": 635.28,
+      "end": 640.78,
+      "text": "Finalmente, algo que es bastante evidente y que todos saben, la luz da seguridad y"
+    },
+    {
+      "start": 640.78,
+      "end": 645.22,
+      "text": "por lo tanto vamos a establecer rutas seguras, porque no vamos a ser capaces de"
+    },
+    {
+      "start": 645.22,
+      "end": 649.4,
+      "text": "hacerlo todo de una vez, para llegar a un centro de salud, para llegar a los centros"
+    },
+    {
+      "start": 649.4,
+      "end": 655.62,
+      "text": "educacionales, para que las personas que caminen, sea por la oscuridad de la mañana o por el temprano"
+    },
+    {
+      "start": 655.62,
+      "end": 662.34,
+      "text": "atardecer, que al menos por algunas vías hacia esos lugares sepan que está todo iluminado. Y el"
+    },
+    {
+      "start": 662.34,
+      "end": 665.8,
+      "text": "centro de salud, el centro educacional, va a estar muy iluminado"
+    },
+    {
+      "start": 665.8,
+      "end": 671.34,
+      "text": "y va a tener también un control de inteligencia artificial"
+    },
+    {
+      "start": 671.34,
+      "end": 675.4,
+      "text": "que nos va a permitir detectar todos los rostros, todas las patentes,"
+    },
+    {
+      "start": 675.9,
+      "end": 679.14,
+      "text": "todo lo que se mueva en el entorno de ese centro de salud, ese centro educacional."
+    },
+    {
+      "start": 679.66,
+      "end": 685.84,
+      "text": "Porque algunos se aprovechan de la oscuridad, se aprovechan de las esquinas que no tienen cobertura de cámaras."
+    },
+    {
+      "start": 686.26,
+      "end": 695.1,
+      "text": "Bueno, esos tipos de situaciones van a ir cambiando radicalmente y cierro diciendo que quedan 128 días."
+    },
+    {
+      "start": 695.7,
+      "end": 700.52,
+      "text": "El lunes anterior le señalé el tiempo que quedaba para que los inmigrantes ilegales"
+    },
+    {
+      "start": 700.52,
+      "end": 704.32,
+      "text": "decidieran tomar sus bienes y partir con todos sus bienes"
+    },
+    {
+      "start": 704.32,
+      "end": 708.5,
+      "text": "para que pudieran vender, si tienen un vehículo que lo puedan vender a tiempo,"
+    },
+    {
+      "start": 708.5,
+      "end": 710.64,
+      "text": "si tienen enseres importantes"
+    },
+    {
+      "start": 710.64,
+      "end": 717.46,
+      "text": "en su hogar como un refrigerador, un microondas, lo que tengan, véndanlo, llévenlo a dinero en efectivo"
+    },
+    {
+      "start": 717.46,
+      "end": 723.76,
+      "text": "y partan. Porque si no lo hacen antes de los 128 días y nosotros detenemos a alguien que esté en"
+    },
+    {
+      "start": 723.76,
+      "end": 730.18,
+      "text": "condición de inmigrante irregular, se va a ir con lo opuesto. No va a haber espacio para nada que él pueda llevar."
+    },
+    {
+      "start": 730.42,
+      "end": 736.3,
+      "text": "Y los bienes que tiene acá, bueno, van a quedar ahí. No podemos resguardar lo que pueda pasar en"
+    },
+    {
+      "start": 736.3,
+      "end": 741.54,
+      "text": "un terreno que esté sin el resguardo, porque no tenemos el resguardo suficiente para cuidar los bienes de los chilenos..."
+    },
+    {
+      "start": 741.54,
+      "end": 745.66,
+      "text": "...no podemos cuidarle los bienes a personas que entraron por la ventana y no por la puerta."
+    },
+    {
+      "start": 746.18,
+      "end": 752.0,
+      "text": "También van a tener la oportunidad, si salen por algún punto de embarque nacional..."
+    },
+    {
+      "start": 752.0,
+      "end": 756.14,
+      "text": "...o si quieren ocupar otra vía, de, desde fuera en algún momento, en dos, tres,"
+    },
+    {
+      "start": 756.28,
+      "end": 760.46,
+      "text": "cuatro años más, volver a solicitar el ingreso como corresponde a Chile por la puerta, nunca"
+    },
+    {
+      "start": 760.46,
+      "end": 765.74,
+      "text": "más por la ventana. Y si insisten en quedarse y esas personas son en algún momento retenidas"
+    },
+    {
+      "start": 765.74,
+      "end": 773.3,
+      "text": "o detenidas, nunca más van a volver a entrar a Chile porque van a quedar en un registro que va a ser más duro que el de la seguridad de los"
+    },
+    {
+      "start": 773.3,
+      "end": 776.76,
+      "text": "estadios. Hoy día alguien que arroje una botella puede quedarse seis años fuera"
+    },
+    {
+      "start": 776.76,
+      "end": 779.84,
+      "text": "del estadio, alguien que haya ingresado de manera irregular se va a quedar de"
+    },
+    {
+      "start": 779.84,
+      "end": 783.44,
+      "text": "bordilla fuera de Chile, no va a volver a entrar ni siquiera a ver un centro"
+    },
+    {
+      "start": 783.44,
+      "end": 790.94,
+      "text": "turístico, no va a entrar. Y por eso nosotros vamos haciendo la advertencia ahora. 128 días. Y yo puedo"
+    },
+    {
+      "start": 790.94,
+      "end": 795.72,
+      "text": "estar muy calmado, como ustedes me ven, y no me va a cambiar la misma calma cuando apliquemos"
+    },
+    {
+      "start": 795.72,
+      "end": 802.22,
+      "text": "la ley. Y eso es lo relevante. Lo relevante no es golpear la mesa, sino mantener la calma y aplicar la ley."
+    },
+    {
+      "start": 802.68,
+      "end": 805.66,
+      "text": "Para eso también es necesario que contemos con un Parlamento para Chile."
+    },
+    {
+      "start": 806.56,
+      "end": 812.28,
+      "text": "Hoy día me acompañan numerosos candidatos y candidatas a la Cámara de Diputados y al Senado."
+    },
+    {
+      "start": 812.76,
+      "end": 815.68,
+      "text": "Para nosotros es muy importante el respaldo ciudadano"
+    },
+    {
+      "start": 815.68,
+      "end": 820.42,
+      "text": "no solamente para la candidatura presidencial, sino también para la candidatura parlamentaria."
+    },
+    {
+      "start": 820.74,
+      "end": 824.82,
+      "text": "Porque algunas de estas materias que hemos planteado requieren cambios legislativos."
+    },
+    {
+      "start": 825.5,
+      "end": 833.96,
+      "text": "Y los vamos a presentar dentro de los primeros 90 días. El ejemplo que ustedes conocen es que la inmigración irregular pase de falta a delito"
+    },
+    {
+      "start": 833.96,
+      "end": 835.6,
+      "text": "Y eso tiene que ser rápido"
+    },
+    {
+      "start": 835.6,
+      "end": 839.46,
+      "text": "Hoy día me preguntaban por el tema de los sumarios administrativos"
+    },
+    {
+      "start": 839.46,
+      "end": 847.46,
+      "text": "Para aquellas personas que infringen las normas que corresponde al buen ejercicio de un funcionario público"
+    },
+    {
+      "start": 847.46,
+      "end": 852.08,
+      "text": "también requiere un cambio legislativo, pero es en resguardo de los buenos funcionarios"
+    },
+    {
+      "start": 852.08,
+      "end": 856.68,
+      "text": "públicos, de aquellos que hacen el trabajo y que son recargados en sus funciones por"
+    },
+    {
+      "start": 856.68,
+      "end": 860.26,
+      "text": "aquellos que usan licencias falsas. Nosotros queremos"
+    },
+    {
+      "start": 860.26,
+      "end": 863.98,
+      "text": "destacar la labor de los funcionarios públicos que lo hacen bien, pero queremos también"
+    },
+    {
+      "start": 863.98,
+      "end": 868.46,
+      "text": "evitarles a ellos la sobrecarga de trabajo por aquellos que abusan del sistema. Y eso"
+    },
+    {
+      "start": 868.46,
+      "end": 873.94,
+      "text": "requiere cambios legislativos. En el primer tema, que es el tema de la operación rescate"
+    },
+    {
+      "start": 873.94,
+      "end": 876.16,
+      "text": "capital, quiero dejar en primer lugar a"
+    },
+    {
+      "start": 876.16,
+      "end": 881.88,
+      "text": "Iván Poduje con ustedes. Después va a hacer uso de la palabra el alcalde Daniel Reyes, a quien le"
+    },
+    {
+      "start": 881.88,
+      "end": 888.76,
+      "text": "hemos pedido también su colaboración. Y finalmente en esa línea va a hablar Francesca Muñoz, con quien"
+    },
+    {
+      "start": 888.76,
+      "end": 890.58,
+      "text": "compartimos haber recorrido Chile entero."
+    },
+    {
+      "start": 891.64,
+      "end": 898.22,
+      "text": "Y conocemos bien las necesidades y las urgencias sociales en temas de seguridad para todos nuestros compatriotas."
+    },
+    {
+      "start": 898.42,
+      "end": 899.1,
+      "text": "Don Iván."
+    },
+    {
+      "start": 904.28,
+      "end": 905.78,
+      "text": "Bueno, muchas gracias"
+    },
+    {
+      "start": 905.78,
+      "end": 907.06,
+      "text": "solo precisar algunos alcances"
+    },
+    {
+      "start": 907.06,
+      "end": 909.92,
+      "text": "del plan que ha anunciado nuestro candidato"
+    },
+    {
+      "start": 909.92,
+      "end": 911.98,
+      "text": "esto involucra, como dijo"
+    },
+    {
+      "start": 911.98,
+      "end": 913.56,
+      "text": "5 áreas metropolitanas"
+    },
+    {
+      "start": 913.56,
+      "end": 916.26,
+      "text": "que suman 62 comunas"
+    },
+    {
+      "start": 916.26,
+      "end": 918.3,
+      "text": "10 millones de habitantes"
+    },
+    {
+      "start": 918.3,
+      "end": 919.9,
+      "text": "equivalente al 56%"
+    },
+    {
+      "start": 919.9,
+      "end": 921.0,
+      "text": "de la población nacional."
+    },
+    {
+      "start": 921.32,
+      "end": 928.62,
+      "text": "Este plan es un plan que aprovecha toda la información que existe hoy día en el Estado"
+    },
+    {
+      "start": 928.62,
+      "end": 932.6,
+      "text": "para hacer un cruce de datos, lo que se llama inteligencia peredial,"
+    },
+    {
+      "start": 933.06,
+      "end": 935.14,
+      "text": "que permita detectar dónde están los focos"
+    },
+    {
+      "start": 935.14,
+      "end": 942.8,
+      "text": "de conflicto a nivel de 184 barrios críticos. En estas cinco ciudades ya tenemos identificados"
+    },
+    {
+      "start": 942.8,
+      "end": 947.28,
+      "text": "184 barrios críticos en función del plan cuadrante, con los índices de carabineros"
+    },
+    {
+      "start": 947.28,
+      "end": 950.66,
+      "text": "más altos por cuadrante. En segundo lugar, de los"
+    },
+    {
+      "start": 950.66,
+      "end": 954.76,
+      "text": "trabajos que ha hecho la Fiscalía, la Unidad Especial de Droga, con georeferenciación de delitos de"
+    },
+    {
+      "start": 954.76,
+      "end": 959.46,
+      "text": "narcotráfico. En tercer lugar, tenemos los trabajos hechos por la Dirección de Seguridad Pública de"
+    },
+    {
+      "start": 959.46,
+      "end": 964.02,
+      "text": "los municipios en su diagnóstico. Y por último, algunos reportajes, siendo uno muy relevante para"
+    },
+    {
+      "start": 964.02,
+      "end": 967.16,
+      "text": "el caso Santiago, el de CIPER, de las zonas ocupadas."
+    },
+    {
+      "start": 967.96,
+      "end": 971.28,
+      "text": "En estos barrios, lo que se va a hacer, van a ser definir polígonos"
+    },
+    {
+      "start": 971.28,
+      "end": 975.58,
+      "text": "para aplicar los cinco planes que nuestro candidato especificó."
+    },
+    {
+      "start": 975.92,
+      "end": 979.18,
+      "text": "Como ejemplo, en Valparaíso, va a haber una intervención inmediata"
+    },
+    {
+      "start": 979.18,
+      "end": 983.8,
+      "text": "para recuperar el deterioro de las calles Conde y Esmeralda, donde la situación actual es"
+    },
+    {
+      "start": 983.8,
+      "end": 989.54,
+      "text": "de absoluto abandono. Se van a aplicar pinturas anti-graffiti, refuerzo de cámaras y brigadas"
+    },
+    {
+      "start": 989.54,
+      "end": 994.68,
+      "text": "de apoyo al municipio para que una vez que se raya, se pinte y además se detecta el"
+    },
+    {
+      "start": 994.68,
+      "end": 995.1,
+      "text": "infractor para que ingrese al registro único de se pinte y además se detecta el infractor"
+    },
+    {
+      "start": 995.1,
+      "end": 1000.46,
+      "text": "para que ingrese al registro único de vándalos. Lo mismo vamos a hacer en el centro de Santiago,"
+    },
+    {
+      "start": 1001.28,
+      "end": 1005.82,
+      "text": "en particular en los sectores más deteriorados, Paso Bandera es un ejemplo, el barrio Meix"
+    },
+    {
+      "start": 1005.82,
+      "end": 1009.16,
+      "text": "es otro ejemplo, donde además hay problemas de incivilidades, barrio inglés de Coquimbo,"
+    },
+    {
+      "start": 1009.72,
+      "end": 1012.46,
+      "text": "el centro de Antofagasta, que también tiene un problema ahí."
+    },
+    {
+      "start": 1012.7,
+      "end": 1018.42,
+      "text": "El centro oriente de Viña del Mar, sector rodoviario, donde hay problemas de narcotráfico, de violencia y además de deterioro."
+    },
+    {
+      "start": 1019.56,
+      "end": 1030.12,
+      "text": "Otro aspecto fundamental es la recuperación, como dijo otro candidato, de los barrios afectados por el narco. Esto tiene dos etapas. Primero, desplegarse en el barrio y con inteligencia"
+    },
+    {
+      "start": 1030.12,
+      "end": 1034.8,
+      "text": "predial identificar los inmuebles donde hay personas que tienen causas de narcotráfico"
+    },
+    {
+      "start": 1034.8,
+      "end": 1039.14,
+      "text": "o empresas que están usando sus inmuebles para guardar mercadería robada. Van a ser"
+    },
+    {
+      "start": 1039.14,
+      "end": 1044.16,
+      "text": "intuidos y esas viviendas van a ser requisadas, expropiadas y demolidas,"
+    },
+    {
+      "start": 1044.32,
+      "end": 1048.48,
+      "text": "como se hizo en el caso de la Florida, o reconvertidas a oficinas municipales,"
+    },
+    {
+      "start": 1048.88,
+      "end": 1051.56,
+      "text": "como lo hizo el alcalde Reyes con el exalcalde Carter en Los Quillalles,"
+    },
+    {
+      "start": 1052.08,
+      "end": 1053.66,
+      "text": "que es un ejemplo que estamos tomando ahí."
+    },
+    {
+      "start": 1054.52,
+      "end": 1058.88,
+      "text": "Esto se va a aplicar en barrios como Meigs, en barrios como Franklin,"
+    },
+    {
+      "start": 1059.42,
+      "end": 1064.84,
+      "text": "en barrios como el centro oriente de Viña del Mar, el centro del Paraíso, el centro comercial,"
+    },
+    {
+      "start": 1065.74,
+      "end": 1070.2,
+      "text": "el barrio inglés de Coquimbo, tenemos un desarrollo turístico pero muy afectado por el consumo de drogas también"
+    },
+    {
+      "start": 1070.2,
+      "end": 1072.7,
+      "text": "y también y muy especialmente"
+    },
+    {
+      "start": 1072.7,
+      "end": 1074.64,
+      "text": "en barrios periféricos afectados"
+    },
+    {
+      "start": 1074.64,
+      "end": 1076.56,
+      "text": "por control de narcotráfico"
+    },
+    {
+      "start": 1076.56,
+      "end": 1078.86,
+      "text": "como la población Bonilla en Antofagasta"
+    },
+    {
+      "start": 1078.86,
+      "end": 1080.54,
+      "text": "donde tenemos un inmueble"
+    },
+    {
+      "start": 1080.54,
+      "end": 1082.6,
+      "text": "de un centro cívico en la"
+    },
+    {
+      "start": 1082.6,
+      "end": 1084.6,
+      "text": "Plaza Bicentenario vandalizado"
+    },
+    {
+      "start": 1084.6,
+      "end": 1086.12,
+      "text": "desde el año 2019,"
+    },
+    {
+      "start": 1086.56,
+      "end": 1089.88,
+      "text": "que sigue abandonado ahí, sin luminaria, donde los niños no pueden entrar."
+    },
+    {
+      "start": 1090.76,
+      "end": 1093.04,
+      "text": "Vamos a hacer lo mismo en la población Montedónico del Paraíso,"
+    },
+    {
+      "start": 1093.16,
+      "end": 1097.68,
+      "text": "en la población Forestal Alto de Viña del Mar, en el barrio El Rodoviario de Viña del Mar,"
+    },
+    {
+      "start": 1098.24,
+      "end": 1100.8,
+      "text": "en el Campamento Nuevo Amanecer de Cerrillo,"
+    },
+    {
+      "start": 1100.88,
+      "end": 1105.14,
+      "text": "donde tenemos 10 homicidios por año y donde ya tenemos, o vamos a tener con más precisión,"
+    },
+    {
+      "start": 1105.22,
+      "end": 1109.22,
+      "text": "pero ya tenemos una pre-identificación de las viviendas, que no son todos los vecinos,"
+    },
+    {
+      "start": 1109.72,
+      "end": 1113.76,
+      "text": "donde se van a hacer las erradicaciones selectivas de los delincuentes que están controlando esos lugares."
+    },
+    {
+      "start": 1113.76,
+      "end": 1115.98,
+      "text": "Eso se va a hacer en Lampa también, se va a hacer"
+    },
+    {
+      "start": 1115.98,
+      "end": 1117.82,
+      "text": "en Melipilla, se va a hacer en"
+    },
+    {
+      "start": 1117.82,
+      "end": 1120.16,
+      "text": "las localidades que rodean el Gran Valparaíso"
+    },
+    {
+      "start": 1120.16,
+      "end": 1121.68,
+      "text": "y otro foco"
+    },
+    {
+      "start": 1121.68,
+      "end": 1124.12,
+      "text": "para terminar, tiene que ver con los servicios"
+    },
+    {
+      "start": 1124.12,
+      "end": 1125.78,
+      "text": "ya explicó nuestro candidato"
+    },
+    {
+      "start": 1125.78,
+      "end": 1127.48,
+      "text": "los centros de luz"
+    },
+    {
+      "start": 1127.48,
+      "end": 1129.56,
+      "text": "queremos que los consultorios"
+    },
+    {
+      "start": 1129.56,
+      "end": 1130.74,
+      "text": "las escuelas, los centros digamos de adulto mayor los centros de luz. Queremos que los consultorios, las escuelas,"
+    },
+    {
+      "start": 1131.5,
+      "end": 1135.76,
+      "text": "los centros, digamos, de adulto mayor, los centros de salud mental, que es una propuesta"
+    },
+    {
+      "start": 1135.76,
+      "end": 1140.6,
+      "text": "muy potente, puedan estar iluminados y puedan estar seguros. Esto implica, lamentablemente,"
+    },
+    {
+      "start": 1140.68,
+      "end": 1144.86,
+      "text": "pero tenemos que hacerlo, el blindaje de algunos recintos que hoy día están expuestos a tiroteos"
+    },
+    {
+      "start": 1144.86,
+      "end": 1150.78,
+      "text": "en escuelas, en consultorios y también en juntas de vecinos que están expuestas a balazos"
+    },
+    {
+      "start": 1150.78,
+      "end": 1154.08,
+      "text": "hoy día. Eso es lo que ocurre, por ejemplo, en la calle Juanita de la Pintana, pero tenemos"
+    },
+    {
+      "start": 1154.08,
+      "end": 1163.0,
+      "text": "en muchos sectores. Y por último, lo que es el deporte, ¿cierto? El brazo punitivo del Estado, con toda la inteligencia"
+    },
+    {
+      "start": 1163.0,
+      "end": 1166.36,
+      "text": "previa que les comenté, vamos a usar el Estado del arte de la inteligencia. Nos hemos inspirado"
+    },
+    {
+      "start": 1166.36,
+      "end": 1170.94,
+      "text": "en el Plan Marsella de Francia, en el Vigipirat de París, también en el Plan de Medellín"
+    },
+    {
+      "start": 1170.94,
+      "end": 1175.86,
+      "text": "y en el Plan de Recuperación del Centro Histórico de Quito. Acá vamos a tener toda la inteligencia aplicada"
+    },
+    {
+      "start": 1175.86,
+      "end": 1178.34,
+      "text": "para poder detectar estos sectores e intervenirlo"
+    },
+    {
+      "start": 1178.34,
+      "end": 1180.22,
+      "text": "en tiempo y forma. Pero lo que importa"
+    },
+    {
+      "start": 1180.22,
+      "end": 1181.7,
+      "text": "es que va a haber después en esos sectores"
+    },
+    {
+      "start": 1181.7,
+      "end": 1184.14,
+      "text": "piscinas temperadas, canchas"
+    },
+    {
+      "start": 1184.14,
+      "end": 1185.98,
+      "text": "que pueden ser ocupadas por los niños con"
+    },
+    {
+      "start": 1185.98,
+      "end": 1187.7,
+      "text": "control de accesos"
+    },
+    {
+      "start": 1187.7,
+      "end": 1189.96,
+      "text": "y quitar todos los sitios de riazo que hoy día"
+    },
+    {
+      "start": 1189.96,
+      "end": 1191.0,
+      "text": "son microbasurales."
+    },
+    {
+      "start": 1191.84,
+      "end": 1195.14,
+      "text": "Si son privados los van a tener que cerrar, si son públicos los vamos a destinar."
+    },
+    {
+      "start": 1195.5,
+      "end": 1201.24,
+      "text": "Estas son algunas de las medidas, pero como les dije, tenemos ya 184 barrios definidos en estas 5 ciudades"
+    },
+    {
+      "start": 1201.24,
+      "end": 1205.4,
+      "text": "con mucha precisión y una vez que nuestro candidato sea presidente"
+    },
+    {
+      "start": 1205.4,
+      "end": 1206.0,
+      "text": "va a poder cruzar"
+    },
+    {
+      "start": 1206.0,
+      "end": 1206.74,
+      "text": "todas las bases de datos"
+    },
+    {
+      "start": 1206.74,
+      "end": 1208.06,
+      "text": "para en tiempo y forma"
+    },
+    {
+      "start": 1208.06,
+      "end": 1209.54,
+      "text": "identificar estos lunares"
+    },
+    {
+      "start": 1209.54,
+      "end": 1210.36,
+      "text": "y erradicarlos"
+    },
+    {
+      "start": 1210.36,
+      "end": 1211.18,
+      "text": "para darle paz"
+    },
+    {
+      "start": 1211.18,
+      "end": 1212.08,
+      "text": "y tranquilidad"
+    },
+    {
+      "start": 1212.08,
+      "end": 1212.58,
+      "text": "a estos barrios"
+    },
+    {
+      "start": 1212.58,
+      "end": 1213.38,
+      "text": "muchas gracias"
+    },
+    {
+      "start": 1213.38,
+      "end": 1218.0,
+      "text": "le pido ahora"
+    },
+    {
+      "start": 1218.0,
+      "end": 1219.34,
+      "text": "al alcalde"
+    },
+    {
+      "start": 1219.34,
+      "end": 1220.16,
+      "text": "Daniel Reyes."
+    },
+    {
+      "start": 1224.76,
+      "end": 1226.7,
+      "text": "Muchas gracias, muy buenas tardes."
+    },
+    {
+      "start": 1227.68,
+      "end": 1230.96,
+      "text": "Hoy día los chilenos básicamente buscan respuesta a una gran pregunta."
+    },
+    {
+      "start": 1231.78,
+      "end": 1238.76,
+      "text": "¿Cómo llegar? ¿Cómo llegar a fin de mes producto de una crisis económica que los agobia? Pero también, ¿cómo llegar a sus casas sin ser víctima del delito?"
+    },
+    {
+      "start": 1239.1,
+      "end": 1243.56,
+      "text": "¿Cómo llegar incluso con vida a sus propios hogares? Por eso, esta operación rescate apunta"
+    },
+    {
+      "start": 1243.56,
+      "end": 1248.66,
+      "text": "en la dirección correcta, justamente recuperar el espacio público para las personas, construir"
+    },
+    {
+      "start": 1248.66,
+      "end": 1250.52,
+      "text": "entre los cinco núcleos urbanos"
+    },
+    {
+      "start": 1250.52,
+      "end": 1255.78,
+      "text": "ciudades limpias, seguras y ordenadas. La delincuencia ciertamente y el crimen organizado"
+    },
+    {
+      "start": 1255.78,
+      "end": 1260.42,
+      "text": "se combate reforzando nuestras policías, por cierto, pero también recuperando el espacio"
+    },
+    {
+      "start": 1260.42,
+      "end": 1264.84,
+      "text": "público, generando estos espacios de calidad para que las personas puedan desplegarse y"
+    },
+    {
+      "start": 1264.84,
+      "end": 1280.76,
+      "text": "construir sus proyectos de vida. En ese sentido, transmitir con absoluta certeza, con absoluta convicción, tal como lo ha señalado nuestro candidato. Vamos a acercar el crimen organizado, vamos a acercar el narcotráfico para recuperar esos lugares. ¿Recuperarlos para quién? Para las personas. Por"
+    },
+    {
+      "start": 1280.76,
+      "end": 1286.62,
+      "text": "eso, evidentemente, la iluminación de las ciudades es algo completamente relevante. Evidentemente,"
+    },
+    {
+      "start": 1286.7,
+      "end": 1290.74,
+      "text": "una persona, un delincuente, va a priorizar siempre un lugar que se encuentra oscuro, un lugar que se"
+    },
+    {
+      "start": 1290.74,
+      "end": 1294.98,
+      "text": "encuentra abandonado, por sobre un espacio que haya sido recuperado. Decirle a todos los vándalos,"
+    },
+    {
+      "start": 1297.64,
+      "end": 1301.92,
+      "text": "las personas que vandalizan nuestra ciudad, ya sea a través de rayados, de micro basurales, de rucos, que no hay momento para más."
+    },
+    {
+      "start": 1302.38,
+      "end": 1306.18,
+      "text": "Ciertamente vamos a aplicar todo el peso de la ley, no solo aumentando las sanciones,"
+    },
+    {
+      "start": 1306.28,
+      "end": 1309.78,
+      "text": "sino también estableciendo procedimientos simplificados para la aplicación de las mismas."
+    },
+    {
+      "start": 1310.14,
+      "end": 1315.54,
+      "text": "Hoy día no puede ser básicamente que cuando encontramos a una persona que comete un delito o una incivilidad como esta,"
+    },
+    {
+      "start": 1315.86,
+      "end": 1318.94,
+      "text": "muchas veces pasa el tiempo en manos, por ejemplo, de los juzgados de policía local."
+    },
+    {
+      "start": 1319.36,
+      "end": 1323.0,
+      "text": "Tenemos que simplificar aquello ciertamente porque es absolutamente relevante."
+    },
+    {
+      "start": 1323.9,
+      "end": 1341.7,
+      "text": "Y por cierto, también, si son menores de edad, sus padres van a tener que responder. Los adultos responsables van a tener que responder por las conductas de sus hijos. Llegó el momento que recuperemos las ciudades para las personas. Por eso, esta operación rescate precisamente apunta en esa dirección, en construir ciudades limpias, seguras y ordenadas."
+    },
+    {
+      "start": 1341.8,
+      "end": 1346.2,
+      "text": "Vamos a tener una mano muy dura, por cierto, con esas personas y un corazón muy grande, como señalaba Iván,"
+    },
+    {
+      "start": 1346.28,
+      "end": 1352.0,
+      "text": "justamente para recuperar los espacios, para recuperar las plazas, las canchas, precisamente para los chilenos y chilenas."
+    },
+    {
+      "start": 1354.34,
+      "end": 1356.78,
+      "text": "Y ahora le doy la palabra a Francesca Muñoz."
+    },
+    {
+      "start": 1357.24,
+      "end": 1360.0,
+      "text": "Gracias. Bueno, saludar a todos los presentes."
+    },
+    {
+      "start": 1361.34,
+      "end": 1365.14,
+      "text": "Evidentemente, destaco enormemente este plan Rescate,"
+    },
+    {
+      "start": 1365.54,
+      "end": 1369.54,
+      "text": "porque desde la visión de las regiones, específicamente de mi región del Bío Bío,"
+    },
+    {
+      "start": 1370.04,
+      "end": 1374.0,
+      "text": "la ciudadanía nos ha transmitido constantemente su dolor, su abandono,"
+    },
+    {
+      "start": 1375.04,
+      "end": 1377.98,
+      "text": "frente a la grave crisis de seguridad que están viviendo día a día"
+    },
+    {
+      "start": 1377.98,
+      "end": 1383.28,
+      "text": "y también cómo el gobierno ha sido indolente frente a esta grave crisis."
+    },
+    {
+      "start": 1383.88,
+      "end": 1385.74,
+      "text": "Por eso yo valoro enormemente este plan"
+    },
+    {
+      "start": 1385.74,
+      "end": 1392.94,
+      "text": "rescate porque hemos vivido y quiero transmitirlo con mucha sensibilidad como en comunas del gran"
+    },
+    {
+      "start": 1392.94,
+      "end": 1399.1,
+      "text": "concepción donde se han duplicado los homicidios donde lamentablemente tenemos balacera en los"
+    },
+    {
+      "start": 1399.1,
+      "end": 1404.3,
+      "text": "esfam donde han muerto estudiantes afuera de los establecimientos educacionales,"
+    },
+    {
+      "start": 1404.6,
+      "end": 1408.0,
+      "text": "además de ser baleados u heridos en otros enfrentamientos,"
+    },
+    {
+      "start": 1408.28,
+      "end": 1410.4,
+      "text": "con bandas de crimen organizado."
+    },
+    {
+      "start": 1410.84,
+      "end": 1414.86,
+      "text": "Entonces, en ese contexto es donde nosotros quienes estamos aquí"
+    },
+    {
+      "start": 1414.86,
+      "end": 1430.24,
+      "text": "estamos comprometidos, y aquí también nuestro candidato presidencial, José Antonio Kass, de manera irrestricta con la seguridad en nuestro país. Por eso, valoro enormemente estas acciones que se van a tomar en los primeros 90 días de nuestro futuro gobierno. Gracias."
+    },
+    {
+      "start": 1432.86,
+      "end": 1439.62,
+      "text": "Ahora si tienen algunas consultas sobre la operación rescate capital,"
+    },
+    {
+      "start": 1441.06,
+      "end": 1446.28,
+      "text": "tanto Iván Poduje, Francesca Muñoz, como Daniel Reyes y quien les habla."
+    },
+    {
+      "start": 1446.76,
+      "end": 1449.86,
+      "text": "Encantado de contestar las preguntas en esa línea."
+    },
+    {
+      "start": 1450.48,
+      "end": 1453.92,
+      "text": "Y después vendrán las consultas más políticas que alguien podrá tener interés."
+    },
+    {
+      "start": 1454.0,
+      "end": 1457.16,
+      "text": "Creo que es menor porque esto es mucho más relevante."
+    },
+    {
+      "start": 1457.82,
+      "end": 1461.04,
+      "text": "Y ahí me acompañará como siempre Sara Concha y Arturo"
+    },
+    {
+      "start": 1461.04,
+      "end": 1462.98,
+      "text": "Esquella, que por aquí"
+    },
+    {
+      "start": 1462.98,
+      "end": 1464.56,
+      "text": "está, ahí que vamos a hacer"
+    },
+    {
+      "start": 1464.56,
+      "end": 1467.06,
+      "text": "el movimiento para que puedan hacer las consultas"
+    },
+    {
+      "start": 1467.06,
+      "end": 1469.06,
+      "text": "entonces no sé si hay consultas técnicas"
+    },
+    {
+      "start": 1469.06,
+      "end": 1470.64,
+      "text": "para preguntarle a Iván que está"
+    },
+    {
+      "start": 1470.64,
+      "end": 1472.36,
+      "text": "ahí en la defensa"
+    },
+    {
+      "start": 1472.36,
+      "end": 1474.22,
+      "text": "para que pueda pasar"
+    },
+    {
+      "start": 1474.22,
+      "end": 1479.94,
+      "text": "ahora sí"
+    },
+    {
+      "start": 1479.94,
+      "end": 1481.42,
+      "text": "candidato, buenas tardes"
+    },
+    {
+      "start": 1481.42,
+      "end": 1482.98,
+      "text": "precisamente sobre la pauta"
+    },
+    {
+      "start": 1482.98,
+      "end": 1485.94,
+      "text": "algunos de sus rivales como Franco Parisi"
+    },
+    {
+      "start": 1485.94,
+      "end": 1489.1,
+      "text": "proponen que se ocupen fuerzas militares"
+    },
+    {
+      "start": 1489.1,
+      "end": 1489.8,
+      "text": "en los centros históricos"
+    },
+    {
+      "start": 1489.8,
+      "end": 1492.04,
+      "text": "para asegurar precisamente esas zonas."
+    },
+    {
+      "start": 1492.28,
+      "end": 1494.9,
+      "text": "En este plan está considerado ocupar algún efectivo militar,"
+    },
+    {
+      "start": 1495.02,
+      "end": 1497.18,
+      "text": "no solamente en el cuidado de ciertas zonas,"
+    },
+    {
+      "start": 1497.28,
+      "end": 1498.76,
+      "text": "sino que en estas conovaciones que usted dice."
+    },
+    {
+      "start": 1499.2,
+      "end": 1500.74,
+      "text": "Y además, ¿quién va a coordinar este plan?"
+    },
+    {
+      "start": 1500.84,
+      "end": 1502.7,
+      "text": "¿Si va a ser el Ministro de Seguridad Pública"
+    },
+    {
+      "start": 1502.7,
+      "end": 1505.12,
+      "text": "o va a haber algún coordinador, algún SAR para"
+    },
+    {
+      "start": 1505.12,
+      "end": 1507.56,
+      "text": "aplicarlo. Nosotros siempre hemos"
+    },
+    {
+      "start": 1507.56,
+      "end": 1509.86,
+      "text": "valorado la labor de nuestras fuerzas"
+    },
+    {
+      "start": 1509.86,
+      "end": 1513.6,
+      "text": "policiales y Carabineros tiene un rol"
+    },
+    {
+      "start": 1513.6,
+      "end": 1516.52,
+      "text": "que cumplir. El tema es que no han"
+    },
+    {
+      "start": 1516.52,
+      "end": 1518.48,
+      "text": "tenido muchas veces el respaldo"
+    },
+    {
+      "start": 1518.48,
+      "end": 1524.2,
+      "text": "político y jurídico que ahora lo van a tener, no han tenido el equipamiento moderno suficiente"
+    },
+    {
+      "start": 1524.2,
+      "end": 1529.54,
+      "text": "para poder resguardar los espacios públicos y lo mismo ha sucedido"
+    },
+    {
+      "start": 1529.54,
+      "end": 1532.26,
+      "text": "en un rol distinto con la Policía de Investigaciones,"
+    },
+    {
+      "start": 1532.52,
+      "end": 1535.24,
+      "text": "que no es un rol preventivo ni de orden público,"
+    },
+    {
+      "start": 1539.0,
+      "end": 1543.58,
+      "text": "pero esas son nuestras policías. Si en algún momento alguna infraestructura crítica corriera peligro, nosotros en esas infraestructuras públicas, también lo hemos"
+    },
+    {
+      "start": 1543.58,
+      "end": 1548.8,
+      "text": "señalado, podríamos recurrir a instrumentos constitucionales para solicitar la colaboración,"
+    },
+    {
+      "start": 1549.02,
+      "end": 1556.22,
+      "text": "pero esto no es algo permanente. Nosotros creemos que se puede requerir el apoyo de las"
+    },
+    {
+      "start": 1556.22,
+      "end": 1560.46,
+      "text": "fuerzas armadas pero esto no es algo permanente nosotros no nos podemos"
+    },
+    {
+      "start": 1560.46,
+      "end": 1565.2,
+      "text": "acostumbrar a que la macro zona sur viva en estado de excepción. Por algo"
+    },
+    {
+      "start": 1565.2,
+      "end": 1569.44,
+      "text": "es estado de excepción. Nosotros tenemos que volver a recuperar el orden, la seguridad"
+    },
+    {
+      "start": 1569.44,
+      "end": 1574.54,
+      "text": "a partir de nuestras fuerzas policiales. Y en algunos lugares tendrá que haber una especie"
+    },
+    {
+      "start": 1574.54,
+      "end": 1579.42,
+      "text": "de mando único. Por ejemplo, si ustedes van hoy día a algún aeropuerto internacional,"
+    },
+    {
+      "start": 1579.7,
+      "end": 1580.12,
+      "text": "se van a dar"
+    },
+    {
+      "start": 1580.12,
+      "end": 1585.7,
+      "text": "cuenta de que hay al menos cinco autoridades que toman resoluciones distintas. La Dirección General"
+    },
+    {
+      "start": 1585.7,
+      "end": 1589.76,
+      "text": "de Aeronáutica Civil, la Policía de Investigaciones, Carabineros de Chile, el Ministerio de Obras"
+    },
+    {
+      "start": 1589.76,
+      "end": 1594.78,
+      "text": "Públicas, incluso la concesionaria podría opinar en algunas ocasiones. ¿Se requiere un"
+    },
+    {
+      "start": 1594.78,
+      "end": 1599.9,
+      "text": "mando único para coordinar? Sí. Lo planteó también el general Vial cuando hablamos del"
+    },
+    {
+      "start": 1599.9,
+      "end": 1605.38,
+      "text": "escudo fronterizo. Él señaló que esto era en fases, que eran distintas etapas y que"
+    },
+    {
+      "start": 1605.38,
+      "end": 1611.64,
+      "text": "lo que tenemos que hacer es volver a la normalidad, a que cada uno pueda caminar tranquilo por las calles sin temor."
+    },
+    {
+      "start": 1612.52,
+      "end": 1619.08,
+      "text": "Y eso en algún momento puede requerir más energía, más fuerza de la autoridad,"
+    },
+    {
+      "start": 1619.42,
+      "end": 1622.58,
+      "text": "que se ejerza la autoridad, hasta atender a la normalidad,"
+    },
+    {
+      "start": 1622.58,
+      "end": 1626.1,
+      "text": "donde básicamente con inteligencia artificial"
+    },
+    {
+      "start": 1626.1,
+      "end": 1633.88,
+      "text": "podamos controlar las incivilidades. Buenas tardes, tengo una pregunta para el señor"
+    },
+    {
+      "start": 1633.88,
+      "end": 1639.66,
+      "text": "Iván Pugge, específicamente sobre el tema de los grafitis. Sé que está la necesidad"
+    },
+    {
+      "start": 1639.66,
+      "end": 1642.5,
+      "text": "de discutir una ley que sancione los grafitis"
+    },
+    {
+      "start": 1642.5,
+      "end": 1644.5,
+      "text": "y cuáles deberían ser las sanciones"
+    },
+    {
+      "start": 1644.5,
+      "end": 1649.36,
+      "text": "si es que es suficiente con una multa o con la limpieza inmediata por ejemplo"
+    },
+    {
+      "start": 1649.36,
+      "end": 1654.42,
+      "text": "bueno primero hay una ley ya que está operando sobre los consejos monumentos nacionales"
+    },
+    {
+      "start": 1654.42,
+      "end": 1659.94,
+      "text": "lo que nosotros vamos a hacer es aplicando esa, extender un polígono de preservación"
+    },
+    {
+      "start": 1659.94,
+      "end": 1662.88,
+      "text": "donde van a aplicarse todos los requerimientos de la ley."
+    },
+    {
+      "start": 1663.0,
+      "end": 1665.6,
+      "text": "Hoy día es ilegal vandalizar un monumento."
+    },
+    {
+      "start": 1665.78,
+      "end": 1666.9,
+      "text": "Lo que pasa es que la ley no se cumple."
+    },
+    {
+      "start": 1667.58,
+      "end": 1670.0,
+      "text": "Y respecto a las multas, va a haber"
+    },
+    {
+      "start": 1670.0,
+      "end": 1674.14,
+      "text": "el registro único de vándalos, que es la gran medida. Las personas que sean"
+    },
+    {
+      "start": 1674.14,
+      "end": 1678.8,
+      "text": "sorprendidas, igual que ocurre en Europa, van a ser fiscalizadas in situ, se les va"
+    },
+    {
+      "start": 1678.8,
+      "end": 1682.4,
+      "text": "a retirar su documento de identidad. Si no pagan la multa, que van a ser multas"
+    },
+    {
+      "start": 1682.4,
+      "end": 1686.24,
+      "text": "altas, van a perder todos los beneficios sociales de los cuales son parte."
+    },
+    {
+      "start": 1686.7,
+      "end": 1689.64,
+      "text": "Si es un menor de edad, van a ser los padres los que van a perder beneficios sociales."
+    },
+    {
+      "start": 1690.26,
+      "end": 1695.86,
+      "text": "Esto es muy relevante y esto está tomado desde el caso de París y de Londres."
+    },
+    {
+      "start": 1696.4,
+      "end": 1697.56,
+      "text": "¿Por qué? Y de Nueva York también."
+    },
+    {
+      "start": 1697.74,
+      "end": 1700.96,
+      "text": "Porque estos grafitis, estos vandalismos"
+    },
+    {
+      "start": 1700.96,
+      "end": 1705.66,
+      "text": "generan un fenómeno de ventana rota, que se llama, donde empiezan a aumentar la visibilidad y el"
+    },
+    {
+      "start": 1705.66,
+      "end": 1710.86,
+      "text": "lugar se empieza a salir de control. Ejemplo, paseo bandera. Ejemplo, paseo puente. Ejemplo,"
+    },
+    {
+      "start": 1710.96,
+      "end": 1715.34,
+      "text": "arrestación en Concepción. Entonces, nosotros tenemos que parar esa cadena y para pararla"
+    },
+    {
+      "start": 1715.34,
+      "end": 1720.1,
+      "text": "lo más importante es identificar al infractor y aplicarle el registro único de vándalo"
+    },
+    {
+      "start": 1720.1,
+      "end": 1721.82,
+      "text": "y que él responda en función de eso."
+    },
+    {
+      "start": 1724.6,
+      "end": 1726.18,
+      "text": "Quería pasar a otros temas, candidato."
+    },
+    {
+      "start": 1726.3,
+      "end": 1729.48,
+      "text": "Quería consultarle a propósito de lo que es la perspectiva,"
+    },
+    {
+      "start": 1729.56,
+      "end": 1730.26,
+      "text": "ya que se realiza"
+    },
+    {
+      "start": 1730.26,
+      "end": 1730.84,
+      "text": "en torno a lo que"
+    },
+    {
+      "start": 1730.84,
+      "end": 1731.3,
+      "text": "pueda ocurrir"
+    },
+    {
+      "start": 1731.3,
+      "end": 1732.72,
+      "text": "el próximo 16 de noviembre"
+    },
+    {
+      "start": 1732.72,
+      "end": 1735.1,
+      "text": "que han planteado"
+    },
+    {
+      "start": 1735.1,
+      "end": 1736.04,
+      "text": "la irrupción"
+    },
+    {
+      "start": 1736.04,
+      "end": 1736.76,
+      "text": "de la candidatura"
+    },
+    {
+      "start": 1736.76,
+      "end": 1737.06,
+      "text": "de"
+    },
+    {
+      "start": 1737.06,
+      "end": 1737.84,
+      "text": "un segundo"
+    },
+    {
+      "start": 1737.84,
+      "end": 1738.3,
+      "text": "ahora sí"
+    },
+    {
+      "start": 1738.3,
+      "end": 1739.16,
+      "text": "ahora ya estoy"
+    },
+    {
+      "start": 1739.16,
+      "end": 1739.98,
+      "text": "con mis asesores"
+    },
+    {
+      "start": 1739.98,
+      "end": 1741.02,
+      "text": "en área política"
+    },
+    {
+      "start": 1741.02,
+      "end": 1741.68,
+      "text": "hay algunos"
+    },
+    {
+      "start": 1741.68,
+      "end": 1742.76,
+      "text": "que han planteado"
+    },
+    {
+      "start": 1742.76,
+      "end": 1743.3,
+      "text": "la irrupción"
+    },
+    {
+      "start": 1743.3,
+      "end": 1744.0,
+      "text": "de la candidatura"
+    },
+    {
+      "start": 1744.0,
+      "end": 1745.14,
+      "text": "de Johannes Kaiser."
+    },
+    {
+      "start": 1745.38,
+      "end": 1749.98,
+      "text": "¿Cuánto creen ustedes que puede afectar ese fenómeno y cuán competitivo puede ser"
+    },
+    {
+      "start": 1749.98,
+      "end": 1755.38,
+      "text": "una eventual participación de Johannes Kaiser en una segunda vuelta enfrentando eventualmente"
+    },
+    {
+      "start": 1755.38,
+      "end": 1756.96,
+      "text": "la candidata también del oficialismo?"
+    },
+    {
+      "start": 1757.46,
+      "end": 1768.74,
+      "text": "Nosotros esto lo hemos planteado desde el inicio del año, que valoramos y felicitamos la fuerza de los sectores de oposición al"
+    },
+    {
+      "start": 1768.74,
+      "end": 1774.32,
+      "text": "actual gobierno. Y eso lo hemos hecho desde el inicio. Ustedes saben, las encuestas suben,"
+    },
+    {
+      "start": 1774.48,
+      "end": 1775.98,
+      "text": "bajan. Nosotros"
+    },
+    {
+      "start": 1775.98,
+      "end": 1780.36,
+      "text": "las hemos publicado siempre. Hoy día no las podemos publicar porque hay una especie de"
+    },
+    {
+      "start": 1780.36,
+      "end": 1787.2,
+      "text": "veda que no compartimos y que ustedes tampoco comparten, que no permite mostrar lo que está"
+    },
+    {
+      "start": 1787.2,
+      "end": 1792.96,
+      "text": "ocurriendo si llega información información privada que no se puede"
+    },
+    {
+      "start": 1792.96,
+      "end": 1798.18,
+      "text": "publicar. Si fuera pública nosotros subiríamos las encuestas como todos los domingos lo hacemos"
+    },
+    {
+      "start": 1798.18,
+      "end": 1807.04,
+      "text": "porque nosotros tenemos una estrategia, un plan muy definido que va a definir la ciudadanía el 16 de noviembre,"
+    },
+    {
+      "start": 1807.26,
+      "end": 1808.86,
+      "text": "a quién va a favorecer con su apoyo."
+    },
+    {
+      "start": 1809.6,
+      "end": 1815.56,
+      "text": "Por lo tanto, nosotros no estamos hoy día ocupados de quienes son opositores al gobierno."
+    },
+    {
+      "start": 1816.08,
+      "end": 1824.04,
+      "text": "Felicitamos el trabajo que hace cada uno de ellos, como puede hacerlo Evelyn Matei, Franco Parisi y Johannes Kaiser. Con Johannes Kaiser además compartimos una lista"
+    },
+    {
+      "start": 1824.04,
+      "end": 1828.08,
+      "text": "parlamentaria, que para nosotros es muy importante, y por eso hemos reforzado siempre la lista"
+    },
+    {
+      "start": 1828.08,
+      "end": 1851.98,
+      "text": "K, de Kast. Pero básicamente es eso. Nosotros más que profundizar las diferencias con candidaturas de oposición, tenemos un enemigo claro, que es el narcotráfico, el crimen organizado. Y no nos vamos a cansar de repetirlo. Ustedes nos podrán preguntar muchas veces por lo que opinan nuestros colegas del sector y nosotros les"
+    },
+    {
+      "start": 1851.98,
+      "end": 1858.64,
+      "text": "vamos a contestar lo mismo. Estamos ocupados al 100% en cerrar las fronteras, en combatir"
+    },
+    {
+      "start": 1858.64,
+      "end": 1863.44,
+      "text": "las incivilidades, en mejorar la atención de salud de las personas, en recuperar la"
+    },
+    {
+      "start": 1863.44,
+      "end": 1865.78,
+      "text": "educación pública en Chile. Ese es"
+    },
+    {
+      "start": 1865.78,
+      "end": 1871.5,
+      "text": "nuestro objetivo. El resto de la ciudadanía determinará cuál es su favorito el día 16."
+    },
+    {
+      "start": 1874.32,
+      "end": 1881.3,
+      "text": "Todos son competitivos y será la ciudadanía la que defina. Cada uno elige su estrategia para"
+    },
+    {
+      "start": 1881.3,
+      "end": 1889.16,
+      "text": "el momento. Algunos han planteado, no es cierto, que hay un empate en el tercer lugar en su"
+    },
+    {
+      "start": 1889.16,
+      "end": 1893.5,
+      "text": "estrategia. Nosotros lo que vamos a decir es que hay una tendencia y esa tendencia dice"
+    },
+    {
+      "start": 1893.5,
+      "end": 1897.18,
+      "text": "que este gobierno fracasado e ineficiente se va a ir el 11 de marzo"
+    },
+    {
+      "start": 1897.18,
+      "end": 1898.68,
+      "text": "candidato, el alza de"
+    },
+    {
+      "start": 1898.68,
+      "end": 1900.6,
+      "text": "perdón, está el micrófono acá"
+    },
+    {
+      "start": 1900.6,
+      "end": 1903.02,
+      "text": "y después vamos a ir entregando el micrófono para mantener el orden"
+    },
+    {
+      "start": 1903.02,
+      "end": 1904.88,
+      "text": "si no va a ir al registro"
+    },
+    {
+      "start": 1904.88,
+      "end": 1911.36,
+      "text": "el alza de"
+    },
+    {
+      "start": 1911.36,
+      "end": 1914.22,
+      "text": "Johannes Kaiser, candidato, tiene que ver con"
+    },
+    {
+      "start": 1914.22,
+      "end": 1916.02,
+      "text": "la estrategia de su comando de llamar"
+    },
+    {
+      "start": 1916.02,
+      "end": 1917.68,
+      "text": "al voto útil, es decir"
+    },
+    {
+      "start": 1917.68,
+      "end": 1920.06,
+      "text": "que apelen desde su comando"
+    },
+    {
+      "start": 1920.06,
+      "end": 1921.34,
+      "text": "a que las personas sufrajen"
+    },
+    {
+      "start": 1921.34,
+      "end": 1923.9,
+      "text": "por la carta del sector que tiene más"
+    },
+    {
+      "start": 1923.9,
+      "end": 1924.86,
+      "text": "posibilidades de ganar"
+    },
+    {
+      "start": 1924.86,
+      "end": 1925.72,
+      "text": "¿tiene que ver el alza de Kaiser con esto? Nosotros, en esto de nuevo, hemos a que las personas sufrajen por la carta del sector que tiene más posibilidades de ganar."
+    },
+    {
+      "start": 1927.5,
+      "end": 1928.12,
+      "text": "¿Tiene que ver el alza de Kaiser con esto?"
+    },
+    {
+      "start": 1931.44,
+      "end": 1931.56,
+      "text": "Nosotros, en esto de nuevo, hemos sido muy claros."
+    },
+    {
+      "start": 1932.6,
+      "end": 1933.86,
+      "text": "Hay que ganar la primera."
+    },
+    {
+      "start": 1935.78,
+      "end": 1937.22,
+      "text": "Y hay que ganarle a la candidata a la continuidad."
+    },
+    {
+      "start": 1944.2,
+      "end": 1948.96,
+      "text": "Nuestro mensaje es ganémosle a la candidata a la continuidad. Ella ha mostrado que está cerca del treinta por ciento. Eh que es quizás un poco menos de lo que"
+    },
+    {
+      "start": 1948.96,
+      "end": 1952.84,
+      "text": "hoy día marca marcaban porque hoy día no no hay encuesta que"
+    },
+    {
+      "start": 1952.84,
+      "end": 1962.36,
+      "text": "marcaban las encuestas respecto del apoyo ciudadano a al presidente. Es mucho menos de lo que obtuvieron en el primer planteamiento"
+    },
+    {
+      "start": 1962.36,
+      "end": 1969.34,
+      "text": "de reforma radical a nuestra ley fundamental. Por lo tanto, no vemos tan lejano ganarle"
+    },
+    {
+      "start": 1969.34,
+      "end": 1970.04,
+      "text": "a la candidata"
+    },
+    {
+      "start": 1970.04,
+      "end": 1971.88,
+      "text": "a la continuidad en la primera vuelta"
+    },
+    {
+      "start": 1971.88,
+      "end": 1973.54,
+      "text": "y ese es nuestro objetivo hoy día"
+    },
+    {
+      "start": 1973.54,
+      "end": 1974.74,
+      "text": "y estamos enfocados en eso"
+    },
+    {
+      "start": 1974.74,
+      "end": 1977.92,
+      "text": "cada ciudadano tiene que sacar sus conclusiones"
+    },
+    {
+      "start": 1977.92,
+      "end": 1979.6,
+      "text": "de cómo es más fácil"
+    },
+    {
+      "start": 1979.6,
+      "end": 1981.02,
+      "text": "ganarle a Janet Jara"
+    },
+    {
+      "start": 1981.02,
+      "end": 1982.88,
+      "text": "nosotros creemos y estimamos"
+    },
+    {
+      "start": 1982.88,
+      "end": 1985.3,
+      "text": "que podemos ganarle en la primera vuelta y"
+    },
+    {
+      "start": 1985.3,
+      "end": 1990.94,
+      "text": "estamos enfocados en esa línea. Llegó la luz."
+    },
+    {
+      "start": 1994.98,
+      "end": 1998.7,
+      "text": "Algo no se escucha. Es que lo que pasa es que como transmitimos también a nuestras"
+    },
+    {
+      "start": 1998.7,
+      "end": 2001.4,
+      "text": "redes, así pueden escucharla."
+    },
+    {
+      "start": 2001.56,
+      "end": 2003.04,
+      "text": "Ahí sí, gracias."
+    },
+    {
+      "start": 2003.28,
+      "end": 2006.84,
+      "text": "Bueno, quería preguntarle cuáles son sus principales diferencias con el candidato Kaiser."
+    },
+    {
+      "start": 2007.06,
+      "end": 2008.98,
+      "text": "¿Qué es lo que lo diferencia a usted de él?"
+    },
+    {
+      "start": 2009.24,
+      "end": 2014.3,
+      "text": "Y también quería preguntarle sobre un anuncio que hizo el presidente Boric esta mañana sobre..."
+    },
+    {
+      "start": 2014.3,
+      "end": 2015.82,
+      "text": "Bueno, es la concreción de un anuncio que había"
+    },
+    {
+      "start": 2015.82,
+      "end": 2018.64,
+      "text": "hecho ya en la cuenta pública sobre que"
+    },
+    {
+      "start": 2018.64,
+      "end": 2021.22,
+      "text": "el penal de Punta Peuco, especiales para"
+    },
+    {
+      "start": 2021.22,
+      "end": 2023.0,
+      "text": "personas juzgadas por violación a los"
+    },
+    {
+      "start": 2023.0,
+      "end": 2024.38,
+      "text": "derechos humanos, va a pasar a ser un"
+    },
+    {
+      "start": 2024.38,
+      "end": 2027.56,
+      "text": "penal, no va a dejar de ser esa"
+    },
+    {
+      "start": 2027.56,
+      "end": 2032.74,
+      "text": "categoría especial. ¿Qué le parece a usted esa medida y también las diferencias con el señor Cáceres?"
+    },
+    {
+      "start": 2032.76,
+      "end": 2036.5,
+      "text": "Nosotros destacamos las coincidencias."
+    },
+    {
+      "start": 2037.32,
+      "end": 2043.28,
+      "text": "Y la coincidencia más fuerte es que queremos que termine este mal gobierno."
+    },
+    {
+      "start": 2043.46,
+      "end": 2044.92,
+      "text": "Precisamente por cosas que usted señala."
+    },
+    {
+      "start": 2046.66,
+      "end": 2048.82,
+      "text": "Por lo tanto, nosotros no vamos a profundizar en cosas que cada uno"
+    },
+    {
+      "start": 2048.82,
+      "end": 2050.72,
+      "text": "plantea respecto de"
+    },
+    {
+      "start": 2050.72,
+      "end": 2052.66,
+      "text": "qué quiere decirle a la ciudadanía"
+    },
+    {
+      "start": 2052.66,
+      "end": 2054.6,
+      "text": "nosotros tenemos nuestro planteamiento"
+    },
+    {
+      "start": 2054.6,
+      "end": 2056.74,
+      "text": "muy claro, lo hemos venido desarrollando"
+    },
+    {
+      "start": 2056.74,
+      "end": 2058.14,
+      "text": "todos los días, lunes"
+    },
+    {
+      "start": 2058.14,
+      "end": 2060.32,
+      "text": "desde comienzos de año."
+    },
+    {
+      "start": 2060.84,
+      "end": 2064.32,
+      "text": "Y respecto de lo otro, el presidente está de salida."
+    },
+    {
+      "start": 2065.52,
+      "end": 2069.22,
+      "text": "Y todo lo que hace hoy día es pensando en su supuesto legado."
+    },
+    {
+      "start": 2069.96,
+      "end": 2070.56,
+      "text": "Pero es tarde."
+    },
+    {
+      "start": 2071.26,
+      "end": 2072.78,
+      "text": "El presidente abusó de la cadena nacional."
+    },
+    {
+      "start": 2073.82,
+      "end": 2076.14,
+      "text": "Y se dirigió a un solo candidato"
+    },
+    {
+      "start": 2076.14,
+      "end": 2080.1,
+      "text": "en la cadena nacional en un acto de corrupción y cobardía, porque nosotros no tenemos una"
+    },
+    {
+      "start": 2080.1,
+      "end": 2088.4,
+      "text": "oportunidad de una cadena nacional para aclararle los puntos al gobierno. El presidente usó"
+    },
+    {
+      "start": 2088.4,
+      "end": 2094.24,
+      "text": "su poder para sacar a aquellos que no le hicieron caso en las"
+    },
+    {
+      "start": 2094.24,
+      "end": 2099.14,
+      "text": "listas parlamentarias, una especie de berrinche presidencial. Y nos tiene acostumbrados. El"
+    },
+    {
+      "start": 2099.14,
+      "end": 2104.42,
+      "text": "presidente fue a Colchane, no para inaugurar la unidad policial que prometió al inicio su gobierno,"
+    },
+    {
+      "start": 2104.9,
+      "end": 2107.32,
+      "text": "sino para decir que ahora estaba dispuesto a mandar una ley"
+    },
+    {
+      "start": 2107.32,
+      "end": 2111.6,
+      "text": "para que el despliegue de las fuerzas militares no pasara por el Congreso"
+    },
+    {
+      "start": 2111.6,
+      "end": 2118.7,
+      "text": "una especie de autoritarismo que él sueña de tener y que no va a poder cumplir nunca"
+    },
+    {
+      "start": 2118.7,
+      "end": 2124.36,
+      "text": "porque no va a salir nunca más reelecto como presidente de la nación. Y lo ha hecho en distintas"
+    },
+    {
+      "start": 2124.36,
+      "end": 2129.94,
+      "text": "situaciones. Nos tiene acostumbrado al ocultamiento. Ocultó al señor Monsalve."
+    },
+    {
+      "start": 2130.7,
+      "end": 2152.38,
+      "text": "Le prestó la moneda para despedirse. Ese es nuestro presidente. Por lo tanto, lo que haga o diga el presidente en estos meses que le quedan a cargo del gobierno, porque claramente no va a gobernar, prefiere transformar la moneda en la sucursal de campaña de la candidata, tratando de apelar a lo que sea para que su candidata suba, la"
+    },
+    {
+      "start": 2152.38,
+      "end": 2158.84,
+      "text": "verdad es que nos tiene sin cuidado. Se termina en 128 días su mandato y va a haber un antes"
+    },
+    {
+      "start": 2158.84,
+      "end": 2163.26,
+      "text": "y un después. Nuestra guerra es contra el crimen organizado, contra el narcotráfico,"
+    },
+    {
+      "start": 2163.4,
+      "end": 2171.54,
+      "text": "contra la delincuencia, contra la inmigración ilegal. Ya el presidente claramente no está gobernando, sino que está"
+    },
+    {
+      "start": 2171.54,
+      "end": 2176.88,
+      "text": "tratando de mantener algo delegado. Si hubiese sido de interés para él situaciones como esta"
+    },
+    {
+      "start": 2176.88,
+      "end": 2181.04,
+      "text": "u otras que empieza a levantarar lo habría hecho el primer día"
+    },
+    {
+      "start": 2181.04,
+      "end": 2186.42,
+      "text": "sí que si me hablan así en las redes no"
+    },
+    {
+      "start": 2186.42,
+      "end": 2187.74,
+      "text": "se va a poder escuchar si le pasa el"
+    },
+    {
+      "start": 2187.74,
+      "end": 2189.78,
+      "text": "micrófono estoy pensando en nuestros"
+    },
+    {
+      "start": 2189.78,
+      "end": 2192.38,
+      "text": "seguidores a lo largo de todo chile que"
+    },
+    {
+      "start": 2192.38,
+      "end": 2193.64,
+      "text": "no escuchan la pregunta"
+    },
+    {
+      "start": 2193.64,
+      "end": 2196.5,
+      "text": "un poquito más alto"
+    },
+    {
+      "start": 2196.5,
+      "end": 2197.86,
+      "text": "no sé si"
+    },
+    {
+      "start": 2197.86,
+      "end": 2200.32,
+      "text": "en lo concreto"
+    },
+    {
+      "start": 2200.32,
+      "end": 2201.38,
+      "text": "respecto a Punta Peduco"
+    },
+    {
+      "start": 2201.38,
+      "end": 2204.68,
+      "text": "¿está de acuerdo en el fondo con la razón que toma Contraloría"
+    },
+    {
+      "start": 2204.68,
+      "end": 2205.74,
+      "text": "y lo que dice el presidente"
+    },
+    {
+      "start": 2205.74,
+      "end": 2208.3,
+      "text": "que ahora en Chile no va a haber presos de primera"
+    },
+    {
+      "start": 2208.3,
+      "end": 2212.68,
+      "text": "o segunda categoría, que es un acto de justicia ¿está de acuerdo con lo que se hace ahora en Punta Peduco? vuelvo a insistir dice el presidente, que ahora en Chile no va a haber presos de primera o segunda categoría, que es un acto de justicia. ¿Está de acuerdo con lo que se"
+    },
+    {
+      "start": 2212.68,
+      "end": 2218.88,
+      "text": "hace ahora? Vuelvo a insistirle. El presidente demostró en su actuar durante"
+    },
+    {
+      "start": 2218.88,
+      "end": 2224.26,
+      "text": "el gobierno que él tiene privilegiados. Él defendió a un abusador, lo escondió, lo"
+    },
+    {
+      "start": 2224.26,
+      "end": 2226.54,
+      "text": "ocultó. Él premió a sus"
+    },
+    {
+      "start": 2226.54,
+      "end": 2231.72,
+      "text": "amigos con embajadas. Nos tiene acostumbrados a decir una cosa y hacer otra. Él salió"
+    },
+    {
+      "start": 2231.72,
+      "end": 2237.24,
+      "text": "electo, primero insultando a la fuerza pública, después casi poniéndose el uniforme de la"
+    },
+    {
+      "start": 2237.24,
+      "end": 2240.74,
+      "text": "fuerza pública. Hoy día dice que tenemos que cuidar y resguardar"
+    },
+    {
+      "start": 2240.74,
+      "end": 2242.58,
+      "text": "a nuestros carabineros porque son quienes nos cuidan"
+    },
+    {
+      "start": 2242.58,
+      "end": 2244.0,
+      "text": "a quienes él mismo insultó"
+    },
+    {
+      "start": 2244.0,
+      "end": 2246.44,
+      "text": "por lo tanto cualquier palabra o hecho"
+    },
+    {
+      "start": 2246.44,
+      "end": 2248.56,
+      "text": "o decreto o ley que envíe"
+    },
+    {
+      "start": 2248.56,
+      "end": 2250.4,
+      "text": "el presidente hoy día al congreso"
+    },
+    {
+      "start": 2250.4,
+      "end": 2252.5,
+      "text": "incluso que tenga todas las firmas necesarias"
+    },
+    {
+      "start": 2252.5,
+      "end": 2253.38,
+      "text": "nos tiene sin cuidado"
+    },
+    {
+      "start": 2253.38,
+      "end": 2255.82,
+      "text": "en las conferencias sí, aquí estamos Congreso, incluso que tenga todas las firmas necesarias, nos tiene sin cuidado."
+    },
+    {
+      "start": 2257.56,
+      "end": 2260.32,
+      "text": "En las conferencias, sí, aquí estamos."
+    },
+    {
+      "start": 2262.86,
+      "end": 2264.62,
+      "text": "Nosotros lo único que le podemos decir es que va a haber un antes y un después de"
+    },
+    {
+      "start": 2264.62,
+      "end": 2265.6,
+      "text": "este gobierno fracasado."
+    },
+    {
+      "start": 2266.54,
+      "end": 2269.2,
+      "text": "Candidato, dentro de los próximos días se"
+    },
+    {
+      "start": 2269.2,
+      "end": 2271.66,
+      "text": "suma la visión dentro de su equipo político"
+    },
+    {
+      "start": 2271.66,
+      "end": 2276.8,
+      "text": "de que en primera vuelta el votante de derecha elegirá a una coalición que le represente"
+    },
+    {
+      "start": 2276.8,
+      "end": 2281.36,
+      "text": "no solamente en esta carrera presidencial, sino incluso posterior al resultado del balotaje?"
+    },
+    {
+      "start": 2281.52,
+      "end": 2283.88,
+      "text": "¿Sienten esa responsabilidad de ser la nueva derecha?"
+    },
+    {
+      "start": 2284.92,
+      "end": 2292.8,
+      "text": "Nosotros hablamos más que de una derecha u otra derecha, de recuperar Chile, de reconstruir Chile."
+    },
+    {
+      "start": 2293.38,
+      "end": 2298.86,
+      "text": "Y por eso hemos llamado ahora a un gobierno de emergencia, que nos tiene que convocar a todos."
+    },
+    {
+      "start": 2299.26,
+      "end": 2300.88,
+      "text": "A todos los que vibren"
+    },
+    {
+      "start": 2300.88,
+      "end": 2301.56,
+      "text": "con la patria"
+    },
+    {
+      "start": 2301.56,
+      "end": 2304.84,
+      "text": "los cambios legislativos que tenemos que hacer"
+    },
+    {
+      "start": 2304.84,
+      "end": 2307.14,
+      "text": "no van a depender solamente"
+    },
+    {
+      "start": 2307.14,
+      "end": 2308.82,
+      "text": "de los diputados electos en la lista K"
+    },
+    {
+      "start": 2308.82,
+      "end": 2310.84,
+      "text": "van a depender"
+    },
+    {
+      "start": 2310.84,
+      "end": 2313.16,
+      "text": "de todos los parlamentarios que quieran"
+    },
+    {
+      "start": 2313.16,
+      "end": 2314.96,
+      "text": "cerrar el paso a la inmigración"
+    },
+    {
+      "start": 2314.96,
+      "end": 2315.44,
+      "text": "ilegal, va a depender de todos los diputados yan cerrar el paso a la inmigración ilegal."
+    },
+    {
+      "start": 2315.8,
+      "end": 2320.08,
+      "text": "Va a depender de todos los diputados y senadores que quieran combatir el crimen organizado,"
+    },
+    {
+      "start": 2321.02,
+      "end": 2322.1,
+      "text": "el comercio ilegal."
+    },
+    {
+      "start": 2322.5,
+      "end": 2324.36,
+      "text": "¿Eso requiere modificaciones legales? Sí."
+    },
+    {
+      "start": 2325.28,
+      "end": 2330.12,
+      "text": "Y por eso nuestro interés es que, ganando en la primera vuelta"
+    },
+    {
+      "start": 2330.12,
+      "end": 2332.26,
+      "text": "y pasando en primer lugar a la segunda vuelta,"
+    },
+    {
+      "start": 2332.86,
+      "end": 2336.04,
+      "text": "que todos aquellos que se sientan comprometidos con Chile colaboren."
+    },
+    {
+      "start": 2337.0,
+      "end": 2339.1,
+      "text": "Esa es la libertad de cada uno."
+    },
+    {
+      "start": 2339.24,
+      "end": 2342.52,
+      "text": "Cada uno podrá elegir si quiere trabajar por Chile,"
+    },
+    {
+      "start": 2342.86,
+      "end": 2345.98,
+      "text": "si siente que algo no le representó y quiere"
+    },
+    {
+      "start": 2345.98,
+      "end": 2352.38,
+      "text": "marginarse, viva la libertad. Pero una vez que juren como senadores o diputados, la patria"
+    },
+    {
+      "start": 2352.38,
+      "end": 2358.38,
+      "text": "les va a demandar ese valor necesario que tiene que tener un senador y un diputado para"
+    },
+    {
+      "start": 2358.38,
+      "end": 2363.64,
+      "text": "ir contra viento y marea para recuperar la patria. No con populismo, con hechos concretos. Por eso"
+    },
+    {
+      "start": 2363.64,
+      "end": 2366.8,
+      "text": "nosotros decimos que esto no es una promesa lo que estamos haciendo, es una"
+    },
+    {
+      "start": 2366.8,
+      "end": 2371.96,
+      "text": "decisión. Y eso implica jugarnos por completo desde el gobierno. Y así como"
+    },
+    {
+      "start": 2371.96,
+      "end": 2375.1,
+      "text": "lo dijimos el primer día, cuando generó algún grado"
+    },
+    {
+      "start": 2375.1,
+      "end": 2380.4,
+      "text": "de nerviosismo o risas en alguno, no vayan por los carabineros, no vayan por la Policía"
+    },
+    {
+      "start": 2380.4,
+      "end": 2384.76,
+      "text": "de Investigaciones, no vayan por las Fuerzas Armadas, vengan por nosotros. Y hoy día estamos"
+    },
+    {
+      "start": 2384.76,
+      "end": 2385.88,
+      "text": "todos comprometidos en eso."
+    },
+    {
+      "start": 2386.7,
+      "end": 2391.76,
+      "text": "Candidato, buenas tardes. Le quería preguntar por unos dichos del presidente Laudi Guillermo"
+    },
+    {
+      "start": 2391.76,
+      "end": 2393.98,
+      "text": "Ramírez, dichos ayer, pero..."
+    },
+    {
+      "start": 2393.98,
+      "end": 2397.42,
+      "text": "Tenemos al presidente del Partido Republicano para que le conteste al presidente del Partido"
+    },
+    {
+      "start": 2397.42,
+      "end": 2400.54,
+      "text": "Unión de Margarita Independiente. Y también tenemos a la presidenta del Partido Social"
+    },
+    {
+      "start": 2400.54,
+      "end": 2405.26,
+      "text": "Cristiano para que entre en el debate político de presidencias de partidos."
+    },
+    {
+      "start": 2405.34,
+      "end": 2407.54,
+      "text": "Correcto, pero le pregunto por el escenario de la primera vuelta"
+    },
+    {
+      "start": 2407.54,
+      "end": 2408.8,
+      "text": "que es justamente lo que estaba hablando."
+    },
+    {
+      "start": 2408.88,
+      "end": 2413.1,
+      "text": "Él dice que tiene cierto temor por 10 puntos de ventaja"
+    },
+    {
+      "start": 2413.1,
+      "end": 2415.36,
+      "text": "que tendría en estos momentos la candidata Janet Jara."
+    },
+    {
+      "start": 2415.48,
+      "end": 2418.96,
+      "text": "¿Comparte primeramente ese temor dado que en ese sentido"
+    },
+    {
+      "start": 2418.96,
+      "end": 2423.62,
+      "text": "el perseguidor más cercano que vendría a ser en estos momentos,"
+    },
+    {
+      "start": 2424.32,
+      "end": 2430.64,
+      "text": "¿usted podría pasar a segunda vuelta? ¿Eso podría seguir fraccionando a la derecha? ¿Eso podría poner cuesta arriba la elección?"
+    },
+    {
+      "start": 2431.88,
+      "end": 2435.1,
+      "text": "Dejo a Arturo. Yo creo que nosotros tenemos de nuevo"
+    },
+    {
+      "start": 2435.1,
+      "end": 2436.2,
+      "text": "Un norte muy claro"
+    },
+    {
+      "start": 2436.2,
+      "end": 2438.82,
+      "text": "Nosotros no hemos abonado a ningún fraccionamiento"
+    },
+    {
+      "start": 2438.82,
+      "end": 2440.86,
+      "text": "Hemos sido muy claros donde están"
+    },
+    {
+      "start": 2440.86,
+      "end": 2443.14,
+      "text": "Nuestros objetivos y nuestros adversarios"
+    },
+    {
+      "start": 2443.14,
+      "end": 2445.26,
+      "text": "Y no están en los opositores"
+    },
+    {
+      "start": 2445.26,
+      "end": 2445.98,
+      "text": "Al actual gobierno"
+    },
+    {
+      "start": 2445.98,
+      "end": 2447.46,
+      "text": "Y los dejo con Arturo Esquella"
+    },
+    {
+      "start": 2447.46,
+      "end": 2453.72,
+      "text": "Bueno, yo soy más optimista a la actual gobierno. Y los dejo con Arturo Esquella."
+    },
+    {
+      "start": 2459.4,
+      "end": 2459.94,
+      "text": "Bueno, yo soy más optimista que el presidente Labudi. Estamos entre 3 a 6 puntos de diferencia."
+    },
+    {
+      "start": 2469.74,
+      "end": 2469.88,
+      "text": "Y por lo mismo, creo adecuado a 14 días de la elección, resaltar la importancia de que todos quienes comparten una idea que es matriz en estas elecciones,"
+    },
+    {
+      "start": 2474.62,
+      "end": 2475.94,
+      "text": "que es que no sigan gobernando quienes han llevado a Chile al desastre durante estos cuatro años,"
+    },
+    {
+      "start": 2480.4,
+      "end": 2480.98,
+      "text": "se tienen que sumar a permitirnos pasar primero a segunda vuelta."
+    },
+    {
+      "start": 2484.64,
+      "end": 2487.06,
+      "text": "Hay muchas personas que ya tomaron la decisión de votar por la oposición y que todavía no le ponen nombre y apellido a ese candidato."
+    },
+    {
+      "start": 2487.66,
+      "end": 2492.74,
+      "text": "Quiero resaltar hoy día, ya no estamos en época de hablar de encuestas,"
+    },
+    {
+      "start": 2492.9,
+      "end": 2495.76,
+      "text": "pero por lo menos el congelamiento nos permite ver que sí"
+    },
+    {
+      "start": 2495.76,
+      "end": 2502.72,
+      "text": "es alcanzable, si es posible que todos quienes comparten esa premisa de que no gobiernen más"
+    },
+    {
+      "start": 2502.72,
+      "end": 2509.94,
+      "text": "los que han estado durante cuatro años, se sumen y se cambien o refuercen el voto de José Antonio"
+    },
+    {
+      "start": 2509.94,
+      "end": 2511.1,
+      "text": "Kass para pasar primero"
+    },
+    {
+      "start": 2511.1,
+      "end": 2516.4,
+      "text": "esa segunda vuelta. Eso tiene un efecto no sólo para los 30 días de campaña para"
+    },
+    {
+      "start": 2516.4,
+      "end": 2520.54,
+      "text": "la elección final, sino que también tiene una repercusión muy importante para"
+    },
+    {
+      "start": 2520.54,
+      "end": 2525.22,
+      "text": "lograr el que ese futuro gobierno tenga mayoría en ambas cámaras."
+    },
+    {
+      "start": 2525.38,
+      "end": 2528.28,
+      "text": "Ese es nuestro mensaje, estamos optimistas de poder lograrlo,"
+    },
+    {
+      "start": 2528.36,
+      "end": 2532.26,
+      "text": "estos 14 días son fundamentales para quienes están ahí en familia"
+    },
+    {
+      "start": 2532.26,
+      "end": 2537.26,
+      "text": "reflexionando sobre el voto, se sumen acá a quien efectivamente"
+    },
+    {
+      "start": 2537.26,
+      "end": 2542.58,
+      "text": "tiene las mayores posibilidades de con holgura ganarle a Janet Jara en segunda vuelta"
+    },
+    {
+      "start": 2542.58,
+      "end": 2546.42,
+      "text": "y que no olviden la importancia de pasar primeros esa segunda vuelta."
+    },
+    {
+      "start": 2546.42,
+      "end": 2551.76,
+      "text": "Yo sé que el micrófono está ahí, pero ¿cómo lo van a hacer precisamente para lograr aquello?"
+    },
+    {
+      "start": 2551.86,
+      "end": 2557.78,
+      "text": "Para lograr aquello que el candidato aquí presente pase primero a la segunda vuelta,"
+    },
+    {
+      "start": 2557.9,
+      "end": 2562.82,
+      "text": "¿cómo van a convencer a los votantes de Matei, de Kaiser y otros para que pasen el voto para acá?"
+    },
+    {
+      "start": 2562.96,
+      "end": 2566.32,
+      "text": "Bueno, por de pronto, logrando que tú lleves en la nota este mensaje,"
+    },
+    {
+      "start": 2566.76,
+      "end": 2571.66,
+      "text": "y todos los medios de comunicación lo mismo. Yo le"
+    },
+    {
+      "start": 2571.66,
+      "end": 2576.0,
+      "text": "estoy hablando más allá de, y quiero ser súper sincero, que tampoco la idea es generar"
+    },
+    {
+      "start": 2576.0,
+      "end": 2581.28,
+      "text": "algún tipo de revuelta, todo lo contrario. Estamos nosotros pensando en que en 14 días"
+    },
+    {
+      "start": 2581.28,
+      "end": 2586.7,
+      "text": "más vamos a estar trabajando todos juntos. Yo le estoy hablando a quienes no han tomado todavía la decisión definitiva"
+    },
+    {
+      "start": 2586.7,
+      "end": 2588.32,
+      "text": "de cuál es el candidato de oposición."
+    },
+    {
+      "start": 2588.72,
+      "end": 2594.08,
+      "text": "A esas personas quiero transmitirles el valor que tiene de concentrar los votos en José Antonio Kast."
+    },
+    {
+      "start": 2594.44,
+      "end": 2599.74,
+      "text": "Eso es clave. Es la persona que evidentemente, de acuerdo a todos los estudios que se conocieron"
+    },
+    {
+      "start": 2599.74,
+      "end": 2600.52,
+      "text": "hasta el sábado de la noche,"
+    },
+    {
+      "start": 2601.0,
+      "end": 2605.74,
+      "text": "está más cerca de poder alcanzar a Janet Jara y no tengo ninguna duda de que también superarla."
+    },
+    {
+      "start": 2606.08,
+      "end": 2607.18,
+      "text": "Pero ese mensaje tiene que llegar."
+    },
+    {
+      "start": 2607.5,
+      "end": 2610.5,
+      "text": "Y por lo mismo es tan importante que tú nos consideres con este mensaje en la nota."
+    },
+    {
+      "start": 2610.5,
+      "end": 2631.54,
+      "text": "Por lo mismo, usted mencionaba que ya está sacado que en 15 días másición que no vaya a hacer todo"
+    },
+    {
+      "start": 2631.54,
+      "end": 2638.0,
+      "text": "lo que esté de su parte por hacer lo imposible porque no siga este gobierno y se proyecte por"
+    },
+    {
+      "start": 2638.0,
+      "end": 2643.5,
+      "text": "cuatro años más. Ese mismo día no tengo dudas de que van a estar todos disponibles como también"
+    },
+    {
+      "start": 2643.5,
+      "end": 2652.1,
+      "text": "nosotros por supuesto lo hemos estado en el pasado día, y vamos a seguir siempre adelante como proyecto político republicano"
+    },
+    {
+      "start": 2652.1,
+      "end": 2654.1,
+      "text": "poniendo el foco en qué es lo mejor para Chile."
+    },
+    {
+      "start": 2654.56,
+      "end": 2660.1,
+      "text": "De quienes lideran los partidos, quienes son candidatos, sin duda van a estar trabajando"
+    },
+    {
+      "start": 2660.1,
+      "end": 2665.74,
+      "text": "y ya tendremos la oportunidad de ver la manera en que se va a hacer dentro, digamos, de las próximas semanas."
+    },
+    {
+      "start": 2666.5,
+      "end": 2668.86,
+      "text": "Buenas tardes, tengo una pregunta para el candidato Kass."
+    },
+    {
+      "start": 2669.14,
+      "end": 2675.06,
+      "text": "Sé que se refirió hoy al tema de lo que le dijo Johannes Kaiser por renunciar a su agenda"
+    },
+    {
+      "start": 2675.06,
+      "end": 2679.24,
+      "text": "valórica, pero me gustaría preguntarle nuevamente qué le parecen estos dichos y si cree que"
+    },
+    {
+      "start": 2679.24,
+      "end": 2683.34,
+      "text": "esa crítica es injusta o revela también una diferencia real de prioridades dentro"
+    },
+    {
+      "start": 2683.34,
+      "end": 2691.94,
+      "text": "de la oposición. Como estamos acá, me va a permitir una licencia y contestar algo también que es importante"
+    },
+    {
+      "start": 2691.94,
+      "end": 2695.76,
+      "text": "porque parte importante tiene que ver con algo que rescatamos que se ha dicho"
+    },
+    {
+      "start": 2695.76,
+      "end": 2700.24,
+      "text": "de que uno tiene que ir al fondo de las medidas que quiere transformar en el país"
+    },
+    {
+      "start": 2700.24,
+      "end": 2703.84,
+      "text": "y si hay una que de repente no se ve tan visiblemente"
+    },
+    {
+      "start": 2703.84,
+      "end": 2724.1,
+      "text": "pero que está en el corazón de lo que hemos propuesto para los próximos cuatro años, es precisamente romper esta lógica cultural instalada desde el progresismo de izquierda principalmente, de que las medidas privativas de libertad cuando se quiere perseguir a los delincuentes no son el camino, de que en el fondo hay que tratar, como lo decía una candidata, a los presos con amor, hay que tratarlos con"
+    },
+    {
+      "start": 2724.1,
+      "end": 2730.12,
+      "text": "dignidad, con justicia. Pero eso, que parece un eslogan, responde a una instalación cultural"
+    },
+    {
+      "start": 2730.12,
+      "end": 2734.5,
+      "text": "que está incluso dentro de nuestro sistema progresal penal. Para los más estudiosos"
+    },
+    {
+      "start": 2734.5,
+      "end": 2736.66,
+      "text": "recordarán, por ahí por el año 2000 en adelante,"
+    },
+    {
+      "start": 2736.84,
+      "end": 2743.0,
+      "text": "cómo instalaron una lógica garantista con una lógica muy de fondo, digamos,"
+    },
+    {
+      "start": 2743.08,
+      "end": 2747.48,
+      "text": "ir instalando culturalmente, Estado por Estado, país por país,"
+    },
+    {
+      "start": 2747.88,
+      "end": 2751.34,
+      "text": "un cambio en la manera de generar las condiciones de"
+    },
+    {
+      "start": 2751.34,
+      "end": 2757.38,
+      "text": "vida en sociedad. Ese es el propósito, esa es la primera gran batalla que nosotros estamos"
+    },
+    {
+      "start": 2757.38,
+      "end": 2763.14,
+      "text": "dando, evidentemente que también es de resorte cultural cambiar la mentalidad en materia"
+    },
+    {
+      "start": 2763.14,
+      "end": 2766.86,
+      "text": "de combate a la delincuencia y también"
+    },
+    {
+      "start": 2766.86,
+      "end": 2772.76,
+      "text": "en el plano económico, porque muchas veces la gente de izquierda ha ido instalando de"
+    },
+    {
+      "start": 2772.76,
+      "end": 2777.14,
+      "text": "que el Estado tiene que ser una suerte de obstáculo para quienes quieren desarrollar"
+    },
+    {
+      "start": 2777.14,
+      "end": 2780.46,
+      "text": "actividades económicas, para quienes tienen un proyecto de inversión."
+    },
+    {
+      "start": 2780.94,
+      "end": 2782.98,
+      "text": "Y nosotros culturalmente queremos cambiar esa mentalidad."
+    },
+    {
+      "start": 2783.38,
+      "end": 2787.18,
+      "text": "Queremos, en el fondo, transmitirle a todos los chilenos, incluso a los extranjeros,"
+    },
+    {
+      "start": 2787.56,
+      "end": 2793.24,
+      "text": "que acá en Chile, desde el 11 de marzo en adelante, van a encontrar un Estado que promueve la inversión,"
+    },
+    {
+      "start": 2793.62,
+      "end": 2798.38,
+      "text": "que promueve y que va a hacer todo lo que esté a su alcance para que las cosas resulten y no para generar"
+    },
+    {
+      "start": 2798.38,
+      "end": 2798.98,
+      "text": "un obstáculo."
+    },
+    {
+      "start": 2799.3,
+      "end": 2803.46,
+      "text": "Señor candidato, si puede responder por el tema de las críticas de Jóvenes Keiser."
+    },
+    {
+      "start": 2803.98,
+      "end": 2812.06,
+      "text": "Sí, vuelvo a insistir. Nosotros no vamos a ahondar en los dichos de algún candidato que sea opositor"
+    },
+    {
+      "start": 2812.06,
+      "end": 2817.56,
+      "text": "al actual gobierno. Nuestro desafío es mucho más grande que debatir entre nosotros. Nosotros"
+    },
+    {
+      "start": 2817.56,
+      "end": 2823.0,
+      "text": "tenemos que mostrarle a la ciudadanía el fracaso rotundo de las políticas que ha llevado"
+    },
+    {
+      "start": 2823.0,
+      "end": 2825.72,
+      "text": "adelante este gobierno y de sus colaboradores, dentro de"
+    },
+    {
+      "start": 2825.72,
+      "end": 2831.4,
+      "text": "los cuales estuvo la candidata Janet Jara, que fue ministra del trabajo del actual presidente y nos"
+    },
+    {
+      "start": 2831.4,
+      "end": 2838.18,
+      "text": "va a dejar un legado de desempleo muy grande, un legado de informalidad enorme. Por lo tanto, toda"
+    },
+    {
+      "start": 2838.18,
+      "end": 2843.16,
+      "text": "nuestra fuerza en estos días está en enfrentar a este gobierno desastroso."
+    },
+    {
+      "start": 2843.78,
+      "end": 2847.36,
+      "text": "Candidato, acá está también en el sentido sobre la unidad de la oposición"
+    },
+    {
+      "start": 2847.36,
+      "end": 2849.64,
+      "text": "que usted ha planteado, también han planteado desde otros partidos."
+    },
+    {
+      "start": 2849.64,
+      "end": 2853.54,
+      "text": "¿Cómo se toma el apoyo público, ya que le dio Mario Desbordes aquí"
+    },
+    {
+      "start": 2853.54,
+      "end": 2855.62,
+      "text": "al diputado y candidato a diputado"
+    },
+    {
+      "start": 2855.62,
+      "end": 2857.26,
+      "text": "Álvaro Carter de alguna manera"
+    },
+    {
+      "start": 2857.26,
+      "end": 2858.76,
+      "text": "decía Jimena Osandón que eso no"
+    },
+    {
+      "start": 2858.76,
+      "end": 2860.82,
+      "text": "aporta a la unidad del sector y"
+    },
+    {
+      "start": 2860.82,
+      "end": 2861.86,
+      "text": "también preguntarles es que"
+    },
+    {
+      "start": 2861.86,
+      "end": 2862.9,
+      "text": "Mario Desbordes ha tenido una"
+    },
+    {
+      "start": 2862.9,
+      "end": 2864.14,
+      "text": "cercanía quizás con el Partido"
+    },
+    {
+      "start": 2864.14,
+      "end": 2865.38,
+      "text": "Republicano o la propia"
+    },
+    {
+      "start": 2865.38,
+      "end": 2867.14,
+      "text": "candidatura pese a que él apoya"
+    },
+    {
+      "start": 2867.14,
+      "end": 2874.0,
+      "text": "a Evelyn Matei. Hay apoyos que se van dando focalizadamente..."
+    },
+    {
+      "start": 2874.58,
+      "end": 2880.32,
+      "text": "...y en este caso hay un apoyo directo, ¿no es cierto?, del alcalde Desbordes..."
+    },
+    {
+      "start": 2880.32,
+      "end": 2884.22,
+      "text": "...al candidato Carter, y él menciona por qué lo apoya."
+    },
+    {
+      "start": 2886.32,
+      "end": 2891.5,
+      "text": "Porque tiene ciertos desafíos, donde él ha un hombre valiente que da la cara y que ha generado"
+    },
+    {
+      "start": 2891.5,
+      "end": 2897.5,
+      "text": "una política pública que para él es absolutamente necesaria. Eso es un apoyo"
+    },
+    {
+      "start": 2897.5,
+      "end": 2904.18,
+      "text": "específico, puntual a una candidatura parlamentaria y se une con lo que"
+    },
+    {
+      "start": 2904.18,
+      "end": 2913.88,
+      "text": "viene en la segunda vuelta, donde la vez anterior a mí me tocó encabezar eso y prácticamente todos"
+    },
+    {
+      "start": 2913.88,
+      "end": 2915.46,
+      "text": "los que ejercían algún liderazgo"
+    },
+    {
+      "start": 2915.46,
+      "end": 2920.48,
+      "text": "dentro de lo que hoy es la lista que respalda Chile Vamos Ampliada"
+    },
+    {
+      "start": 2920.48,
+      "end": 2929.12,
+      "text": "colaboraron para tener un mejor resultado que nos permitió marcar un punto importante"
+    },
+    {
+      "start": 2929.12,
+      "end": 2932.18,
+      "text": "luego de las derrotas que tuvimos en mayo, porque"
+    },
+    {
+      "start": 2932.18,
+      "end": 2935.92,
+      "text": "algunos sólo recuerdan diciembre, no"
+    },
+    {
+      "start": 2935.92,
+      "end": 2937.36,
+      "text": "recuerdan que en noviembre"
+    },
+    {
+      "start": 2937.36,
+      "end": 2939.4,
+      "text": "paramos el Senado y no recuerdan que en"
+    },
+    {
+      "start": 2939.4,
+      "end": 2941.28,
+      "text": "mayo del mismo año, en una votación de"
+    },
+    {
+      "start": 2941.28,
+      "end": 2944.54,
+      "text": "dos días, nosotros perdimos 15 de las 16"
+    },
+    {
+      "start": 2944.54,
+      "end": 2946.42,
+      "text": "gobernaciones, perdimos"
+    },
+    {
+      "start": 2946.42,
+      "end": 2952.96,
+      "text": "80 alcaldías y también muchas concejalías. Esa elección se aprendió y a eso se le suma"
+    },
+    {
+      "start": 2952.96,
+      "end": 2956.52,
+      "text": "el voto obligatorio, donde están estas personas indecisas a las cuales nosotros hoy día le"
+    },
+    {
+      "start": 2956.52,
+      "end": 2961.12,
+      "text": "estamos hablando. Y hay un porcentaje que puede ser el 6, el 8, el 10% de las personas"
+    },
+    {
+      "start": 2961.12,
+      "end": 2963.2,
+      "text": "que aún no deciden su voto."
+    },
+    {
+      "start": 2963.7,
+      "end": 2968.96,
+      "text": "A esas personas le estamos diciendo, vengan a nuestra propuesta,"
+    },
+    {
+      "start": 2969.08,
+      "end": 2973.0,
+      "text": "porque es clara y específica en los puntos que a usted más le importan."
+    },
+    {
+      "start": 2973.0,
+      "end": 2981.16,
+      "text": "Por lo tanto, en estos 14 días nosotros no vamos a entrar a polemizar sobre apoyos, no apoyos."
+    },
+    {
+      "start": 2981.5,
+      "end": 2986.68,
+      "text": "El único objetivo es infringirle una derrota importante, histórica, al actual gobierno."
+    },
+    {
+      "start": 2987.16,
+      "end": 2990.52,
+      "text": "¿Y en ese sentido ha tenido conversaciones con el alcalde Mario Desbordes?"
+    },
+    {
+      "start": 2991.22,
+      "end": 2992.0,
+      "text": "Lo felicité para el cumpleaños."
+    },
+    {
+      "start": 2993.3,
+      "end": 2994.94,
+      "text": "Diputado Carter, también si pudiera preguntarle sobre el tema."
+    },
+    {
+      "start": 2994.94,
+      "end": 2996.62,
+      "text": "Un segundito que sale, quería comentar algo."
+    },
+    {
+      "start": 2996.68,
+      "end": 2997.04,
+      "text": "Ningún problema."
+    },
+    {
+      "start": 2998.78,
+      "end": 2999.62,
+      "text": "Soy un poco más baja."
+    },
+    {
+      "start": 3001.22,
+      "end": 3006.76,
+      "text": "Bueno, primero señalar que las encuestas como acá se ha señalado suben, bajan,"
+    },
+    {
+      "start": 3007.14,
+      "end": 3013.56,
+      "text": "tenemos diagnósticos, tenemos opiniones respecto a cuáles son los resultados que se puedan tener,"
+    },
+    {
+      "start": 3013.94,
+      "end": 3017.76,
+      "text": "que son proyecciones, pero lo real lo vamos a tener el 16 de noviembre"
+    },
+    {
+      "start": 3017.76,
+      "end": 3020.84,
+      "text": "y ahí es donde tenemos que focalizar nuestro esfuerzo."
+    },
+    {
+      "start": 3021.2,
+      "end": 3024.04,
+      "text": "Acá se ha señalado, lo dijo Arturo, lo dijo José Antonio,"
+    },
+    {
+      "start": 3024.4,
+      "end": 3029.76,
+      "text": "nuestro objetivo hoy día está en derrotar a la candidata a la continuidad de este gobierno"
+    },
+    {
+      "start": 3029.76,
+      "end": 3038.3,
+      "text": "que ha sido un mal gobierno y es evidente en la opinión ciudadana cuando uno recorre los distritos y nos damos cuenta que hay un descontento..."
+    },
+    {
+      "start": 3038.3,
+      "end": 3042.1,
+      "text": "...cómo ha llevado adelante este gobierno y nosotros porque hoy día estamos acá..."
+    },
+    {
+      "start": 3042.1,
+      "end": 3046.66,
+      "text": "...como Partido Social Cristiano y no estamos en el comando de otro candidato de oposición..."
+    },
+    {
+      "start": 3046.66,
+      "end": 3053.68,
+      "text": "...porque también nosotros respaldamos el programa de gobierno de José Antonio Kassass, que primero está basado en un gobierno de emergencia que se va a hacer"
+    },
+    {
+      "start": 3053.68,
+      "end": 3058.66,
+      "text": "cargo del día uno, en que asuma la realidad que hoy día está enfrentando nuestro país"
+    },
+    {
+      "start": 3058.66,
+      "end": 3062.64,
+      "text": "en las distintas crisis, en seguridad, en educación, y ya tenemos una educación que"
+    },
+    {
+      "start": 3062.64,
+      "end": 3066.0,
+      "text": "está en deterioro, y tenemos que hacernos cargo de eso y cómo la vamos a recuperar."
+    },
+    {
+      "start": 3066.0,
+      "end": 3070.36,
+      "text": "Pero además, porque estamos hoy día apoyando como Partido Socialistiano a José Antonio Kass,"
+    },
+    {
+      "start": 3070.66,
+      "end": 3077.26,
+      "text": "porque nosotros hemos visto que no se ha movido ni un centímetro en lo que son los temas que para algunos son importantes,"
+    },
+    {
+      "start": 3077.36,
+      "end": 3079.7,
+      "text": "para nosotros también, por supuesto, que son los temas valóricos,"
+    },
+    {
+      "start": 3079.98,
+      "end": 3081.52,
+      "text": "en donde obviamente no está nuestro foco"
+    },
+    {
+      "start": 3081.52,
+      "end": 3085.06,
+      "text": "sino como lo señalé anteriormente, está en recuperar la seguridad"
+    },
+    {
+      "start": 3085.06,
+      "end": 3089.82,
+      "text": "que eso sí le tiene atemorizado a los chilenos y que no les permite"
+    },
+    {
+      "start": 3089.82,
+      "end": 3093.52,
+      "text": "hoy día llevar una vida tranquila y por supuesto recuperando la seguridad"
+    },
+    {
+      "start": 3093.52,
+      "end": 3097.56,
+      "text": "vamos a recuperar el fortalecer a las familias que es clave y por eso es que estamos"
+    },
+    {
+      "start": 3097.56,
+      "end": 3101.34,
+      "text": "acá y lo otro que quiero señalar es que hoy"
+    },
+    {
+      "start": 3101.34,
+      "end": 3105.72,
+      "text": "día más allá de lo que diga o no diga un candidato creo que lo importante es"
+    },
+    {
+      "start": 3105.72,
+      "end": 3110.12,
+      "text": "poder colocar el foco en cómo nosotros vamos a elaborar esa unidad"
+    },
+    {
+      "start": 3110.12,
+      "end": 3114.96,
+      "text": "que nos va a permitir gobernar en el próximo periodo y poder sacar adelante"
+    },
+    {
+      "start": 3114.96,
+      "end": 3120.26,
+      "text": "todas aquellas leyes que le van a hacer bien a nuestro país, hacer ejercer nuestro rol fiscalizador"
+    },
+    {
+      "start": 3120.26,
+      "end": 3125.2,
+      "text": "para que las leyes que ya están establecidas y las pocas leyes que este gobierno de turno"
+    },
+    {
+      "start": 3125.2,
+      "end": 3128.6,
+      "text": "logró sacar adelante para poder ayudar a la ciudadanía se cumplan"
+    },
+    {
+      "start": 3128.6,
+      "end": 3134.22,
+      "text": "y así obviamente devolver en parte la tranquilidad y algunas cosas que la ciudadanía está esperando."
+    },
+    {
+      "start": 3134.58,
+      "end": 3138.54,
+      "text": "Y por eso creo que es importante lo que hoy día se ha señalado en las propuestas"
+    },
+    {
+      "start": 3138.54,
+      "end": 3158.84,
+      "text": "que se han ido señalando a lo largo de este periodo, porque vuelvo a insistir, a lo largo de todo lo que ha sido la campaña electoral, se han dado diagnósticos, pero el resultado final lo vamos a tener el 16 de noviembre y quien pase a la segunda vuelta de oposición no nos perdemos ni un centímetro en que lo vamos a apoyar para hacer un gobierno que haga frente a lo que hoy día la ciudadanía"
+    },
+    {
+      "start": 3158.84,
+      "end": 3159.32,
+      "text": "está esperando."
+    },
+    {
+      "start": 3159.66,
+      "end": 3163.14,
+      "text": "Diputada, solamente para hacer una consulta dentro del mismo..."
+    },
+    {
+      "start": 3163.14,
+      "end": 3165.18,
+      "text": "¿Diputada?"
+    },
+    {
+      "start": 3165.82,
+      "end": 3166.84,
+      "text": "Sí, sí, uno, uno, sí."
+    },
+    {
+      "start": 3167.12,
+      "end": 3170.9,
+      "text": "Diputada, le he consultado lo mismo hace un rato al candidato Kast"
+    },
+    {
+      "start": 3170.9,
+      "end": 3173.36,
+      "text": "la primera vuelta va a ser"
+    },
+    {
+      "start": 3173.36,
+      "end": 3176.38,
+      "text": "el votante de derecha va a elegir que coalición de derecha"
+    },
+    {
+      "start": 3176.38,
+      "end": 3178.12,
+      "text": "quiere para su sector"
+    },
+    {
+      "start": 3178.12,
+      "end": 3180.34,
+      "text": "ustedes se ven cómodos llevando la batuta"
+    },
+    {
+      "start": 3180.34,
+      "end": 3181.58,
+      "text": "dentro de la derecha"
+    },
+    {
+      "start": 3181.58,
+      "end": 3182.68,
+      "text": "entendiendo que"
+    },
+    {
+      "start": 3182.68,
+      "end": 3187.54,
+      "text": "el elector de oposición puede elegirlo a ustedes?"
+    },
+    {
+      "start": 3188.48,
+      "end": 3194.04,
+      "text": "Hoy día la ciudadanía obviamente tiene que elegir cuál es la posición que más le acomoda."
+    },
+    {
+      "start": 3194.16,
+      "end": 3198.88,
+      "text": "Nosotros hemos presentado un proyecto, hemos respaldado un proyecto que creo yo que hoy día,"
+    },
+    {
+      "start": 3199.44,
+      "end": 3207.48,
+      "text": "y además también creemos que José Antonio Kast tiene todas las condiciones, las capacidades y el más capacitado en este caso para poder gobernar."
+    },
+    {
+      "start": 3207.86,
+      "end": 3215.18,
+      "text": "Y hoy día la verdad es que nosotros no podemos decir algo que la ciudadanía tiene que decidir el 16 de noviembre"
+    },
+    {
+      "start": 3215.18,
+      "end": 3217.1,
+      "text": "la ciudadanía tendrá que elegir si quiere"
+    },
+    {
+      "start": 3217.1,
+      "end": 3218.76,
+      "text": "que José Antonio Caso gobierne"
+    },
+    {
+      "start": 3218.76,
+      "end": 3221.22,
+      "text": "con la lista que hoy día estamos presentando en las parlamentarias"
+    },
+    {
+      "start": 3221.22,
+      "end": 3222.52,
+      "text": "o querrá combinar"
+    },
+    {
+      "start": 3222.52,
+      "end": 3224.64,
+      "text": "las distintas listas de oposición"
+    },
+    {
+      "start": 3224.64,
+      "end": 3227.06,
+      "text": "pero lo que tenemos claro es que nosotros hoy día"
+    },
+    {
+      "start": 3227.06,
+      "end": 3228.82,
+      "text": "creemos que la mejor"
+    },
+    {
+      "start": 3228.82,
+      "end": 3230.94,
+      "text": "opción y el candidato más"
+    },
+    {
+      "start": 3230.94,
+      "end": 3233.1,
+      "text": "capacitado para gobernar con un"
+    },
+    {
+      "start": 3233.1,
+      "end": 3235.0,
+      "text": "parlamento acorde a ese"
+    },
+    {
+      "start": 3235.0,
+      "end": 3237.2,
+      "text": "programa de gobierno es José Antonio Caso"
+    },
+    {
+      "start": 3237.2,
+      "end": 3238.96,
+      "text": "Diputado Carter, preguntarle"
+    },
+    {
+      "start": 3238.96,
+      "end": 3241.02,
+      "text": "justamente sobre el apoyo de Mario Desbordes a su"
+    },
+    {
+      "start": 3241.02,
+      "end": 3242.98,
+      "text": "candidatura también, ¿no responde"
+    },
+    {
+      "start": 3242.98,
+      "end": 3244.88,
+      "text": "quizás a una polémica antigua entre"
+    },
+    {
+      "start": 3244.88,
+      "end": 3246.18,
+      "text": "los Carter y los Osandón?"
+    },
+    {
+      "start": 3250.5,
+      "end": 3254.64,
+      "text": "Muy buenas tardes primero que todo a todos los que están presentes. Primero decir que"
+    },
+    {
+      "start": 3254.64,
+      "end": 3259.62,
+      "text": "Mario Desbordes, lo conozco hace muchos años, nos tocó tener batallas en el Congreso y"
+    },
+    {
+      "start": 3259.62,
+      "end": 3261.22,
+      "text": "también en la vida muy pare parecidas, y eso"
+    },
+    {
+      "start": 3261.22,
+      "end": 3263.98,
+      "text": "nos une. Y el cariño y el respeto es"
+    },
+    {
+      "start": 3263.98,
+      "end": 3266.14,
+      "text": "mutuo. Por lo tanto, de aquí darle muchas"
+    },
+    {
+      "start": 3266.14,
+      "end": 3267.56,
+      "text": "gracias por su apoyo desinteresado."
+    },
+    {
+      "start": 3268.5,
+      "end": 3270.46,
+      "text": "Respecto a su pregunta, Mario nos une"
+    },
+    {
+      "start": 3270.46,
+      "end": 3272.7,
+      "text": "también otras cosas. El gran amor a Chile"
+    },
+    {
+      "start": 3272.7,
+      "end": 3275.7,
+      "text": "y la batalla contra el narcotráfico,"
+    },
+    {
+      "start": 3275.82,
+      "end": 3279.7,
+      "text": "el crimen organizado y derrotar las bandas criminales. Él está dando una gran batalla"
+    },
+    {
+      "start": 3279.7,
+      "end": 3284.52,
+      "text": "en Santiago para sacar los toldos azules y él entiende que para poder lograrlo en el"
+    },
+    {
+      "start": 3284.52,
+      "end": 3289.0,
+      "text": "próximo gobierno, sea quien sea, nosotros creemos que va a ser José Antonio Kast, pero"
+    },
+    {
+      "start": 3289.0,
+      "end": 3295.06,
+      "text": "quien sea, si nosotros no pasamos, sea Evelin Matei, sea Johannes Kaiser o sea Parisi, tenemos"
+    },
+    {
+      "start": 3295.06,
+      "end": 3301.48,
+      "text": "que trabajar como un solo equipo. Y dentro de eso no existen las peleas pequeñas. Hoy"
+    },
+    {
+      "start": 3301.48,
+      "end": 3306.58,
+      "text": "día la patria, el país nos llama a ser más grandes que que eso y eso Mario Desbordes ya lo ha demostrado"
+    },
+    {
+      "start": 3306.58,
+      "end": 3308.06,
+      "text": "por lo tanto yo espero estar a la altura"
+    },
+    {
+      "start": 3308.06,
+      "end": 3310.58,
+      "text": "del llamado, de su cariño y ojalá"
+    },
+    {
+      "start": 3310.58,
+      "end": 3312.16,
+      "text": "en dos semanas más"
+    },
+    {
+      "start": 3312.16,
+      "end": 3314.04,
+      "text": "justo dos semanas más, estemos trabajando"
+    },
+    {
+      "start": 3314.04,
+      "end": 3316.16,
+      "text": "en conjunto para poder lograr recuperar"
+    },
+    {
+      "start": 3316.16,
+      "end": 3318.08,
+      "text": "Chile y terminar con este nefasto"
+    },
+    {
+      "start": 3318.08,
+      "end": 3320.94,
+      "text": "gobierno que ha dañado a millones de chilenos y chilenas"
+    },
+    {
+      "start": 3320.94,
+      "end": 3322.72,
+      "text": "Candidato, última pregunta"
+    },
+    {
+      "start": 3322.72,
+      "end": 3325.76,
+      "text": "Hay como 25"
+    },
+    {
+      "start": 3325.76,
+      "end": 3328.72,
+      "text": "No hay problema"
+    },
+    {
+      "start": 3328.72,
+      "end": 3330.4,
+      "text": "A usted más específico porque mañana"
+    },
+    {
+      "start": 3330.4,
+      "end": 3333.02,
+      "text": "va a encontrarse con el resto de sus rivales"
+    },
+    {
+      "start": 3333.02,
+      "end": 3334.78,
+      "text": "en un nuevo debate organizado por"
+    },
+    {
+      "start": 3334.78,
+      "end": 3339.0,
+      "text": "la Radio Chile a través del Archie ¿Qué espera precisamente ese encuentro? ¿Se van"
+    },
+    {
+      "start": 3339.0,
+      "end": 3344.02,
+      "text": "a enfatizar más las diferencias o van a mantener sus posiciones? Nosotros, de nuevo, a mí me ha"
+    },
+    {
+      "start": 3344.02,
+      "end": 3349.88,
+      "text": "tocado ir ya a varios debates, he tratado de hacerlo más claro en todas las propuestas que"
+    },
+    {
+      "start": 3349.88,
+      "end": 3350.2,
+      "text": "hacemos y esperamos que mañana sea una gran oportunidad para que esos chilenos que aún no En varios debates he tratado de hacerlo más claro en todas las propuestas que hacemos"
+    },
+    {
+      "start": 3350.2,
+      "end": 3355.9,
+      "text": "y esperamos que mañana sea una gran oportunidad para que esos chilenos que aún no han decidido"
+    },
+    {
+      "start": 3355.9,
+      "end": 3360.46,
+      "text": "por quién votar, lo puedan hacer en base a las propuestas de cada candidato."
+    },
+    {
+      "start": 3361.56,
+      "end": 3385.82,
+      "text": "Y esas propuestas, nosotros al menos las tenemos muy claras, las hemos ido profundizando en el tiempo, ustedes han visto como un plan se va transformando en una acción concreta y vamos a seguir en la misma línea, con la misma tranquilidad, con la misma fortaleza, con las mismas ideas claras y con un tremendo equipo que ustedes pueden ver que está trabajando en todas las áreas que hemos planteado a la ciudadanía."
+    }
+  ]
+}

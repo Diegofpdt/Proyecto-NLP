@@ -1,0 +1,5234 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ]
+  },
+  "text": "Invitado político a esta hora, son las 11.13, Gringa. Sí, estamos con la candidata presidencial del Pacto Unidad por Chile, Janet Jara, en este espacio que hemos abierto aquí en mucho gusto para conversar con los distintos candidatos a la presidencia. Junto a ella está nuestro editor de Economía, Roberto Sá. Y preguntarle inmediatamente, candidata, estamos viendo nuevamente un acto muy complejo donde se habla de un crimen organizado, la desaparición ya de 18 días de una niña. Así es. Bueno, ahora tiene 19 años, pero está dentro de este flagelo desde que es menor de edad y también con otra situación delictual muy compleja que ha golpeado a todo nuestro país, que tiene que ver con la detención de estos dos delincuentes que debido debido a esa fuga, provocan un accidente a un furgón escolar y, lamentablemente, sobre todo la comunidad en Recoleta está consternada por el fallecimiento de un niño de sólo 12 años de edad y su familia. Entonces, en esa materia, usted como candidata y que ha recorrido el país, dentro de las principales demandas de los chilenos es seguridad, seguridad y seguridad. Yo sigo enfática en ese sentido. Y quisiéramos saber, no solo su apreciación de lo que está ocurriendo actualmente con estos hechos delictuales que golpean a nuestro país, sino cuáles son su programa de gobierno frente a este tema. ¿Cómo enfrentar estas bandas de criminales? Aquí vemos cómo están los menores de edad implicados y también víctimas, víctimas de todo esto porque hay ausencia, se ha notado la ausencia del Estado en algunos de estos flagelos. Sí, bien terrible toda la situación que describe usted, Mariani, y que sin duda ha golpeado a todo el país. Yo creo que acompañar el dolor a la familia de Esteban es algo que todos los chilenos y chilenas hoy día estamos haciendo, ¿no? Sabemos lo doloroso que es una pérdida de esa naturaleza y en esta circunstancia, además, terrible. Quisiera señalar que nosotros hemos tenido el flagelo del narcotráfico y el avance del crimen organizado en una sociedad en la cual hemos avanzado en bastantes legislaciones, pero de alguna u otra forma vemos que a la hora de la comisión de los delitos vemos situaciones horrorosas, digamos. Le sumaría de la comisión de los delitos, vemos situaciones horrorosas, digamos. Le sumaría a lo que usted estaba comentando recién, el descubrimiento del búnker en Antofagasta hace... ayer, me parece, hoy día mismo, ¿no? Y la detención de estos seis delincuentes. Y creo que en nuestro programa de gobierno hay mucha coincidencia entre todos los candidatos. Yo quiero partir de ahí porque en mi recorrido por Chile, en la gira nacional que realicé, me quedó absolutamente claro la necesidad en nuestro país de poder hacernos cargo de los temas de seguridad pública. Yo no lo veo como un tema de derecha o de izquierda, sino que creo que todas las personas tienen derecho a dormir tranquila y vivir tranquila. ¿No hay una alergia de la izquierda? Mire, por lo menos de mi parte ninguna, porque yo tengo claro lo que significa cuando un joven cae en el narcotráfico y no se cuenta con ningún recurso para sacarlo adelante. Sobre todo en las poblaciones más vulnerables del país. Así que aquí no solo no hay ninguna alergia, sino que por el contrario, tengo la suerte de tener experiencia y conocer cómo funciona el Estado, capaz que pueda ayudar un poquito más en eso. Ahora, Janet, los muchachos, los delincuentes que iban arrancando, chocan el furgón, matan a un niñito de 12 años, ellos ya tenían un prontuario largo, grande. Entonces, algunos dicen, ellos debían haber estado en la cárcel, las cárceles están llenas, están sobrepobladas. Otros dicen, esto debería haber penas más fuertes y otros dicen, eso es populismo penal. ¿Cómo lograr el equilibrio para que ellos efectivamente no estén robando cuando ya tienen 10 robos, 10 asaltos, que se yo, uso de armas. Pero además tenemos problemas en las cárceles. ¿Cómo lograr el equilibrio? ¿Cómo ve su programa de gobierno ese tema? Mira, yo creo primero que en esto hay que tomar acciones que son de múltiples iniciativas. Y aquí cuatro cosas. Primero, evidentemente, se necesitan más cárceles y eso lo va a hacer mi gobierno o el gobierno que venga porque es una necesidad. Está el 142% de las cárceles sobrepobladas. ¿Usted contempla la construcción de más cárceles? Sí, claro. Pero además, de cinco cárceles más, pero además ya hay en ejecución un proyecto de infraestructura carcelaria, un plan maestro. Lo segundo es que algo en lo que seguramente todos estamos de acuerdo, hay que fortalecer las policías, investigaciones carabineros, entregar herramientas de inteligencia policial. Lo tercero, hay que fortalecer el ámbito preventivo, porque las comunidades donde la gente está organizada, es más difícil quecer el ámbito preventivo, porque las comunidades donde la gente está organizada es más difícil que entre el crimen organizado. Y a propósito del caso que estábamos viendo recién, ¿cierto?, de esta Krishna, de esta chica que hoy día tiene 19 años, pero la verdad es lo que usted señalaba, Marían, ella fue capturada por el narco cuando era menor de edad. Y así estamos viendo que muchas jóvenes, muchas niñas, están entrando en esta situación, fenómeno que antes no se veía. Y lo cuarto, diría yo, es en lo que sí tenemos diferencia entre los candidatos, es en tratar de atacar la causa, a mi entender, de la razón de por qué el crimen organizado se ha instalado en Chile y tiene que ver con el rol que le asignan a Chile dentro de su matriz de negocio ilegal en el continente, digamos, porque hacen distintas cosas en distintos países. Este nuevo fenómeno solo chileno, es transnacional y acá de acuerdo a los estudios y los análisis que se han hecho hay dos cosas a las que han venido en primer lugar vienen porque nuestras normas sobre análisis financiero tienen un secreto bancario potente tenemos una unidad de análisis financiero pequeña en cual no tenemos acuerdo político para poder levantarlo, aun cuando la misma fiscalía ha señalado que es necesario hacerlo. Entonces viene por un tema lavado activo y blanqueo de dinero, seguir la ruta del dinero sucio en esto es fundamental. Por lo tanto, es fácil delinquir a Canchile por esas razones. Hay ciertos espacios que se dan a efectos de que pueden efectivamente mover dineros entre cuentas, porque a todo esto, hasta hace poco atrás, primaba la teoría de que el narco tenía la plata guardada bajo la almohada. Y ahora, no, es que esto ya se comprobó, que no es así. Si el Ministerio Público destrabó la célula financiera... Sacaron no sé cuántos millones de dólares en una facción del 30 de agosto. Sí, hola. Me cuesta creer, sí, que nuestro mercado de capitales sea más flexible o más vulnerable que el resto de América Latina. No tiendo a pensar que el mercado de capitales boliviano, argentino o paraguayo sea más serio que el nuestro. No, el nuestro está más regulado, más rígido. Cuando usted dice, bueno, en realidad vienen acá porque aquí es más fácil el lavado activo, puede ser, pero no creo que sea más fácil que en otro país de América Latina yo creo que más que la comparación hola José lo que tenemos que hacer es cómo vamos a decididamente atacar esto y no es lo único que viene nosotros también tenemos una costa grande que permite un acceso al océano pacífico en Ecuador también ocurre lo mismo y hay harta mafia allá también lamentablemente. Y por el lado del Atlántico está fusionando la mafia albanesa que viene desde África. Entonces están buscando vías. Entonces nosotros tenemos que subirle el costo de venir a hacer aquí comercio ilegal y delito. Y por eso yo creo que hay que usar aquí......hay que poner toda la carne en la parrilla, en buen chileno. Por eso no entiendo por qué se oponen a levantar el secreto bancario......y yo les quiero decir a las personas que estén en su casa......esto no es para revisarles sus cuentas RUT, o sea, sinceramente. Ni para ver lo que compran en el supermercado. Nada de eso. Esto es para los que estamos en política... que evidentemente me parece una cosa mínima de transparencia, porque tomamos decisiones relevantes. Entonces, el narco también lo que hace es permear las instituciones, y eso es lo que han hecho los otros países. Entonces, ¿por qué nosotros debiéramos tener nuestras cuentas cerradas si tenemos puestos tan claros? Yo también creo lo mismo. Y solo pasa por el secreto de la banca. Empresas públicas, no, yo creo que hay que fortalecer la unidad de análisis financiero. Que es una unidad, la UAF, depende del Ministerio de Hacienda. Ahora. Tiene ochenta y tres funcionarios y solo el dato nomás. Sí. En el sesenta por ciento de las causas ha entregado antecedentes que han servido para condenar a los delincuentes. Ahora, ¿ese modelo cómo está financiado? Porque cualquier avance estructural e integral del sistema requiere plata. El gobierno no está dejando glosa de libre disposición. Todavía estamos en la tramitación de la ley de presupuestos que debería cerrarse el próximo mes, ¿verdad? Entonces, desde su óptica, en un eventual gobierno suyo, ¿cómo va a financiar toda esta operación? ¿Cuánto vale y de dónde sale? Ya que nos hemos preguntado tanto por las platas y los millones y los cero y los seis mil millones y los quince mil y tal bueno y ahora van en veintiún mil millones déjeme decirlo y que podría producir una recesión económica así que ojo ahí seguramente podemos hablar de la economía pero vamos a ir con eso le quiero decir precisamente que yo no voy a hacer ningún ofertón de reducción de ingresos porque creo que eso es, en este momento, demasiado crítico para el país. Lo que sí voy a hacer, por ejemplo, los 6 mil millones, reducción de gastos, perdón, los 6 mil millones que después eran 15 mil, ahora son 21 mil millones de dólares. ¿No va a prometer que el Estado va a reducir gastos porque no se puede? Lo que hay que hacer es optimizar el gasto, que es distinto. Y el 1% del PIB, que son 3.500 millones de dólares, yo los voy a destinar a cumplir los objetivos del programa de gobierno que he comprometido. De eso una parte va a ir a seguridad, una parte va a ir a vivienda, que es necesario porque tenemos un gran déficit habitacional, una parte importante va a ir a economía y otra parte va a ir a salud pública, que es donde tenemos un gran problema. ¿Cuánto vale su ítem seguridad? Sí, cero coma dos por ciento del PIB. Y va a alrededor de setecientos millones de dólares anuales. Va principalmente a ampliación de dotación de PDI de carabineros. Ya. Y suma de inteligencia policial, software y distintos mecanismos de seguimiento para efectos también de fortalecer el control fronterizo, que es otro de los problemas que tenemos. Ahora, Janet, todo eso está muy ligado también al grave problema que estamos teniendo con la migración. Ayer estuvo acá Harold McNichol y él proponía una suerte de minas antipersonales, pero que no explotan, sino que detectarían a quien pasa por ahí y le avisaría un dron para ver cuando están pasando a las 4 de la mañana por colchanes, venezolanos, colombianos, qué sé yo. ¿Qué plantea usted para enfrentar esta situación que también ha generado un efecto desde el punto de vista policial con delincuentes que están entrando? No todos, obviamente, no quiero hacer la caricatura, pero hay un tema ahí con eso. Sí. O sea, nosotros tenemos una geografía que en el norte de Chile genera espacio para tener más de 100 pasos fronterizos irregulares. Entonces, cuando algunos dicen, vamos a cerrar esto, yo no sé de qué manera podrían cerrarlo, a no ser que esto fuera una bolsa que, como esas bolsas Ziploc, que uno las cerrara así, ¿no? Y si fuera tan fácil, me imagino que ya distintos gobiernos lo habrían hecho todos los que hemos estado en Colchane sabemos que eso es imposible porque es enorme de hecho los que conocemos el norte sabemos que es imposible pero como se puede estrenar esa migración ilegal que es de cientos de personas diariamente y donde lamentablemente parte esa inmigración ilegal son delincuentes que vienen de otros países latinoamericanos. Porque yo creo que esto no hay que generalizar para nada, pero evidentemente aquí la penetración del crimen también ha estado muy ligada a, en particular, migración venezolana y eso también es verdad, gente del tren de Aragua. Lo que creo que podemos hacer es lo que se ha hecho en otros países y que aquí se pueden caminar de buena manera. Por ejemplo, en Carabineros fortalecer una especialidad de policía fronteriza, porque este fenómeno a nosotros nos pilla, posestallido, pospandemia, donde empieza a entrar la gente en esos minutos y de repente nos vemos con esta realidad encima. Entonces nuestras policías no necesariamente estaban preparadas para esta labor, hoy día los militares están cumpliendo labores en frontera, pero bueno, déjeme decirle que nuestras fronteras igualmente necesitan todavía mucho más apoyo, o bueno, déjeme decirle que nuestra frontera igualmente necesita todavía mucho más apoyo, o sea, es cosa de verlas en el desierto gigante en el que tenemos en el norte, lo pequeñas que son estas puertas de entrada y por donde se puede colar y entrar gente permanentemente. Ahora, hay un factor, José y Marían. ¿Cuál? Todos llegan al mismo punto inevitablemente, que es la Panamericana Norte. Sin duda. Y ahí hay un tráfico hacia el sur. De hecho, además, lo que estamos viendo ahora es la carretera. Hay un señor con un camión que los mete arriba, que les cobra una tarifa y que los deja a dos cuadras del Palacio de la Moneda. Lo estoy diciendo de una manera irónica, pero lo que quiero decir con esto es que hay un negocio ahí que no tiene que ver solamente con el inmigrante sino que con toda una logística que se ha armado y se ha montado para que esas personas con buenas o malas intenciones lleguen a los centros urbanos en el centro y en el sur, digamos. ¿Cómo usted pretende atacar esa cadena? De esta manera porque lo que puede constituir un problema en este caso también puede ser una oportunidad. Y en esto nada es fácil. Si nosotros tenemos en el norte muchos pasos fronterizos, pero tenemos una autopista o una carretera norte, en la cual desde Colchanes, desde Ollagüe, desde los distintos pasos fronterizos las personas confluyen, nosotros debiéramos generar ahí una segunda frontera de carácter tecnológico. Yo me he preguntado, ¿por qué eso no lo han hecho? Es que yo no sabría decirle. Lo que le puedo decir yo es que en mi gobierno lo vamos a hacer porque conocemos bien cómo funciona el Estado. Yo sé que usted era la ministra del Trabajo, pero cuando estaba en el gobierno eso no se conversaba porque efectivamente todos llegan a esa carretera. Sí. Y cuando yo he estado reporteando en Colchane, se ven ahí a esa gente caminando y bueno, esta gente ¿quién la fiscaliza? Estoy de acuerdo. Cuando usted habla de cortes o de checkpoints digitales estoy llamándolo de alguna manera. ¿A qué se refiere particularmente? No, mira, lo que pasa es que hoy día está toda la tecnología de drones, ¿cierto? Que es muy útil pero eso tiene que reportar a alguna oficina centralizada. A una central, obvio. Y de ahí desplegar a un sistema de gestión de carabineros. O sea, lo que yo espero es que a esto le metamos tecnología, tecnología y tecnología. Porque el que dice que va a construir aquí un muro, o sea, eso no es real. Son 800 kilómetros. El que dice que va a construir una reja, ni una malla Rachel, si son 800 kilómetros. Entonces nosotros lo que tenemos que hacer es, con la geografía que tenemos, tomar esto como oportunidades. Y toda la gente, o sea, esta complejidad del norte, todos llegan a un lugar y esa es una oportunidad para nosotros. Con la solidez que usted lo plantea y que uno la escucha y uno dice, bueno, sí, como dice... ¿Por qué no se ha hecho antes? Uno tiene el contraste del megáfono, porque fue una imagen bochornosa. Entonces, si yo contrasto el megáfono, que es un símbolo de la estupidez del gobierno en esta materia. Con lo que usted está planteando, uno dice, bueno, ¿por qué uno debería creerle a la continuadora del gobierno? Mire, primero porque no soy la continuadora del gobierno, yo pretendo encabezar mi propio gobierno. Y creo que en eso tengo experiencia, liderazgo y capacidades. Por cierto, no me las sé todas, pero creo que puedo dar muestras concretas de que lo que hice lo saqué adelante. Y lo segundo, y a propósito de lo que Roberto me preguntaba recién, por qué el gobierno no lo había hecho o qué yo habría opinado respecto de lo que el gobierno hacía, yo lo que puedo decirle es que yo me aboqué a mi tarea. Y mi tarea fue sacar una gran reforma previsional para el país. Claro, aún no lo ent hecho o que yo habría opinado respecto de lo que el gobierno hacía yo lo que puedo decirle es que yo me aboqué a mi tarea y mi tarea fue sacar una gran reforma previsional para el país que me tuvo subsumida o sea que no es que yo estuve mirando el cielo mirando las estrellas perdónenme que les diga Janet una cosa es la gente que está entrando y la otra son la gente que está adentro y aquí son la gente que está adentro. Y aquí, por ejemplo, lo que usted decía, estos búnker que se han encontrado, nos decía la policía, son venezolanos, son centro de tortura, efectivamente, ahí lo estamos mostrando, que es una imagen impresionante. Y la policía lo que nos decía, que todos estos centros de tortura son de venezolanos principalmente. Colombianos. Y colombianos, que pertenecen a los grupos de delincuentes más peligrosos de Sudamérica, que se están instalando en Chile. Muchos de estos bunkers son además en tomas, en lugares ilegales, qué sé yo. ¿Qué hacer con la otra cara de la moneda? Que es con los que están adentro y que son principalmente delincuentes muy peligrosos, muy por encima probablemente del delincuente muy peligrosos muy por encima probablemente del delincuente tipo chileno que es que puede ser el más peligroso que hacer con los que están adentro con los que están adentro no, tienen que cumplir sus penas pero usted los deportaría porque hay distintas miradas por ejemplo con Harold Malmico que él los deportaría pero no es tan fácil tampoco. No, pero le dijimos a él que Venezuela no lo acepta, Bolivia tampoco. Y es que también apunto a eso, después quería apuntar a eso. Lo que pasa es que ahora tenemos dificultades con Bolivia cuando se quiere hacer el retorno de estos inmigrantes ilegales. Y eso que estamos en un gobierno actual de izquierda con Bolivia, pero con un cambio de gobierno de centro-derecha con Rodrigo Paz Amoré. Y eso a lo mejor puede dificultar o no ante un eventual gobierno suyo, le digo porque él está tomando bastantes posturas bien concretas pero con gobiernos digamos de izquierda donde él mismo lo ha calificado como dictadura que es el caso por ejemplo de Venezuela, pero en el fondo ¿qué propone usted o cómo haría con estos delincuentes extranjeros que hacen de la suya dentro de nuestro país y qué hacer? ¿Porque los mantenemos retenidos en nuestras cárceles o se deportan? Bueno, al estilo Trump. Yo creo que en esto hay que distinguir porque efectivamente si ustedes me hablan del satanás evidentemente tiene que cumplir su sentencia en Chile él no está solo por ley de drogas también está por otros delitos de gravedad como extorsión secuestro homicidio todo lo que se pueda imaginar pero hay gente que ha cometido delitos menores o simples delitos y que hoy día si nosotros lo llevamos a nuestras cárceles que están sobrepobladas, además hay que mantenerlos. Y esto sale entre 900 mil pesos y un millón de pesos para los chilenos. Yo creo que en esto hay que ser bien concreto. Yo busco el bien de nuestro país y si eso significa que nosotros los podemos reconducir a su país, lo haré, sin duda. Sobre todo gente que está por la ley 20.000 y delitos menores. O sea, usted plantea una reconducción o deportación o traslado de delitos menores y los más graves, digamos... Que cumplan sus penas acá. Ya, y eso también tiene un costo en plata y también requiere una logística. Pero no años, que es la diferencia. Ahora, el principal problema de esto ha sido las relaciones con los demás países. En particular con Maduro en Venezuela. En Venezuela no tenemos embajada. Es imposible relacionarse con ese gobierno. Con ese gobierno es imposible, claro. Y eso no está en nuestras manos, ese es el problema. Con Rodrigo Paz yo creo que no hay ningún problema con el nuevo presidente Bolivia, de hecho. relacionarse con ese gobierno. Con ese gobierno es imposible, claro, y eso no está en nuestras manos, y ese es el problema. Con Rodrigo Paz yo creo que no hay ningún problema con el nuevo presidente Bolivia, de hecho espero saludarlo en las próximas horas, sé que ha estado con muchos llamados. Además, es un presidente bastante centro, yo diría. Algunos dicen que más progresista que derechista, pero más allá de eso, yo lo que respeto es la decisión democrática del pueblo boliviano y lo mejor para los dos países que tengamos un buen diálogo. Yo haría una distinción ahí, discúlpenme, pero una cosa, o sea, uno puede ser de centro, de centro-izquierda, de izquierda, de derecha, pero cuando hay una persona razonable que comparte un universo más o menos común, tú te puedes sentar a conversar. Maduro está en un delirio místico que no tengo idea, y no puede hablar usted con él, ni Cass con él, ni Matei, ni nadie. Algo grave dice eso, ¿no? No, y probablemente si usted sale electa presidenta le va a tirar los demonios encima y le va a hacer una, qué sé yo, la va a llamar traidora de todo tipo, no tengo idea. Pero sí es un punto. Lo cual me preocupa. Cero. Cero. Me imagino. Francamente, o sea, yo por mí que ellos solucionaran en Venezuela luego su problema, para que quienes han tenido que salir de su país venirse al nuestro. No, cero. Me imagino. Francamente, o sea, yo por mí que ellos solucionaran en Venezuela luego su problema, para que quienes han tenido que salir de su país venirse a nuestro país a volver. No, se lo digo porque efectivamente una política de deportación se hace más difícil así, ¿no? Y es una realidad, y esa es una realidad conmigo o con cualquiera, digamos. Claro. Porque el problema no está puesto en Chile, está puesto allá. Ahora, en Venezuela, con Bolivia se firmó un convenio hace poco tiempo. Ahora tenemos que ver cómo se va a operativizar este convenio precisamente porque ha habido recientemente una nueva elección y salió precisamente el presidente electo que estábamos comentando, ¿no, Rodrigo Paz? Sí, porque además es hijo de Jaime Paz Amor, el presidente demócrata. Oiga, candidata, la quería llevar al tema de los ingresos mínimos. ¿Usted podría explicarnos básicamente en qué consiste la propuesta del ingreso vital? ¿Cómo se financia?cia cuándo eventualmente se empezaría a pagar eso requiere un trámite legislativo si usted llega a la moneda todo el ABC para que la gente entienda bien la bajada porque me parece que es súper sensible me parece la escucho sí, miren se habla mucho de crecer en Chile pero el crecimiento o sea yo aspiro un poquito más que a crecer, yo también les quiero decir eso. Aspiro a que nosotros retomemos la vía del desarrollo y les quiero decir que en Chile tenemos una tremenda oportunidad, así como un espacio de negocio importante, porque el mundo está haciendo el cambio de los combustibles fósiles a los combustibles verdes o a la energía limpia. Y nosotros tenemos viento, sol, agua, litio y cobre que sirven para la electromovilidad, hidrógeno verde. O sea, estamos en una posición privilegiada para suplir buena parte de la oferta mundial, pero para eso hay que actualizar nuestro transporte de carga, nuestros caminos y nuestra capacidad de almacenamiento mi gobierno espero que habilite en estos próximos años estas condiciones de infraestructura para poder pegarnos el salto. Pero ese crecimiento tiene que llegarle a todos los chilenos. Y lo que nos ocurre es que en Chile un millón de familias que están pegadas en el salario mínimo no le alcanza para llegar a fin de mes. Y resulta que el salario mínimo produce este efecto, Marían, que tú lo fijas acá y es como si uno prendiera una luz en la noche. Y todo, prende una luz en la mitad de la noche y todos los bichitos se acercan. Entonces el salario mínimo uno lo fija y lo que ocurre con los sueldos es que se le acercan mucho. Entonces aquí hay 850 mil personas. Pero cerca de ese sueldo, que los sueldos son más. Que hay mucha gente que está muy poquito más arriba que el sueldo mínimo. ¿Qué quiere decir usted? ¿Que se fija un salario mínimo y el mercado laboral tiende a pegarse a ese número? ¿Cómo se soluciona eso? Se acerca mucho. Yo creo que aquí hay que fijar condiciones que sean mínimas para que la gente la alcance para llegar a fin de mes. Y por eso nosotros queremos cambiar del concepto lo mínimo a pagar a cuánto cuesta vivir. Esa es la diferencia. Por eso se ha hablado de un salario vital. Hoy día eso se estima en 750 mil pesos. El punto es la diferencia, por eso se ha hablado de un salario vital. Hoy día eso se estima en 750 mil pesos. El punto es que nosotros sabemos que en Chile quienes más pagan salario mínimo son las pymes. Entonces no es que quieran pagar mal, sino que no lo pueden absorber. Porque tienen poca venta, la economía en los últimos 15 años crece poco. ¿Usted pretende financiar ese delta, ese gap que existe? Pretendo hacer dos cosas. Ya, y a partir del primer año de gobierno y bien concreto. No, esto se va a hacer dentro de los cuatro años porque requiere gradualidad. Ya, ¿cómo? Se va a hacer alza de salario mínimo que es la que se negocia, se lleva al Parlamento y a la ley. ¿Eso se mantiene? Sí, claro. ¿Se mantiene en ese camino? ¿Pluroanual o plurianual? A mí me gusta plurianual, pero ya cuando lo plantee como ministra......a los gremios no les gusta tanto, así que lo veremos. Lo que pasa es que, perdón... Sería bueno porque da buenas certezas. Y además se politiza la discusión de salario mínimo todos los santos años veremos cómo me va ahora como presidenta porque como ministra con eso no me salta mucho más sensato segundo subsidio a las pymes y tercero aporte monetario en el caso de transferencias directas ya para quienes no puedan pagarlo en definitiva pero esa es una parte la parte más relevante para los emprendedores de Chile a mi entender es esta porque todos en Chile se han dado cuenta que se declaran propymes o no pero resulta que a las pymes igual tienen esta dificultad si esta mesa fuera el mercado esta mesa circular o una torta resulta que a las pymes igual tienen esta dificultad. Si esta mesa fuera el mercado, esta mesa circular o una torta, resulta que un pedacito así se la lleva a las pymes y todo lo demás a la gran empresa. Porque nuestro mercado está muy concentrado. Entonces, si nosotros queremos que a las pymes de verdad les vaya bien y sean robustas, tienen que tener una mayor participación de mercado. Y hay que pagarles a tiempo, no a seis meses, ocho meses. Tienen que poder unirse en consorcios, por ejemplo, y postular a licitaciones más grandes. Hay que pagarles a tiempo, hay que separar mercados. Aquí hay cosas que son bien tiradas en la mecha y que nosotros incorporamos. La concentración de mercado tiene que ver también con la dimensión del mercado chileno, que es muy pequeña. Entonces, es un mercado que por sus dimensiones tiende al oligopolio o al monopolio al final. De hecho, tú puedes llegar así a la línea de... Claro, porque para competir tienes que asociar con otro, con otro y te va a dar nada. Entonces, ¿de qué manera usted pretende intervenir las diferentes áreas del mercado para promover la competencia sin que efectivamente haya o lleguemos a políticas proteccionistas o está proponiendo eso? Sí. No, yo creo que... No sé, se lo pregunto. Como nuestro país es más pequeño uno tiene que atenerse a su propia realidad y yo más que intervenir lo que creo que hay que hacer es un debate que nos permita tomar algunas normas que existen hasta en los países más capitalistas del mundo pero que protegen un poco a sus pequeños empresarios porque si no es puro discurso no más que todos somos propimes entonces por ejemplo permitirles hacer consorcios para postular a ciertas licitaciones públicas segundo ampliar la parte del mercado de Chile Compra donde hoy día hasta 6 millones de pesos son solo para las pymes ampliar un poquito eso para que tengan más mercado 15, 10, 20 exactamente hacer efectivo el pago a 30 días que yo sé que todos los gobiernos lo han dicho pero vamos a ponerle yo solo les quiero decir que es verdad muchas cosas se han prometido y en campaña se prometen muchas más pero yo tengo una experiencia de algo que costó 10 años sacarlo y hoy hoy día, aunque la gente vote o no vote por mí, les quiero decir que estoy contenta por ustedes, porque a todos les van a subir las pensiones. Así que yo lo dejo ahí nomás, porque creo que la experiencia de gestión puede servir para las nuevas tareas que tenemos. No es fácil esto, como ministra. Ah, ministra, perdón. Janet, Janet, Janet. Candidata, candidra, perdón. Janet, Janet, Janet. Candidata, candidata. Candidata Janet Harris. Vamos por otro tema económico importante. Las cuentas de la luz, que tiene ribetes políticos y tiene ribetes económicos. Y algo, un link con usted que tiene ahí algo que decir respecto de los precios de la luz. Voy a partir por lo más contingente, lo político. Ayer la oposición ha señalado que finalmente va a presentar una acusación constitucional contra el ex ministro de Energía, Diego Pardó, y el gobierno ha dicho, bueno, están en todo su derecho. Pero incluso hay parlamentarios del oficialismo que han apoyado o que dicen que van a considerar esta iniciativa. ¿Usted cree que hay mérito para una acusación constitucional contra Diego Pardo por todo lo que ha ocurrido con las telifas eléctricas? ¿Los errores que ocurrieron? Mire, yo creo que lo que ocurrió es muy grave, partiendo de ahí. O sea, no le resto nada de gravedad, porque más allá de que hoy día el debate se ha puesto en que sería muy poca plata la que se tendría que compensar, ¿no? El punto no es eso. Sí, es la confianza en la ciudadanía y es además el inverso, que cuando a ti te tienen que cobrar eso, aunque sea poca plata, si tú no tienes para pagarlo, te corta la luz nomás. Y eso es una cuestión real. Entonces yo lo encuentro una situación grave. Me preocupa tres cosas. La primera, si los parlamentarios quieren acusar o iniciar esta comisión investigadora o acusar constitucionalmente perdón a Diego Pardó es su decisión es una cosa autónoma yo lo único que veo es que si esto se hace a humed la elección a lo mejor se transforme más en un debate entre nosotros que a la gente no le soluciona en nada el tema de la luz en nada a lo mejor se transforme más en un debate entre nosotros que a la gente no le soluciona en nada el tema de la luz en nada eso lo segundo que veo es que esto no puede volver a pasar porque da espacio para que en vez de fortalecer estas instituciones fiscalizadoras que tienen que hacer bien su pega quedan más desacreditadas y es mucho más complicado. A ver, en el round Luz, Transelec y demás, lo que uno, más allá si prospera o no la acusación, es que si lo supieron hace un año en la administración vigente, eso parece una cosa imprescindible. Por eso yo lo encuentro parece una cosa que uno podría incluso hacerse la pregunta de cuánta gente lo sabía y cuánta gente lo cayó. O sea, yo lo comparto. Sí, además no entiendo muy bien por qué. Sabes, Mariana, que a uno le pasan cosas cuando uno gestiona. No es que a uno le salga todo perfecto. Ocurren decisiones que a veces no era la más acertada o que alguien se equivocó en algo o que hubo un error aquí. Pero uno lo corrige. Ese es el punto. Si aquí nadie es infalible. Y estas decisiones y tareas no son fáciles. Pero para cargos técnicos hay que tener experticia técnica no sólo política y por otro lado hay que construir equipos por eso es tan importante a quien se elija de presidente de chile porque en el fondo las promesas después se las lleva el viento y en un año más yo no quiero que nosotros estemos conversando aquí todavía en un nuevo gobierno sino el que encabezo yo echándole la culpa al gobierno anterior de lo que hizo no hizo y llegué más fin de año sin haber ejecutado el presupuesto porque resulta que a la gente que nombró al ministro no tenía ni idea y nunca había estado en el estado. Yo creo que hay que aprender a asumir cuando uno se equivoca y corregir. Yo también, Estado. Insisto, yo creo que... Yo creo que hay que aprender a asumir cuando uno se equivoca y corregir. Yo también. Ahí coincido con usted y creo que los políticos... Ahora estamos hablando de los políticos de turno, del gobierno de turno, pero podríamos hablar de todos, digamos. Siempre tienen una excusa para todos. Bueno, el gobierno que entra dice esto es culpa del gobierno anterior y todo eso. Pero lo cierto es... Un año. Ahora en este gobierno no se dijo eso. Y sí hubo muchos problemas. Candidata, que dentro del esquema de la luz, usted hablaba recién de que los sueldos mínimos no alcanzan para financiar el mes. Yo también comparto con usted que el mínimo sea 600 mil pesos si es que uno lo llevara a ese nivel. Y que cualquier pieza para arrendar en cualquier parte del país no baja de los 300. O sea, 400 y te quedan 200 y comes y te vistes y te mueves, no da. Y la luz, déjeme decirle, la luz es un valor, digamos, que es súper sustantivo dentro del presupuesto familiar. Entonces, ¿cómo usted plantea y promete que las tarifas eventualmente podrían bajar? Sí. ¿Me entiende? Y le ha puesto un número, 20%. ¿Tiene alguna mirada para eso? Perdón. ¿Tiene usted, digamos, estadística para eso? Sí, claro. Hay un estudio técnico detrás y además hemos conversado con alguna de las eléctricas. Todo esto viene propuesto en el programa antes de que hubiese este error en los reajustes y Transcelec y todo lo que hemos conocido en los últimos días, ¿no? Y viene por lo siguiente, lo que pasa es que, lo que comentaba con anterioridad, Chile tiene una posibilidad importante porque hay mucha energía solar. Y esto ha ido abaratando costos y va a seguir abaratando costos la generación de energía para los próximos años. El problema es que ninguno de esos abaratamientos de costos se traducen a los clientes. ¿Pero cómo trae usted la energía solar del norte? No, si todo ese tema hoy día ya estará haciéndolo las generadoras el tema es trasladarle también esa reducción la carretera que tenemos para traer eso es una carretera antigua con hoyos usted ve la parte anterior claro pero la parte anterior es la que conversábamos cierto de mi sueño para que Chile vuelva a tomar la vía del desarrollo, en mi gobierno esto va a ser mucha infraestructura. Si uno quiere crecer y quiere pegarse un salto, no puede seguir con caminos a medias que han cortado. O con caminos de una pista, o discutiendo todavía si hay un bypass entre la Serena y Coquimbo o no, o pie de monte en Concepción, son cuestiones que nos llevan años. Yo lo que creo es que en esto hay que tener decisión y capacidad de ejecución. Y en las cuentas de la luz, yo les quiero decir, la estimación de la reducción de costos para las industrias eléctricas, para la industria eléctrica, que está la la generadora la transmisora y la distribuidora es de un 40% entonces ¿cómo no le vamos a transferir algo de esa reducción a partir de la introducción de infraestructura? a los clientes ¿a partir de qué? no, del consumo de energía solar hoy día para la generación de energía eléctrica si está instalada en un lugar del país y no lo podemos trasladar al resto la verdad es que ya se traslada José ellos ya se están produciendo la reducción de energía eléctrica. Lo que pasa es que si está instalada en un lugar del país y no lo podemos trasladar al resto, la verdad es que... Ya se traslada, José. Ellos ya se están produciendo la reducción de costos. Si aquí lo que no está pasando es que eso no se está transfiriendo al cliente. Bueno, hay contratos también que... Hay contratos que no vencen. Hay contratos que vencen en los cuatro años y en esos vamos a hacer la licitación con estas condiciones. Déjame un segundo. Nos espera un momentito. Tenemos un consejo comercial y luego seguimos conversando con la candidata Hay contratos que vencen en los cuatro años y en esos vamos a hacer la licitación con esta condición. Deme un segundo, nos espera un momentito, tenemos un consejo comercial y luego seguimos conversando con la candidata Janet Jara aquí en el bichón. Quería llevarla a vivienda, déficit de vivienda, plan y promesa de construcción de vivienda, erradicación de tomas y campamentos. En el programa que nosotros elaboramos, José, viene la construcción de 260.000 viviendas sociales. Nosotros sabemos que el déficit es mayor, pero para poder construir más viviendas se requieren más recursos. Y en este país, cuando se discutió hace poco una reforma tributaria, no hubo mayoría para generar más recursos. Entonces, con los recursos que hay, lo que se puede comprometer para cumplirse seriamente y de frente a la ciudadanía son 260.000 viviendas sociales ¿Qué opinión tiene de la gestión de montes en vivienda? 140.000 habitabilidades de vivienda que es mejoramiento pensando sobre todo en la vivienda de los cerros Valparaíso o el Araucaní en la cordillera que hace tanto frío y las casas necesitan mayor aislación térmica La gestión de montes que a mí me pareció mala pero no sé qué opina usted. Se perdió una plata ahora que no la encuentran, que era una deuda que debía ir con la inmobiliaria. Sí, han habido varias dificultades en el Ministerio y hoy en día son innegables. Yo preferiría no entrar en algún tipo de polémica porque la otra vez el Ministro Montes salió con una tesis bastante extraña y yo... Mire, ¿sabes qué? Prefiero concentrarme en tratar de dar soluciones. ¿Hubo una tensión entre el comando y...? Sí, no, yo entiendo. ¿En realidad hubo una tensión de él con el resto del mundo. Sí, lo que ocurre es que, más allá de la farandulización del tema, si ustedes se caen bien o mal, que da un poco lo mismo, es el estado en el cual usted va a encontrar la cartera. Sí, claro, por lo mismo. Entonces, si se pierde una plata y no sabemos dónde está la plata, digamos, estamos mal. Pero a propósito de eso, ¿usted mantendría el subsidio a la tasa de los créditos hipotecarios? Que a todas luces... Ha resultado bien. Es una de las cosas que se ha hecho bien, que no es solo de Monte, es del Ministerio de Vivienda, la Cámara de Construcción y la Asociación de Bancos. Ayer Harold McNichol dijo, yo si llegara a la moneda lo mantendría. Mira, te puedo contar una iniciativa que tenemos que complementa con el tema del subsidio al pie, ¿no? Y que le hemos llamado Hipotecaso, que es un hipotecario para jóvenes entre 25 y 40 años, porque resulta que hoy día los créditos hipotecarios, Mariana, son altísimos. No, y además algunos hasta 40 años. Entonces yo no quiero que la gente en mi país hasta los 80 años esté pagando dividendos. Y eso es, digamos, bien inusual porque en realidad el día no te prestan, o sea, hay que prácticamente pasar por un escaneo de la NASA. Por lo mismo, entonces la idea es poder focalizar estos hipotecarios en la juventud chilena. Y lo digo porque estas son viviendas que no son sociales, sino que se pagan con deuda con el banco. ¿Y el hipotecaso cuál sería la ayuda? La idea es tener un préstamo, ¿cierto?, que genere, primero, una puerta al pie, que es lo que hoy día está ya como propuesta usando. Ayudaría al pie, ¿ya? Claro, y además condiciones de acceso al crédito que sean más ventajosas. Por tanto, se estima que el dividendo no debiera superar los 300 mil pesos. Estamos hablando de gente que, pudiendo juntar un pie, tiene 300 mil pesos para pagar todos los meses y no se tiene que recurrir a una vivienda social. Pero además, si uno lo ve así en la vuelta de esto, podría a lo mejor contribuir a que tengamos un poquito más de tasa de natalía. Lo del pie es súper importante porque el pie, mientras más chico, es menos requerimiento del sueldo, porque eso deja mucha gente fuera. Es un porcentaje del sueldo. Tiene que ser más o menos el 25% del sueldo. Política de erradicación de toma. Sí, claro. Yo creo que hay que hacer dos cosas sueldo. ¿Política de erradicación de tomas? Sí, claro. ¿Cuál es su mirada al respecto? Yo creo que hay que hacer dos cosas en esta materia. Seguramente hay muchas más cosas que se pueden revisar, pero básicamente hoy día hay dos elementos. ¿Para usted una toma es un problema entre privados o no? No, no es un problema público, claramente. Por más que el dueño del terreno sea un privado, es un problema público. Y los gobernantes no podemos escapar de esa realidad. Porque esa era la mirada de Monta en el inicio del gobierno. ¿Cómo se puede erradicar eso? Lo dijo en una entrevista, lo dijo que fue titular de Mercurio. No, para mí no. Son 1.200 las tomas que tenemos en Chile, un problema grave. ¿Cómo se puede erradicar eso? Y además, cuando hay problemas también de viviendas tan complejos, por ejemplo, aquellos que estaban en Viña y por estos incendios forestales muy dramáticos, con víctimas fatales también, no le han podido resolver ese problema. Entonces, primero, ¿cómo se puede erradicar el tema de las tomas? Porque ya es una realidad, son miles y miles de familias que viven esa realidad. No es llegar, interceptarlo y demoler esas casas, sino también para aquellos que tienen otras necesidades y que lamentablemente, producto, por ejemplo, de incendios forestales creados o no, están ahí viviendo en un campamento. Mira, aquí hay una propuesta que ha hecho Déficit Cero, ligada a Techo, que da varias vías o caminos para poder solucionar esto. Una de ellas, por ejemplo, darle una mayor participación a los comités de vivienda que hay en los campamentos, porque diría el 70% de la gente que está en campamento, no es que esté esperando que le regalen una casa, está organizada en comité de vivienda. En cooperativa. Esto no lo digo yo, lo dice Techo, o sea que una organización de la sociedad civil independiente, los gobiernos. Muchos de ellos dicen, llevo ya 12, 13 años esperando. El tema es que para eso hay que darle una mayor participación en el plan de emergencia habitacional. Yo lamento en este gobierno que no se hayan entregado muchas casas a los comités de bien de los campamentos. Me imagino que tiene mucho que ver con la contingencia, lo que pasó con el caso Fundaciones, con los antofagastas y todo lo demás. Pero la verdad, ahí además en los campamentos hay muchos niños. Entonces no nos puede dar lo mismo, porque estamos generando, yo diría, algo que es muy nocivo para la sociedad chilena, la falta de cohesión social. Yo espero que por el lado del tema de viviendas sociales nosotros podamos llegar más a campamentos. Sé que hay varios campamentos con órdenes de desalojo pendiente y créame que en el caso de San Antonio yo igual entiendo lo que ha dicho Monte. No es cualquier campamento, es mucha gente. Y yo hago un llamado a que el actual gobierno ojalá encuentre pronto una vía de negociación adecuada con los dueños del terreno porque ellos tienen una orden judicial a su favor pero hay más de 10.000 personas ha habido un error de aproximación en su sector en su partido particularmente a las tomas en el relato histórico que ha tenido el Partido Comunista respecto a las tomas que ha sido decir que hay una reivindicación social que efectivamente la toma es un mecanismo de simetría social recuerdo muchos discursos del PC en la década del 70 y antes. Eso le iba a decir, claro. No, por eso, se lo pregunto. ¿Ha cambiado? Mire, yo lo que le puedo decir es que yo entiendo que todas las familias debieran tener su techo. El problema es que no estamos dando abasto como Estado. Y la solución no es ni la toma ni cerrar los ojos a esta realidad, sino que hay que hacerse cargo con una buena gestión pública. Y yo quiero contarles que en las reuniones que he hecho con las cámaras de Chile en la construcción en regiones y a nivel nacional, hay capacidad para construir más viviendas. El problema es que eso requiere más recursos. Se lo pregunto abiertamente y directamente a Yanet porque mucha gente nos puede estar viendo hasta ahora y decir......básicamente el Partido Comunista siempre ha, históricamente en Chile, jugado un jaque hacia la toma, digamos. Entonces, ¿por qué le voy a creer a la candidata que viene de ese sector? Entonces, yo se lo pregunto abiertamente para que usted lo aclare. Aquí hay un cambio de posición, hay mayor pragmatismo político, usted se sacude de la historia de hace 40 años del Partido Comunista y ahora dice, mira, la verdad que no podemos seguir sosteniendo pilares de la década del 60. O sea, varias cosas. Ya, no, por eso le tiro la pelota. La primera es que muchos hablan desde la teoría. Ya. Yo, como viví, buena parte me vi a llegar y algún corto tiempo en campamento, sé lo difícil que es vivir ahí. Y no lo digo para victimizarme como algunos tratan de instalarlo, sino que lo digo porque soy una luchadora. Y quiero que así como yo he salido adelante, los chilenos y chilenos también salgan adelante. Lo segundo, respecto a las posiciones políticas, a mi entender, a la gente le cuesta mucho tener sus cositas a nadie le regalan nada, sobre todo a la gente de mayor esfuerzo, y yo espero que la gente que está haciendo su esfuerzo y en comités de allegado y tratando de postular a una vivienda, darle respuesta y lo tercero, respecto a lo que pasaba en la década del 70, déjenme decirle que aunque tenga hartas canas, al 70 todavía no nacía, al 74 sí, pero bueno, yo entiendo el registro histórico, pero no me, mire, uno, perdón, disculpe, pero yo voy a ser presidenta de los chilenos si así me eligen del 2026 y el 2026. Yo entiendo que uno podría entrar en el espacio si saben que el país ha cambiado, las ideologías estrictas ya no sirven. Yo lo que creo es que la vivienda es un derecho de las personas. El punto es que nosotros no somos capaces de dar abasto para proveer esa demanda. ¿Cómo va a dar abasto cuando hay personas que llevan 12, 13 años esperando? El punto es que además solamente... Claro, ¿cómo lo va a resolver? ¿Cómo este derecho lo pasa por el sobre del derecho de otro? No, es que eso es lo que no puede pasar. No, yo ahí no estoy de acuerdo para nada. O sea, nosotros no podemos en el país, digo Maya, el PC, porque yo no sé cómo hacer el PC, yo soy candidata a la presidencia de la centroizquierda chilena. No podemos, yo no creo que mi derecho sea más importante que el tuyo, ¿me entiendes? O sea, una cosa mínima de convivencia. Ahora, quiero decir algo, que nosotros siempre pensamos en el país que queremos más derechos sociales, pero más derechos sociales requieren financiamiento. Bueno, por supuesto. Es que no, lo digo porque resulta que, por un lado, se dice que vamos a fortalecer las policías, pero que vamos a disminuirle los impuestos a las empresas más grandes, que es lo que está diciendo el candidato de la ultraderecha. Entonces es complicado, porque cuando dice que va a disminuirle los impuestos a las empresas más grandes, que es lo que está diciendo el candidato de la ultraderecha. Entonces es complicado, porque cuando dice que va a disminuir 6 mil millones de dólares y 21 mil en su gobierno, solo para tener una dimensión, 6 mil millones de dólares, la PGU son 6 mil 900 millones de dólares al año. Entonces estamos hablando de 2 millones 400 mil personas que quedarían sin un año de financiamiento en la PGU. No, él dice que va a financiar por otra vía. Eso es lo que él dice. Mira, no sé. Yo, la subvención escolar, mala alimentación, o sea, el aporte que se hace en los colegios subvencionados más la alimentación de 1.800.000 niños son 5.400 millones de dólares. Entonces, no son números, son personas. La gratuidad escolar son 650.000 estudiantes y son 2.700 millones de dólares. Entonces, con estos términos no se trata solo de prometer, se trata de hacer cosas que le hagan bien a Chile, no que la perjudiquen. Muchas gracias, Yanet. Muchas gracias, Yanet. Y trabajo en el tiempo, también de candidata, ¿no? No, está bien. Muchas gracias. Salud, educación. Bien, ¿no? Está bien. Vino con público. El pueblo soberano, que puede expresar libremente. Vino con público el pueblo soberano que puede expresar libremente vino con público solamente los quiero invitar a sintonizar el día de hoy a las siete y media de la tarde el candidato estará con nosotros el candidato al partido de la gente Franco Parisi Janet ya estuvo hace algunos capítulos atrás mis saludos para Franco que le vaya muy bien no tan bien enos para Franco, que le vaya muy bien. No tan bien en todo caso. No sé si le vaya muy bien, pero no tan bien. Está muy bien, muchas gracias. Buen punto, buen punto, para que vea que no ando pensando con la maldad.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Invitado político a esta hora, son las 11.13, Gringa."
+    },
+    {
+      "start": 5.4,
+      "end": 9.32,
+      "text": "Sí, estamos con la candidata presidencial del Pacto Unidad por Chile, Janet Jara,"
+    },
+    {
+      "start": 9.38,
+      "end": 15.48,
+      "text": "en este espacio que hemos abierto aquí en mucho gusto para conversar con los distintos candidatos a la presidencia."
+    },
+    {
+      "start": 15.58,
+      "end": 18.86,
+      "text": "Junto a ella está nuestro editor de Economía, Roberto Sá."
+    },
+    {
+      "start": 19.18,
+      "end": 26.12,
+      "text": "Y preguntarle inmediatamente, candidata, estamos viendo nuevamente un acto muy complejo"
+    },
+    {
+      "start": 26.12,
+      "end": 31.76,
+      "text": "donde se habla de un crimen organizado, la desaparición ya de 18 días de una niña."
+    },
+    {
+      "start": 31.86,
+      "end": 32.22,
+      "text": "Así es."
+    },
+    {
+      "start": 34.04,
+      "end": 36.7,
+      "text": "Bueno, ahora tiene 19 años, pero está dentro de este"
+    },
+    {
+      "start": 36.7,
+      "end": 42.8,
+      "text": "flagelo desde que es menor de edad y también con otra situación delictual muy compleja"
+    },
+    {
+      "start": 42.8,
+      "end": 47.56,
+      "text": "que ha golpeado a todo nuestro país, que tiene que ver con la detención de estos dos"
+    },
+    {
+      "start": 47.56,
+      "end": 50.74,
+      "text": "delincuentes que debido debido a esa fuga,"
+    },
+    {
+      "start": 51.24,
+      "end": 58.54,
+      "text": "provocan un accidente a un furgón escolar y, lamentablemente, sobre todo la comunidad en Recoleta"
+    },
+    {
+      "start": 58.54,
+      "end": 62.86,
+      "text": "está consternada por el fallecimiento de un niño de sólo 12 años de edad y su familia."
+    },
+    {
+      "start": 62.86,
+      "end": 67.44,
+      "text": "Entonces, en esa materia, usted como candidata y que ha recorrido el país,"
+    },
+    {
+      "start": 67.82,
+      "end": 73.46,
+      "text": "dentro de las principales demandas de los chilenos es seguridad, seguridad y seguridad."
+    },
+    {
+      "start": 73.7,
+      "end": 76.12,
+      "text": "Yo sigo enfática en ese sentido."
+    },
+    {
+      "start": 76.58,
+      "end": 88.8,
+      "text": "Y quisiéramos saber, no solo su apreciación de lo que está ocurriendo actualmente con estos hechos delictuales que golpean a nuestro país, sino cuáles son su programa de gobierno frente a este tema."
+    },
+    {
+      "start": 88.94,
+      "end": 105.22,
+      "text": "¿Cómo enfrentar estas bandas de criminales? Aquí vemos cómo están los menores de edad implicados y también víctimas, víctimas de todo esto porque hay ausencia, se ha notado la ausencia del Estado en algunos de estos flagelos."
+    },
+    {
+      "start": 105.6,
+      "end": 110.74,
+      "text": "Sí, bien terrible toda la situación que describe usted, Mariani, y que sin duda ha golpeado a todo el país."
+    },
+    {
+      "start": 111.2,
+      "end": 118.48,
+      "text": "Yo creo que acompañar el dolor a la familia de Esteban es algo que todos los chilenos y chilenas hoy día estamos haciendo, ¿no?"
+    },
+    {
+      "start": 118.48,
+      "end": 123.12,
+      "text": "Sabemos lo doloroso que es una pérdida de esa naturaleza y en esta circunstancia, además, terrible."
+    },
+    {
+      "start": 123.88,
+      "end": 130.46,
+      "text": "Quisiera señalar que nosotros hemos tenido el flagelo del narcotráfico y el avance del"
+    },
+    {
+      "start": 130.46,
+      "end": 134.6,
+      "text": "crimen organizado en una sociedad en la cual hemos avanzado en bastantes legislaciones,"
+    },
+    {
+      "start": 134.8,
+      "end": 139.86,
+      "text": "pero de alguna u otra forma vemos que a la hora de la comisión de los delitos vemos"
+    },
+    {
+      "start": 139.86,
+      "end": 140.32,
+      "text": "situaciones horrorosas, digamos. Le sumaría de la comisión de los delitos, vemos situaciones"
+    },
+    {
+      "start": 140.32,
+      "end": 145.26,
+      "text": "horrorosas, digamos. Le sumaría a lo que usted estaba comentando recién, el descubrimiento"
+    },
+    {
+      "start": 145.26,
+      "end": 149.74,
+      "text": "del búnker en Antofagasta hace... ayer, me parece, hoy día mismo, ¿no? Y la detención"
+    },
+    {
+      "start": 149.74,
+      "end": 156.26,
+      "text": "de estos seis delincuentes. Y creo que en nuestro programa de gobierno hay mucha coincidencia entre todos"
+    },
+    {
+      "start": 156.26,
+      "end": 161.06,
+      "text": "los candidatos. Yo quiero partir de ahí porque en mi recorrido por Chile, en la gira nacional"
+    },
+    {
+      "start": 161.06,
+      "end": 166.8,
+      "text": "que realicé, me quedó absolutamente claro la necesidad en nuestro país de poder hacernos"
+    },
+    {
+      "start": 166.8,
+      "end": 171.08,
+      "text": "cargo de los temas de seguridad pública. Yo no lo veo como un tema de derecha o de izquierda,"
+    },
+    {
+      "start": 171.18,
+      "end": 174.6,
+      "text": "sino que creo que todas las personas tienen derecho a dormir tranquila y vivir tranquila."
+    },
+    {
+      "start": 174.96,
+      "end": 176.66,
+      "text": "¿No hay una alergia de la izquierda?"
+    },
+    {
+      "start": 176.98,
+      "end": 178.74,
+      "text": "Mire, por lo menos de mi parte ninguna,"
+    },
+    {
+      "start": 178.94,
+      "end": 183.34,
+      "text": "porque yo tengo claro lo que significa cuando un joven cae en el narcotráfico"
+    },
+    {
+      "start": 183.34,
+      "end": 185.38,
+      "text": "y no se cuenta con ningún recurso para sacarlo adelante."
+    },
+    {
+      "start": 185.62,
+      "end": 187.52,
+      "text": "Sobre todo en las poblaciones más vulnerables del país."
+    },
+    {
+      "start": 187.72,
+      "end": 191.08,
+      "text": "Así que aquí no solo no hay ninguna alergia, sino que por el contrario,"
+    },
+    {
+      "start": 191.4,
+      "end": 193.9,
+      "text": "tengo la suerte de tener experiencia y conocer cómo funciona el Estado,"
+    },
+    {
+      "start": 194.14,
+      "end": 195.68,
+      "text": "capaz que pueda ayudar un poquito más en eso."
+    },
+    {
+      "start": 195.7,
+      "end": 199.16,
+      "text": "Ahora, Janet, los muchachos, los delincuentes que iban arrancando,"
+    },
+    {
+      "start": 199.32,
+      "end": 205.62,
+      "text": "chocan el furgón, matan a un niñito de 12 años, ellos ya tenían un prontuario largo, grande."
+    },
+    {
+      "start": 206.18,
+      "end": 212.0,
+      "text": "Entonces, algunos dicen, ellos debían haber estado en la cárcel, las cárceles están llenas, están sobrepobladas."
+    },
+    {
+      "start": 213.6,
+      "end": 219.18,
+      "text": "Otros dicen, esto debería haber penas más fuertes y otros dicen, eso es populismo penal."
+    },
+    {
+      "start": 220.44,
+      "end": 230.66,
+      "text": "¿Cómo lograr el equilibrio para que ellos efectivamente no estén robando cuando ya tienen 10 robos, 10 asaltos, que se yo, uso de armas."
+    },
+    {
+      "start": 231.26,
+      "end": 232.76,
+      "text": "Pero además tenemos problemas en las cárceles."
+    },
+    {
+      "start": 232.86,
+      "end": 236.26,
+      "text": "¿Cómo lograr el equilibrio? ¿Cómo ve su programa de gobierno ese tema?"
+    },
+    {
+      "start": 236.56,
+      "end": 244.1,
+      "text": "Mira, yo creo primero que en esto hay que tomar acciones que son de múltiples iniciativas."
+    },
+    {
+      "start": 244.2,
+      "end": 245.04,
+      "text": "Y aquí cuatro cosas."
+    },
+    {
+      "start": 245.58,
+      "end": 247.82,
+      "text": "Primero, evidentemente, se necesitan más cárceles"
+    },
+    {
+      "start": 247.82,
+      "end": 250.88,
+      "text": "y eso lo va a hacer mi gobierno o el gobierno que venga"
+    },
+    {
+      "start": 250.88,
+      "end": 251.8,
+      "text": "porque es una necesidad."
+    },
+    {
+      "start": 251.94,
+      "end": 254.34,
+      "text": "Está el 142% de las cárceles sobrepobladas."
+    },
+    {
+      "start": 254.36,
+      "end": 255.88,
+      "text": "¿Usted contempla la construcción de más cárceles?"
+    },
+    {
+      "start": 255.98,
+      "end": 257.6,
+      "text": "Sí, claro. Pero además, de cinco cárceles más,"
+    },
+    {
+      "start": 257.74,
+      "end": 261.12,
+      "text": "pero además ya hay en ejecución un proyecto de infraestructura carcelaria, un"
+    },
+    {
+      "start": 261.12,
+      "end": 263.22,
+      "text": "plan maestro. Lo segundo es que"
+    },
+    {
+      "start": 263.22,
+      "end": 265.18,
+      "text": "algo en lo que seguramente todos"
+    },
+    {
+      "start": 265.18,
+      "end": 265.96,
+      "text": "estamos de acuerdo, hay que"
+    },
+    {
+      "start": 265.96,
+      "end": 267.06,
+      "text": "fortalecer las policías,"
+    },
+    {
+      "start": 267.16,
+      "end": 268.34,
+      "text": "investigaciones carabineros,"
+    },
+    {
+      "start": 268.84,
+      "end": 269.72,
+      "text": "entregar herramientas de"
+    },
+    {
+      "start": 269.72,
+      "end": 271.36,
+      "text": "inteligencia policial. Lo"
+    },
+    {
+      "start": 271.36,
+      "end": 272.62,
+      "text": "tercero, hay que fortalecer el"
+    },
+    {
+      "start": 272.62,
+      "end": 274.36,
+      "text": "ámbito preventivo, porque las"
+    },
+    {
+      "start": 274.36,
+      "end": 275.16,
+      "text": "comunidades donde la gente está organizada, es más difícil quecer el ámbito preventivo, porque las comunidades donde"
+    },
+    {
+      "start": 275.16,
+      "end": 280.02,
+      "text": "la gente está organizada es más difícil que entre el crimen organizado. Y a propósito del caso que"
+    },
+    {
+      "start": 280.02,
+      "end": 285.36,
+      "text": "estábamos viendo recién, ¿cierto?, de esta Krishna, de esta chica que hoy día tiene 19 años, pero la"
+    },
+    {
+      "start": 285.36,
+      "end": 289.56,
+      "text": "verdad es lo que usted señalaba, Marían, ella fue capturada por el narco cuando era menor de edad."
+    },
+    {
+      "start": 290.16,
+      "end": 293.1,
+      "text": "Y así estamos viendo que muchas jóvenes, muchas niñas,"
+    },
+    {
+      "start": 293.6,
+      "end": 296.46,
+      "text": "están entrando en esta situación, fenómeno que antes no se veía."
+    },
+    {
+      "start": 297.58,
+      "end": 301.86,
+      "text": "Y lo cuarto, diría yo, es en lo que sí tenemos diferencia entre los candidatos,"
+    },
+    {
+      "start": 302.46,
+      "end": 304.76,
+      "text": "es en tratar de atacar la causa, a mi entender,"
+    },
+    {
+      "start": 305.46,
+      "end": 306.5,
+      "text": "de la razón de por qué el crimen"
+    },
+    {
+      "start": 306.5,
+      "end": 307.68,
+      "text": "organizado se ha instalado en"
+    },
+    {
+      "start": 307.68,
+      "end": 309.72,
+      "text": "Chile y tiene que ver con el rol"
+    },
+    {
+      "start": 309.72,
+      "end": 311.5,
+      "text": "que le asignan a Chile dentro de"
+    },
+    {
+      "start": 311.5,
+      "end": 313.68,
+      "text": "su matriz de negocio ilegal en el"
+    },
+    {
+      "start": 313.68,
+      "end": 315.06,
+      "text": "continente, digamos, porque hacen"
+    },
+    {
+      "start": 315.06,
+      "end": 316.16,
+      "text": "distintas cosas en distintos"
+    },
+    {
+      "start": 316.16,
+      "end": 318.08,
+      "text": "países. Este nuevo fenómeno solo"
+    },
+    {
+      "start": 318.08,
+      "end": 320.32,
+      "text": "chileno, es transnacional y acá"
+    },
+    {
+      "start": 320.32,
+      "end": 322.16,
+      "text": "de acuerdo a los estudios"
+    },
+    {
+      "start": 322.16,
+      "end": 322.74,
+      "text": "y los análisis"
+    },
+    {
+      "start": 322.74,
+      "end": 323.3,
+      "text": "que se han hecho"
+    },
+    {
+      "start": 323.3,
+      "end": 324.0,
+      "text": "hay dos cosas"
+    },
+    {
+      "start": 324.0,
+      "end": 324.74,
+      "text": "a las que han venido"
+    },
+    {
+      "start": 324.74,
+      "end": 325.84,
+      "text": "en primer lugar"
+    },
+    {
+      "start": 325.84,
+      "end": 326.86,
+      "text": "vienen porque"
+    },
+    {
+      "start": 326.86,
+      "end": 327.54,
+      "text": "nuestras normas"
+    },
+    {
+      "start": 327.54,
+      "end": 328.74,
+      "text": "sobre análisis financiero"
+    },
+    {
+      "start": 328.74,
+      "end": 329.8,
+      "text": "tienen un secreto"
+    },
+    {
+      "start": 329.8,
+      "end": 330.72,
+      "text": "bancario potente"
+    },
+    {
+      "start": 330.72,
+      "end": 331.52,
+      "text": "tenemos una unidad"
+    },
+    {
+      "start": 331.52,
+      "end": 332.44,
+      "text": "de análisis financiero"
+    },
+    {
+      "start": 332.44,
+      "end": 332.92,
+      "text": "pequeña"
+    },
+    {
+      "start": 332.92,
+      "end": 334.4,
+      "text": "en cual no tenemos"
+    },
+    {
+      "start": 334.4,
+      "end": 336.3,
+      "text": "acuerdo político para poder levantarlo,"
+    },
+    {
+      "start": 336.46,
+      "end": 339.16,
+      "text": "aun cuando la misma fiscalía ha señalado que es necesario hacerlo."
+    },
+    {
+      "start": 339.76,
+      "end": 342.48,
+      "text": "Entonces viene por un tema lavado activo y blanqueo de dinero,"
+    },
+    {
+      "start": 342.78,
+      "end": 344.84,
+      "text": "seguir la ruta del dinero sucio en esto es fundamental."
+    },
+    {
+      "start": 344.88,
+      "end": 348.0,
+      "text": "Por lo tanto, es fácil delinquir a Canchile por esas razones."
+    },
+    {
+      "start": 348.0,
+      "end": 353.42,
+      "text": "Hay ciertos espacios que se dan a efectos de que pueden efectivamente mover dineros entre cuentas,"
+    },
+    {
+      "start": 353.52,
+      "end": 359.32,
+      "text": "porque a todo esto, hasta hace poco atrás, primaba la teoría de que el narco tenía la plata guardada bajo la almohada."
+    },
+    {
+      "start": 360.08,
+      "end": 362.58,
+      "text": "Y ahora, no, es que esto ya se comprobó, que no es así."
+    },
+    {
+      "start": 362.7,
+      "end": 364.32,
+      "text": "Si el Ministerio Público destrabó la célula financiera..."
+    },
+    {
+      "start": 364.32,
+      "end": 367.46,
+      "text": "Sacaron no sé cuántos millones de dólares en una facción del 30 de agosto."
+    },
+    {
+      "start": 367.54,
+      "end": 367.84,
+      "text": "Sí, hola."
+    },
+    {
+      "start": 368.02,
+      "end": 376.92,
+      "text": "Me cuesta creer, sí, que nuestro mercado de capitales sea más flexible o más vulnerable que el resto de América Latina."
+    },
+    {
+      "start": 376.92,
+      "end": 384.2,
+      "text": "No tiendo a pensar que el mercado de capitales boliviano, argentino o paraguayo sea más serio que el nuestro."
+    },
+    {
+      "start": 384.56,
+      "end": 386.26,
+      "text": "No, el nuestro está más regulado, más rígido."
+    },
+    {
+      "start": 386.4,
+      "end": 395.04,
+      "text": "Cuando usted dice, bueno, en realidad vienen acá porque aquí es más fácil el lavado activo, puede ser, pero no creo que sea más fácil que en otro país de América Latina"
+    },
+    {
+      "start": 395.04,
+      "end": 395.82,
+      "text": "yo creo que"
+    },
+    {
+      "start": 395.82,
+      "end": 397.04,
+      "text": "más que la comparación"
+    },
+    {
+      "start": 397.04,
+      "end": 397.52,
+      "text": "hola José"
+    },
+    {
+      "start": 397.52,
+      "end": 398.92,
+      "text": "lo que tenemos que hacer"
+    },
+    {
+      "start": 398.92,
+      "end": 399.58,
+      "text": "es cómo vamos"
+    },
+    {
+      "start": 399.58,
+      "end": 400.24,
+      "text": "a decididamente"
+    },
+    {
+      "start": 400.24,
+      "end": 400.94,
+      "text": "atacar esto"
+    },
+    {
+      "start": 400.94,
+      "end": 401.72,
+      "text": "y no es lo único"
+    },
+    {
+      "start": 401.72,
+      "end": 402.14,
+      "text": "que viene"
+    },
+    {
+      "start": 402.14,
+      "end": 403.02,
+      "text": "nosotros también"
+    },
+    {
+      "start": 403.02,
+      "end": 404.42,
+      "text": "tenemos una costa grande"
+    },
+    {
+      "start": 404.42,
+      "end": 405.64,
+      "text": "que permite"
+    },
+    {
+      "start": 405.64,
+      "end": 407.06,
+      "text": "un acceso al océano"
+    },
+    {
+      "start": 407.06,
+      "end": 407.78,
+      "text": "pacífico"
+    },
+    {
+      "start": 407.78,
+      "end": 408.22,
+      "text": "en Ecuador"
+    },
+    {
+      "start": 408.22,
+      "end": 409.16,
+      "text": "también ocurre lo mismo"
+    },
+    {
+      "start": 409.16,
+      "end": 409.9,
+      "text": "y hay harta mafia"
+    },
+    {
+      "start": 409.9,
+      "end": 411.24,
+      "text": "allá también lamentablemente."
+    },
+    {
+      "start": 411.8,
+      "end": 415.72,
+      "text": "Y por el lado del Atlántico está fusionando la mafia albanesa que viene desde África."
+    },
+    {
+      "start": 416.04,
+      "end": 417.4,
+      "text": "Entonces están buscando vías."
+    },
+    {
+      "start": 417.88,
+      "end": 424.02,
+      "text": "Entonces nosotros tenemos que subirle el costo de venir a hacer aquí comercio ilegal y delito."
+    },
+    {
+      "start": 424.46,
+      "end": 425.86,
+      "text": "Y por eso yo creo que hay que usar aquí..."
+    },
+    {
+      "start": 425.86,
+      "end": 428.0,
+      "text": "...hay que poner toda la carne en la parrilla, en buen chileno."
+    },
+    {
+      "start": 428.2,
+      "end": 431.06,
+      "text": "Por eso no entiendo por qué se oponen a levantar el secreto bancario..."
+    },
+    {
+      "start": 431.06,
+      "end": 433.02,
+      "text": "...y yo les quiero decir a las personas que estén en su casa..."
+    },
+    {
+      "start": 433.02,
+      "end": 435.88,
+      "text": "...esto no es para revisarles sus cuentas RUT, o sea, sinceramente."
+    },
+    {
+      "start": 436.08,
+      "end": 437.74,
+      "text": "Ni para ver lo que compran en el supermercado."
+    },
+    {
+      "start": 437.76,
+      "end": 443.0,
+      "text": "Nada de eso. Esto es para los que estamos en política... que evidentemente me parece una cosa mínima de transparencia,"
+    },
+    {
+      "start": 444.26,
+      "end": 446.3,
+      "text": "porque tomamos decisiones relevantes."
+    },
+    {
+      "start": 446.78,
+      "end": 450.72,
+      "text": "Entonces, el narco también lo que hace es permear las instituciones, y eso es lo que han hecho los otros países."
+    },
+    {
+      "start": 451.26,
+      "end": 454.0,
+      "text": "Entonces, ¿por qué nosotros debiéramos tener nuestras cuentas cerradas si tenemos puestos tan claros?"
+    },
+    {
+      "start": 454.0,
+      "end": 454.84,
+      "text": "Yo también creo lo mismo."
+    },
+    {
+      "start": 456.78,
+      "end": 459.36,
+      "text": "Y solo pasa por el secreto de la banca. Empresas públicas, no, yo creo que hay que fortalecer la unidad de"
+    },
+    {
+      "start": 459.36,
+      "end": 462.62,
+      "text": "análisis financiero. Que es una unidad, la UAF, depende del"
+    },
+    {
+      "start": 462.62,
+      "end": 464.76,
+      "text": "Ministerio de Hacienda. Ahora. Tiene ochenta y tres"
+    },
+    {
+      "start": 464.76,
+      "end": 467.68,
+      "text": "funcionarios y solo el dato nomás. Sí. En el sesenta por"
+    },
+    {
+      "start": 467.68,
+      "end": 471.84,
+      "text": "ciento de las causas ha entregado antecedentes que han servido para condenar a los delincuentes."
+    },
+    {
+      "start": 471.92,
+      "end": 480.28,
+      "text": "Ahora, ¿ese modelo cómo está financiado? Porque cualquier avance estructural e integral del sistema requiere plata."
+    },
+    {
+      "start": 480.56,
+      "end": 483.78,
+      "text": "El gobierno no está dejando glosa de libre disposición."
+    },
+    {
+      "start": 484.48,
+      "end": 489.64,
+      "text": "Todavía estamos en la tramitación de la ley de presupuestos que debería cerrarse el próximo mes, ¿verdad?"
+    },
+    {
+      "start": 490.0,
+      "end": 495.82,
+      "text": "Entonces, desde su óptica, en un eventual gobierno suyo, ¿cómo va a financiar toda esta operación?"
+    },
+    {
+      "start": 496.08,
+      "end": 497.74,
+      "text": "¿Cuánto vale y de dónde sale?"
+    },
+    {
+      "start": 498.34,
+      "end": 500.92,
+      "text": "Ya que nos hemos preguntado tanto por las platas"
+    },
+    {
+      "start": 500.92,
+      "end": 501.46,
+      "text": "y los millones"
+    },
+    {
+      "start": 501.46,
+      "end": 502.0,
+      "text": "y los cero"
+    },
+    {
+      "start": 502.0,
+      "end": 502.88,
+      "text": "y los seis mil millones"
+    },
+    {
+      "start": 502.88,
+      "end": 504.14,
+      "text": "y los quince mil y tal"
+    },
+    {
+      "start": 504.14,
+      "end": 504.42,
+      "text": "bueno"
+    },
+    {
+      "start": 504.42,
+      "end": 506.12,
+      "text": "y ahora van en veintiún mil millones"
+    },
+    {
+      "start": 506.12,
+      "end": 506.96,
+      "text": "déjeme decirlo"
+    },
+    {
+      "start": 506.96,
+      "end": 508.56,
+      "text": "y que podría producir"
+    },
+    {
+      "start": 508.56,
+      "end": 509.66,
+      "text": "una recesión económica"
+    },
+    {
+      "start": 509.66,
+      "end": 510.12,
+      "text": "así que ojo"
+    },
+    {
+      "start": 510.12,
+      "end": 510.88,
+      "text": "ahí seguramente"
+    },
+    {
+      "start": 510.88,
+      "end": 511.68,
+      "text": "podemos hablar"
+    },
+    {
+      "start": 511.68,
+      "end": 512.46,
+      "text": "de la economía"
+    },
+    {
+      "start": 512.46,
+      "end": 513.78,
+      "text": "pero vamos"
+    },
+    {
+      "start": 513.78,
+      "end": 519.48,
+      "text": "a ir con eso le quiero decir precisamente que yo no voy a hacer ningún ofertón de reducción de ingresos"
+    },
+    {
+      "start": 519.48,
+      "end": 523.06,
+      "text": "porque creo que eso es, en este momento, demasiado crítico para el país."
+    },
+    {
+      "start": 523.28,
+      "end": 528.08,
+      "text": "Lo que sí voy a hacer, por ejemplo, los 6 mil millones, reducción de gastos, perdón,"
+    },
+    {
+      "start": 528.16,
+      "end": 532.22,
+      "text": "los 6 mil millones que después eran 15 mil, ahora son 21 mil millones de dólares."
+    },
+    {
+      "start": 532.22,
+      "end": 536.94,
+      "text": "¿No va a prometer que el Estado va a reducir gastos porque no se puede?"
+    },
+    {
+      "start": 536.94,
+      "end": 539.34,
+      "text": "Lo que hay que hacer es optimizar el gasto, que es distinto."
+    },
+    {
+      "start": 539.58,
+      "end": 546.62,
+      "text": "Y el 1% del PIB, que son 3.500 millones de dólares, yo los voy a destinar a cumplir los objetivos del programa de gobierno que he comprometido."
+    },
+    {
+      "start": 547.3,
+      "end": 553.4,
+      "text": "De eso una parte va a ir a seguridad, una parte va a ir a vivienda, que es necesario porque tenemos un gran déficit habitacional,"
+    },
+    {
+      "start": 553.98,
+      "end": 559.0,
+      "text": "una parte importante va a ir a economía y otra parte va a ir a salud pública, que es donde tenemos un gran problema."
+    },
+    {
+      "start": 559.0,
+      "end": 561.18,
+      "text": "¿Cuánto vale su ítem seguridad? Sí, cero coma dos"
+    },
+    {
+      "start": 561.18,
+      "end": 562.5,
+      "text": "por ciento del PIB. Y va a"
+    },
+    {
+      "start": 562.5,
+      "end": 563.4,
+      "text": "alrededor de setecientos"
+    },
+    {
+      "start": 563.4,
+      "end": 564.9,
+      "text": "millones de dólares anuales."
+    },
+    {
+      "start": 565.04,
+      "end": 566.62,
+      "text": "Va principalmente a ampliación"
+    },
+    {
+      "start": 566.62,
+      "end": 568.02,
+      "text": "de dotación de PDI de"
+    },
+    {
+      "start": 568.02,
+      "end": 569.96,
+      "text": "carabineros. Ya. Y suma de"
+    },
+    {
+      "start": 569.96,
+      "end": 571.98,
+      "text": "inteligencia policial, software"
+    },
+    {
+      "start": 571.98,
+      "end": 573.72,
+      "text": "y distintos mecanismos de"
+    },
+    {
+      "start": 573.72,
+      "end": 575.14,
+      "text": "seguimiento para efectos también"
+    },
+    {
+      "start": 575.14,
+      "end": 577.98,
+      "text": "de fortalecer el control fronterizo, que es otro de los problemas que tenemos."
+    },
+    {
+      "start": 578.2,
+      "end": 584.18,
+      "text": "Ahora, Janet, todo eso está muy ligado también al grave problema que estamos teniendo con"
+    },
+    {
+      "start": 584.18,
+      "end": 590.32,
+      "text": "la migración. Ayer estuvo acá Harold McNichol y él proponía una suerte de minas antipersonales,"
+    },
+    {
+      "start": 590.42,
+      "end": 595.68,
+      "text": "pero que no explotan, sino que detectarían a quien pasa por ahí y le avisaría un dron"
+    },
+    {
+      "start": 595.68,
+      "end": 600.94,
+      "text": "para ver cuando están pasando a las 4 de la mañana por colchanes, venezolanos, colombianos, qué sé yo."
+    },
+    {
+      "start": 602.34,
+      "end": 606.74,
+      "text": "¿Qué plantea usted para enfrentar esta situación que también"
+    },
+    {
+      "start": 606.74,
+      "end": 612.32,
+      "text": "ha generado un efecto desde el punto de vista policial con delincuentes que están entrando?"
+    },
+    {
+      "start": 612.46,
+      "end": 615.62,
+      "text": "No todos, obviamente, no quiero hacer la caricatura, pero hay un tema ahí con eso."
+    },
+    {
+      "start": 615.9,
+      "end": 623.66,
+      "text": "Sí. O sea, nosotros tenemos una geografía que en el norte de Chile genera espacio para tener más de 100 pasos fronterizos irregulares."
+    },
+    {
+      "start": 624.2,
+      "end": 629.16,
+      "text": "Entonces, cuando algunos dicen, vamos a cerrar esto, yo no sé de qué manera podrían cerrarlo,"
+    },
+    {
+      "start": 629.26,
+      "end": 633.12,
+      "text": "a no ser que esto fuera una bolsa que, como esas bolsas Ziploc, que uno las cerrara así, ¿no?"
+    },
+    {
+      "start": 633.44,
+      "end": 635.72,
+      "text": "Y si fuera tan fácil, me imagino que ya distintos gobiernos"
+    },
+    {
+      "start": 635.72,
+      "end": 636.24,
+      "text": "lo habrían hecho"
+    },
+    {
+      "start": 636.24,
+      "end": 636.98,
+      "text": "todos los que hemos estado"
+    },
+    {
+      "start": 636.98,
+      "end": 637.58,
+      "text": "en Colchane"
+    },
+    {
+      "start": 637.58,
+      "end": 639.14,
+      "text": "sabemos que eso es imposible"
+    },
+    {
+      "start": 639.14,
+      "end": 640.74,
+      "text": "porque es enorme"
+    },
+    {
+      "start": 640.74,
+      "end": 641.26,
+      "text": "de hecho"
+    },
+    {
+      "start": 641.26,
+      "end": 642.52,
+      "text": "los que conocemos el norte"
+    },
+    {
+      "start": 642.52,
+      "end": 643.56,
+      "text": "sabemos que es imposible"
+    },
+    {
+      "start": 643.56,
+      "end": 644.62,
+      "text": "pero como se puede"
+    },
+    {
+      "start": 644.62,
+      "end": 645.3,
+      "text": "estrenar"
+    },
+    {
+      "start": 645.3,
+      "end": 646.12,
+      "text": "esa migración"
+    },
+    {
+      "start": 646.12,
+      "end": 647.08,
+      "text": "ilegal"
+    },
+    {
+      "start": 647.08,
+      "end": 647.72,
+      "text": "que es de cientos"
+    },
+    {
+      "start": 647.72,
+      "end": 648.58,
+      "text": "de personas diariamente"
+    },
+    {
+      "start": 648.58,
+      "end": 656.0,
+      "text": "y donde lamentablemente parte esa inmigración ilegal son delincuentes que vienen de otros países latinoamericanos."
+    },
+    {
+      "start": 656.0,
+      "end": 665.08,
+      "text": "Porque yo creo que esto no hay que generalizar para nada, pero evidentemente aquí la penetración del crimen también ha estado muy ligada a, en particular, migración venezolana"
+    },
+    {
+      "start": 665.08,
+      "end": 669.26,
+      "text": "y eso también es verdad, gente del tren de Aragua. Lo que creo que podemos hacer es lo que se ha hecho"
+    },
+    {
+      "start": 669.26,
+      "end": 674.12,
+      "text": "en otros países y que aquí se pueden caminar de buena manera. Por ejemplo, en Carabineros fortalecer"
+    },
+    {
+      "start": 674.12,
+      "end": 679.96,
+      "text": "una especialidad de policía fronteriza, porque este fenómeno a nosotros nos pilla, posestallido,"
+    },
+    {
+      "start": 680.58,
+      "end": 680.68,
+      "text": "pospandemia,"
+    },
+    {
+      "start": 685.64,
+      "end": 686.02,
+      "text": "donde empieza a entrar la gente en esos minutos y de repente nos vemos con esta realidad encima."
+    },
+    {
+      "start": 689.5,
+      "end": 694.44,
+      "text": "Entonces nuestras policías no necesariamente estaban preparadas para esta labor, hoy día los militares están cumpliendo labores en frontera, pero bueno, déjeme decirle que"
+    },
+    {
+      "start": 694.44,
+      "end": 695.04,
+      "text": "nuestras fronteras igualmente necesitan todavía mucho más apoyo, o bueno, déjeme decirle que nuestra frontera"
+    },
+    {
+      "start": 695.04,
+      "end": 700.6,
+      "text": "igualmente necesita todavía mucho más apoyo, o sea, es cosa de verlas en el desierto gigante"
+    },
+    {
+      "start": 700.6,
+      "end": 704.88,
+      "text": "en el que tenemos en el norte, lo pequeñas que son estas puertas de entrada"
+    },
+    {
+      "start": 704.88,
+      "end": 708.02,
+      "text": "y por donde se puede colar y entrar gente permanentemente."
+    },
+    {
+      "start": 708.48,
+      "end": 711.22,
+      "text": "Ahora, hay un factor, José y Marían."
+    },
+    {
+      "start": 711.5,
+      "end": 711.76,
+      "text": "¿Cuál?"
+    },
+    {
+      "start": 711.88,
+      "end": 717.44,
+      "text": "Todos llegan al mismo punto inevitablemente, que es la Panamericana Norte."
+    },
+    {
+      "start": 717.56,
+      "end": 717.96,
+      "text": "Sin duda."
+    },
+    {
+      "start": 718.3,
+      "end": 720.1,
+      "text": "Y ahí hay un tráfico hacia el sur."
+    },
+    {
+      "start": 720.24,
+      "end": 723.4,
+      "text": "De hecho, además, lo que estamos viendo ahora es la carretera."
+    },
+    {
+      "start": 723.4,
+      "end": 725.86,
+      "text": "Hay un señor con un camión que los mete arriba,"
+    },
+    {
+      "start": 726.02,
+      "end": 730.46,
+      "text": "que les cobra una tarifa y que los deja a dos cuadras del Palacio de la Moneda."
+    },
+    {
+      "start": 730.88,
+      "end": 736.02,
+      "text": "Lo estoy diciendo de una manera irónica, pero lo que quiero decir con esto es que hay un negocio ahí"
+    },
+    {
+      "start": 736.02,
+      "end": 740.84,
+      "text": "que no tiene que ver solamente con el inmigrante sino que con toda una logística"
+    },
+    {
+      "start": 740.84,
+      "end": 742.08,
+      "text": "que se ha"
+    },
+    {
+      "start": 742.08,
+      "end": 743.68,
+      "text": "armado"
+    },
+    {
+      "start": 743.68,
+      "end": 744.72,
+      "text": "y se ha montado"
+    },
+    {
+      "start": 744.72,
+      "end": 745.94,
+      "text": "para que esas personas"
+    },
+    {
+      "start": 745.94,
+      "end": 746.72,
+      "text": "con buenas o malas"
+    },
+    {
+      "start": 746.72,
+      "end": 747.32,
+      "text": "intenciones"
+    },
+    {
+      "start": 747.32,
+      "end": 749.0,
+      "text": "lleguen a los centros urbanos"
+    },
+    {
+      "start": 749.0,
+      "end": 749.54,
+      "text": "en el centro"
+    },
+    {
+      "start": 749.54,
+      "end": 750.38,
+      "text": "y en el sur, digamos."
+    },
+    {
+      "start": 750.48,
+      "end": 751.1,
+      "text": "¿Cómo usted pretende"
+    },
+    {
+      "start": 751.1,
+      "end": 751.9,
+      "text": "atacar esa cadena?"
+    },
+    {
+      "start": 752.04,
+      "end": 752.58,
+      "text": "De esta manera"
+    },
+    {
+      "start": 752.58,
+      "end": 753.48,
+      "text": "porque lo que puede"
+    },
+    {
+      "start": 753.48,
+      "end": 754.8,
+      "text": "constituir un problema"
+    },
+    {
+      "start": 754.8,
+      "end": 757.08,
+      "text": "en este caso también puede ser una oportunidad."
+    },
+    {
+      "start": 757.3,
+      "end": 758.32,
+      "text": "Y en esto nada es fácil."
+    },
+    {
+      "start": 758.88,
+      "end": 765.28,
+      "text": "Si nosotros tenemos en el norte muchos pasos fronterizos, pero tenemos una autopista o una carretera norte,"
+    },
+    {
+      "start": 765.28,
+      "end": 773.86,
+      "text": "en la cual desde Colchanes, desde Ollagüe, desde los distintos pasos fronterizos las personas confluyen, nosotros debiéramos generar ahí una segunda frontera de carácter"
+    },
+    {
+      "start": 773.86,
+      "end": 774.66,
+      "text": "tecnológico."
+    },
+    {
+      "start": 775.0,
+      "end": 776.86,
+      "text": "Yo me he preguntado, ¿por qué eso no lo han hecho?"
+    },
+    {
+      "start": 777.06,
+      "end": 780.78,
+      "text": "Es que yo no sabría decirle. Lo que le puedo decir yo es que en mi gobierno lo vamos a"
+    },
+    {
+      "start": 780.78,
+      "end": 782.8,
+      "text": "hacer porque conocemos bien cómo funciona el Estado."
+    },
+    {
+      "start": 782.86,
+      "end": 785.62,
+      "text": "Yo sé que usted era la ministra del Trabajo, pero cuando estaba en el gobierno"
+    },
+    {
+      "start": 785.62,
+      "end": 787.14,
+      "text": "eso no se conversaba"
+    },
+    {
+      "start": 787.14,
+      "end": 788.08,
+      "text": "porque efectivamente"
+    },
+    {
+      "start": 788.08,
+      "end": 789.42,
+      "text": "todos llegan a esa carretera."
+    },
+    {
+      "start": 789.54,
+      "end": 789.68,
+      "text": "Sí."
+    },
+    {
+      "start": 789.82,
+      "end": 790.56,
+      "text": "Y cuando yo he estado"
+    },
+    {
+      "start": 790.56,
+      "end": 791.64,
+      "text": "reporteando en Colchane,"
+    },
+    {
+      "start": 792.04,
+      "end": 792.8,
+      "text": "se ven ahí"
+    },
+    {
+      "start": 792.8,
+      "end": 794.64,
+      "text": "a esa gente caminando"
+    },
+    {
+      "start": 794.64,
+      "end": 795.2,
+      "text": "y bueno,"
+    },
+    {
+      "start": 795.3,
+      "end": 795.7,
+      "text": "esta gente"
+    },
+    {
+      "start": 795.7,
+      "end": 796.7,
+      "text": "¿quién la fiscaliza?"
+    },
+    {
+      "start": 796.72,
+      "end": 797.26,
+      "text": "Estoy de acuerdo."
+    },
+    {
+      "start": 797.68,
+      "end": 798.42,
+      "text": "Cuando usted habla"
+    },
+    {
+      "start": 798.42,
+      "end": 799.0,
+      "text": "de cortes"
+    },
+    {
+      "start": 799.0,
+      "end": 800.5,
+      "text": "o de checkpoints digitales"
+    },
+    {
+      "start": 800.5,
+      "end": 801.62,
+      "text": "estoy llamándolo"
+    },
+    {
+      "start": 801.62,
+      "end": 802.08,
+      "text": "de alguna manera."
+    },
+    {
+      "start": 802.28,
+      "end": 802.96,
+      "text": "¿A qué se refiere"
+    },
+    {
+      "start": 802.96,
+      "end": 803.7,
+      "text": "particularmente?"
+    },
+    {
+      "start": 803.72,
+      "end": 804.1,
+      "text": "No, mira,"
+    },
+    {
+      "start": 804.18,
+      "end": 804.96,
+      "text": "lo que pasa es que hoy día"
+    },
+    {
+      "start": 804.96,
+      "end": 806.02,
+      "text": "está toda la tecnología"
+    },
+    {
+      "start": 806.02,
+      "end": 806.8,
+      "text": "de drones, ¿cierto?"
+    },
+    {
+      "start": 806.88,
+      "end": 807.8,
+      "text": "Que es muy útil"
+    },
+    {
+      "start": 807.8,
+      "end": 809.76,
+      "text": "pero eso tiene que reportar"
+    },
+    {
+      "start": 809.76,
+      "end": 811.4,
+      "text": "a alguna oficina centralizada."
+    },
+    {
+      "start": 811.4,
+      "end": 812.1,
+      "text": "A una central, obvio."
+    },
+    {
+      "start": 812.3,
+      "end": 813.56,
+      "text": "Y de ahí desplegar"
+    },
+    {
+      "start": 813.56,
+      "end": 814.62,
+      "text": "a un sistema de gestión"
+    },
+    {
+      "start": 814.62,
+      "end": 815.3,
+      "text": "de carabineros."
+    },
+    {
+      "start": 815.6,
+      "end": 819.54,
+      "text": "O sea, lo que yo espero es que a esto le metamos tecnología, tecnología y tecnología. Porque el"
+    },
+    {
+      "start": 819.54,
+      "end": 825.24,
+      "text": "que dice que va a construir aquí un muro, o sea, eso no es real. Son 800 kilómetros. El que dice"
+    },
+    {
+      "start": 825.24,
+      "end": 829.7,
+      "text": "que va a construir una reja, ni una malla Rachel, si son 800 kilómetros. Entonces nosotros lo que"
+    },
+    {
+      "start": 829.7,
+      "end": 830.88,
+      "text": "tenemos que hacer es, con la"
+    },
+    {
+      "start": 830.88,
+      "end": 832.98,
+      "text": "geografía que tenemos, tomar esto"
+    },
+    {
+      "start": 832.98,
+      "end": 834.94,
+      "text": "como oportunidades. Y toda"
+    },
+    {
+      "start": 834.94,
+      "end": 837.14,
+      "text": "la gente, o sea, esta complejidad"
+    },
+    {
+      "start": 837.14,
+      "end": 839.08,
+      "text": "del norte, todos llegan a un lugar"
+    },
+    {
+      "start": 839.08,
+      "end": 840.64,
+      "text": "y esa es una oportunidad para nosotros."
+    },
+    {
+      "start": 841.0,
+      "end": 842.86,
+      "text": "Con la solidez que usted lo plantea y que uno"
+    },
+    {
+      "start": 842.86,
+      "end": 844.98,
+      "text": "la escucha y uno dice, bueno, sí, como dice..."
+    },
+    {
+      "start": 852.4,
+      "end": 861.22,
+      "text": "¿Por qué no se ha hecho antes? Uno tiene el contraste del megáfono, porque fue una imagen bochornosa. Entonces, si yo contrasto el megáfono, que es un símbolo de la estupidez del gobierno en esta materia."
+    },
+    {
+      "start": 861.76,
+      "end": 865.94,
+      "text": "Con lo que usted está planteando, uno dice, bueno, ¿por qué uno debería creerle a la continuadora del gobierno?"
+    },
+    {
+      "start": 866.4,
+      "end": 871.22,
+      "text": "Mire, primero porque no soy la continuadora del gobierno, yo pretendo encabezar mi propio gobierno."
+    },
+    {
+      "start": 871.54,
+      "end": 874.34,
+      "text": "Y creo que en eso tengo experiencia, liderazgo y capacidades."
+    },
+    {
+      "start": 874.34,
+      "end": 878.82,
+      "text": "Por cierto, no me las sé todas, pero creo que puedo dar muestras concretas de que lo"
+    },
+    {
+      "start": 878.82,
+      "end": 883.7,
+      "text": "que hice lo saqué adelante. Y lo segundo, y a propósito de lo que Roberto me preguntaba"
+    },
+    {
+      "start": 883.7,
+      "end": 887.36,
+      "text": "recién, por qué el gobierno no lo había hecho o qué yo habría opinado respecto de"
+    },
+    {
+      "start": 887.36,
+      "end": 890.26,
+      "text": "lo que el gobierno hacía, yo lo que puedo decirle es que yo me aboqué a mi tarea. Y mi tarea fue sacar una gran reforma previsional para el país. Claro, aún no lo ent hecho o que yo habría opinado respecto de lo que el gobierno hacía yo lo que puedo decirle es que yo me aboqué"
+    },
+    {
+      "start": 890.26,
+      "end": 890.72,
+      "text": "a mi tarea"
+    },
+    {
+      "start": 890.72,
+      "end": 891.9,
+      "text": "y mi tarea fue sacar"
+    },
+    {
+      "start": 891.9,
+      "end": 892.9,
+      "text": "una gran reforma"
+    },
+    {
+      "start": 892.9,
+      "end": 893.98,
+      "text": "previsional para el país"
+    },
+    {
+      "start": 893.98,
+      "end": 896.4,
+      "text": "que me tuvo subsumida"
+    },
+    {
+      "start": 896.4,
+      "end": 897.06,
+      "text": "o sea que no es que"
+    },
+    {
+      "start": 897.06,
+      "end": 897.86,
+      "text": "yo estuve mirando"
+    },
+    {
+      "start": 897.86,
+      "end": 898.32,
+      "text": "el cielo"
+    },
+    {
+      "start": 898.32,
+      "end": 899.82,
+      "text": "mirando las estrellas"
+    },
+    {
+      "start": 899.82,
+      "end": 901.32,
+      "text": "perdónenme que les diga"
+    },
+    {
+      "start": 901.32,
+      "end": 901.52,
+      "text": "Janet"
+    },
+    {
+      "start": 901.52,
+      "end": 902.7,
+      "text": "una cosa es la gente"
+    },
+    {
+      "start": 902.7,
+      "end": 903.54,
+      "text": "que está entrando"
+    },
+    {
+      "start": 903.54,
+      "end": 904.54,
+      "text": "y la otra son"
+    },
+    {
+      "start": 904.54,
+      "end": 906.1,
+      "text": "la gente que está adentro y aquí son la gente que está adentro."
+    },
+    {
+      "start": 906.6,
+      "end": 919.0,
+      "text": "Y aquí, por ejemplo, lo que usted decía, estos búnker que se han encontrado, nos decía la policía, son venezolanos, son centro de tortura, efectivamente, ahí lo estamos mostrando, que es una imagen impresionante."
+    },
+    {
+      "start": 920.46,
+      "end": 926.58,
+      "text": "Y la policía lo que nos decía, que todos estos centros de tortura son de venezolanos principalmente."
+    },
+    {
+      "start": 926.94,
+      "end": 927.3,
+      "text": "Colombianos."
+    },
+    {
+      "start": 927.48,
+      "end": 934.24,
+      "text": "Y colombianos, que pertenecen a los grupos de delincuentes más peligrosos de Sudamérica, que se están instalando en Chile."
+    },
+    {
+      "start": 934.88,
+      "end": 935.46,
+      "text": "Muchos de estos"
+    },
+    {
+      "start": 935.46,
+      "end": 942.88,
+      "text": "bunkers son además en tomas, en lugares ilegales, qué sé yo. ¿Qué hacer con la otra cara de la moneda?"
+    },
+    {
+      "start": 942.98,
+      "end": 948.36,
+      "text": "Que es con los que están adentro y que son principalmente delincuentes muy peligrosos, muy"
+    },
+    {
+      "start": 948.36,
+      "end": 950.1,
+      "text": "por encima probablemente del delincuente muy peligrosos muy por encima probablemente"
+    },
+    {
+      "start": 950.1,
+      "end": 951.2,
+      "text": "del delincuente"
+    },
+    {
+      "start": 951.2,
+      "end": 952.12,
+      "text": "tipo chileno"
+    },
+    {
+      "start": 952.12,
+      "end": 952.5,
+      "text": "que es"
+    },
+    {
+      "start": 952.5,
+      "end": 953.46,
+      "text": "que puede ser"
+    },
+    {
+      "start": 953.46,
+      "end": 954.68,
+      "text": "el más peligroso"
+    },
+    {
+      "start": 954.68,
+      "end": 955.04,
+      "text": "que hacer"
+    },
+    {
+      "start": 955.04,
+      "end": 956.08,
+      "text": "con los que están adentro"
+    },
+    {
+      "start": 956.08,
+      "end": 956.7,
+      "text": "con los que están adentro"
+    },
+    {
+      "start": 956.7,
+      "end": 957.8,
+      "text": "no, tienen que cumplir"
+    },
+    {
+      "start": 957.8,
+      "end": 958.48,
+      "text": "sus penas"
+    },
+    {
+      "start": 958.48,
+      "end": 960.06,
+      "text": "pero usted los deportaría"
+    },
+    {
+      "start": 960.06,
+      "end": 961.78,
+      "text": "porque hay distintas miradas"
+    },
+    {
+      "start": 961.78,
+      "end": 962.24,
+      "text": "por ejemplo"
+    },
+    {
+      "start": 962.24,
+      "end": 963.16,
+      "text": "con Harold Malmico"
+    },
+    {
+      "start": 963.16,
+      "end": 964.36,
+      "text": "que él los deportaría"
+    },
+    {
+      "start": 964.36,
+      "end": 965.42,
+      "text": "pero no es tan fácil tampoco."
+    },
+    {
+      "start": 965.42,
+      "end": 969.12,
+      "text": "No, pero le dijimos a él que Venezuela no lo acepta, Bolivia tampoco."
+    },
+    {
+      "start": 969.52,
+      "end": 972.92,
+      "text": "Y es que también apunto a eso, después quería apuntar a eso."
+    },
+    {
+      "start": 973.0,
+      "end": 976.44,
+      "text": "Lo que pasa es que ahora tenemos dificultades con Bolivia"
+    },
+    {
+      "start": 976.44,
+      "end": 982.22,
+      "text": "cuando se quiere hacer el retorno de estos inmigrantes ilegales. Y eso que estamos"
+    },
+    {
+      "start": 982.22,
+      "end": 989.44,
+      "text": "en un gobierno actual de izquierda con Bolivia, pero con un cambio de gobierno de centro-derecha"
+    },
+    {
+      "start": 989.44,
+      "end": 996.76,
+      "text": "con Rodrigo Paz Amoré. Y eso a lo mejor puede dificultar o no ante un eventual gobierno suyo, le digo porque"
+    },
+    {
+      "start": 996.76,
+      "end": 1003.48,
+      "text": "él está tomando bastantes posturas bien concretas pero con gobiernos digamos de izquierda donde él"
+    },
+    {
+      "start": 1003.48,
+      "end": 1007.8,
+      "text": "mismo lo ha calificado como dictadura que es el caso por ejemplo de Venezuela, pero en el fondo"
+    },
+    {
+      "start": 1007.8,
+      "end": 1012.0,
+      "text": "¿qué propone usted o cómo haría con estos delincuentes extranjeros"
+    },
+    {
+      "start": 1013.12,
+      "end": 1021.02,
+      "text": "que hacen de la suya dentro de nuestro país y qué hacer? ¿Porque los mantenemos retenidos en nuestras cárceles o se deportan?"
+    },
+    {
+      "start": 1021.12,
+      "end": 1021.9,
+      "text": "Bueno, al estilo Trump."
+    },
+    {
+      "start": 1022.2,
+      "end": 1025.18,
+      "text": "Yo creo que en esto hay que distinguir porque efectivamente"
+    },
+    {
+      "start": 1025.18,
+      "end": 1026.04,
+      "text": "si ustedes me hablan"
+    },
+    {
+      "start": 1026.04,
+      "end": 1026.76,
+      "text": "del satanás"
+    },
+    {
+      "start": 1026.76,
+      "end": 1027.72,
+      "text": "evidentemente"
+    },
+    {
+      "start": 1027.72,
+      "end": 1028.42,
+      "text": "tiene que cumplir"
+    },
+    {
+      "start": 1028.42,
+      "end": 1029.3,
+      "text": "su sentencia en Chile"
+    },
+    {
+      "start": 1029.3,
+      "end": 1030.44,
+      "text": "él no está solo"
+    },
+    {
+      "start": 1030.44,
+      "end": 1031.38,
+      "text": "por ley de drogas"
+    },
+    {
+      "start": 1031.38,
+      "end": 1031.92,
+      "text": "también está"
+    },
+    {
+      "start": 1031.92,
+      "end": 1032.68,
+      "text": "por otros delitos"
+    },
+    {
+      "start": 1032.68,
+      "end": 1033.2,
+      "text": "de gravedad"
+    },
+    {
+      "start": 1033.2,
+      "end": 1033.9,
+      "text": "como extorsión"
+    },
+    {
+      "start": 1033.9,
+      "end": 1034.36,
+      "text": "secuestro"
+    },
+    {
+      "start": 1034.36,
+      "end": 1034.74,
+      "text": "homicidio"
+    },
+    {
+      "start": 1034.74,
+      "end": 1035.34,
+      "text": "todo lo que se pueda"
+    },
+    {
+      "start": 1035.34,
+      "end": 1035.66,
+      "text": "imaginar"
+    },
+    {
+      "start": 1035.66,
+      "end": 1036.8,
+      "text": "pero hay gente"
+    },
+    {
+      "start": 1036.8,
+      "end": 1037.4,
+      "text": "que ha cometido"
+    },
+    {
+      "start": 1037.4,
+      "end": 1038.26,
+      "text": "delitos menores"
+    },
+    {
+      "start": 1038.26,
+      "end": 1039.14,
+      "text": "o simples delitos"
+    },
+    {
+      "start": 1039.14,
+      "end": 1043.96,
+      "text": "y que hoy día si nosotros lo llevamos a nuestras cárceles que están sobrepobladas, además hay que mantenerlos."
+    },
+    {
+      "start": 1044.42,
+      "end": 1047.3,
+      "text": "Y esto sale entre 900 mil pesos y un millón de pesos para los chilenos."
+    },
+    {
+      "start": 1047.84,
+      "end": 1049.8,
+      "text": "Yo creo que en esto hay que ser bien concreto."
+    },
+    {
+      "start": 1050.28,
+      "end": 1055.66,
+      "text": "Yo busco el bien de nuestro país y si eso significa que nosotros los podemos reconducir a su país, lo haré, sin duda."
+    },
+    {
+      "start": 1056.02,
+      "end": 1058.18,
+      "text": "Sobre todo gente que está por la ley 20.000 y delitos menores."
+    },
+    {
+      "start": 1058.2,
+      "end": 1065.34,
+      "text": "O sea, usted plantea una reconducción o deportación o traslado de delitos menores y los más graves, digamos..."
+    },
+    {
+      "start": 1065.34,
+      "end": 1066.4,
+      "text": "Que cumplan sus penas acá."
+    },
+    {
+      "start": 1066.52,
+      "end": 1070.44,
+      "text": "Ya, y eso también tiene un costo en plata y también requiere una logística."
+    },
+    {
+      "start": 1070.84,
+      "end": 1072.3,
+      "text": "Pero no años, que es la diferencia."
+    },
+    {
+      "start": 1072.56,
+      "end": 1075.62,
+      "text": "Ahora, el principal problema de esto ha sido las relaciones con los demás países."
+    },
+    {
+      "start": 1075.76,
+      "end": 1077.56,
+      "text": "En particular con Maduro en Venezuela."
+    },
+    {
+      "start": 1077.68,
+      "end": 1079.26,
+      "text": "En Venezuela no tenemos embajada."
+    },
+    {
+      "start": 1079.34,
+      "end": 1081.04,
+      "text": "Es imposible relacionarse con ese gobierno."
+    },
+    {
+      "start": 1081.32,
+      "end": 1082.72,
+      "text": "Con ese gobierno es imposible, claro."
+    },
+    {
+      "start": 1082.8,
+      "end": 1084.7,
+      "text": "Y eso no está en nuestras manos, ese es el problema."
+    },
+    {
+      "start": 1084.7,
+      "end": 1085.14,
+      "text": "Con Rodrigo Paz yo creo que no hay ningún problema con el nuevo presidente Bolivia, de hecho. relacionarse con ese gobierno. Con ese gobierno es imposible, claro, y eso no está en nuestras manos, y ese es el problema."
+    },
+    {
+      "start": 1086.62,
+      "end": 1088.78,
+      "text": "Con Rodrigo Paz yo creo que no hay ningún problema con el nuevo"
+    },
+    {
+      "start": 1088.78,
+      "end": 1089.98,
+      "text": "presidente Bolivia, de hecho"
+    },
+    {
+      "start": 1089.98,
+      "end": 1091.24,
+      "text": "espero saludarlo en las próximas"
+    },
+    {
+      "start": 1091.24,
+      "end": 1092.7,
+      "text": "horas, sé que ha estado con"
+    },
+    {
+      "start": 1092.7,
+      "end": 1094.26,
+      "text": "muchos llamados. Además, es un"
+    },
+    {
+      "start": 1094.26,
+      "end": 1095.58,
+      "text": "presidente bastante centro, yo"
+    },
+    {
+      "start": 1095.58,
+      "end": 1096.64,
+      "text": "diría. Algunos dicen que más"
+    },
+    {
+      "start": 1096.64,
+      "end": 1098.36,
+      "text": "progresista que derechista, pero"
+    },
+    {
+      "start": 1098.36,
+      "end": 1099.9,
+      "text": "más allá de eso, yo lo que"
+    },
+    {
+      "start": 1099.9,
+      "end": 1101.08,
+      "text": "respeto es la decisión"
+    },
+    {
+      "start": 1101.08,
+      "end": 1102.54,
+      "text": "democrática del pueblo boliviano"
+    },
+    {
+      "start": 1102.54,
+      "end": 1105.1,
+      "text": "y lo mejor para los dos países que tengamos"
+    },
+    {
+      "start": 1105.1,
+      "end": 1106.76,
+      "text": "un buen diálogo. Yo haría una distinción ahí,"
+    },
+    {
+      "start": 1106.92,
+      "end": 1108.98,
+      "text": "discúlpenme, pero una cosa,"
+    },
+    {
+      "start": 1109.14,
+      "end": 1111.5,
+      "text": "o sea, uno puede ser de centro, de centro-izquierda,"
+    },
+    {
+      "start": 1111.6,
+      "end": 1112.92,
+      "text": "de izquierda, de derecha,"
+    },
+    {
+      "start": 1113.02,
+      "end": 1115.04,
+      "text": "pero cuando hay una persona razonable"
+    },
+    {
+      "start": 1115.04,
+      "end": 1119.28,
+      "text": "que comparte un universo más o menos común, tú te puedes sentar a conversar. Maduro está"
+    },
+    {
+      "start": 1119.28,
+      "end": 1124.62,
+      "text": "en un delirio místico que no tengo idea, y no puede hablar usted con él, ni Cass con"
+    },
+    {
+      "start": 1124.62,
+      "end": 1129.34,
+      "text": "él, ni Matei, ni nadie. Algo grave dice eso, ¿no? No, y probablemente si usted sale electa"
+    },
+    {
+      "start": 1129.34,
+      "end": 1130.0,
+      "text": "presidenta le"
+    },
+    {
+      "start": 1130.0,
+      "end": 1132.58,
+      "text": "va a tirar los demonios encima y"
+    },
+    {
+      "start": 1132.58,
+      "end": 1134.42,
+      "text": "le va a hacer una, qué sé yo, la"
+    },
+    {
+      "start": 1134.42,
+      "end": 1136.0,
+      "text": "va a llamar traidora de todo"
+    },
+    {
+      "start": 1136.0,
+      "end": 1138.32,
+      "text": "tipo, no tengo idea. Pero sí es"
+    },
+    {
+      "start": 1138.32,
+      "end": 1139.7,
+      "text": "un punto. Lo cual me preocupa."
+    },
+    {
+      "start": 1140.7,
+      "end": 1142.9,
+      "text": "Cero. Cero. Me imagino."
+    },
+    {
+      "start": 1143.12,
+      "end": 1144.12,
+      "text": "Francamente, o sea, yo por mí"
+    },
+    {
+      "start": 1144.12,
+      "end": 1146.26,
+      "text": "que ellos solucionaran en Venezuela luego su problema, para que quienes han tenido que salir de su país venirse al nuestro. No, cero. Me imagino. Francamente, o sea, yo por mí que ellos solucionaran en Venezuela luego su problema,"
+    },
+    {
+      "start": 1146.88,
+      "end": 1148.96,
+      "text": "para que quienes han tenido que salir de su país venirse a nuestro país a volver."
+    },
+    {
+      "start": 1148.96,
+      "end": 1154.52,
+      "text": "No, se lo digo porque efectivamente una política de deportación se hace más difícil así, ¿no?"
+    },
+    {
+      "start": 1154.66,
+      "end": 1157.82,
+      "text": "Y es una realidad, y esa es una realidad conmigo o con cualquiera, digamos."
+    },
+    {
+      "start": 1158.0,
+      "end": 1158.3,
+      "text": "Claro."
+    },
+    {
+      "start": 1158.3,
+      "end": 1160.7,
+      "text": "Porque el problema no está puesto en Chile, está puesto allá."
+    },
+    {
+      "start": 1161.2,
+      "end": 1164.54,
+      "text": "Ahora, en Venezuela, con Bolivia se firmó un convenio hace poco tiempo."
+    },
+    {
+      "start": 1164.84,
+      "end": 1169.74,
+      "text": "Ahora tenemos que ver cómo se va a operativizar este convenio precisamente porque ha habido recientemente una nueva elección"
+    },
+    {
+      "start": 1169.74,
+      "end": 1173.44,
+      "text": "y salió precisamente el presidente electo que estábamos comentando, ¿no, Rodrigo Paz?"
+    },
+    {
+      "start": 1173.52,
+      "end": 1176.74,
+      "text": "Sí, porque además es hijo de Jaime Paz Amor, el presidente demócrata."
+    },
+    {
+      "start": 1176.86,
+      "end": 1182.84,
+      "text": "Oiga, candidata, la quería llevar al tema de los ingresos mínimos."
+    },
+    {
+      "start": 1183.2,
+      "end": 1188.06,
+      "text": "¿Usted podría explicarnos básicamente en qué consiste la propuesta del ingreso vital?"
+    },
+    {
+      "start": 1188.64,
+      "end": 1190.7,
+      "text": "¿Cómo se financia?cia cuándo eventualmente"
+    },
+    {
+      "start": 1190.7,
+      "end": 1191.7,
+      "text": "se empezaría a pagar"
+    },
+    {
+      "start": 1191.7,
+      "end": 1192.56,
+      "text": "eso requiere"
+    },
+    {
+      "start": 1192.56,
+      "end": 1193.76,
+      "text": "un trámite legislativo"
+    },
+    {
+      "start": 1193.76,
+      "end": 1194.86,
+      "text": "si usted llega a la moneda"
+    },
+    {
+      "start": 1194.86,
+      "end": 1195.84,
+      "text": "todo el ABC"
+    },
+    {
+      "start": 1195.84,
+      "end": 1196.92,
+      "text": "para que la gente"
+    },
+    {
+      "start": 1196.92,
+      "end": 1197.82,
+      "text": "entienda bien la bajada"
+    },
+    {
+      "start": 1197.82,
+      "end": 1198.3,
+      "text": "porque me parece"
+    },
+    {
+      "start": 1198.3,
+      "end": 1199.14,
+      "text": "que es súper sensible"
+    },
+    {
+      "start": 1199.14,
+      "end": 1201.46,
+      "text": "me parece"
+    },
+    {
+      "start": 1201.46,
+      "end": 1202.08,
+      "text": "la escucho"
+    },
+    {
+      "start": 1202.08,
+      "end": 1202.72,
+      "text": "sí, miren"
+    },
+    {
+      "start": 1202.72,
+      "end": 1203.5,
+      "text": "se habla mucho"
+    },
+    {
+      "start": 1203.5,
+      "end": 1204.26,
+      "text": "de crecer en Chile"
+    },
+    {
+      "start": 1204.26,
+      "end": 1210.38,
+      "text": "pero el crecimiento o sea yo aspiro un poquito más que a crecer, yo también les quiero decir eso."
+    },
+    {
+      "start": 1210.78,
+      "end": 1218.66,
+      "text": "Aspiro a que nosotros retomemos la vía del desarrollo y les quiero decir que en Chile tenemos una tremenda oportunidad, así como un espacio de negocio importante,"
+    },
+    {
+      "start": 1218.66,
+      "end": 1224.32,
+      "text": "porque el mundo está haciendo el cambio de los combustibles fósiles a los combustibles verdes o a la energía limpia."
+    },
+    {
+      "start": 1224.62,
+      "end": 1232.34,
+      "text": "Y nosotros tenemos viento, sol, agua, litio y cobre que sirven para la electromovilidad, hidrógeno verde."
+    },
+    {
+      "start": 1232.52,
+      "end": 1235.8,
+      "text": "O sea, estamos en una posición privilegiada"
+    },
+    {
+      "start": 1235.8,
+      "end": 1237.86,
+      "text": "para suplir buena parte de la oferta"
+    },
+    {
+      "start": 1237.86,
+      "end": 1239.94,
+      "text": "mundial, pero para eso hay que actualizar"
+    },
+    {
+      "start": 1239.94,
+      "end": 1242.06,
+      "text": "nuestro transporte de carga, nuestros caminos"
+    },
+    {
+      "start": 1242.06,
+      "end": 1243.64,
+      "text": "y nuestra capacidad de almacenamiento"
+    },
+    {
+      "start": 1243.64,
+      "end": 1245.46,
+      "text": "mi gobierno espero que habilite"
+    },
+    {
+      "start": 1245.46,
+      "end": 1247.7,
+      "text": "en estos próximos años"
+    },
+    {
+      "start": 1247.7,
+      "end": 1249.6,
+      "text": "estas condiciones de infraestructura"
+    },
+    {
+      "start": 1249.6,
+      "end": 1250.12,
+      "text": "para poder"
+    },
+    {
+      "start": 1250.12,
+      "end": 1255.3,
+      "text": "pegarnos el salto. Pero ese crecimiento tiene que llegarle a todos los chilenos. Y lo que"
+    },
+    {
+      "start": 1255.3,
+      "end": 1260.1,
+      "text": "nos ocurre es que en Chile un millón de familias que están pegadas en el salario mínimo no"
+    },
+    {
+      "start": 1260.1,
+      "end": 1264.18,
+      "text": "le alcanza para llegar a fin de mes. Y resulta que el salario mínimo produce este efecto,"
+    },
+    {
+      "start": 1264.32,
+      "end": 1268.08,
+      "text": "Marían, que tú lo fijas acá y es como si uno prendiera una luz en la noche."
+    },
+    {
+      "start": 1269.24,
+      "end": 1272.54,
+      "text": "Y todo, prende una luz en la mitad de la noche y todos los bichitos se acercan."
+    },
+    {
+      "start": 1272.64,
+      "end": 1276.84,
+      "text": "Entonces el salario mínimo uno lo fija y lo que ocurre con los sueldos es que se le acercan mucho."
+    },
+    {
+      "start": 1276.94,
+      "end": 1278.68,
+      "text": "Entonces aquí hay 850 mil personas."
+    },
+    {
+      "start": 1279.0,
+      "end": 1281.94,
+      "text": "Pero cerca de ese sueldo, que los sueldos son más."
+    },
+    {
+      "start": 1281.94,
+      "end": 1286.7,
+      "text": "Que hay mucha gente que está muy poquito más arriba que el sueldo mínimo."
+    },
+    {
+      "start": 1286.7,
+      "end": 1293.86,
+      "text": "¿Qué quiere decir usted? ¿Que se fija un salario mínimo y el mercado laboral tiende a pegarse a ese número?"
+    },
+    {
+      "start": 1294.36,
+      "end": 1295.64,
+      "text": "¿Cómo se soluciona eso?"
+    },
+    {
+      "start": 1296.0,
+      "end": 1297.0,
+      "text": "Se acerca mucho."
+    },
+    {
+      "start": 1297.12,
+      "end": 1301.72,
+      "text": "Yo creo que aquí hay que fijar condiciones que sean mínimas para que la gente la alcance para llegar a fin de mes."
+    },
+    {
+      "start": 1302.14,
+      "end": 1306.6,
+      "text": "Y por eso nosotros queremos cambiar del concepto lo mínimo a pagar a cuánto cuesta vivir."
+    },
+    {
+      "start": 1307.44,
+      "end": 1308.06,
+      "text": "Esa es la diferencia."
+    },
+    {
+      "start": 1308.2,
+      "end": 1309.4,
+      "text": "Por eso se ha hablado de un salario vital."
+    },
+    {
+      "start": 1309.94,
+      "end": 1310.22,
+      "text": "Hoy día eso se estima en 750 mil pesos. El punto es la diferencia, por eso se ha hablado de un salario vital. Hoy día"
+    },
+    {
+      "start": 1310.22,
+      "end": 1315.34,
+      "text": "eso se estima en 750 mil pesos. El punto es que nosotros sabemos que en Chile quienes más pagan"
+    },
+    {
+      "start": 1315.34,
+      "end": 1321.06,
+      "text": "salario mínimo son las pymes. Entonces no es que quieran pagar mal, sino que no lo pueden absorber."
+    },
+    {
+      "start": 1321.58,
+      "end": 1325.32,
+      "text": "Porque tienen poca venta, la economía"
+    },
+    {
+      "start": 1325.32,
+      "end": 1326.84,
+      "text": "en los últimos 15 años"
+    },
+    {
+      "start": 1326.84,
+      "end": 1327.76,
+      "text": "crece poco."
+    },
+    {
+      "start": 1328.32,
+      "end": 1328.76,
+      "text": "¿Usted pretende"
+    },
+    {
+      "start": 1328.76,
+      "end": 1329.94,
+      "text": "financiar ese delta,"
+    },
+    {
+      "start": 1330.42,
+      "end": 1330.9,
+      "text": "ese gap que existe?"
+    },
+    {
+      "start": 1330.9,
+      "end": 1332.14,
+      "text": "Pretendo hacer dos cosas."
+    },
+    {
+      "start": 1332.28,
+      "end": 1332.4,
+      "text": "Ya,"
+    },
+    {
+      "start": 1332.52,
+      "end": 1333.74,
+      "text": "y a partir del primer año"
+    },
+    {
+      "start": 1333.74,
+      "end": 1334.26,
+      "text": "de gobierno"
+    },
+    {
+      "start": 1334.26,
+      "end": 1334.92,
+      "text": "y bien concreto."
+    },
+    {
+      "start": 1334.94,
+      "end": 1334.96,
+      "text": "No,"
+    },
+    {
+      "start": 1334.96,
+      "end": 1335.34,
+      "text": "esto se va a hacer"
+    },
+    {
+      "start": 1335.34,
+      "end": 1336.24,
+      "text": "dentro de los cuatro años"
+    },
+    {
+      "start": 1336.24,
+      "end": 1337.42,
+      "text": "porque requiere gradualidad."
+    },
+    {
+      "start": 1337.54,
+      "end": 1337.72,
+      "text": "Ya,"
+    },
+    {
+      "start": 1337.98,
+      "end": 1338.12,
+      "text": "¿cómo?"
+    },
+    {
+      "start": 1338.12,
+      "end": 1338.58,
+      "text": "Se va a hacer"
+    },
+    {
+      "start": 1338.58,
+      "end": 1339.76,
+      "text": "alza de salario mínimo"
+    },
+    {
+      "start": 1339.76,
+      "end": 1342.02,
+      "text": "que es la que se negocia, se lleva al Parlamento y a la ley."
+    },
+    {
+      "start": 1342.06,
+      "end": 1342.8,
+      "text": "¿Eso se mantiene?"
+    },
+    {
+      "start": 1343.0,
+      "end": 1343.5,
+      "text": "Sí, claro."
+    },
+    {
+      "start": 1343.66,
+      "end": 1344.5,
+      "text": "¿Se mantiene en ese camino?"
+    },
+    {
+      "start": 1344.78,
+      "end": 1345.96,
+      "text": "¿Pluroanual o plurianual?"
+    },
+    {
+      "start": 1346.58,
+      "end": 1350.0,
+      "text": "A mí me gusta plurianual, pero ya cuando lo plantee como ministra..."
+    },
+    {
+      "start": 1350.0,
+      "end": 1352.12,
+      "text": "...a los gremios no les gusta tanto, así que lo veremos."
+    },
+    {
+      "start": 1352.12,
+      "end": 1352.82,
+      "text": "Lo que pasa es que, perdón..."
+    },
+    {
+      "start": 1352.82,
+      "end": 1354.44,
+      "text": "Sería bueno porque da buenas certezas."
+    },
+    {
+      "start": 1354.46,
+      "end": 1355.48,
+      "text": "Y además se politiza"
+    },
+    {
+      "start": 1355.48,
+      "end": 1355.94,
+      "text": "la discusión"
+    },
+    {
+      "start": 1355.94,
+      "end": 1356.6,
+      "text": "de salario mínimo"
+    },
+    {
+      "start": 1356.6,
+      "end": 1358.16,
+      "text": "todos los santos años"
+    },
+    {
+      "start": 1358.16,
+      "end": 1359.0,
+      "text": "veremos cómo me va"
+    },
+    {
+      "start": 1359.0,
+      "end": 1359.96,
+      "text": "ahora como presidenta"
+    },
+    {
+      "start": 1359.96,
+      "end": 1360.88,
+      "text": "porque como ministra"
+    },
+    {
+      "start": 1360.88,
+      "end": 1361.42,
+      "text": "con eso no me salta"
+    },
+    {
+      "start": 1361.42,
+      "end": 1363.42,
+      "text": "mucho más sensato"
+    },
+    {
+      "start": 1363.42,
+      "end": 1364.58,
+      "text": "segundo"
+    },
+    {
+      "start": 1364.58,
+      "end": 1365.84,
+      "text": "subsidio a las pymes"
+    },
+    {
+      "start": 1365.84,
+      "end": 1366.8,
+      "text": "y tercero"
+    },
+    {
+      "start": 1366.8,
+      "end": 1367.64,
+      "text": "aporte monetario"
+    },
+    {
+      "start": 1367.64,
+      "end": 1368.1,
+      "text": "en el caso"
+    },
+    {
+      "start": 1368.1,
+      "end": 1369.1,
+      "text": "de transferencias directas"
+    },
+    {
+      "start": 1369.1,
+      "end": 1369.82,
+      "text": "ya para quienes"
+    },
+    {
+      "start": 1369.82,
+      "end": 1370.88,
+      "text": "no puedan pagarlo"
+    },
+    {
+      "start": 1370.88,
+      "end": 1371.52,
+      "text": "en definitiva"
+    },
+    {
+      "start": 1371.52,
+      "end": 1372.76,
+      "text": "pero esa es una parte"
+    },
+    {
+      "start": 1372.76,
+      "end": 1374.66,
+      "text": "la parte más relevante"
+    },
+    {
+      "start": 1374.66,
+      "end": 1375.52,
+      "text": "para los emprendedores"
+    },
+    {
+      "start": 1375.52,
+      "end": 1375.9,
+      "text": "de Chile"
+    },
+    {
+      "start": 1375.9,
+      "end": 1376.76,
+      "text": "a mi entender"
+    },
+    {
+      "start": 1376.76,
+      "end": 1377.18,
+      "text": "es esta"
+    },
+    {
+      "start": 1377.18,
+      "end": 1377.46,
+      "text": "porque"
+    },
+    {
+      "start": 1377.46,
+      "end": 1378.48,
+      "text": "todos en Chile"
+    },
+    {
+      "start": 1378.48,
+      "end": 1379.04,
+      "text": "se han dado cuenta"
+    },
+    {
+      "start": 1379.04,
+      "end": 1379.64,
+      "text": "que se declaran"
+    },
+    {
+      "start": 1379.64,
+      "end": 1380.28,
+      "text": "propymes o no"
+    },
+    {
+      "start": 1380.28,
+      "end": 1381.52,
+      "text": "pero resulta"
+    },
+    {
+      "start": 1381.52,
+      "end": 1382.08,
+      "text": "que a las pymes"
+    },
+    {
+      "start": 1382.08,
+      "end": 1382.44,
+      "text": "igual"
+    },
+    {
+      "start": 1382.44,
+      "end": 1383.66,
+      "text": "tienen esta dificultad"
+    },
+    {
+      "start": 1383.66,
+      "end": 1384.42,
+      "text": "si esta mesa"
+    },
+    {
+      "start": 1384.42,
+      "end": 1388.14,
+      "text": "fuera el mercado esta mesa circular o una torta resulta que a las pymes igual tienen esta dificultad. Si esta mesa fuera el mercado, esta mesa circular o una torta,"
+    },
+    {
+      "start": 1388.88,
+      "end": 1392.82,
+      "text": "resulta que un pedacito así se la lleva a las pymes y todo lo demás a la gran empresa."
+    },
+    {
+      "start": 1393.16,
+      "end": 1395.1,
+      "text": "Porque nuestro mercado está muy concentrado."
+    },
+    {
+      "start": 1395.82,
+      "end": 1399.5,
+      "text": "Entonces, si nosotros queremos que a las pymes de verdad les vaya bien y sean robustas,"
+    },
+    {
+      "start": 1400.12,
+      "end": 1402.16,
+      "text": "tienen que tener una mayor participación de mercado."
+    },
+    {
+      "start": 1402.2,
+      "end": 1405.44,
+      "text": "Y hay que pagarles a tiempo, no a seis meses, ocho meses."
+    },
+    {
+      "start": 1405.88,
+      "end": 1410.14,
+      "text": "Tienen que poder unirse en consorcios, por ejemplo, y postular a licitaciones más grandes."
+    },
+    {
+      "start": 1410.56,
+      "end": 1413.24,
+      "text": "Hay que pagarles a tiempo, hay que separar mercados."
+    },
+    {
+      "start": 1413.34,
+      "end": 1416.0,
+      "text": "Aquí hay cosas que son bien tiradas en la mecha y que nosotros incorporamos."
+    },
+    {
+      "start": 1416.0,
+      "end": 1418.9,
+      "text": "La concentración de mercado tiene que ver también con la dimensión del mercado chileno,"
+    },
+    {
+      "start": 1419.0,
+      "end": 1419.66,
+      "text": "que es muy pequeña."
+    },
+    {
+      "start": 1419.98,
+      "end": 1425.1,
+      "text": "Entonces, es un mercado que por sus dimensiones tiende al oligopolio o al monopolio al final."
+    },
+    {
+      "start": 1425.22,
+      "end": 1427.22,
+      "text": "De hecho, tú puedes llegar así a la línea de..."
+    },
+    {
+      "start": 1427.22,
+      "end": 1430.92,
+      "text": "Claro, porque para competir tienes que asociar con otro, con otro y te va a dar nada."
+    },
+    {
+      "start": 1430.94,
+      "end": 1433.94,
+      "text": "Entonces, ¿de qué manera usted pretende intervenir las diferentes áreas del mercado"
+    },
+    {
+      "start": 1433.94,
+      "end": 1440.8,
+      "text": "para promover la competencia sin que efectivamente haya o lleguemos a políticas proteccionistas"
+    },
+    {
+      "start": 1440.8,
+      "end": 1441.96,
+      "text": "o está proponiendo eso?"
+    },
+    {
+      "start": 1442.16,
+      "end": 1442.3,
+      "text": "Sí."
+    },
+    {
+      "start": 1442.52,
+      "end": 1443.28,
+      "text": "No, yo creo que..."
+    },
+    {
+      "start": 1443.28,
+      "end": 1443.8,
+      "text": "No sé, se lo pregunto."
+    },
+    {
+      "start": 1443.84,
+      "end": 1445.18,
+      "text": "Como nuestro país es más pequeño"
+    },
+    {
+      "start": 1445.18,
+      "end": 1446.04,
+      "text": "uno tiene que atenerse"
+    },
+    {
+      "start": 1446.04,
+      "end": 1446.86,
+      "text": "a su propia realidad"
+    },
+    {
+      "start": 1446.86,
+      "end": 1448.32,
+      "text": "y yo más que intervenir"
+    },
+    {
+      "start": 1448.32,
+      "end": 1449.22,
+      "text": "lo que creo que hay que hacer"
+    },
+    {
+      "start": 1449.22,
+      "end": 1449.72,
+      "text": "es un debate"
+    },
+    {
+      "start": 1449.72,
+      "end": 1450.3,
+      "text": "que nos permita"
+    },
+    {
+      "start": 1450.3,
+      "end": 1451.18,
+      "text": "tomar algunas normas"
+    },
+    {
+      "start": 1451.18,
+      "end": 1451.64,
+      "text": "que existen"
+    },
+    {
+      "start": 1451.64,
+      "end": 1452.2,
+      "text": "hasta en los países"
+    },
+    {
+      "start": 1452.2,
+      "end": 1453.34,
+      "text": "más capitalistas del mundo"
+    },
+    {
+      "start": 1453.34,
+      "end": 1454.46,
+      "text": "pero que protegen"
+    },
+    {
+      "start": 1454.46,
+      "end": 1455.72,
+      "text": "un poco a sus pequeños empresarios"
+    },
+    {
+      "start": 1455.72,
+      "end": 1456.22,
+      "text": "porque si no"
+    },
+    {
+      "start": 1456.22,
+      "end": 1457.22,
+      "text": "es puro discurso"
+    },
+    {
+      "start": 1457.22,
+      "end": 1457.76,
+      "text": "no más que todos"
+    },
+    {
+      "start": 1457.76,
+      "end": 1458.42,
+      "text": "somos propimes"
+    },
+    {
+      "start": 1458.42,
+      "end": 1459.62,
+      "text": "entonces por ejemplo"
+    },
+    {
+      "start": 1459.62,
+      "end": 1461.12,
+      "text": "permitirles hacer consorcios"
+    },
+    {
+      "start": 1461.12,
+      "end": 1461.7,
+      "text": "para postular"
+    },
+    {
+      "start": 1461.7,
+      "end": 1463.26,
+      "text": "a ciertas licitaciones públicas"
+    },
+    {
+      "start": 1463.26,
+      "end": 1464.02,
+      "text": "segundo"
+    },
+    {
+      "start": 1464.02,
+      "end": 1465.06,
+      "text": "ampliar la parte"
+    },
+    {
+      "start": 1465.06,
+      "end": 1465.7,
+      "text": "del mercado"
+    },
+    {
+      "start": 1465.7,
+      "end": 1467.56,
+      "text": "de Chile Compra"
+    },
+    {
+      "start": 1467.56,
+      "end": 1468.5,
+      "text": "donde hoy día"
+    },
+    {
+      "start": 1468.5,
+      "end": 1469.54,
+      "text": "hasta 6 millones de pesos"
+    },
+    {
+      "start": 1469.54,
+      "end": 1470.66,
+      "text": "son solo para las pymes"
+    },
+    {
+      "start": 1470.66,
+      "end": 1471.66,
+      "text": "ampliar un poquito eso"
+    },
+    {
+      "start": 1471.66,
+      "end": 1472.5,
+      "text": "para que tengan más mercado"
+    },
+    {
+      "start": 1472.5,
+      "end": 1474.24,
+      "text": "15, 10, 20"
+    },
+    {
+      "start": 1474.24,
+      "end": 1474.58,
+      "text": "exactamente"
+    },
+    {
+      "start": 1474.58,
+      "end": 1476.78,
+      "text": "hacer efectivo"
+    },
+    {
+      "start": 1476.78,
+      "end": 1477.6,
+      "text": "el pago a 30 días"
+    },
+    {
+      "start": 1477.6,
+      "end": 1478.12,
+      "text": "que yo sé que"
+    },
+    {
+      "start": 1478.12,
+      "end": 1478.66,
+      "text": "todos los gobiernos"
+    },
+    {
+      "start": 1478.66,
+      "end": 1479.2,
+      "text": "lo han dicho"
+    },
+    {
+      "start": 1479.2,
+      "end": 1480.78,
+      "text": "pero vamos a ponerle"
+    },
+    {
+      "start": 1480.78,
+      "end": 1482.34,
+      "text": "yo solo les quiero decir"
+    },
+    {
+      "start": 1482.34,
+      "end": 1482.78,
+      "text": "que es verdad"
+    },
+    {
+      "start": 1482.78,
+      "end": 1484.18,
+      "text": "muchas cosas se han prometido"
+    },
+    {
+      "start": 1484.18,
+      "end": 1484.68,
+      "text": "y en campaña"
+    },
+    {
+      "start": 1484.68,
+      "end": 1485.94,
+      "text": "se prometen muchas más"
+    },
+    {
+      "start": 1485.94,
+      "end": 1487.02,
+      "text": "pero yo tengo"
+    },
+    {
+      "start": 1487.02,
+      "end": 1487.88,
+      "text": "una experiencia"
+    },
+    {
+      "start": 1487.88,
+      "end": 1489.1,
+      "text": "de algo que costó"
+    },
+    {
+      "start": 1489.1,
+      "end": 1491.22,
+      "text": "10 años sacarlo y hoy hoy día, aunque la gente"
+    },
+    {
+      "start": 1491.22,
+      "end": 1493.22,
+      "text": "vote o no vote por mí, les quiero decir que estoy contenta"
+    },
+    {
+      "start": 1493.22,
+      "end": 1495.1,
+      "text": "por ustedes, porque a todos les van a subir las pensiones."
+    },
+    {
+      "start": 1495.84,
+      "end": 1496.98,
+      "text": "Así que yo lo dejo ahí nomás,"
+    },
+    {
+      "start": 1497.06,
+      "end": 1498.92,
+      "text": "porque creo que la experiencia de gestión puede servir"
+    },
+    {
+      "start": 1498.92,
+      "end": 1500.5,
+      "text": "para las nuevas tareas que tenemos."
+    },
+    {
+      "start": 1500.76,
+      "end": 1502.62,
+      "text": "No es fácil esto, como ministra."
+    },
+    {
+      "start": 1503.2,
+      "end": 1504.5,
+      "text": "Ah, ministra, perdón."
+    },
+    {
+      "start": 1504.92,
+      "end": 1505.82,
+      "text": "Janet, Janet, Janet. Candidata, candidra, perdón. Janet, Janet, Janet."
+    },
+    {
+      "start": 1506.6,
+      "end": 1507.64,
+      "text": "Candidata, candidata."
+    },
+    {
+      "start": 1508.14,
+      "end": 1509.04,
+      "text": "Candidata Janet Harris."
+    },
+    {
+      "start": 1510.18,
+      "end": 1512.12,
+      "text": "Vamos por otro tema económico importante."
+    },
+    {
+      "start": 1512.44,
+      "end": 1516.8,
+      "text": "Las cuentas de la luz, que tiene ribetes políticos y tiene ribetes económicos."
+    },
+    {
+      "start": 1516.96,
+      "end": 1521.92,
+      "text": "Y algo, un link con usted que tiene ahí algo que decir respecto de los precios de la luz."
+    },
+    {
+      "start": 1522.46,
+      "end": 1525.2,
+      "text": "Voy a partir por lo más contingente, lo político."
+    },
+    {
+      "start": 1526.02,
+      "end": 1532.0,
+      "text": "Ayer la oposición ha señalado que finalmente va a presentar una acusación constitucional"
+    },
+    {
+      "start": 1532.56,
+      "end": 1535.68,
+      "text": "contra el ex ministro de Energía, Diego Pardó,"
+    },
+    {
+      "start": 1536.24,
+      "end": 1539.98,
+      "text": "y el gobierno ha dicho, bueno, están en todo su derecho."
+    },
+    {
+      "start": 1540.16,
+      "end": 1544.02,
+      "text": "Pero incluso hay parlamentarios del oficialismo que han apoyado"
+    },
+    {
+      "start": 1544.02,
+      "end": 1546.38,
+      "text": "o que dicen que van a considerar esta iniciativa."
+    },
+    {
+      "start": 1547.06,
+      "end": 1552.28,
+      "text": "¿Usted cree que hay mérito para una acusación constitucional"
+    },
+    {
+      "start": 1552.28,
+      "end": 1555.6,
+      "text": "contra Diego Pardo por todo lo que ha ocurrido con las telifas eléctricas?"
+    },
+    {
+      "start": 1556.04,
+      "end": 1557.08,
+      "text": "¿Los errores que ocurrieron?"
+    },
+    {
+      "start": 1558.36,
+      "end": 1562.82,
+      "text": "Mire, yo creo que lo que ocurrió es muy grave, partiendo de ahí."
+    },
+    {
+      "start": 1563.58,
+      "end": 1566.62,
+      "text": "O sea, no le resto nada de gravedad, porque"
+    },
+    {
+      "start": 1566.62,
+      "end": 1570.46,
+      "text": "más allá de que hoy día el debate se ha puesto en que sería muy poca plata la que"
+    },
+    {
+      "start": 1570.46,
+      "end": 1577.1,
+      "text": "se tendría que compensar, ¿no? El punto no es eso. Sí, es la confianza en la ciudadanía"
+    },
+    {
+      "start": 1577.1,
+      "end": 1584.0,
+      "text": "y es además el inverso, que cuando a ti te tienen que cobrar eso, aunque sea poca plata, si tú no tienes para pagarlo, te corta la luz nomás."
+    },
+    {
+      "start": 1584.0,
+      "end": 1591.06,
+      "text": "Y eso es una cuestión real. Entonces yo lo encuentro una situación grave. Me preocupa tres cosas."
+    },
+    {
+      "start": 1591.2,
+      "end": 1595.54,
+      "text": "La primera, si los parlamentarios quieren acusar"
+    },
+    {
+      "start": 1595.54,
+      "end": 1596.2,
+      "text": "o iniciar"
+    },
+    {
+      "start": 1596.2,
+      "end": 1596.6,
+      "text": "esta comisión"
+    },
+    {
+      "start": 1596.6,
+      "end": 1597.3,
+      "text": "investigadora"
+    },
+    {
+      "start": 1597.3,
+      "end": 1597.98,
+      "text": "o acusar"
+    },
+    {
+      "start": 1597.98,
+      "end": 1598.66,
+      "text": "constitucionalmente"
+    },
+    {
+      "start": 1598.66,
+      "end": 1599.0,
+      "text": "perdón"
+    },
+    {
+      "start": 1599.0,
+      "end": 1599.8,
+      "text": "a Diego Pardó"
+    },
+    {
+      "start": 1599.8,
+      "end": 1601.8,
+      "text": "es su decisión"
+    },
+    {
+      "start": 1601.8,
+      "end": 1602.84,
+      "text": "es una cosa autónoma"
+    },
+    {
+      "start": 1602.84,
+      "end": 1603.7,
+      "text": "yo lo único que veo"
+    },
+    {
+      "start": 1603.7,
+      "end": 1604.68,
+      "text": "es que si esto se hace"
+    },
+    {
+      "start": 1604.68,
+      "end": 1605.9,
+      "text": "a humed la elección"
+    },
+    {
+      "start": 1605.9,
+      "end": 1606.32,
+      "text": "a lo mejor"
+    },
+    {
+      "start": 1606.32,
+      "end": 1607.06,
+      "text": "se transforme más"
+    },
+    {
+      "start": 1607.06,
+      "end": 1607.68,
+      "text": "en un debate"
+    },
+    {
+      "start": 1607.68,
+      "end": 1608.66,
+      "text": "entre nosotros"
+    },
+    {
+      "start": 1608.66,
+      "end": 1609.94,
+      "text": "que a la gente"
+    },
+    {
+      "start": 1609.94,
+      "end": 1610.74,
+      "text": "no le soluciona en nada el tema de la luz en nada a lo mejor se transforme más en un debate entre nosotros que a la gente no le soluciona"
+    },
+    {
+      "start": 1610.74,
+      "end": 1611.56,
+      "text": "en nada el tema de la luz"
+    },
+    {
+      "start": 1611.56,
+      "end": 1612.68,
+      "text": "en nada eso"
+    },
+    {
+      "start": 1612.68,
+      "end": 1614.16,
+      "text": "lo segundo que veo"
+    },
+    {
+      "start": 1614.16,
+      "end": 1615.0,
+      "text": "es que esto"
+    },
+    {
+      "start": 1615.0,
+      "end": 1615.86,
+      "text": "no puede volver a pasar"
+    },
+    {
+      "start": 1615.86,
+      "end": 1617.44,
+      "text": "porque da espacio"
+    },
+    {
+      "start": 1617.44,
+      "end": 1618.54,
+      "text": "para que"
+    },
+    {
+      "start": 1618.54,
+      "end": 1619.58,
+      "text": "en vez de"
+    },
+    {
+      "start": 1619.58,
+      "end": 1620.4,
+      "text": "fortalecer"
+    },
+    {
+      "start": 1620.4,
+      "end": 1621.16,
+      "text": "estas instituciones"
+    },
+    {
+      "start": 1621.16,
+      "end": 1621.9,
+      "text": "fiscalizadoras"
+    },
+    {
+      "start": 1621.9,
+      "end": 1622.44,
+      "text": "que tienen que hacer"
+    },
+    {
+      "start": 1622.44,
+      "end": 1623.0,
+      "text": "bien su pega"
+    },
+    {
+      "start": 1623.0,
+      "end": 1624.64,
+      "text": "quedan más desacreditadas"
+    },
+    {
+      "start": 1624.64,
+      "end": 1625.42,
+      "text": "y es mucho más complicado."
+    },
+    {
+      "start": 1625.42,
+      "end": 1633.5,
+      "text": "A ver, en el round Luz, Transelec y demás, lo que uno, más allá si prospera o no la"
+    },
+    {
+      "start": 1633.5,
+      "end": 1638.92,
+      "text": "acusación, es que si lo supieron hace un año en la administración vigente, eso parece"
+    },
+    {
+      "start": 1638.92,
+      "end": 1639.64,
+      "text": "una cosa imprescindible."
+    },
+    {
+      "start": 1639.64,
+      "end": 1641.3,
+      "text": "Por eso yo lo encuentro parece una cosa que uno podría"
+    },
+    {
+      "start": 1641.3,
+      "end": 1647.68,
+      "text": "incluso hacerse la pregunta de cuánta gente lo sabía y cuánta gente lo cayó. O sea, yo lo"
+    },
+    {
+      "start": 1647.68,
+      "end": 1653.72,
+      "text": "comparto. Sí, además no entiendo muy bien por qué. Sabes, Mariana, que a uno le pasan cosas cuando uno"
+    },
+    {
+      "start": 1653.72,
+      "end": 1655.24,
+      "text": "gestiona. No es que a uno"
+    },
+    {
+      "start": 1655.24,
+      "end": 1656.54,
+      "text": "le salga todo perfecto."
+    },
+    {
+      "start": 1657.04,
+      "end": 1658.04,
+      "text": "Ocurren decisiones"
+    },
+    {
+      "start": 1658.04,
+      "end": 1658.42,
+      "text": "que a veces"
+    },
+    {
+      "start": 1658.42,
+      "end": 1659.76,
+      "text": "no era la más acertada"
+    },
+    {
+      "start": 1659.76,
+      "end": 1660.24,
+      "text": "o que alguien"
+    },
+    {
+      "start": 1660.24,
+      "end": 1661.18,
+      "text": "se equivocó en algo"
+    },
+    {
+      "start": 1661.18,
+      "end": 1661.92,
+      "text": "o que hubo un error aquí."
+    },
+    {
+      "start": 1662.08,
+      "end": 1663.02,
+      "text": "Pero uno lo corrige."
+    },
+    {
+      "start": 1663.46,
+      "end": 1664.02,
+      "text": "Ese es el punto."
+    },
+    {
+      "start": 1664.36,
+      "end": 1665.42,
+      "text": "Si aquí nadie es infalible."
+    },
+    {
+      "start": 1665.96,
+      "end": 1667.12,
+      "text": "Y estas decisiones"
+    },
+    {
+      "start": 1667.12,
+      "end": 1667.6,
+      "text": "y tareas"
+    },
+    {
+      "start": 1667.6,
+      "end": 1668.46,
+      "text": "no son fáciles."
+    },
+    {
+      "start": 1668.8,
+      "end": 1670.92,
+      "text": "Pero para cargos técnicos hay que tener"
+    },
+    {
+      "start": 1670.92,
+      "end": 1675.74,
+      "text": "experticia técnica no sólo política y por otro lado hay que construir equipos por eso es tan"
+    },
+    {
+      "start": 1675.74,
+      "end": 1680.02,
+      "text": "importante a quien se elija de presidente de chile porque en el fondo las promesas después se las"
+    },
+    {
+      "start": 1680.02,
+      "end": 1685.94,
+      "text": "lleva el viento y en un año más yo no quiero que nosotros estemos conversando aquí todavía en un"
+    },
+    {
+      "start": 1685.94,
+      "end": 1690.14,
+      "text": "nuevo gobierno sino el que encabezo yo echándole la culpa al gobierno anterior de lo que hizo no"
+    },
+    {
+      "start": 1690.14,
+      "end": 1694.36,
+      "text": "hizo y llegué más fin de año sin haber ejecutado el presupuesto porque resulta que a la gente que"
+    },
+    {
+      "start": 1694.36,
+      "end": 1699.62,
+      "text": "nombró al ministro no tenía ni idea y nunca había estado en el estado. Yo creo que hay que aprender"
+    },
+    {
+      "start": 1699.62,
+      "end": 1700.22,
+      "text": "a asumir cuando uno se equivoca y corregir. Yo también, Estado. Insisto, yo creo que... Yo creo que hay que aprender a asumir"
+    },
+    {
+      "start": 1700.22,
+      "end": 1701.2,
+      "text": "cuando uno se equivoca"
+    },
+    {
+      "start": 1701.2,
+      "end": 1702.02,
+      "text": "y corregir."
+    },
+    {
+      "start": 1702.14,
+      "end": 1702.52,
+      "text": "Yo también."
+    },
+    {
+      "start": 1703.18,
+      "end": 1704.24,
+      "text": "Ahí coincido con usted"
+    },
+    {
+      "start": 1704.24,
+      "end": 1705.56,
+      "text": "y creo que los políticos..."
+    },
+    {
+      "start": 1705.56,
+      "end": 1706.46,
+      "text": "Ahora estamos hablando"
+    },
+    {
+      "start": 1706.46,
+      "end": 1707.44,
+      "text": "de los políticos de turno,"
+    },
+    {
+      "start": 1707.58,
+      "end": 1709.14,
+      "text": "del gobierno de turno,"
+    },
+    {
+      "start": 1709.24,
+      "end": 1709.82,
+      "text": "pero podríamos hablar"
+    },
+    {
+      "start": 1709.82,
+      "end": 1710.4,
+      "text": "de todos, digamos."
+    },
+    {
+      "start": 1710.56,
+      "end": 1711.58,
+      "text": "Siempre tienen una excusa"
+    },
+    {
+      "start": 1711.58,
+      "end": 1712.02,
+      "text": "para todos."
+    },
+    {
+      "start": 1712.14,
+      "end": 1713.42,
+      "text": "Bueno, el gobierno"
+    },
+    {
+      "start": 1713.42,
+      "end": 1714.42,
+      "text": "que entra dice"
+    },
+    {
+      "start": 1714.42,
+      "end": 1719.36,
+      "text": "esto es culpa del gobierno anterior y todo eso. Pero lo cierto es... Un año. Ahora en"
+    },
+    {
+      "start": 1719.36,
+      "end": 1724.22,
+      "text": "este gobierno no se dijo eso. Y sí hubo muchos problemas. Candidata, que dentro del esquema"
+    },
+    {
+      "start": 1724.22,
+      "end": 1729.76,
+      "text": "de la luz, usted hablaba recién de que los sueldos mínimos no alcanzan para financiar"
+    },
+    {
+      "start": 1729.76,
+      "end": 1730.54,
+      "text": "el mes."
+    },
+    {
+      "start": 1730.68,
+      "end": 1736.12,
+      "text": "Yo también comparto con usted que el mínimo sea 600 mil pesos si es que uno lo llevara a ese nivel."
+    },
+    {
+      "start": 1736.56,
+      "end": 1741.84,
+      "text": "Y que cualquier pieza para arrendar en cualquier parte del país no baja de los 300."
+    },
+    {
+      "start": 1742.64,
+      "end": 1745.94,
+      "text": "O sea, 400 y te quedan 200 y comes y te vistes y"
+    },
+    {
+      "start": 1745.94,
+      "end": 1754.26,
+      "text": "te mueves, no da. Y la luz, déjeme decirle, la luz es un valor, digamos, que es súper"
+    },
+    {
+      "start": 1754.26,
+      "end": 1759.48,
+      "text": "sustantivo dentro del presupuesto familiar. Entonces, ¿cómo usted plantea y promete"
+    },
+    {
+      "start": 1759.48,
+      "end": 1762.32,
+      "text": "que las tarifas eventualmente podrían bajar?"
+    },
+    {
+      "start": 1762.52,
+      "end": 1762.72,
+      "text": "Sí."
+    },
+    {
+      "start": 1763.1,
+      "end": 1763.48,
+      "text": "¿Me entiende?"
+    },
+    {
+      "start": 1763.68,
+      "end": 1765.28,
+      "text": "Y le ha puesto un número, 20%."
+    },
+    {
+      "start": 1765.28,
+      "end": 1765.96,
+      "text": "¿Tiene alguna mirada para eso?"
+    },
+    {
+      "start": 1766.6,
+      "end": 1767.04,
+      "text": "Perdón."
+    },
+    {
+      "start": 1767.22,
+      "end": 1769.64,
+      "text": "¿Tiene usted, digamos, estadística para eso?"
+    },
+    {
+      "start": 1769.68,
+      "end": 1770.04,
+      "text": "Sí, claro."
+    },
+    {
+      "start": 1770.56,
+      "end": 1771.82,
+      "text": "Hay un estudio técnico detrás"
+    },
+    {
+      "start": 1771.82,
+      "end": 1774.06,
+      "text": "y además hemos conversado con alguna de las eléctricas."
+    },
+    {
+      "start": 1774.16,
+      "end": 1782.02,
+      "text": "Todo esto viene propuesto en el programa antes de que hubiese este error en los reajustes y Transcelec y todo lo que hemos conocido en los últimos días, ¿no?"
+    },
+    {
+      "start": 1782.36,
+      "end": 1790.1,
+      "text": "Y viene por lo siguiente, lo que pasa es que, lo que comentaba con anterioridad, Chile tiene una posibilidad importante porque hay mucha energía solar. Y esto"
+    },
+    {
+      "start": 1790.1,
+      "end": 1791.54,
+      "text": "ha ido abaratando costos y va a"
+    },
+    {
+      "start": 1791.54,
+      "end": 1792.72,
+      "text": "seguir abaratando costos la"
+    },
+    {
+      "start": 1792.72,
+      "end": 1794.06,
+      "text": "generación de energía para los"
+    },
+    {
+      "start": 1794.06,
+      "end": 1796.16,
+      "text": "próximos años. El problema es"
+    },
+    {
+      "start": 1796.16,
+      "end": 1797.88,
+      "text": "que ninguno de esos abaratamientos"
+    },
+    {
+      "start": 1797.88,
+      "end": 1799.06,
+      "text": "de costos se traducen a los"
+    },
+    {
+      "start": 1799.06,
+      "end": 1800.26,
+      "text": "clientes. ¿Pero cómo trae usted"
+    },
+    {
+      "start": 1800.26,
+      "end": 1802.16,
+      "text": "la energía solar del norte? No,"
+    },
+    {
+      "start": 1802.26,
+      "end": 1803.88,
+      "text": "si todo ese tema hoy día ya"
+    },
+    {
+      "start": 1803.88,
+      "end": 1804.74,
+      "text": "estará haciéndolo las"
+    },
+    {
+      "start": 1804.74,
+      "end": 1805.3,
+      "text": "generadoras"
+    },
+    {
+      "start": 1805.3,
+      "end": 1806.58,
+      "text": "el tema es trasladarle"
+    },
+    {
+      "start": 1806.58,
+      "end": 1807.4,
+      "text": "también esa reducción"
+    },
+    {
+      "start": 1807.4,
+      "end": 1808.28,
+      "text": "la carretera"
+    },
+    {
+      "start": 1808.28,
+      "end": 1808.94,
+      "text": "que tenemos"
+    },
+    {
+      "start": 1808.94,
+      "end": 1809.8,
+      "text": "para traer eso"
+    },
+    {
+      "start": 1809.8,
+      "end": 1810.48,
+      "text": "es una carretera"
+    },
+    {
+      "start": 1810.48,
+      "end": 1811.46,
+      "text": "antigua"
+    },
+    {
+      "start": 1811.46,
+      "end": 1812.5,
+      "text": "con hoyos"
+    },
+    {
+      "start": 1812.5,
+      "end": 1813.82,
+      "text": "usted ve"
+    },
+    {
+      "start": 1813.82,
+      "end": 1814.78,
+      "text": "la parte anterior"
+    },
+    {
+      "start": 1814.78,
+      "end": 1815.14,
+      "text": "claro"
+    },
+    {
+      "start": 1815.14,
+      "end": 1816.58,
+      "text": "pero la parte anterior"
+    },
+    {
+      "start": 1816.58,
+      "end": 1817.74,
+      "text": "es la que conversábamos"
+    },
+    {
+      "start": 1817.74,
+      "end": 1818.0,
+      "text": "cierto"
+    },
+    {
+      "start": 1818.0,
+      "end": 1818.54,
+      "text": "de mi sueño"
+    },
+    {
+      "start": 1818.54,
+      "end": 1819.06,
+      "text": "para que Chile"
+    },
+    {
+      "start": 1819.06,
+      "end": 1819.62,
+      "text": "vuelva a tomar"
+    },
+    {
+      "start": 1819.62,
+      "end": 1820.66,
+      "text": "la vía del desarrollo,"
+    },
+    {
+      "start": 1821.2,
+      "end": 1823.06,
+      "text": "en mi gobierno esto va a ser mucha infraestructura."
+    },
+    {
+      "start": 1823.4,
+      "end": 1828.48,
+      "text": "Si uno quiere crecer y quiere pegarse un salto, no puede seguir con caminos a medias que han cortado."
+    },
+    {
+      "start": 1828.9,
+      "end": 1832.96,
+      "text": "O con caminos de una pista, o discutiendo todavía si hay un bypass entre la Serena y Coquimbo o no,"
+    },
+    {
+      "start": 1833.46,
+      "end": 1835.98,
+      "text": "o pie de monte en Concepción, son cuestiones que nos llevan años."
+    },
+    {
+      "start": 1836.5,
+      "end": 1840.3,
+      "text": "Yo lo que creo es que en esto hay que tener decisión y capacidad de ejecución."
+    },
+    {
+      "start": 1840.64,
+      "end": 1842.82,
+      "text": "Y en las cuentas de la luz, yo les quiero decir,"
+    },
+    {
+      "start": 1842.98,
+      "end": 1846.46,
+      "text": "la estimación de la reducción de costos para las industrias eléctricas,"
+    },
+    {
+      "start": 1846.62,
+      "end": 1850.56,
+      "text": "para la industria eléctrica, que está la la generadora la transmisora y la distribuidora"
+    },
+    {
+      "start": 1850.56,
+      "end": 1851.86,
+      "text": "es de un 40%"
+    },
+    {
+      "start": 1851.86,
+      "end": 1852.4,
+      "text": "entonces"
+    },
+    {
+      "start": 1852.4,
+      "end": 1853.6,
+      "text": "¿cómo no le vamos a transferir"
+    },
+    {
+      "start": 1853.6,
+      "end": 1854.52,
+      "text": "algo de esa reducción"
+    },
+    {
+      "start": 1854.52,
+      "end": 1855.64,
+      "text": "a partir de la introducción"
+    },
+    {
+      "start": 1855.64,
+      "end": 1856.34,
+      "text": "de infraestructura?"
+    },
+    {
+      "start": 1856.34,
+      "end": 1856.58,
+      "text": "a los clientes"
+    },
+    {
+      "start": 1856.58,
+      "end": 1858.24,
+      "text": "¿a partir de qué?"
+    },
+    {
+      "start": 1858.42,
+      "end": 1859.46,
+      "text": "no, del consumo"
+    },
+    {
+      "start": 1859.46,
+      "end": 1860.16,
+      "text": "de energía solar"
+    },
+    {
+      "start": 1860.16,
+      "end": 1860.54,
+      "text": "hoy día"
+    },
+    {
+      "start": 1860.54,
+      "end": 1861.22,
+      "text": "para la generación"
+    },
+    {
+      "start": 1861.22,
+      "end": 1861.82,
+      "text": "de energía eléctrica"
+    },
+    {
+      "start": 1861.82,
+      "end": 1862.92,
+      "text": "si está instalada"
+    },
+    {
+      "start": 1862.92,
+      "end": 1863.72,
+      "text": "en un lugar del país"
+    },
+    {
+      "start": 1863.72,
+      "end": 1864.64,
+      "text": "y no lo podemos trasladar"
+    },
+    {
+      "start": 1864.64,
+      "end": 1865.18,
+      "text": "al resto la verdad es que ya se traslada José ellos ya se están produciendo la reducción de energía eléctrica. Lo que pasa es que si está instalada en un lugar del país y no lo podemos trasladar al resto,"
+    },
+    {
+      "start": 1865.42,
+      "end": 1866.28,
+      "text": "la verdad es que..."
+    },
+    {
+      "start": 1866.28,
+      "end": 1867.22,
+      "text": "Ya se traslada, José."
+    },
+    {
+      "start": 1867.34,
+      "end": 1868.34,
+      "text": "Ellos ya se están produciendo"
+    },
+    {
+      "start": 1868.34,
+      "end": 1869.32,
+      "text": "la reducción de costos."
+    },
+    {
+      "start": 1869.6,
+      "end": 1870.54,
+      "text": "Si aquí lo que no está pasando"
+    },
+    {
+      "start": 1870.54,
+      "end": 1871.12,
+      "text": "es que eso no se está"
+    },
+    {
+      "start": 1871.12,
+      "end": 1872.24,
+      "text": "transfiriendo al cliente."
+    },
+    {
+      "start": 1872.26,
+      "end": 1873.06,
+      "text": "Bueno, hay contratos"
+    },
+    {
+      "start": 1873.06,
+      "end": 1873.74,
+      "text": "también que..."
+    },
+    {
+      "start": 1873.74,
+      "end": 1874.98,
+      "text": "Hay contratos que no vencen."
+    },
+    {
+      "start": 1875.2,
+      "end": 1876.34,
+      "text": "Hay contratos que vencen"
+    },
+    {
+      "start": 1876.34,
+      "end": 1877.18,
+      "text": "en los cuatro años"
+    },
+    {
+      "start": 1877.18,
+      "end": 1878.46,
+      "text": "y en esos vamos a hacer"
+    },
+    {
+      "start": 1878.46,
+      "end": 1879.02,
+      "text": "la licitación"
+    },
+    {
+      "start": 1879.02,
+      "end": 1880.02,
+      "text": "con estas condiciones. Déjame un segundo. Nos espera un momentito. Tenemos un consejo comercial y luego seguimos conversando con la candidata Hay contratos que vencen en los cuatro años y en esos vamos a hacer la licitación con esta condición."
+    },
+    {
+      "start": 1880.2,
+      "end": 1883.38,
+      "text": "Deme un segundo, nos espera un momentito, tenemos un consejo comercial"
+    },
+    {
+      "start": 1883.38,
+      "end": 1887.16,
+      "text": "y luego seguimos conversando con la candidata Janet Jara aquí en el bichón."
+    },
+    {
+      "start": 1887.84,
+      "end": 1893.74,
+      "text": "Quería llevarla a vivienda, déficit de vivienda, plan y promesa de construcción de vivienda,"
+    },
+    {
+      "start": 1894.42,
+      "end": 1897.56,
+      "text": "erradicación de tomas y campamentos."
+    },
+    {
+      "start": 1899.1,
+      "end": 1904.6,
+      "text": "En el programa que nosotros elaboramos, José, viene la construcción de 260.000 viviendas"
+    },
+    {
+      "start": 1904.6,
+      "end": 1911.08,
+      "text": "sociales. Nosotros sabemos que el déficit es mayor, pero para poder construir más viviendas se requieren más recursos."
+    },
+    {
+      "start": 1911.5,
+      "end": 1916.88,
+      "text": "Y en este país, cuando se discutió hace poco una reforma tributaria, no hubo mayoría para generar más recursos."
+    },
+    {
+      "start": 1917.5,
+      "end": 1925.32,
+      "text": "Entonces, con los recursos que hay, lo que se puede comprometer para cumplirse seriamente y de frente a la ciudadanía son 260.000 viviendas sociales"
+    },
+    {
+      "start": 1925.32,
+      "end": 1925.98,
+      "text": "¿Qué opinión tiene"
+    },
+    {
+      "start": 1925.98,
+      "end": 1926.86,
+      "text": "de la gestión de montes"
+    },
+    {
+      "start": 1926.86,
+      "end": 1927.56,
+      "text": "en vivienda?"
+    },
+    {
+      "start": 1927.68,
+      "end": 1928.52,
+      "text": "140.000"
+    },
+    {
+      "start": 1928.52,
+      "end": 1930.06,
+      "text": "habitabilidades de vivienda"
+    },
+    {
+      "start": 1930.06,
+      "end": 1930.8,
+      "text": "que es mejoramiento"
+    },
+    {
+      "start": 1930.8,
+      "end": 1931.66,
+      "text": "pensando sobre todo"
+    },
+    {
+      "start": 1931.66,
+      "end": 1932.04,
+      "text": "en la vivienda"
+    },
+    {
+      "start": 1932.04,
+      "end": 1933.14,
+      "text": "de los cerros Valparaíso"
+    },
+    {
+      "start": 1933.14,
+      "end": 1934.3,
+      "text": "o el Araucaní"
+    },
+    {
+      "start": 1934.3,
+      "end": 1934.86,
+      "text": "en la cordillera"
+    },
+    {
+      "start": 1934.86,
+      "end": 1935.7,
+      "text": "que hace tanto frío"
+    },
+    {
+      "start": 1935.7,
+      "end": 1936.18,
+      "text": "y las casas"
+    },
+    {
+      "start": 1936.18,
+      "end": 1937.08,
+      "text": "necesitan mayor"
+    },
+    {
+      "start": 1937.08,
+      "end": 1937.9,
+      "text": "aislación térmica"
+    },
+    {
+      "start": 1937.9,
+      "end": 1938.78,
+      "text": "La gestión de montes"
+    },
+    {
+      "start": 1938.78,
+      "end": 1939.68,
+      "text": "que a mí me pareció mala"
+    },
+    {
+      "start": 1939.68,
+      "end": 1940.24,
+      "text": "pero no sé"
+    },
+    {
+      "start": 1940.24,
+      "end": 1940.78,
+      "text": "qué opina usted."
+    },
+    {
+      "start": 1942.58,
+      "end": 1943.8,
+      "text": "Se perdió una plata"
+    },
+    {
+      "start": 1943.8,
+      "end": 1945.2,
+      "text": "ahora que no la encuentran,"
+    },
+    {
+      "start": 1945.4,
+      "end": 1946.18,
+      "text": "que era una deuda"
+    },
+    {
+      "start": 1946.18,
+      "end": 1946.44,
+      "text": "que debía ir"
+    },
+    {
+      "start": 1946.44,
+      "end": 1947.58,
+      "text": "con la inmobiliaria."
+    },
+    {
+      "start": 1948.32,
+      "end": 1948.4,
+      "text": "Sí,"
+    },
+    {
+      "start": 1948.74,
+      "end": 1949.04,
+      "text": "han habido"
+    },
+    {
+      "start": 1949.04,
+      "end": 1949.76,
+      "text": "varias dificultades"
+    },
+    {
+      "start": 1949.76,
+      "end": 1950.3,
+      "text": "en el Ministerio"
+    },
+    {
+      "start": 1950.3,
+      "end": 1950.6,
+      "text": "y hoy en día"
+    },
+    {
+      "start": 1950.6,
+      "end": 1951.18,
+      "text": "son innegables."
+    },
+    {
+      "start": 1952.0,
+      "end": 1952.8,
+      "text": "Yo preferiría"
+    },
+    {
+      "start": 1952.8,
+      "end": 1953.26,
+      "text": "no entrar"
+    },
+    {
+      "start": 1953.26,
+      "end": 1954.34,
+      "text": "en algún tipo de polémica"
+    },
+    {
+      "start": 1954.34,
+      "end": 1954.98,
+      "text": "porque la otra vez"
+    },
+    {
+      "start": 1954.98,
+      "end": 1959.66,
+      "text": "el Ministro Montes salió con una tesis bastante extraña y yo... Mire, ¿sabes qué? Prefiero"
+    },
+    {
+      "start": 1959.66,
+      "end": 1964.86,
+      "text": "concentrarme en tratar de dar soluciones. ¿Hubo una tensión entre el comando y...? Sí, no, yo entiendo."
+    },
+    {
+      "start": 1965.3,
+      "end": 1974.66,
+      "text": "¿En realidad hubo una tensión de él con el resto del mundo. Sí, lo que ocurre es que, más allá de la farandulización del tema,"
+    },
+    {
+      "start": 1974.84,
+      "end": 1977.12,
+      "text": "si ustedes se caen bien o mal, que da un poco lo mismo,"
+    },
+    {
+      "start": 1977.76,
+      "end": 1980.22,
+      "text": "es el estado en el cual usted va a encontrar la cartera."
+    },
+    {
+      "start": 1980.78,
+      "end": 1981.18,
+      "text": "Sí, claro, por lo mismo."
+    },
+    {
+      "start": 1981.4,
+      "end": 1985.3,
+      "text": "Entonces, si se pierde una plata y no sabemos dónde está la plata, digamos, estamos mal."
+    },
+    {
+      "start": 1985.3,
+      "end": 1992.66,
+      "text": "Pero a propósito de eso, ¿usted mantendría el subsidio a la tasa de los créditos hipotecarios?"
+    },
+    {
+      "start": 1993.14,
+      "end": 1994.3,
+      "text": "Que a todas luces..."
+    },
+    {
+      "start": 1994.3,
+      "end": 1994.94,
+      "text": "Ha resultado bien."
+    },
+    {
+      "start": 1994.98,
+      "end": 2000.74,
+      "text": "Es una de las cosas que se ha hecho bien, que no es solo de Monte, es del Ministerio de Vivienda, la Cámara de Construcción y la Asociación de Bancos."
+    },
+    {
+      "start": 2001.32,
+      "end": 2005.36,
+      "text": "Ayer Harold McNichol dijo, yo si llegara a la moneda lo mantendría."
+    },
+    {
+      "start": 2005.62,
+      "end": 2010.72,
+      "text": "Mira, te puedo contar una iniciativa que tenemos que complementa con el tema del subsidio al pie, ¿no?"
+    },
+    {
+      "start": 2011.08,
+      "end": 2015.46,
+      "text": "Y que le hemos llamado Hipotecaso, que es un hipotecario para jóvenes"
+    },
+    {
+      "start": 2015.46,
+      "end": 2020.5,
+      "text": "entre 25 y 40 años, porque resulta que hoy día los créditos hipotecarios, Mariana,"
+    },
+    {
+      "start": 2020.66,
+      "end": 2025.46,
+      "text": "son altísimos. No, y además algunos hasta 40 años. Entonces yo no quiero que la gente"
+    },
+    {
+      "start": 2025.46,
+      "end": 2030.98,
+      "text": "en mi país hasta los 80 años esté pagando dividendos. Y eso es, digamos, bien inusual"
+    },
+    {
+      "start": 2030.98,
+      "end": 2032.62,
+      "text": "porque en realidad el día no te prestan,"
+    },
+    {
+      "start": 2032.7,
+      "end": 2035.0,
+      "text": "o sea, hay que prácticamente"
+    },
+    {
+      "start": 2035.0,
+      "end": 2036.7,
+      "text": "pasar por un escaneo de la NASA."
+    },
+    {
+      "start": 2036.82,
+      "end": 2038.82,
+      "text": "Por lo mismo, entonces la idea es poder focalizar"
+    },
+    {
+      "start": 2038.82,
+      "end": 2041.44,
+      "text": "estos hipotecarios en la juventud chilena."
+    },
+    {
+      "start": 2041.9,
+      "end": 2043.04,
+      "text": "Y lo digo porque estas son"
+    },
+    {
+      "start": 2043.04,
+      "end": 2044.88,
+      "text": "viviendas que no son sociales, sino que se pagan"
+    },
+    {
+      "start": 2044.88,
+      "end": 2046.0,
+      "text": "con deuda con el banco."
+    },
+    {
+      "start": 2046.1,
+      "end": 2047.74,
+      "text": "¿Y el hipotecaso cuál sería la ayuda?"
+    },
+    {
+      "start": 2047.74,
+      "end": 2050.58,
+      "text": "La idea es tener un préstamo, ¿cierto?, que genere,"
+    },
+    {
+      "start": 2050.96,
+      "end": 2054.46,
+      "text": "primero, una puerta al pie, que es lo que hoy día está ya como propuesta usando."
+    },
+    {
+      "start": 2054.46,
+      "end": 2055.66,
+      "text": "Ayudaría al pie, ¿ya?"
+    },
+    {
+      "start": 2055.92,
+      "end": 2059.78,
+      "text": "Claro, y además condiciones de acceso al crédito que sean más ventajosas."
+    },
+    {
+      "start": 2060.18,
+      "end": 2063.6,
+      "text": "Por tanto, se estima que el dividendo no debiera superar los 300 mil pesos."
+    },
+    {
+      "start": 2063.6,
+      "end": 2068.64,
+      "text": "Estamos hablando de gente que, pudiendo juntar un pie, tiene 300 mil pesos para pagar todos los meses"
+    },
+    {
+      "start": 2068.64,
+      "end": 2070.72,
+      "text": "y no se tiene que recurrir a una vivienda social."
+    },
+    {
+      "start": 2071.44,
+      "end": 2075.58,
+      "text": "Pero además, si uno lo ve así en la vuelta de esto, podría a lo mejor contribuir a que tengamos un"
+    },
+    {
+      "start": 2075.58,
+      "end": 2077.08,
+      "text": "poquito más de tasa de natalía."
+    },
+    {
+      "start": 2077.18,
+      "end": 2079.98,
+      "text": "Lo del pie es súper importante"
+    },
+    {
+      "start": 2079.98,
+      "end": 2081.2,
+      "text": "porque el pie, mientras más"
+    },
+    {
+      "start": 2081.2,
+      "end": 2082.38,
+      "text": "chico, es menos requerimiento"
+    },
+    {
+      "start": 2082.38,
+      "end": 2083.5,
+      "text": "del sueldo, porque eso deja"
+    },
+    {
+      "start": 2083.5,
+      "end": 2084.08,
+      "text": "mucha gente fuera. Es un"
+    },
+    {
+      "start": 2084.08,
+      "end": 2085.76,
+      "text": "porcentaje del sueldo. Tiene que"
+    },
+    {
+      "start": 2085.76,
+      "end": 2087.42,
+      "text": "ser más o menos el 25% del"
+    },
+    {
+      "start": 2087.42,
+      "end": 2088.94,
+      "text": "sueldo. Política de erradicación"
+    },
+    {
+      "start": 2088.94,
+      "end": 2090.2,
+      "text": "de toma. Sí, claro. Yo creo que hay que hacer dos cosas sueldo. ¿Política de erradicación de tomas? Sí, claro."
+    },
+    {
+      "start": 2090.2,
+      "end": 2091.0,
+      "text": "¿Cuál es su mirada al respecto?"
+    },
+    {
+      "start": 2091.0,
+      "end": 2092.84,
+      "text": "Yo creo que hay que hacer dos cosas en esta materia."
+    },
+    {
+      "start": 2093.06,
+      "end": 2096.28,
+      "text": "Seguramente hay muchas más cosas que se pueden revisar,"
+    },
+    {
+      "start": 2096.4,
+      "end": 2097.96,
+      "text": "pero básicamente hoy día hay dos elementos."
+    },
+    {
+      "start": 2098.06,
+      "end": 2100.6,
+      "text": "¿Para usted una toma es un problema entre privados o no?"
+    },
+    {
+      "start": 2100.8,
+      "end": 2103.52,
+      "text": "No, no es un problema público, claramente."
+    },
+    {
+      "start": 2104.38,
+      "end": 2106.88,
+      "text": "Por más que el dueño del terreno sea un privado, es un problema público."
+    },
+    {
+      "start": 2107.34,
+      "end": 2110.0,
+      "text": "Y los gobernantes no podemos escapar de esa realidad."
+    },
+    {
+      "start": 2110.82,
+      "end": 2112.48,
+      "text": "Porque esa era la mirada de Monta en el inicio del gobierno."
+    },
+    {
+      "start": 2112.66,
+      "end": 2113.88,
+      "text": "¿Cómo se puede erradicar eso?"
+    },
+    {
+      "start": 2113.9,
+      "end": 2117.2,
+      "text": "Lo dijo en una entrevista, lo dijo que fue titular de Mercurio."
+    },
+    {
+      "start": 2117.42,
+      "end": 2118.44,
+      "text": "No, para mí no."
+    },
+    {
+      "start": 2118.6,
+      "end": 2122.44,
+      "text": "Son 1.200 las tomas que tenemos en Chile, un problema grave."
+    },
+    {
+      "start": 2122.58,
+      "end": 2123.78,
+      "text": "¿Cómo se puede erradicar eso?"
+    },
+    {
+      "start": 2123.78,
+      "end": 2127.3,
+      "text": "Y además, cuando hay problemas también de viviendas tan complejos,"
+    },
+    {
+      "start": 2127.36,
+      "end": 2133.36,
+      "text": "por ejemplo, aquellos que estaban en Viña y por estos incendios forestales muy dramáticos,"
+    },
+    {
+      "start": 2133.46,
+      "end": 2136.16,
+      "text": "con víctimas fatales también, no le han podido resolver ese problema."
+    },
+    {
+      "start": 2136.3,
+      "end": 2139.98,
+      "text": "Entonces, primero, ¿cómo se puede erradicar el tema de las tomas?"
+    },
+    {
+      "start": 2140.22,
+      "end": 2144.0,
+      "text": "Porque ya es una realidad, son miles y miles de familias que viven esa realidad."
+    },
+    {
+      "start": 2144.82,
+      "end": 2150.48,
+      "text": "No es llegar, interceptarlo y demoler esas casas, sino también para aquellos que tienen otras"
+    },
+    {
+      "start": 2150.48,
+      "end": 2155.42,
+      "text": "necesidades y que lamentablemente, producto, por ejemplo, de incendios forestales creados"
+    },
+    {
+      "start": 2155.42,
+      "end": 2159.54,
+      "text": "o no, están ahí viviendo en un campamento."
+    },
+    {
+      "start": 2159.54,
+      "end": 2165.0,
+      "text": "Mira, aquí hay una propuesta que ha hecho Déficit Cero, ligada a Techo,"
+    },
+    {
+      "start": 2165.82,
+      "end": 2170.04,
+      "text": "que da varias vías o caminos para poder solucionar esto."
+    },
+    {
+      "start": 2170.54,
+      "end": 2175.58,
+      "text": "Una de ellas, por ejemplo, darle una mayor participación a los comités de vivienda que hay en los campamentos,"
+    },
+    {
+      "start": 2176.1,
+      "end": 2180.2,
+      "text": "porque diría el 70% de la gente que está en campamento, no es que esté esperando que"
+    },
+    {
+      "start": 2180.2,
+      "end": 2184.74,
+      "text": "le regalen una casa, está organizada en comité de vivienda. En cooperativa. Esto no lo digo yo,"
+    },
+    {
+      "start": 2184.84,
+      "end": 2189.08,
+      "text": "lo dice Techo, o sea que una organización de la sociedad civil independiente, los gobiernos."
+    },
+    {
+      "start": 2189.08,
+      "end": 2198.98,
+      "text": "Muchos de ellos dicen, llevo ya 12, 13 años esperando. El tema es que para eso hay que darle una mayor participación en el plan de emergencia habitacional."
+    },
+    {
+      "start": 2199.48,
+      "end": 2203.46,
+      "text": "Yo lamento en este gobierno que no se hayan entregado muchas casas a los comités de bien de los campamentos."
+    },
+    {
+      "start": 2203.92,
+      "end": 2208.96,
+      "text": "Me imagino que tiene mucho que ver con la contingencia, lo que pasó con el caso Fundaciones, con los antofagastas y todo lo demás."
+    },
+    {
+      "start": 2209.48,
+      "end": 2213.26,
+      "text": "Pero la verdad, ahí además en los campamentos hay muchos niños. Entonces"
+    },
+    {
+      "start": 2213.26,
+      "end": 2217.44,
+      "text": "no nos puede dar lo mismo, porque estamos generando, yo diría, algo que es muy nocivo"
+    },
+    {
+      "start": 2217.44,
+      "end": 2222.3,
+      "text": "para la sociedad chilena, la falta de cohesión social. Yo espero que por el lado del tema"
+    },
+    {
+      "start": 2222.3,
+      "end": 2225.26,
+      "text": "de viviendas sociales nosotros podamos llegar más a campamentos."
+    },
+    {
+      "start": 2226.06,
+      "end": 2233.42,
+      "text": "Sé que hay varios campamentos con órdenes de desalojo pendiente y créame que en el caso de San Antonio yo igual entiendo lo que ha dicho Monte."
+    },
+    {
+      "start": 2233.86,
+      "end": 2235.98,
+      "text": "No es cualquier campamento, es mucha gente."
+    },
+    {
+      "start": 2236.54,
+      "end": 2241.22,
+      "text": "Y yo hago un llamado a que el actual gobierno ojalá encuentre pronto una vía de negociación"
+    },
+    {
+      "start": 2241.22,
+      "end": 2241.64,
+      "text": "adecuada"
+    },
+    {
+      "start": 2241.64,
+      "end": 2242.52,
+      "text": "con los dueños"
+    },
+    {
+      "start": 2242.52,
+      "end": 2242.96,
+      "text": "del terreno"
+    },
+    {
+      "start": 2242.96,
+      "end": 2244.26,
+      "text": "porque ellos tienen"
+    },
+    {
+      "start": 2244.26,
+      "end": 2244.96,
+      "text": "una orden judicial"
+    },
+    {
+      "start": 2244.96,
+      "end": 2245.34,
+      "text": "a su favor"
+    },
+    {
+      "start": 2245.34,
+      "end": 2246.14,
+      "text": "pero hay más"
+    },
+    {
+      "start": 2246.14,
+      "end": 2246.82,
+      "text": "de 10.000 personas"
+    },
+    {
+      "start": 2246.82,
+      "end": 2248.08,
+      "text": "ha habido un error"
+    },
+    {
+      "start": 2248.08,
+      "end": 2249.3,
+      "text": "de aproximación"
+    },
+    {
+      "start": 2249.3,
+      "end": 2252.08,
+      "text": "en su sector"
+    },
+    {
+      "start": 2252.08,
+      "end": 2253.3,
+      "text": "en su partido"
+    },
+    {
+      "start": 2253.3,
+      "end": 2254.2,
+      "text": "particularmente"
+    },
+    {
+      "start": 2254.2,
+      "end": 2254.86,
+      "text": "a las tomas"
+    },
+    {
+      "start": 2254.86,
+      "end": 2257.32,
+      "text": "en el relato histórico que ha tenido el Partido Comunista"
+    },
+    {
+      "start": 2257.32,
+      "end": 2258.24,
+      "text": "respecto a las tomas"
+    },
+    {
+      "start": 2258.24,
+      "end": 2262.58,
+      "text": "que ha sido decir que hay una reivindicación social"
+    },
+    {
+      "start": 2262.58,
+      "end": 2265.18,
+      "text": "que efectivamente la toma es un mecanismo"
+    },
+    {
+      "start": 2265.18,
+      "end": 2268.4,
+      "text": "de simetría social"
+    },
+    {
+      "start": 2268.4,
+      "end": 2274.12,
+      "text": "recuerdo muchos discursos del PC en la década del 70 y antes. Eso le iba"
+    },
+    {
+      "start": 2274.12,
+      "end": 2279.9,
+      "text": "a decir, claro. No, por eso, se lo pregunto. ¿Ha cambiado? Mire, yo lo que le puedo decir es que yo"
+    },
+    {
+      "start": 2279.9,
+      "end": 2284.46,
+      "text": "entiendo que todas las familias debieran tener su techo. El problema es que no estamos dando"
+    },
+    {
+      "start": 2284.46,
+      "end": 2285.46,
+      "text": "abasto como Estado."
+    },
+    {
+      "start": 2286.06,
+      "end": 2289.1,
+      "text": "Y la solución no es ni la toma ni cerrar los ojos a esta realidad,"
+    },
+    {
+      "start": 2289.54,
+      "end": 2291.78,
+      "text": "sino que hay que hacerse cargo con una buena gestión pública."
+    },
+    {
+      "start": 2292.3,
+      "end": 2297.54,
+      "text": "Y yo quiero contarles que en las reuniones que he hecho con las cámaras de Chile en la construcción en regiones"
+    },
+    {
+      "start": 2297.54,
+      "end": 2301.04,
+      "text": "y a nivel nacional, hay capacidad para construir más viviendas."
+    },
+    {
+      "start": 2301.3,
+      "end": 2302.86,
+      "text": "El problema es que eso requiere más recursos."
+    },
+    {
+      "start": 2303.04,
+      "end": 2309.28,
+      "text": "Se lo pregunto abiertamente y directamente a Yanet porque mucha gente nos puede estar viendo hasta ahora y decir..."
+    },
+    {
+      "start": 2309.28,
+      "end": 2316.76,
+      "text": "...básicamente el Partido Comunista siempre ha, históricamente en Chile, jugado un jaque hacia la toma, digamos."
+    },
+    {
+      "start": 2316.92,
+      "end": 2319.4,
+      "text": "Entonces, ¿por qué le voy a creer a la candidata que viene de ese sector?"
+    },
+    {
+      "start": 2319.52,
+      "end": 2322.42,
+      "text": "Entonces, yo se lo pregunto abiertamente para que usted lo aclare."
+    },
+    {
+      "start": 2322.6,
+      "end": 2326.94,
+      "text": "Aquí hay un cambio de posición, hay mayor pragmatismo político,"
+    },
+    {
+      "start": 2327.14,
+      "end": 2330.22,
+      "text": "usted se sacude de la historia de hace 40 años del Partido"
+    },
+    {
+      "start": 2330.22,
+      "end": 2334.12,
+      "text": "Comunista y ahora dice, mira, la verdad que no podemos seguir sosteniendo pilares de la"
+    },
+    {
+      "start": 2334.12,
+      "end": 2339.04,
+      "text": "década del 60. O sea, varias cosas. Ya, no, por eso le tiro la pelota. La primera es que"
+    },
+    {
+      "start": 2339.04,
+      "end": 2344.42,
+      "text": "muchos hablan desde la teoría. Ya. Yo, como viví, buena parte me vi a llegar y algún"
+    },
+    {
+      "start": 2344.42,
+      "end": 2346.52,
+      "text": "corto tiempo en campamento, sé"
+    },
+    {
+      "start": 2346.52,
+      "end": 2348.14,
+      "text": "lo difícil que es vivir ahí. Y"
+    },
+    {
+      "start": 2348.14,
+      "end": 2349.86,
+      "text": "no lo digo para victimizarme como"
+    },
+    {
+      "start": 2349.86,
+      "end": 2351.5,
+      "text": "algunos tratan de instalarlo,"
+    },
+    {
+      "start": 2351.56,
+      "end": 2352.68,
+      "text": "sino que lo digo porque soy una"
+    },
+    {
+      "start": 2352.68,
+      "end": 2354.9,
+      "text": "luchadora. Y quiero que así como"
+    },
+    {
+      "start": 2354.9,
+      "end": 2355.86,
+      "text": "yo he salido adelante, los"
+    },
+    {
+      "start": 2355.86,
+      "end": 2356.78,
+      "text": "chilenos y chilenos también"
+    },
+    {
+      "start": 2356.78,
+      "end": 2358.4,
+      "text": "salgan adelante. Lo segundo,"
+    },
+    {
+      "start": 2358.66,
+      "end": 2359.44,
+      "text": "respecto a las posiciones"
+    },
+    {
+      "start": 2359.44,
+      "end": 2361.08,
+      "text": "políticas, a mi entender, a la"
+    },
+    {
+      "start": 2361.08,
+      "end": 2362.74,
+      "text": "gente le cuesta mucho tener sus cositas"
+    },
+    {
+      "start": 2362.74,
+      "end": 2365.16,
+      "text": "a nadie le regalan nada, sobre todo a la gente"
+    },
+    {
+      "start": 2365.16,
+      "end": 2367.04,
+      "text": "de mayor esfuerzo, y yo espero"
+    },
+    {
+      "start": 2367.04,
+      "end": 2369.02,
+      "text": "que la gente que está haciendo su esfuerzo"
+    },
+    {
+      "start": 2369.02,
+      "end": 2371.26,
+      "text": "y en comités de allegado y tratando de postular"
+    },
+    {
+      "start": 2371.26,
+      "end": 2372.88,
+      "text": "a una vivienda, darle respuesta"
+    },
+    {
+      "start": 2372.88,
+      "end": 2390.54,
+      "text": "y lo tercero, respecto a lo que pasaba en la década del 70, déjenme decirle que aunque tenga hartas canas, al 70 todavía no nacía, al 74 sí, pero bueno, yo entiendo el registro histórico, pero no me, mire, uno, perdón, disculpe, pero yo voy a ser presidenta de los chilenos si así me eligen del 2026 y el 2026."
+    },
+    {
+      "start": 2390.54,
+      "end": 2392.6,
+      "text": "Yo entiendo que uno podría entrar en el espacio si saben que"
+    },
+    {
+      "start": 2392.6,
+      "end": 2394.4,
+      "text": "el país ha cambiado,"
+    },
+    {
+      "start": 2394.62,
+      "end": 2396.86,
+      "text": "las ideologías estrictas ya no sirven."
+    },
+    {
+      "start": 2396.98,
+      "end": 2398.62,
+      "text": "Yo lo que creo es que la vivienda es un derecho"
+    },
+    {
+      "start": 2398.62,
+      "end": 2400.64,
+      "text": "de las personas. El punto es que nosotros no somos"
+    },
+    {
+      "start": 2400.64,
+      "end": 2402.8,
+      "text": "capaces de dar abasto para proveer"
+    },
+    {
+      "start": 2402.8,
+      "end": 2404.34,
+      "text": "esa demanda. ¿Cómo va a dar abasto cuando hay personas que llevan"
+    },
+    {
+      "start": 2404.34,
+      "end": 2405.64,
+      "text": "12, 13 años esperando?"
+    },
+    {
+      "start": 2405.64,
+      "end": 2406.66,
+      "text": "El punto es que además solamente..."
+    },
+    {
+      "start": 2406.66,
+      "end": 2408.28,
+      "text": "Claro, ¿cómo lo va a resolver?"
+    },
+    {
+      "start": 2408.28,
+      "end": 2410.82,
+      "text": "¿Cómo este derecho lo pasa por el sobre del derecho de otro?"
+    },
+    {
+      "start": 2410.96,
+      "end": 2412.16,
+      "text": "No, es que eso es lo que no puede pasar."
+    },
+    {
+      "start": 2412.54,
+      "end": 2414.06,
+      "text": "No, yo ahí no estoy de acuerdo para nada."
+    },
+    {
+      "start": 2414.24,
+      "end": 2419.62,
+      "text": "O sea, nosotros no podemos en el país, digo Maya, el PC, porque yo no sé cómo hacer el PC,"
+    },
+    {
+      "start": 2419.7,
+      "end": 2422.16,
+      "text": "yo soy candidata a la presidencia de la centroizquierda chilena."
+    },
+    {
+      "start": 2423.02,
+      "end": 2427.64,
+      "text": "No podemos, yo no creo que mi derecho sea más importante que el tuyo, ¿me entiendes?"
+    },
+    {
+      "start": 2427.76,
+      "end": 2429.34,
+      "text": "O sea, una cosa mínima de convivencia."
+    },
+    {
+      "start": 2429.82,
+      "end": 2435.5,
+      "text": "Ahora, quiero decir algo, que nosotros siempre pensamos en el país que queremos más derechos sociales,"
+    },
+    {
+      "start": 2436.26,
+      "end": 2438.98,
+      "text": "pero más derechos sociales requieren financiamiento."
+    },
+    {
+      "start": 2439.04,
+      "end": 2439.74,
+      "text": "Bueno, por supuesto."
+    },
+    {
+      "start": 2439.84,
+      "end": 2445.46,
+      "text": "Es que no, lo digo porque resulta que, por un lado, se dice que vamos a fortalecer las policías,"
+    },
+    {
+      "start": 2445.94,
+      "end": 2448.5,
+      "text": "pero que vamos a disminuirle los impuestos a las empresas más grandes,"
+    },
+    {
+      "start": 2448.62,
+      "end": 2450.76,
+      "text": "que es lo que está diciendo el candidato de la ultraderecha. Entonces es complicado, porque cuando dice que va a disminuirle los impuestos a las empresas más grandes, que es lo que está diciendo el candidato de la ultraderecha."
+    },
+    {
+      "start": 2451.18,
+      "end": 2455.02,
+      "text": "Entonces es complicado, porque cuando dice que va a disminuir 6 mil millones de dólares"
+    },
+    {
+      "start": 2455.02,
+      "end": 2459.86,
+      "text": "y 21 mil en su gobierno, solo para tener una dimensión, 6 mil millones de dólares,"
+    },
+    {
+      "start": 2461.14,
+      "end": 2463.62,
+      "text": "la PGU son 6 mil 900 millones de dólares al año."
+    },
+    {
+      "start": 2463.84,
+      "end": 2468.06,
+      "text": "Entonces estamos hablando de 2 millones 400 mil personas que quedarían sin un año de financiamiento en la PGU."
+    },
+    {
+      "start": 2468.62,
+      "end": 2471.6,
+      "text": "No, él dice que va a financiar por otra vía. Eso es lo que él dice."
+    },
+    {
+      "start": 2471.94,
+      "end": 2482.04,
+      "text": "Mira, no sé. Yo, la subvención escolar, mala alimentación, o sea, el aporte que se hace en los colegios subvencionados más la alimentación de 1.800.000 niños son 5.400 millones de dólares."
+    },
+    {
+      "start": 2482.68,
+      "end": 2484.64,
+      "text": "Entonces, no son números, son personas."
+    },
+    {
+      "start": 2484.64,
+      "end": 2489.52,
+      "text": "La gratuidad escolar son 650.000 estudiantes y son 2.700 millones de dólares."
+    },
+    {
+      "start": 2489.7,
+      "end": 2496.06,
+      "text": "Entonces, con estos términos no se trata solo de prometer, se trata de hacer cosas que le hagan bien a Chile, no que la perjudiquen."
+    },
+    {
+      "start": 2496.14,
+      "end": 2496.9,
+      "text": "Muchas gracias, Yanet."
+    },
+    {
+      "start": 2496.9,
+      "end": 2497.26,
+      "text": "Muchas gracias, Yanet."
+    },
+    {
+      "start": 2497.26,
+      "end": 2500.18,
+      "text": "Y trabajo en el tiempo, también de candidata, ¿no?"
+    },
+    {
+      "start": 2500.28,
+      "end": 2500.58,
+      "text": "No, está bien."
+    },
+    {
+      "start": 2500.58,
+      "end": 2501.34,
+      "text": "Muchas gracias."
+    },
+    {
+      "start": 2502.14,
+      "end": 2503.2,
+      "text": "Salud, educación."
+    },
+    {
+      "start": 2507.22,
+      "end": 2508.14,
+      "text": "Bien, ¿no? Está bien."
+    },
+    {
+      "start": 2508.26,
+      "end": 2509.08,
+      "text": "Vino con público."
+    },
+    {
+      "start": 2509.12,
+      "end": 2510.28,
+      "text": "El pueblo soberano, que puede expresar libremente. Vino con público el pueblo soberano"
+    },
+    {
+      "start": 2510.28,
+      "end": 2511.9,
+      "text": "que puede expresar libremente"
+    },
+    {
+      "start": 2511.9,
+      "end": 2512.2,
+      "text": "vino con público"
+    },
+    {
+      "start": 2512.2,
+      "end": 2513.18,
+      "text": "solamente los quiero invitar"
+    },
+    {
+      "start": 2513.18,
+      "end": 2514.68,
+      "text": "a sintonizar el día de hoy"
+    },
+    {
+      "start": 2514.68,
+      "end": 2515.46,
+      "text": "a las siete y media"
+    },
+    {
+      "start": 2515.46,
+      "end": 2516.12,
+      "text": "de la tarde"
+    },
+    {
+      "start": 2516.12,
+      "end": 2517.16,
+      "text": "el candidato"
+    },
+    {
+      "start": 2517.16,
+      "end": 2518.0,
+      "text": "estará con nosotros"
+    },
+    {
+      "start": 2518.0,
+      "end": 2518.54,
+      "text": "el candidato"
+    },
+    {
+      "start": 2518.54,
+      "end": 2519.38,
+      "text": "al partido de la gente"
+    },
+    {
+      "start": 2519.38,
+      "end": 2520.8,
+      "text": "Franco Parisi"
+    },
+    {
+      "start": 2520.8,
+      "end": 2521.66,
+      "text": "Janet ya estuvo"
+    },
+    {
+      "start": 2521.66,
+      "end": 2523.02,
+      "text": "hace algunos capítulos"
+    },
+    {
+      "start": 2523.02,
+      "end": 2523.58,
+      "text": "atrás"
+    },
+    {
+      "start": 2523.58,
+      "end": 2524.92,
+      "text": "mis saludos para Franco"
+    },
+    {
+      "start": 2524.92,
+      "end": 2525.88,
+      "text": "que le vaya muy bien no tan bien enos para Franco, que le vaya muy bien."
+    },
+    {
+      "start": 2526.96,
+      "end": 2527.94,
+      "text": "No tan bien en todo caso."
+    },
+    {
+      "start": 2528.84,
+      "end": 2531.02,
+      "text": "No sé si le vaya muy bien, pero no tan bien."
+    },
+    {
+      "start": 2531.52,
+      "end": 2532.74,
+      "text": "Está muy bien, muchas gracias."
+    },
+    {
+      "start": 2533.02,
+      "end": 2536.16,
+      "text": "Buen punto, buen punto, para que vea que no ando pensando con la maldad."
+    }
+  ]
+}

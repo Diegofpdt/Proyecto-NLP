@@ -1,0 +1,2097 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "Gracias. Ya, gracias. Usted me avisa, ¿cómo está ahí? Bueno, comienza una nueva semana de campaña y queda menos de un mes para las elecciones. Quiero contarles que este fin de semana estuve recorriendo las regiones de O'Higgins, particularmente Rancagua y Machalí, donde nos reunimos con distintos dirigentes sociales, locales y personas que manifestaban tanto sus inquietudes como sus esperanzas para los próximos cuatro años. Y luego estuvimos en la región de Valparaíso el día de ayer en Catemu, en Villa Alemana y también en el Cerro Placeres de Valparaíso el día de ayer en catemu en villa alemana y también en el cerro placeres de valparaíso en catemu estuvimos acompañados tanto del gobernador regional como de los alcaldes del valle de la concagua principalmente preocupados por los temas de la sequía de la región de valparaíso y la capacidad de embalse que en comparación con otras regiones del país que están más hacia el norte, es muy baja con un cambio climático que ha ido generando efectivamente el avance de la desertificación y la necesidad de tener mayor almacenamiento de agua. Así que es un proyecto que yo diría muy necesario para la región y que pretendo que podamos impulsar con más fuerza en mi gobierno. Asimismo, la instalación del hospital biprovincial entre San Felipe y Los Andes y la necesidad de poder efectivamente dar respuesta a un requerimiento sobre un tren que una el Valle de la Concagua con Mendoza, Valparaíso y a la vez Santiago. Creo que esos son temas que uno recoge en los territorios y que de otra forma, desde el centro necesariamente no se ven todos con la misma claridad y me pareció muy importante tener el apoyo de los alcaldes del Valle de la Concagua porque se expresa en ellos la primera conexión que hay ciudadana con una autoridad pública. En Villa Alemana estuvimos también reunidos, ¿cierto?, en una de las poblaciones más emblemáticas de la comuna, para luego dirigirnos a hacer un casa-casa a Cerro Placeres, donde estuvimos además en la Plaza La Conquista con todos nuestros candidatos a diputados y diputadas de la región. De las cosas que más me llamó la atención en este, diría yo, fin de semana......es que el tema de las cuentas de la luz es un tema que sigue estando muy presente en la ciudadanía. Y muchos me han manifestado su preocupación tanto por el alza de las cuentas de la luz como por este error que habría producido un cobro en exceso para lo que piden claridad respecto de cómo se van a efectuar los reembolsos, cosa que me parece además a mí pertinente. Quiero señalar que en este contexto quiero relevar la propuesta que tenemos desde el comando, que se hace con anterioridad a esta polémica del error en el cálculo del reajuste de las cuentas de la luz, pero que va a permitir dentro del marco reglamentario adecuado poder reducir en un 20% la cuenta de luz de los chilenos y chilenas. Y lo quiero decir porque en materia de generación energética, nuestras generadoras hace tiempo ya están también haciendo transición a energía solar que es mucho más barata, que les abarata los costos, pero que esa reducción de costos no se ve reflejado en los clientes finales que son en definitiva los hogares de Chile. Así que vamos a impulsar este tema de poder generar efectivamente una rebaja en las cuentas de la luz del 20%. Yo quisiera señalar además que otra de las preocupaciones principales y que se observa en las regiones de nuestro país no es solamente el tema de la seguridad pública, no es solamente el tema de la seguridad para llegar a fin de mes, sino que un tercer tema que creo que el país tiene que atender con prontitud y es precisamente el tema de la salud pública. Yo en breves minutos más me voy a reunir con el Colegio Médico de Santiago, conozco de la preocupación que han expresado respecto de la falta de recursos para generar una ejecución presupuestaria que alcance a cubrir todos los meses del año, y comparto la preocupación que hay sobre ese tema, pero sea además de la necesidad de poder generar una mayor formación de especialistas, que es precisamente parte de lo que quiero conversar con el Colegio Médico, en un país como el nuestro que requiere más profesionales de la salud mental, más geriatras, reumatólogos, somos una población que está envejeciendo, y por cierto también generar más posibilidades de atención y servicios dentales con otros programas complementarios como el de remedios ya, para hacerle llegar a las personas mayores los remedios a su casa, ya los enfermos crónicos, el de generar más máquinas de toma de imágenes, en especial mamografía sin dolor. Y quisiera recordar que ayer, con motivo de la conmemoración de la prevención de la lucha contra el cáncer de mama, una vez más quiero relevar la necesidad que en nuestro país existan más mamógrafos, es muy necesario y vamos a traer esta tecnología nueva a la red de salud pública porque sabemos que en otros países ya se implementa y aquí todavía el examen genera bastantes molestias que es posible superar. Más de dos millones de personas en nuestro país están en una lista de espera, muchas de ellas efectivamente están por una cirugía, pero las más están por falta de especialistas y por falta de atención dental, ambos temas que se abordan en nuestro programa de gobierno. Quisiera por fin señalar que para nosotros la implementación de un plan integral de cáncer ginecológico y de mama es indispensable en el país, así como también comprometer la restauración mamaria para las mujeres que han sufrido esta enfermedad dentro del plazo de un año. Porque para nosotros es importante trabajar por la salud, trabajar por las personas y trabajar por Chile. Ponemos entonces ahora a disposición esta vocería para sus preguntas. Hola, candidata, ¿cómo está? Muy buenos días. Estamos en vivo para Meganoticias. Candidata, le quería consultar por los últimos resultados de las encuestas. ¿Ya? Según la última encuesta, usted pasaría a segunda vuelta sin mayor problema, pero en segunda vuelta el escenario sería totalmente distinto. Solo vencería a Eduardo Artés, Marco Enriquez Ominami y a Harold Maynichols por un solo punto. ¿A qué cree que se debe este cambio de panorama tan radical, de cierta forma, entre una primera y segunda vuelta? ¿Cree que influiría más su militancia, por ejemplo? ¿Y cómo se revierte la base de apoyo bajo estos resultados? Mire, yo de la experiencia que tengo de candidata, como ustedes saben, he sido candidata en esta elección, no llevo décadas de candidata a la presidencia de Chile, así que solo he sido candidata en esta elección, lo que les puedo decir es que la frase típica, las encuestas son fotos del momento. Y de lo que yo vi en la primaria, esto es bien volátil y al final la gente es la que decide. A mí en los puntos de prensa de las primarias se me preguntaba todas las semanas, poco menos que para qué seguía en carrera si no había ninguna posibilidad de acuerdo a la encuesta que ganara las elecciones primarias. Y todos sabemos el resultado que eso tuvo, entonces yo creo que hay que mantener la calma y seguir trabajando. Es lo único que a mí me motiva y la gente va a ser soberanamente, decididamente, quién defina quién va a ser su presidente o presidente y espero poder llegar con mis propuestas que buscan mejorar la vida de los chilenos y chilenas y que voten informadamente. Pero las encuestas son fotos y todos lo sabemos y yo lo tomo como un insumo más. Y me pasa algo, que cuando a veces las cosas son, uno las ve como más difíciles, fíjese que en vez de echarme para atrás, me produce un poquito más de motivación porque parece que como en la vida de todos los chilenos y chilenas no ha sido tan fácil, me pongo a disposición para trabajar más duro todavía. Candidata, y pensando justamente en ese escenario, la estrategia hoy día, usted dice, es un relanzamiento de esta recta final, pero pensando en el escenario de la segunda vuelta, ¿cuál va a ser el camino a seguir pensando en conquistar esos votos que hoy día muestran que no estarían para darle un triunfo a usted en esa segunda vuelta? Y otro punto, por una propuesta del candidato Kast, que acaba de detallar su encargado económico que dice que a final de cuentas el recorte fiscal en cuatro años sería de 21.000 millones de dólares. ¿Eso sí que podría afectar el gasto social a su juicio? Mire, sobre lo primero, la segunda vuelta es una etapa que se tiene que, primero, empezar con el hito del 16 de noviembre. Yo lo quiero decir bien claro porque aquí nadie debe dar carreras por corridas. Yo tengo toda la perspectiva de ganar la primera vuelta y pasar a segunda vuelta, pero eso lo va a decir la ciudadanía y en eso quiero ser sumamente respetuosa. Y lo que vamos a hacer en la segunda vuelta es lo mismo que hemos hecho hasta ahora, trabajar de frente, no andar escondida, no dar instrucciones erráticas, ni menos populistas, porque si usted me dice que hoy día en el fondo hay un giro en la propuesta de CAST que primero iba a reducir 6.000 millones de dólares que ya afectaba el gasto social y ahora quiere reducir 21.000 millones de dólares más, después de que hace dos días señalaba que eran 6.000 millones de dólares. Me preocupo un poco porque realmente considero que esto es un poco más serio postularse a la presidencia de un país que estar haciendo apuestas de cambio todos los días respecto de quién ofrece la mayor cifra. Yo lo que les puedo decir es que lo que yo vi fue lo siguiente. Kass salió con 6.000 millones, Kaiser salió con 15.000 millones y ahora Kass salió con que va a reducir 21.000 millones. Veremos qué pasa la próxima semana, a lo mejor ponen otras cifras sobre la mesa. Pero lo que les quiero decir es que esa cantidad de dinero va a reducir beneficios sociales que han costado mucho a los chilenos conquistar. Y no es algo que se trate de reducir a funcionarios públicos, operadores políticos, eso ya no afecta ni un punto de los siete puntos que quieren reducir del presupuesto. Entonces es delicado. Llegar al acuerdo por la reforma previsional costó 10 años y ahora por esta vía quieren desfinanciarlo. Avanzar en la gratuidad para los jóvenes en nuestro país costó también muchos años y por esta v vía quieren desfinanciarlo. Avanzar en la gratuidad para los jóvenes en nuestro país costó también muchos años y por esta vía lo quieren desfinanciar. En un año más, si nosotros optamos en nuestro país soberanamente en una elección que yo no voy a cuestionar, como ellos ya están haciéndolo, el resultado eventual que pudiera haber en una elección si es que ellos no ganan. Lo que va a estar discutiendo el país es cuánta gente se va a haber visto perjudicada a partir de estas apuestas que suben cada semana. Yo lo que le sugiero a la prensa es que esperemos con qué se le caiga la próxima semana, porque esto está así de voluble. Es que Caz ya ahora subió a 21.000. Kass puso 6.000 millones de dólares, después Kaiser propuso 15.000 millones de dólares, y ahora esta semana Kass propone reducir 21.000 millones de dólares. Entonces me imagino que ahora le toca a Kaiser decir una cifra mayor. Así de serios. Candidata, insistir con la estrategia que viene ahora, a menos de un mes de la primera vuelta presidencial, y por otro lado, respecto a la franja, cómo ha dimensionado la franja de sus opositores, de sus contrincantes, y también ese guiño que hace el Partido Republicano sobre sin comunismo. Mire, sobre lo que viene ahora, principalmente nosotros vamos a seguir trabajando desde los territorios y desde los barrios. Yo sé que son a veces bien contraintuitivas algunas de las cosas que hacemos porque la política generalmente se hace desde Santiago y desde los cazapiedras, centros de eventos o lugares de debate. A mí me gusta combinar las cosas porque yo creo que en Chile ni todos son empresarios, ni todos son trabajadores, ni todos son emprendedores, ni todos son de la U, ni todos son del colo. Somos como una familia, algunos piensan distinto, pero no por eso dejamos de ser familia. Así que yo creo que es bueno estar en los barrios, estar acá también en Santiago en los foros, reunirnos con los gremios, como les comentaba, en unos minutos más bien el colegio médico, y yo espero estar esta semana cerrando la semana en Antofagasta, precisamente porque como en Chile se discute harto de los temas de seguridad pública que afectan sobre todo al norte del país, quiero hacer una presentación precisa de mis propuestas para esa región, pero además porque hay compromisos con una región minera tan importante que ha generado tanto riqueza para el país que no se han cumplido, como un centro oncológico para Calama que tiene altos índices de contaminación y que yo, por cierto, voy a ir a suscribir y comprometer con la comunidad. Sobre la franja, lo que les puedo señalar es que a mí me interesa hacer una franja propositiva, que busque soluciones, una campaña que sea limpia de frente a la ciudadanía y lo que los demás hagan están en su legítimo derecho, pero por ese camino yo no voy a ir. Aunque pueda generarles votos en algunos ciertos populismos, ese no es mi camino. Y sobre el gesto de republicano hacia incomunismo, fíjese que yo pienso bien distinto a los republicanos, pero nunca se me ocurriría anularlo o borrarlo del mapa. Esa es la diferencia entre quienes estamos por un sistema en el cual Chile sea un puro país unido y quienes creen que son los dueños de la verdad, que en definitiva se convierten en autoritarios. ¿Cómo está? Buenos días. Buenos días. Guirío Girard, el ex senador durante este fin de semana, dijo que la única manera de que usted mejore su posición es congelando su militancia en el Partido Comunista tras la primera vuelta. ¿Cómo ve usted esta afirmación y está dispuesta o no a congelar su militancia? Mire, ese tema no está sobre la mesa y yo agradezco todas las sugerencias que se hacen, pero las decisiones en definitiva las tomo yo. Pero en segunda vuelta, eventualmente. Veremos cuando estemos en la segunda vuelta, pero hoy día no está sobre la mesa y las decisiones las tomo yo. Gracias por la sugerencia a todos en todo caso. Hola, buenos días, candidata. Buenos días. Quería llevarle al tema del error en la alza de las cuentas de la electricidad. ¿Puede subir un poquito el micrófono? Eso, que no lo escuchaba bien. Sí, le decía que quería llevarle al tema de las alzas individuas en las cuentas de la electricidad. ¿Cree usted que las responsabilidades políticas se agotan con la salida del exministro Pardó o hay que buscar eventualmente otras? Se lo pregunto porque el Partido Comunista está impulsando una comisión investigadora en la Cámara de Diputados. A ver, lo primero es que respecto del error en las cuentas de la luz, yo creo que hay que seguir aquí tres vías. En primer lugar, responsabilidades políticas y por eso he sido bastante clara. En mi gobierno, las y los ministros van a asumir sus responsabilidades políticas. Todas las autoridades van a asumir sus responsabilidades políticas. Todas las autoridades van a asumir sus responsabilidades políticas. En esto quiero ser bien clara. En segundo lugar, evidentemente, tienen que realizarse todas las investigaciones que procedan. Sumario administrativo, investigación. Y si en el Parlamento se quiere levantar una comisión investigadora, aunque hemos visto que en época de elecciones no necesariamente son muy contribuyentes a dar un debate de profundidad sobre los temas, están igualmente ellos en su derecho. Pero efectivamente hay responsabilidad administrativa. Y lo tercero es que aunque la generadoraas eléctricas han salido a decir que ellos no tenían conocimiento de que estaban cobrando de más, igualmente cuando a uno le pagan de más tiene que devolver la plata. Entonces yo creo que son esas tres cosas. Lo político, lo administrativo, si el Parlamento además quiere levantar una comisión de investigadores están en su derecho, pero aquí está faltando una parte, que es que la generadora eléctrica le digan a las personas cuándo van a entregarles su, devuelta el dinero que no les correspondía recibir. Puede que, no tengo ninguna duda de que puede que no lo hayan sabido, no hay mala fe, pero igual tienen que devolver la plata, no les correspondía, así de simple. Y lo otro, el plazo para esta compensación o devolución de los dineros que se cobraron de más, se habla de que viene a ser en enero, ¿a su juicio debe ser antes? ¿Hay posibilidad de que esto se adelante? Porque esperar hasta enero falta todavía. Yo creo que esa es una muy buena pregunta para las eléctricas. Porque al final los que tienen que devolver la plata no van a ser ni el gobierno ni el Parlamento, que son los que están discutiendo cuándo se va a devolver. Pero aquí son las eléctricas las que tienen que devolverle la plata a la gente, así que sería buena idea que ellas lo dijeran. Porque cuando le tienen que cobrar a la gente, digamos que eso pasa al tiro. La pregunta es cuándo le tienen que devolver, porque no han dicho nada al respecto. Hola, candidata, ¿cómo está? Buenos días. Quería preguntarle primero algo de Girardi, lo que pasó con la entrevista. Usted dice que las decisiones las toma usted. ¿Le molesta a usted que le sugieran este tipo de cosas por la prensa? No, para nada. Sabe que estoy acostumbrada. Entiendo que hay mucha gente que tiene mucho interés de aportar y encuentra que la vía adecuada es hacerlo por la prensa. Hay otra que lo hace en privado, en reuniones, yo no tengo problema, lo que sí, que hoy día no es un tema que esté sobre la mesa y cuando llegue la segunda vuelta se va a discutir la estrategia de segunda vuelta, pero no es un tema que esté sobre la mesa, pero no me molesta, estoy acostumbrada, es así un poco la política en Chile y además cuando una mujer es más, así que cada uno sabe cómo hace las cosas. Yo lo tomo como un dato de realidad nomás. Y la otra pregunta que tenía para usted es si usted hace suya la molestia que ha expresado la democracia cristiana por el uso de la imagen del presidente Patricio Edelwein en la franja de renovación nacional. Y en esa misma línea, ¿qué le parece que desde ese comando, del comando de Belén Matei, están buscando captar los votos del centro político? Bueno, cada uno sigue la estrategia comunicacional que le parezca más adecuada. Yo lo único que quiero señalar al respecto es que en el comando de Belecuada, yo lo único que quiero señalar al respecto es que en el comando de Belén Matei hicieron lo mismo que el republicano hizo con Jaime Guzmán. Y le reclamaron los de Belén Matei que los republicanos estaban ocupando a Jaime Guzmán y resulta que ahora ellos están ocupando una figura de la democracia cristiana. Yo por lo menos para esas cosas no estoy. ¿Pero usted asesora la molestia que ha expresado la ADC, que es parte de su comando? Sí, claro, es parte de mi comando, no solo me representa en ese tema, sino que además le encuentro razón, porque las elecciones no es un todo vale. Aquí hay ciertas formas en las cuales uno tiene que tener claridad de que no puede ocupar figuras que son de otro sector. Es como improcedente, pero bueno, de mi parte por lo menos no lo van a encontrar. Candidata, buenos días. Quería hacer una pregunta. La segunda vuelta, ¿la ve como una nueva elección que se parte de cero? Sí, la verdad es que sí. ¿En qué sentido? Qué bueno que me lo pregunte así. Mire, yo creo que en nuestro país hoy día lo que hay son dos fenómenos, ¿cierto? Tenemos primero un sector de la derecha que no se logró poner de acuerdo en nada, aun cuando quiere gobernar el país, y por eso tiene una dispersión entre varios candidatos, y seguramente entre algunos de ellos va a salir quien represente al sector. Algunos de ellos se mueven un poco más a la derecha, otros un poco más al centro y se van desfondando por un lado o por otro. De hecho, Cás se trató de mover hacia el sector de Belén Matei y Kaiser creció por el lado, por eso ahora Cás sale a ofrecer una reducción a un más grande de gasto público, que esto a la gente, en realidad, no sé si verá los efectos de esto en la casa, pero lo que le están diciendo es que le van a bajar los beneficios sociales, o van a dejar de financiar carabineros, funcionarios de la salud, profesores de la educación, eso es lo que hay detrás de esto. Y alimentan ese odio contra los funcionarios públicos porque en otros países como Argentina, Estados Unidos, le han dado resultados. Pero en Chile, el gran gasto no está en los funcionarios, está en los beneficios que le llegan a la gente. Entonces, aquí va a haber un representante de la derecha chilena o de la ultraderecha chilena, que es el que pasa la segunda vuelta. Y ahí, si es que la gente también me es el que pasa a la segunda vuelta y ahí si es que la gente también me elige para pasar a la segunda vuelta van a haber dos proyectos de país muy distintos que se van a confrontar muy distintos yo por lo menos vengo perseguida por una alianza política amplia en la cual hay nueve partidos políticos y todo evidentemente tenemos cosas en las que estamos de acuerdo y cosas en las que no, casi lo más parecido a Chile que hay. Por eso creo que podemos ofrecer la mejor gobernabilidad, pero eso lo tiene que juzgar la ciudadanía. Candidata, ahora sí, la última pregunta. Bueno. ¿Cómo piensa sumar votos si matemáticamente la oposición tiene tres candidatos? ¿esos dan los números? creo que este es un desafío importante yo lo asumo con responsabilidad y lo que voy a hacer es trabajar duro pero solamente quiero decirle que en la política no se trata de sumar votos ni de sumar logos partidarios, yo lo tengo claro, lo vivimos en la primaria y creo que ahora puede pasar algo parecido, el tema es que no lo vamos a saber hasta que las cosas pasen, así que yo más que especular, lo que estamos haciendo en mi comando es trabajar y yo trabajando a full por esto porque creo que Chile se merece una vida que mejore en calidad y no retroceder. Y me preocupa enormemente las posibilidades de retroceso que hay con personas que creen que solo sus ideas son las válidas. Aquí hay gente que se opuso hasta a la ley Cholito, que pretende encabezar el país. O sea, no solamente a todas las leyes que fortalecían la autonomía de las mujeres, o que reconocían a la disidencia en nuestro país, o que incluso negaron la reforma tributaria para poder financiar el aumento de pensiones, y ahora anda con una chapita el candidato Kass de que ama la PGU. Sino que además se opuso a la ley Cholito. Entonces yo digo, ¿qué clase de humanidad hay aquí? Yo me la voy a jugar hasta el final porque quiero un Chile unido y que avance, con todas sus diversidades, pero que avance, no que retroceda. Muchas gracias. Gracias, chiquillos. Los vecinos. Los vecinos del barrio. Gracias. Gracias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "Gracias.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 14.0,
+      "end": 14.86,
+      "text": "Ya, gracias.",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 23.18,
+      "end": 40.5,
+      "text": "Usted me avisa, ¿cómo está ahí? Bueno, comienza una nueva semana de campaña y queda menos de un mes para las elecciones.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 41.24,
+      "end": 46.38,
+      "text": "Quiero contarles que este fin de semana estuve recorriendo las regiones de O'Higgins,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 47.3,
+      "end": 50.98,
+      "text": "particularmente Rancagua y Machalí, donde nos reunimos con distintos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 50.98,
+      "end": 57.18,
+      "text": "dirigentes sociales, locales y personas que manifestaban tanto sus inquietudes como sus",
+      "speaker": "Jara"
+    },
+    {
+      "start": 57.18,
+      "end": 62.46,
+      "text": "esperanzas para los próximos cuatro años. Y luego estuvimos en la región de Valparaíso el día de",
+      "speaker": "Jara"
+    },
+    {
+      "start": 62.46,
+      "end": 65.38,
+      "text": "ayer en Catemu, en Villa Alemana y también en el Cerro Placeres de Valparaíso el día de ayer en catemu en villa alemana",
+      "speaker": "Jara"
+    },
+    {
+      "start": 65.38,
+      "end": 69.46,
+      "text": "y también en el cerro placeres de valparaíso",
+      "speaker": "Jara"
+    },
+    {
+      "start": 69.46,
+      "end": 72.9,
+      "text": "en catemu estuvimos acompañados tanto del gobernador regional como de los",
+      "speaker": "Jara"
+    },
+    {
+      "start": 72.9,
+      "end": 77.1,
+      "text": "alcaldes del valle de la concagua principalmente preocupados por los temas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 77.1,
+      "end": 83.64,
+      "text": "de la sequía de la región de valparaíso y la capacidad de embalse que en comparación con otras regiones del país",
+      "speaker": "Jara"
+    },
+    {
+      "start": 83.64,
+      "end": 87.36,
+      "text": "que están más hacia el norte, es muy baja con un cambio climático",
+      "speaker": "Jara"
+    },
+    {
+      "start": 87.36,
+      "end": 91.24,
+      "text": "que ha ido generando efectivamente el avance de la desertificación",
+      "speaker": "Jara"
+    },
+    {
+      "start": 91.24,
+      "end": 93.78,
+      "text": "y la necesidad de tener mayor almacenamiento de agua.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 93.92,
+      "end": 97.76,
+      "text": "Así que es un proyecto que yo diría muy necesario para la región",
+      "speaker": "Jara"
+    },
+    {
+      "start": 97.76,
+      "end": 100.86,
+      "text": "y que pretendo que podamos impulsar con más fuerza en mi gobierno.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 101.44,
+      "end": 105.38,
+      "text": "Asimismo, la instalación del hospital biprovincial entre San Felipe y Los Andes",
+      "speaker": "Jara"
+    },
+    {
+      "start": 105.38,
+      "end": 112.46,
+      "text": "y la necesidad de poder efectivamente dar respuesta a un requerimiento sobre un",
+      "speaker": "Jara"
+    },
+    {
+      "start": 112.46,
+      "end": 118.8,
+      "text": "tren que una el Valle de la Concagua con Mendoza, Valparaíso y a la vez Santiago.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 119.36,
+      "end": 124.58,
+      "text": "Creo que esos son temas que uno recoge en los territorios y que de otra forma, desde",
+      "speaker": "Jara"
+    },
+    {
+      "start": 124.58,
+      "end": 126.6,
+      "text": "el centro necesariamente no se",
+      "speaker": "Jara"
+    },
+    {
+      "start": 126.6,
+      "end": 131.82,
+      "text": "ven todos con la misma claridad y me pareció muy importante tener el apoyo de los alcaldes del",
+      "speaker": "Jara"
+    },
+    {
+      "start": 131.82,
+      "end": 138.34,
+      "text": "Valle de la Concagua porque se expresa en ellos la primera conexión que hay ciudadana con una",
+      "speaker": "Jara"
+    },
+    {
+      "start": 138.34,
+      "end": 140.04,
+      "text": "autoridad pública.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 142.94,
+      "end": 146.4,
+      "text": "En Villa Alemana estuvimos también reunidos, ¿cierto?, en una de las poblaciones más emblemáticas de la comuna,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 146.82,
+      "end": 149.52,
+      "text": "para luego dirigirnos a hacer un casa-casa a Cerro Placeres,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 149.64,
+      "end": 151.62,
+      "text": "donde estuvimos además en la Plaza La Conquista",
+      "speaker": "Jara"
+    },
+    {
+      "start": 151.62,
+      "end": 154.8,
+      "text": "con todos nuestros candidatos a diputados y diputadas de la región.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 155.5,
+      "end": 160.9,
+      "text": "De las cosas que más me llamó la atención en este, diría yo, fin de semana...",
+      "speaker": "Jara"
+    },
+    {
+      "start": 160.9,
+      "end": 166.26,
+      "text": "...es que el tema de las cuentas de la luz es un tema que sigue estando muy presente en la ciudadanía.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 166.84,
+      "end": 173.94,
+      "text": "Y muchos me han manifestado su preocupación tanto por el alza de las cuentas de la luz como por este error que habría producido un cobro",
+      "speaker": "Jara"
+    },
+    {
+      "start": 173.94,
+      "end": 178.32,
+      "text": "en exceso para lo que piden claridad respecto de cómo se van a efectuar los reembolsos,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 178.5,
+      "end": 182.98,
+      "text": "cosa que me parece además a mí pertinente. Quiero señalar que en este contexto quiero",
+      "speaker": "Jara"
+    },
+    {
+      "start": 182.98,
+      "end": 187.96,
+      "text": "relevar la propuesta que tenemos desde el comando, que se hace con anterioridad a esta polémica del error",
+      "speaker": "Jara"
+    },
+    {
+      "start": 187.96,
+      "end": 191.5,
+      "text": "en el cálculo del reajuste de las cuentas de la luz, pero que va a permitir",
+      "speaker": "Jara"
+    },
+    {
+      "start": 191.5,
+      "end": 199.74,
+      "text": "dentro del marco reglamentario adecuado poder reducir en un 20% la cuenta de luz",
+      "speaker": "Jara"
+    },
+    {
+      "start": 199.74,
+      "end": 201.24,
+      "text": "de los chilenos y chilenas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 201.7,
+      "end": 207.72,
+      "text": "Y lo quiero decir porque en materia de generación energética, nuestras generadoras hace tiempo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 207.72,
+      "end": 212.94,
+      "text": "ya están también haciendo transición a energía solar que es mucho más barata, que les abarata",
+      "speaker": "Jara"
+    },
+    {
+      "start": 212.94,
+      "end": 218.56,
+      "text": "los costos, pero que esa reducción de costos no se ve reflejado en los clientes finales que son en definitiva los hogares",
+      "speaker": "Jara"
+    },
+    {
+      "start": 218.56,
+      "end": 226.68,
+      "text": "de Chile. Así que vamos a impulsar este tema de poder generar efectivamente una rebaja",
+      "speaker": "Jara"
+    },
+    {
+      "start": 226.68,
+      "end": 230.12,
+      "text": "en las cuentas de la luz del 20%. Yo quisiera señalar además",
+      "speaker": "Jara"
+    },
+    {
+      "start": 230.12,
+      "end": 233.82,
+      "text": "que otra de las preocupaciones principales y que se observa en las regiones de nuestro",
+      "speaker": "Jara"
+    },
+    {
+      "start": 233.82,
+      "end": 239.54,
+      "text": "país no es solamente el tema de la seguridad pública, no es solamente el tema de la seguridad",
+      "speaker": "Jara"
+    },
+    {
+      "start": 239.54,
+      "end": 244.22,
+      "text": "para llegar a fin de mes, sino que un tercer tema que creo que el país tiene que atender",
+      "speaker": "Jara"
+    },
+    {
+      "start": 244.22,
+      "end": 245.24,
+      "text": "con prontitud",
+      "speaker": "Jara"
+    },
+    {
+      "start": 245.24,
+      "end": 250.5,
+      "text": "y es precisamente el tema de la salud pública. Yo en breves minutos más me voy a reunir",
+      "speaker": "Jara"
+    },
+    {
+      "start": 250.5,
+      "end": 255.32,
+      "text": "con el Colegio Médico de Santiago, conozco de la preocupación que han expresado respecto",
+      "speaker": "Jara"
+    },
+    {
+      "start": 255.32,
+      "end": 263.94,
+      "text": "de la falta de recursos para generar una ejecución presupuestaria que alcance a cubrir todos los meses del año, y comparto la preocupación",
+      "speaker": "Jara"
+    },
+    {
+      "start": 263.94,
+      "end": 267.7,
+      "text": "que hay sobre ese tema, pero sea además de la necesidad de poder generar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 267.7,
+      "end": 270.96,
+      "text": "una mayor formación de especialistas, que es precisamente parte de lo que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 270.96,
+      "end": 274.74,
+      "text": "quiero conversar con el Colegio Médico, en un país como el nuestro que requiere",
+      "speaker": "Jara"
+    },
+    {
+      "start": 274.74,
+      "end": 280.12,
+      "text": "más profesionales de la salud mental, más geriatras, reumatólogos, somos una población",
+      "speaker": "Jara"
+    },
+    {
+      "start": 280.12,
+      "end": 285.14,
+      "text": "que está envejeciendo, y por cierto también generar más posibilidades de atención y servicios",
+      "speaker": "Jara"
+    },
+    {
+      "start": 285.14,
+      "end": 293.66,
+      "text": "dentales con otros programas complementarios como el de remedios ya, para hacerle llegar a las personas mayores los remedios a su casa, ya los enfermos crónicos,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 294.22,
+      "end": 298.52,
+      "text": "el de generar más máquinas de toma de imágenes, en especial mamografía sin dolor.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 299.1,
+      "end": 307.8,
+      "text": "Y quisiera recordar que ayer, con motivo de la conmemoración de la prevención de la lucha contra el cáncer de mama, una vez más quiero relevar la necesidad",
+      "speaker": "Jara"
+    },
+    {
+      "start": 307.8,
+      "end": 311.26,
+      "text": "que en nuestro país existan más mamógrafos, es muy necesario",
+      "speaker": "Jara"
+    },
+    {
+      "start": 311.26,
+      "end": 315.06,
+      "text": "y vamos a traer esta tecnología nueva a la red de salud pública",
+      "speaker": "Jara"
+    },
+    {
+      "start": 315.06,
+      "end": 318.64,
+      "text": "porque sabemos que en otros países ya se implementa y aquí todavía",
+      "speaker": "Jara"
+    },
+    {
+      "start": 318.64,
+      "end": 320.2,
+      "text": "el examen genera",
+      "speaker": "Jara"
+    },
+    {
+      "start": 320.2,
+      "end": 324.88,
+      "text": "bastantes molestias que es posible superar. Más de dos millones de personas en nuestro",
+      "speaker": "Jara"
+    },
+    {
+      "start": 324.88,
+      "end": 329.0,
+      "text": "país están en una lista de espera, muchas de ellas efectivamente están por una cirugía,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 329.36,
+      "end": 334.68,
+      "text": "pero las más están por falta de especialistas y por falta de atención dental, ambos temas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 334.68,
+      "end": 337.84,
+      "text": "que se abordan en nuestro programa de gobierno.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 338.78,
+      "end": 343.66,
+      "text": "Quisiera por fin señalar que para nosotros la implementación de un plan integral",
+      "speaker": "Jara"
+    },
+    {
+      "start": 343.66,
+      "end": 347.62,
+      "text": "de cáncer ginecológico y de mama es indispensable en el país,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 347.78,
+      "end": 351.58,
+      "text": "así como también comprometer la restauración mamaria para las",
+      "speaker": "Jara"
+    },
+    {
+      "start": 351.58,
+      "end": 352.56,
+      "text": "mujeres que han sufrido esta",
+      "speaker": "Jara"
+    },
+    {
+      "start": 352.56,
+      "end": 354.24,
+      "text": "enfermedad dentro del plazo de",
+      "speaker": "Jara"
+    },
+    {
+      "start": 354.24,
+      "end": 356.98,
+      "text": "un año. Porque para nosotros es",
+      "speaker": "Jara"
+    },
+    {
+      "start": 356.98,
+      "end": 358.26,
+      "text": "importante trabajar por la",
+      "speaker": "Jara"
+    },
+    {
+      "start": 358.26,
+      "end": 360.0,
+      "text": "salud, trabajar por las personas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 360.0,
+      "end": 361.88,
+      "text": "y trabajar por Chile. Ponemos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 361.88,
+      "end": 363.58,
+      "text": "entonces ahora a disposición",
+      "speaker": "Jara"
+    },
+    {
+      "start": 363.58,
+      "end": 365.52,
+      "text": "esta vocería para sus preguntas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 367.34,
+      "end": 369.58,
+      "text": "Hola, candidata, ¿cómo está? Muy buenos días.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 370.04,
+      "end": 374.7,
+      "text": "Estamos en vivo para Meganoticias. Candidata, le quería consultar por los últimos resultados de las encuestas.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 374.86,
+      "end": 375.0,
+      "text": "¿Ya?",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 375.28,
+      "end": 379.08,
+      "text": "Según la última encuesta, usted pasaría a segunda vuelta sin mayor problema,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 379.52,
+      "end": 381.92,
+      "text": "pero en segunda vuelta el escenario sería totalmente distinto.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 382.42,
+      "end": 388.1,
+      "text": "Solo vencería a Eduardo Artés, Marco Enriquez Ominami y a Harold Maynichols por un solo punto.",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 388.6,
+      "end": 392.22,
+      "text": "¿A qué cree que se debe este cambio de panorama tan radical, de cierta forma,",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 392.28,
+      "end": 393.52,
+      "text": "entre una primera y segunda vuelta?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 394.04,
+      "end": 398.5,
+      "text": "¿Cree que influiría más su militancia, por ejemplo? ¿Y cómo se",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 398.5,
+      "end": 400.48,
+      "text": "revierte la base de apoyo bajo estos resultados?",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 401.08,
+      "end": 405.02,
+      "text": "Mire, yo de la experiencia que tengo de candidata, como ustedes saben, he sido",
+      "speaker": "Jara"
+    },
+    {
+      "start": 405.02,
+      "end": 411.2,
+      "text": "candidata en esta elección, no llevo décadas de candidata a la presidencia de Chile, así",
+      "speaker": "Jara"
+    },
+    {
+      "start": 411.2,
+      "end": 416.34,
+      "text": "que solo he sido candidata en esta elección, lo que les puedo decir es que la frase típica,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 416.5,
+      "end": 420.52,
+      "text": "las encuestas son fotos del momento. Y de lo que yo vi en la primaria, esto es bien",
+      "speaker": "Jara"
+    },
+    {
+      "start": 420.52,
+      "end": 425.3,
+      "text": "volátil y al final la gente es la que decide. A mí en los puntos de prensa de las",
+      "speaker": "Jara"
+    },
+    {
+      "start": 425.3,
+      "end": 430.72,
+      "text": "primarias se me preguntaba todas las semanas, poco menos que para qué seguía en carrera si no había",
+      "speaker": "Jara"
+    },
+    {
+      "start": 430.72,
+      "end": 434.86,
+      "text": "ninguna posibilidad de acuerdo a la encuesta que ganara las elecciones primarias. Y todos sabemos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 434.86,
+      "end": 439.28,
+      "text": "el resultado que eso tuvo, entonces yo creo que hay que mantener la calma y seguir trabajando.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 439.48,
+      "end": 444.96,
+      "text": "Es lo único que a mí me motiva y la gente va a ser soberanamente, decididamente, quién",
+      "speaker": "Jara"
+    },
+    {
+      "start": 444.96,
+      "end": 450.16,
+      "text": "defina quién va a ser su presidente o presidente y espero poder llegar con mis propuestas que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 450.16,
+      "end": 454.82,
+      "text": "buscan mejorar la vida de los chilenos y chilenas y que voten informadamente. Pero las encuestas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 454.82,
+      "end": 458.18,
+      "text": "son fotos y todos lo sabemos y yo lo tomo como un insumo más.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 458.84,
+      "end": 463.48,
+      "text": "Y me pasa algo, que cuando a veces las cosas son, uno las ve como más difíciles,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 463.54,
+      "end": 467.44,
+      "text": "fíjese que en vez de echarme para atrás, me produce un poquito más de motivación",
+      "speaker": "Jara"
+    },
+    {
+      "start": 467.44,
+      "end": 471.28,
+      "text": "porque parece que como en la vida de todos los chilenos y chilenas no ha sido tan fácil,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 472.08,
+      "end": 476.6,
+      "text": "me pongo a disposición para trabajar más duro todavía.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 477.84,
+      "end": 480.02,
+      "text": "Candidata, y pensando justamente en ese escenario,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 480.42,
+      "end": 484.46,
+      "text": "la estrategia hoy día, usted dice, es un relanzamiento de esta recta final,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 484.72,
+      "end": 486.64,
+      "text": "pero pensando en el escenario de la segunda vuelta,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 486.86,
+      "end": 490.74,
+      "text": "¿cuál va a ser el camino a seguir pensando en conquistar esos votos",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 490.74,
+      "end": 493.94,
+      "text": "que hoy día muestran que no estarían para darle un triunfo a usted",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 493.94,
+      "end": 495.34,
+      "text": "en esa segunda vuelta?",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 495.48,
+      "end": 498.64,
+      "text": "Y otro punto, por una propuesta del candidato Kast,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 498.72,
+      "end": 501.5,
+      "text": "que acaba de detallar su encargado",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 501.5,
+      "end": 506.28,
+      "text": "económico que dice que a final de cuentas el recorte fiscal en cuatro años sería de",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 506.28,
+      "end": 511.3,
+      "text": "21.000 millones de dólares. ¿Eso sí que podría afectar el gasto social a su juicio?",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 511.84,
+      "end": 518.98,
+      "text": "Mire, sobre lo primero, la segunda vuelta es una etapa que se tiene que, primero, empezar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 518.98,
+      "end": 526.28,
+      "text": "con el hito del 16 de noviembre. Yo lo quiero decir bien claro porque aquí nadie debe dar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 526.28,
+      "end": 531.84,
+      "text": "carreras por corridas. Yo tengo toda la perspectiva de ganar la primera vuelta",
+      "speaker": "Jara"
+    },
+    {
+      "start": 531.84,
+      "end": 534.4,
+      "text": "y pasar a segunda vuelta, pero eso lo va a decir la ciudadanía",
+      "speaker": "Jara"
+    },
+    {
+      "start": 534.4,
+      "end": 536.3,
+      "text": "y en eso quiero ser sumamente respetuosa.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 537.0,
+      "end": 538.68,
+      "text": "Y lo que vamos a hacer en la segunda vuelta",
+      "speaker": "Jara"
+    },
+    {
+      "start": 538.68,
+      "end": 540.86,
+      "text": "es lo mismo que hemos hecho hasta ahora,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 541.1,
+      "end": 543.12,
+      "text": "trabajar de frente, no andar escondida,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 543.74,
+      "end": 548.48,
+      "text": "no dar instrucciones erráticas, ni menos populistas, porque si usted me dice",
+      "speaker": "Jara"
+    },
+    {
+      "start": 548.48,
+      "end": 553.2,
+      "text": "que hoy día en el fondo hay un giro en la propuesta de CAST que primero",
+      "speaker": "Jara"
+    },
+    {
+      "start": 553.2,
+      "end": 557.36,
+      "text": "iba a reducir 6.000 millones de dólares que ya afectaba el gasto social",
+      "speaker": "Jara"
+    },
+    {
+      "start": 557.36,
+      "end": 560.8,
+      "text": "y ahora quiere reducir 21.000 millones de dólares más,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 560.94,
+      "end": 565.1,
+      "text": "después de que hace dos días señalaba que eran 6.000 millones de dólares.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 565.98,
+      "end": 570.22,
+      "text": "Me preocupo un poco porque realmente considero que esto es un poco más serio",
+      "speaker": "Jara"
+    },
+    {
+      "start": 570.22,
+      "end": 574.46,
+      "text": "postularse a la presidencia de un país que estar haciendo apuestas de cambio todos los días",
+      "speaker": "Jara"
+    },
+    {
+      "start": 574.46,
+      "end": 578.94,
+      "text": "respecto de quién ofrece la mayor cifra. Yo lo que les puedo decir es que lo que yo vi fue lo siguiente.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 579.54,
+      "end": 586.0,
+      "text": "Kass salió con 6.000 millones, Kaiser salió con 15.000 millones y ahora Kass salió con que va a reducir",
+      "speaker": "Jara"
+    },
+    {
+      "start": 586.0,
+      "end": 593.66,
+      "text": "21.000 millones. Veremos qué pasa la próxima semana, a lo mejor ponen otras cifras sobre la mesa. Pero lo que les quiero decir es que esa cantidad de dinero",
+      "speaker": "Jara"
+    },
+    {
+      "start": 593.66,
+      "end": 602.48,
+      "text": "va a reducir beneficios sociales que han costado mucho a los chilenos conquistar. Y no es algo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 602.48,
+      "end": 605.84,
+      "text": "que se trate de reducir a funcionarios públicos, operadores políticos,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 605.92,
+      "end": 610.82,
+      "text": "eso ya no afecta ni un punto de los siete puntos que quieren reducir del presupuesto.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 610.96,
+      "end": 612.04,
+      "text": "Entonces es delicado.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 612.6,
+      "end": 615.78,
+      "text": "Llegar al acuerdo por la reforma previsional costó 10 años",
+      "speaker": "Jara"
+    },
+    {
+      "start": 615.78,
+      "end": 618.84,
+      "text": "y ahora por esta vía quieren desfinanciarlo.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 619.28,
+      "end": 623.44,
+      "text": "Avanzar en la gratuidad para los jóvenes en nuestro país costó también muchos años y por esta v vía quieren desfinanciarlo. Avanzar en la gratuidad para los jóvenes en nuestro país costó también muchos años",
+      "speaker": "Jara"
+    },
+    {
+      "start": 623.44,
+      "end": 625.56,
+      "text": "y por esta vía lo quieren desfinanciar.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 625.98,
+      "end": 630.52,
+      "text": "En un año más, si nosotros optamos en nuestro país soberanamente en una elección",
+      "speaker": "Jara"
+    },
+    {
+      "start": 630.52,
+      "end": 633.06,
+      "text": "que yo no voy a cuestionar, como ellos ya están haciéndolo,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 633.72,
+      "end": 637.26,
+      "text": "el resultado eventual que pudiera haber en una elección si es que ellos no ganan.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 637.84,
+      "end": 640.48,
+      "text": "Lo que va a estar discutiendo el país es cuánta gente se va a haber visto",
+      "speaker": "Jara"
+    },
+    {
+      "start": 640.48,
+      "end": 643.02,
+      "text": "perjudicada a partir de estas apuestas que suben cada semana.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 643.5,
+      "end": 645.6,
+      "text": "Yo lo que le sugiero a la prensa es que esperemos con qué se le caiga",
+      "speaker": "Jara"
+    },
+    {
+      "start": 645.6,
+      "end": 649.26,
+      "text": "la próxima semana, porque esto está así de voluble.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 650.32,
+      "end": 653.16,
+      "text": "Es que Caz ya ahora subió a 21.000.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 653.48,
+      "end": 657.94,
+      "text": "Kass puso 6.000 millones de dólares, después Kaiser propuso 15.000 millones de dólares,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 658.38,
+      "end": 661.22,
+      "text": "y ahora esta semana Kass propone reducir 21.000 millones de dólares.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 661.62,
+      "end": 664.02,
+      "text": "Entonces me imagino que ahora le toca a Kaiser decir una cifra mayor.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 664.74,
+      "end": 665.48,
+      "text": "Así de serios.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 666.3,
+      "end": 670.92,
+      "text": "Candidata, insistir con la estrategia que viene ahora, a menos de un mes",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 670.92,
+      "end": 674.28,
+      "text": "de la primera vuelta presidencial, y por otro lado, respecto a la franja,",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 674.44,
+      "end": 679.22,
+      "text": "cómo ha dimensionado la franja de sus opositores, de sus contrincantes,",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 679.62,
+      "end": 684.14,
+      "text": "y también ese guiño que hace el Partido Republicano sobre sin comunismo.",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 685.32,
+      "end": 690.28,
+      "text": "Mire, sobre lo que viene ahora, principalmente nosotros vamos a seguir trabajando",
+      "speaker": "Jara"
+    },
+    {
+      "start": 690.28,
+      "end": 692.28,
+      "text": "desde los territorios y desde los barrios.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 693.0,
+      "end": 696.66,
+      "text": "Yo sé que son a veces bien contraintuitivas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 696.66,
+      "end": 700.4,
+      "text": "algunas de las cosas que hacemos porque la política generalmente se hace desde Santiago",
+      "speaker": "Jara"
+    },
+    {
+      "start": 700.4,
+      "end": 706.22,
+      "text": "y desde los cazapiedras, centros de eventos o lugares de debate. A mí me gusta combinar las cosas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 706.22,
+      "end": 712.56,
+      "text": "porque yo creo que en Chile ni todos son empresarios, ni todos son trabajadores, ni todos son emprendedores, ni todos son de la U, ni todos son del colo.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 712.88,
+      "end": 717.38,
+      "text": "Somos como una familia, algunos piensan distinto, pero no por eso dejamos de ser familia. Así",
+      "speaker": "Jara"
+    },
+    {
+      "start": 717.38,
+      "end": 720.98,
+      "text": "que yo creo que es bueno estar en los barrios, estar acá también en Santiago en los foros,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 721.48,
+      "end": 727.62,
+      "text": "reunirnos con los gremios, como les comentaba, en unos minutos más bien el colegio médico, y yo espero estar esta semana",
+      "speaker": "Jara"
+    },
+    {
+      "start": 727.62,
+      "end": 732.84,
+      "text": "cerrando la semana en Antofagasta, precisamente porque como en Chile",
+      "speaker": "Jara"
+    },
+    {
+      "start": 732.84,
+      "end": 736.0,
+      "text": "se discute harto de los temas de seguridad pública que afectan",
+      "speaker": "Jara"
+    },
+    {
+      "start": 736.0,
+      "end": 739.52,
+      "text": "sobre todo al norte del país, quiero hacer una presentación precisa",
+      "speaker": "Jara"
+    },
+    {
+      "start": 739.52,
+      "end": 745.48,
+      "text": "de mis propuestas para esa región, pero además porque hay compromisos con una región minera tan importante",
+      "speaker": "Jara"
+    },
+    {
+      "start": 745.48,
+      "end": 750.56,
+      "text": "que ha generado tanto riqueza para el país que no se han cumplido, como un centro oncológico para",
+      "speaker": "Jara"
+    },
+    {
+      "start": 750.56,
+      "end": 756.36,
+      "text": "Calama que tiene altos índices de contaminación y que yo, por cierto, voy a ir a suscribir y comprometer con la comunidad.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 757.0,
+      "end": 760.14,
+      "text": "Sobre la franja, lo que les puedo señalar es que a mí me interesa hacer",
+      "speaker": "Jara"
+    },
+    {
+      "start": 760.14,
+      "end": 763.96,
+      "text": "una franja propositiva, que busque soluciones, una campaña que sea",
+      "speaker": "Jara"
+    },
+    {
+      "start": 763.96,
+      "end": 767.82,
+      "text": "limpia de frente a la ciudadanía y lo que los demás hagan están",
+      "speaker": "Jara"
+    },
+    {
+      "start": 767.82,
+      "end": 770.44,
+      "text": "en su legítimo derecho, pero por ese camino yo no voy a ir.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 770.72,
+      "end": 776.82,
+      "text": "Aunque pueda generarles votos en algunos ciertos populismos, ese no es mi camino.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 777.3,
+      "end": 783.16,
+      "text": "Y sobre el gesto de republicano hacia incomunismo, fíjese que yo pienso bien distinto a los republicanos,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 783.24,
+      "end": 788.98,
+      "text": "pero nunca se me ocurriría anularlo o borrarlo del mapa. Esa es la diferencia entre quienes estamos por un sistema en el",
+      "speaker": "Jara"
+    },
+    {
+      "start": 788.98,
+      "end": 793.26,
+      "text": "cual Chile sea un puro país unido y quienes creen que son los dueños de la verdad, que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 793.26,
+      "end": 795.38,
+      "text": "en definitiva se convierten en autoritarios.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 796.92,
+      "end": 798.2,
+      "text": "¿Cómo está? Buenos días.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 798.2,
+      "end": 798.8,
+      "text": "Buenos días.",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 799.44,
+      "end": 800.98,
+      "text": "Guirío Girard, el ex senador",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 800.98,
+      "end": 802.22,
+      "text": "durante este fin de semana,",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 802.32,
+      "end": 803.66,
+      "text": "dijo que la única manera de que",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 803.66,
+      "end": 805.14,
+      "text": "usted mejore su posición es",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 805.14,
+      "end": 806.62,
+      "text": "congelando su militancia en el",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 806.62,
+      "end": 807.96,
+      "text": "Partido Comunista tras la",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 807.96,
+      "end": 810.32,
+      "text": "primera vuelta. ¿Cómo ve usted",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 810.32,
+      "end": 812.18,
+      "text": "esta afirmación y está dispuesta",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 812.18,
+      "end": 813.7,
+      "text": "o no a congelar su militancia?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 813.92,
+      "end": 816.1,
+      "text": "Mire, ese tema no está sobre la mesa y yo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 816.1,
+      "end": 818.06,
+      "text": "agradezco todas las sugerencias que se",
+      "speaker": "Jara"
+    },
+    {
+      "start": 818.06,
+      "end": 820.12,
+      "text": "hacen, pero las decisiones en definitiva las tomo yo.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 820.9,
+      "end": 822.0,
+      "text": "Pero en segunda",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 822.0,
+      "end": 823.88,
+      "text": "vuelta, eventualmente. Veremos",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 823.88,
+      "end": 825.96,
+      "text": "cuando estemos en la segunda vuelta, pero hoy día no está",
+      "speaker": "Jara"
+    },
+    {
+      "start": 825.96,
+      "end": 828.04,
+      "text": "sobre la mesa y las decisiones las tomo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 828.04,
+      "end": 829.88,
+      "text": "yo. Gracias por la sugerencia a todos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 829.88,
+      "end": 830.4,
+      "text": "en todo caso.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 833.34,
+      "end": 834.52,
+      "text": "Hola, buenos días, candidata.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 834.52,
+      "end": 834.84,
+      "text": "Buenos días.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 835.06,
+      "end": 838.9,
+      "text": "Quería llevarle al tema del error en la alza de las cuentas de la electricidad.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 839.16,
+      "end": 840.38,
+      "text": "¿Puede subir un poquito el micrófono?",
+      "speaker": "Jara"
+    },
+    {
+      "start": 841.82,
+      "end": 843.12,
+      "text": "Eso, que no lo escuchaba bien.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 844.42,
+      "end": 846.66,
+      "text": "Sí, le decía que quería llevarle al tema de las",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 846.66,
+      "end": 852.5,
+      "text": "alzas individuas en las cuentas de la electricidad. ¿Cree usted que las responsabilidades políticas",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 852.5,
+      "end": 858.0,
+      "text": "se agotan con la salida del exministro Pardó o hay que buscar eventualmente otras? Se lo pregunto",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 858.0,
+      "end": 861.64,
+      "text": "porque el Partido Comunista está impulsando una comisión investigadora en la Cámara de Diputados.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 862.08,
+      "end": 865.02,
+      "text": "A ver, lo primero es que respecto del error en las cuentas de la luz, yo creo que hay",
+      "speaker": "Jara"
+    },
+    {
+      "start": 865.02,
+      "end": 869.56,
+      "text": "que seguir aquí tres vías. En primer lugar, responsabilidades políticas y por eso he",
+      "speaker": "Jara"
+    },
+    {
+      "start": 869.56,
+      "end": 874.02,
+      "text": "sido bastante clara. En mi gobierno, las y los ministros van a asumir sus responsabilidades",
+      "speaker": "Jara"
+    },
+    {
+      "start": 874.02,
+      "end": 875.38,
+      "text": "políticas. Todas las autoridades van a asumir sus responsabilidades políticas. Todas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 875.38,
+      "end": 880.02,
+      "text": "las autoridades van a asumir sus responsabilidades políticas. En esto quiero ser bien clara. En",
+      "speaker": "Jara"
+    },
+    {
+      "start": 880.02,
+      "end": 885.5,
+      "text": "segundo lugar, evidentemente, tienen que realizarse todas las investigaciones que procedan. Sumario",
+      "speaker": "Jara"
+    },
+    {
+      "start": 885.5,
+      "end": 889.68,
+      "text": "administrativo, investigación. Y si en el Parlamento se quiere levantar una comisión",
+      "speaker": "Jara"
+    },
+    {
+      "start": 889.68,
+      "end": 893.08,
+      "text": "investigadora, aunque hemos visto que en época de elecciones",
+      "speaker": "Jara"
+    },
+    {
+      "start": 893.08,
+      "end": 897.52,
+      "text": "no necesariamente son muy contribuyentes a dar un debate de profundidad",
+      "speaker": "Jara"
+    },
+    {
+      "start": 897.52,
+      "end": 900.0,
+      "text": "sobre los temas, están igualmente ellos en su derecho.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 900.62,
+      "end": 902.92,
+      "text": "Pero efectivamente hay responsabilidad administrativa.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 903.12,
+      "end": 906.78,
+      "text": "Y lo tercero es que aunque la generadoraas eléctricas han salido a decir",
+      "speaker": "Jara"
+    },
+    {
+      "start": 906.78,
+      "end": 909.32,
+      "text": "que ellos no tenían conocimiento de que estaban cobrando de más,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 910.12,
+      "end": 912.82,
+      "text": "igualmente cuando a uno le pagan de más tiene que devolver la plata.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 913.66,
+      "end": 915.3,
+      "text": "Entonces yo creo que son esas tres cosas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 916.18,
+      "end": 920.24,
+      "text": "Lo político, lo administrativo, si el Parlamento además quiere levantar una",
+      "speaker": "Jara"
+    },
+    {
+      "start": 920.24,
+      "end": 924.04,
+      "text": "comisión de investigadores están en su derecho, pero aquí está faltando una parte, que es",
+      "speaker": "Jara"
+    },
+    {
+      "start": 924.04,
+      "end": 927.86,
+      "text": "que la generadora eléctrica le digan a las personas cuándo van a entregarles su, devuelta",
+      "speaker": "Jara"
+    },
+    {
+      "start": 927.86,
+      "end": 932.44,
+      "text": "el dinero que no les correspondía recibir. Puede que, no tengo ninguna duda de que puede",
+      "speaker": "Jara"
+    },
+    {
+      "start": 932.44,
+      "end": 937.38,
+      "text": "que no lo hayan sabido, no hay mala fe, pero igual tienen que devolver la plata, no les correspondía, así de simple.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 938.06,
+      "end": 943.5,
+      "text": "Y lo otro, el plazo para esta compensación o devolución de los dineros que se cobraron",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 943.5,
+      "end": 948.98,
+      "text": "de más, se habla de que viene a ser en enero, ¿a su juicio debe ser antes? ¿Hay posibilidad",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 948.98,
+      "end": 950.56,
+      "text": "de que esto se adelante?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 950.7,
+      "end": 953.14,
+      "text": "Porque esperar hasta enero falta todavía.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 953.5,
+      "end": 955.8,
+      "text": "Yo creo que esa es una muy buena pregunta para las eléctricas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 956.5,
+      "end": 958.32,
+      "text": "Porque al final los que tienen que devolver la plata",
+      "speaker": "Jara"
+    },
+    {
+      "start": 958.32,
+      "end": 960.4,
+      "text": "no van a ser ni el gobierno ni el Parlamento,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 960.5,
+      "end": 962.4,
+      "text": "que son los que están discutiendo cuándo se va a devolver.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 962.92,
+      "end": 966.7,
+      "text": "Pero aquí son las eléctricas las que tienen que devolverle la plata a la gente, así que sería buena",
+      "speaker": "Jara"
+    },
+    {
+      "start": 966.7,
+      "end": 970.78,
+      "text": "idea que ellas lo dijeran. Porque cuando le tienen que cobrar a la gente, digamos que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 970.78,
+      "end": 974.68,
+      "text": "eso pasa al tiro. La pregunta es cuándo le tienen que devolver, porque no han dicho",
+      "speaker": "Jara"
+    },
+    {
+      "start": 974.68,
+      "end": 975.28,
+      "text": "nada al respecto.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 976.74,
+      "end": 977.64,
+      "text": "Hola, candidata, ¿cómo está?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 977.78,
+      "end": 978.16,
+      "text": "Buenos días.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 978.48,
+      "end": 981.82,
+      "text": "Quería preguntarle primero algo de Girardi, lo que pasó con la entrevista.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 981.96,
+      "end": 983.58,
+      "text": "Usted dice que las decisiones las toma usted.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 983.96,
+      "end": 986.62,
+      "text": "¿Le molesta a usted que le sugieran este tipo de cosas por la prensa?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 986.74,
+      "end": 987.18,
+      "text": "No, para nada.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 987.34,
+      "end": 988.42,
+      "text": "Sabe que estoy acostumbrada.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 989.08,
+      "end": 991.4,
+      "text": "Entiendo que hay mucha gente que tiene mucho interés de aportar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 991.4,
+      "end": 993.28,
+      "text": "y encuentra que la vía adecuada es hacerlo por la prensa.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 993.68,
+      "end": 995.7,
+      "text": "Hay otra que lo hace en privado, en reuniones,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 995.76,
+      "end": 999.0,
+      "text": "yo no tengo problema, lo que sí, que hoy día no es un tema que esté",
+      "speaker": "Jara"
+    },
+    {
+      "start": 999.0,
+      "end": 1002.08,
+      "text": "sobre la mesa y cuando llegue la segunda vuelta se va a discutir",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1002.08,
+      "end": 1004.54,
+      "text": "la estrategia de segunda vuelta, pero no es un tema que esté sobre la mesa,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1005.0,
+      "end": 1008.22,
+      "text": "pero no me molesta, estoy acostumbrada, es así un poco la política en Chile",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1008.22,
+      "end": 1014.14,
+      "text": "y además cuando una mujer es más, así que cada uno sabe cómo hace las cosas.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1014.72,
+      "end": 1016.48,
+      "text": "Yo lo tomo como un dato de realidad nomás.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1017.2,
+      "end": 1020.32,
+      "text": "Y la otra pregunta que tenía para usted es si usted hace suya la molestia",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1020.32,
+      "end": 1023.38,
+      "text": "que ha expresado la democracia cristiana por el uso de la imagen del presidente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1023.38,
+      "end": 1028.98,
+      "text": "Patricio Edelwein en la franja de renovación nacional. Y en esa misma línea, ¿qué le parece que desde ese",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1028.98,
+      "end": 1032.56,
+      "text": "comando, del comando de Belén Matei, están buscando captar los votos del centro político?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1033.28,
+      "end": 1038.82,
+      "text": "Bueno, cada uno sigue la estrategia comunicacional que le parezca más adecuada. Yo lo único que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1038.82,
+      "end": 1040.5,
+      "text": "quiero señalar al respecto es que en el comando de Belecuada, yo lo único que quiero señalar al respecto",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1040.5,
+      "end": 1045.84,
+      "text": "es que en el comando de Belén Matei hicieron lo mismo que el republicano hizo con Jaime",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1045.84,
+      "end": 1051.22,
+      "text": "Guzmán. Y le reclamaron los de Belén Matei que los republicanos estaban ocupando a Jaime",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1051.22,
+      "end": 1055.32,
+      "text": "Guzmán y resulta que ahora ellos están ocupando una figura de la democracia cristiana.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1055.86,
+      "end": 1057.58,
+      "text": "Yo por lo menos para esas cosas no estoy.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1058.2,
+      "end": 1061.14,
+      "text": "¿Pero usted asesora la molestia que ha expresado la ADC, que es parte de su comando?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1061.38,
+      "end": 1065.42,
+      "text": "Sí, claro, es parte de mi comando, no solo me representa en ese tema,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1065.88,
+      "end": 1071.06,
+      "text": "sino que además le encuentro razón, porque las elecciones no es un todo vale. Aquí",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1071.06,
+      "end": 1076.32,
+      "text": "hay ciertas formas en las cuales uno tiene que tener claridad de que no puede ocupar figuras",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1076.32,
+      "end": 1083.66,
+      "text": "que son de otro sector. Es como improcedente, pero bueno, de mi parte por lo menos no lo van a",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1083.66,
+      "end": 1085.54,
+      "text": "encontrar.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1090.68,
+      "end": 1092.9,
+      "text": "Candidata, buenos días. Quería hacer una pregunta. La segunda vuelta, ¿la ve como una nueva elección que se parte de cero?",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1093.44,
+      "end": 1095.02,
+      "text": "Sí, la verdad es que sí.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1095.84,
+      "end": 1096.0,
+      "text": "¿En qué sentido?",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 1096.0,
+      "end": 1097.1,
+      "text": "Qué bueno que me lo pregunte así.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1097.52,
+      "end": 1100.8,
+      "text": "Mire, yo creo que en nuestro país hoy día lo que hay son dos fenómenos, ¿cierto?",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1100.86,
+      "end": 1104.74,
+      "text": "Tenemos primero un sector de la derecha que no se logró poner de acuerdo en nada,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1104.9,
+      "end": 1110.14,
+      "text": "aun cuando quiere gobernar el país, y por eso tiene una dispersión entre varios candidatos,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1110.52,
+      "end": 1114.06,
+      "text": "y seguramente entre algunos de ellos va a salir quien represente al sector.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1114.72,
+      "end": 1117.92,
+      "text": "Algunos de ellos se mueven un poco más a la derecha, otros un poco más al centro",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1117.92,
+      "end": 1119.88,
+      "text": "y se van desfondando por un lado o por otro.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1120.38,
+      "end": 1124.12,
+      "text": "De hecho, Cás se trató de mover hacia el sector de Belén Matei",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1124.12,
+      "end": 1126.78,
+      "text": "y Kaiser creció por el lado, por eso ahora Cás sale a ofrecer",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1126.78,
+      "end": 1129.4,
+      "text": "una reducción a un más grande de gasto público,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1129.4,
+      "end": 1132.76,
+      "text": "que esto a la gente, en realidad, no sé si verá los efectos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1132.76,
+      "end": 1134.96,
+      "text": "de esto en la casa, pero lo que le están diciendo es que le van a bajar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1134.96,
+      "end": 1138.56,
+      "text": "los beneficios sociales, o van a dejar de financiar carabineros, funcionarios",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1138.56,
+      "end": 1141.1,
+      "text": "de la salud, profesores de la educación, eso es lo que hay detrás de esto.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1142.1,
+      "end": 1147.4,
+      "text": "Y alimentan ese odio contra los funcionarios públicos porque en otros países como Argentina, Estados Unidos, le han dado resultados.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1147.94,
+      "end": 1151.24,
+      "text": "Pero en Chile, el gran gasto no está en los funcionarios,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1151.62,
+      "end": 1153.24,
+      "text": "está en los beneficios que le llegan a la gente.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1154.14,
+      "end": 1156.88,
+      "text": "Entonces, aquí va a haber un representante de la derecha chilena",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1156.88,
+      "end": 1159.22,
+      "text": "o de la ultraderecha chilena, que es el que pasa la segunda vuelta.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1159.82,
+      "end": 1160.2,
+      "text": "Y ahí, si es que la gente también me es el que pasa a la segunda vuelta y ahí",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1160.2,
+      "end": 1161.08,
+      "text": "si es que la gente",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1161.08,
+      "end": 1161.76,
+      "text": "también me elige",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1161.76,
+      "end": 1163.04,
+      "text": "para pasar a la segunda vuelta",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1163.04,
+      "end": 1164.48,
+      "text": "van a haber dos proyectos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1164.48,
+      "end": 1165.42,
+      "text": "de país muy distintos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1165.42,
+      "end": 1167.14,
+      "text": "que se van a confrontar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1167.14,
+      "end": 1167.68,
+      "text": "muy distintos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1167.68,
+      "end": 1168.66,
+      "text": "yo por lo menos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1168.66,
+      "end": 1169.62,
+      "text": "vengo perseguida",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1169.62,
+      "end": 1170.62,
+      "text": "por una alianza política",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1170.62,
+      "end": 1171.14,
+      "text": "amplia",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1171.14,
+      "end": 1172.1,
+      "text": "en la cual",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1172.1,
+      "end": 1173.76,
+      "text": "hay nueve partidos políticos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1173.76,
+      "end": 1175.08,
+      "text": "y todo evidentemente",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1175.08,
+      "end": 1176.16,
+      "text": "tenemos cosas en las que estamos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1176.16,
+      "end": 1177.08,
+      "text": "de acuerdo y cosas en las que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1177.08,
+      "end": 1178.82,
+      "text": "no, casi lo más parecido a",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1178.82,
+      "end": 1180.16,
+      "text": "Chile que hay. Por eso creo que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1180.16,
+      "end": 1181.12,
+      "text": "podemos ofrecer la mejor",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1181.12,
+      "end": 1182.72,
+      "text": "gobernabilidad, pero eso lo",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1182.72,
+      "end": 1183.94,
+      "text": "tiene que juzgar la ciudadanía.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1184.26,
+      "end": 1185.44,
+      "text": "Candidata, ahora sí, la última",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 1185.44,
+      "end": 1187.22,
+      "text": "pregunta. Bueno. ¿Cómo piensa",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1187.22,
+      "end": 1190.7,
+      "text": "sumar votos si matemáticamente",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 1190.7,
+      "end": 1192.8,
+      "text": "la oposición tiene tres candidatos?",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 1193.42,
+      "end": 1194.48,
+      "text": "¿esos dan los números?",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 1194.84,
+      "end": 1197.18,
+      "text": "creo que este es un desafío importante",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1197.18,
+      "end": 1199.1,
+      "text": "yo lo asumo con responsabilidad",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1199.1,
+      "end": 1200.62,
+      "text": "y lo que voy a hacer es trabajar duro",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1200.62,
+      "end": 1202.8,
+      "text": "pero solamente quiero decirle que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1202.8,
+      "end": 1204.12,
+      "text": "en la política",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1204.12,
+      "end": 1206.28,
+      "text": "no se trata de sumar votos",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1206.28,
+      "end": 1211.44,
+      "text": "ni de sumar logos partidarios, yo lo tengo claro, lo vivimos en la primaria y creo que",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1211.44,
+      "end": 1215.46,
+      "text": "ahora puede pasar algo parecido, el tema es que no lo vamos a saber hasta que las cosas",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1215.46,
+      "end": 1219.34,
+      "text": "pasen, así que yo más que especular, lo que estamos haciendo en mi comando es trabajar",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1219.34,
+      "end": 1224.7,
+      "text": "y yo trabajando a full por esto porque creo que Chile se merece una vida que mejore en",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1224.7,
+      "end": 1230.18,
+      "text": "calidad y no retroceder. Y me preocupa enormemente las posibilidades de retroceso que hay con",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1230.18,
+      "end": 1237.16,
+      "text": "personas que creen que solo sus ideas son las válidas. Aquí hay gente que se opuso hasta a la ley Cholito, que pretende encabezar el país.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1237.46,
+      "end": 1241.1,
+      "text": "O sea, no solamente a todas las leyes que fortalecían la autonomía de las mujeres,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1241.62,
+      "end": 1243.54,
+      "text": "o que reconocían a la disidencia en nuestro país,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1243.94,
+      "end": 1248.84,
+      "text": "o que incluso negaron la reforma tributaria para poder financiar el aumento de pensiones,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1248.9,
+      "end": 1251.66,
+      "text": "y ahora anda con una chapita el candidato Kass de que ama la PGU.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1252.38,
+      "end": 1254.04,
+      "text": "Sino que además se opuso a la ley Cholito.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1254.14,
+      "end": 1256.26,
+      "text": "Entonces yo digo, ¿qué clase de humanidad hay aquí?",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1256.98,
+      "end": 1260.28,
+      "text": "Yo me la voy a jugar hasta el final porque quiero un Chile unido y que avance,",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1260.4,
+      "end": 1263.56,
+      "text": "con todas sus diversidades, pero que avance, no que retroceda.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1263.94,
+      "end": 1264.4,
+      "text": "Muchas gracias.",
+      "speaker": "Jara"
+    },
+    {
+      "start": 1267.64,
+      "end": 1268.58,
+      "text": "Gracias, chiquillos.",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 1269.18,
+      "end": 1269.72,
+      "text": "Los vecinos.",
+      "speaker": "Jara"
+    }
+  ],
+  "speakers": [
+    "Jara",
+    "SPK2",
+    "SPK3",
+    "SPK4",
+    "SPK5",
+    "SPK6",
+    "SPK7",
+    "SPK8",
+    "SPK9",
+    "SPK10"
+  ]
+}

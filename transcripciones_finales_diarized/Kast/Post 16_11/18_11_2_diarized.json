@@ -1,0 +1,1755 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "Sí, sigue en la Araucanía. ¿Por qué se fue a la Araucanía? Es lo primero que hizo ayer, como gesto de segunda vuelta. Nosotros siempre hemos partido nuestras campañas en primera y en segunda vuelta en regiones. En el año 2021 partimos aquí en Temuco, este año partimos en Antofagasta para revelar la situación de la inseguridad de los transportistas. Y ahora en la segunda vuelta volvimos a Temuco, que es por lejos la zona más golpeada por el terrorismo, el crimen organizado, el narcotráfico de todo el país. también es una región donde Franco París se salió segundo? Sí, en esta región nosotros tuvimos una muy buena muy buen resultado de todo lo que es el hipnoteico en Chile vamos, Johannes Kaiser con Nacional Libertarios y nosotros con el Partido Social Cristiano, tuvimos un muy buen resultado electoral y eso refleja que la gente lo que quiere es paz. Nosotros en general, aquí en la Araucanía hemos tenido altas votaciones, tanto en municipales, de consejeros regionales, diputados y senadores Eso se mantiene Y para nosotros es una muestra clara de que lo que la gente quiere es orden Recuperar la libertad Y en algún momento que esta región deje de ser la más pobre de Chile. Ya veo que no queremos hablar de Franco Parisi, parece. No, no tengo ningún problema de hablar de Franco Parisi, estaba hablando de los partidos de oposición que ganaron en esta elección. No, en serio, le mencionaba que París salió segundo ahí porque, nada, porque puede ser un gesto para ese electorado, al que pretende apelar en algún momento o no? A ver, nosotros ayer a la llegada al aeropuerto la primera pregunta fue cómo se van a estructurar, y ahí yo creo que les dije mire, tenemos una tremenda mayoría en esta elección, no nos confundamos, Janet Jara parte, a mi juicio al revés, yendo a todos los matinales posibles, o sea, ayer fue una rutina de matinal, matinal y después otro programa más para tratar de explicar lo inexplicable, porque ella percibe que en los matinales puede revertir la sensación de derrota que tuvo que no le alcanzó ni para el 30%, aunque le sumara a Ameo, a Tess, y no le sumaría a Harold Magnico, porque claramente no creo que Harold Magnico esté en esa línea tan radical del continuismo del actual gobierno, pero aunque le sumara a todo, queda bajo el 30%, que era el mínimo a lo que ellos aspiraban, y eso requiere, claro, una movilización grande, una concientización en todos los programas, todos los espacios los van a ocupar con esa línea, y desplegaron senadores, asesores, etcétera, para explicar lo inexplicable. Nosotros tuvimos un muy buen resultado, tanto en la presidencial, donde si sumamos los tres candidatos de oposición directa al gobierno, sumamos más del 50%, subimos en diputados, lo veíamos un buen número de senadores, por lo tanto, ella optó por eso, nosotros optamos por seguir recorriendo Chile, como lo hemos hecho, como yo lo he hecho ya de manera reiterada, reconozco Chile completo, son estrategias distintas, pero que terminan en un resultado común, ella es la continuadora de Boric, o sea nosotros ocupamos el mismo eslogan, si es increíble, ella nos regaló uno de nuestro eslogan ahora es boric y boric es cara hoy nosotros tenemos uno que dice uno para todos todos para el todo para el cambio ya pero me está contestando la pregunta que le hicieron ayer otra persona en el aeropuerto. Yo le pregunté, ¿cómo se iba a acercar a los votantes de París? Ah, con nuestra propuesta. A ver. Con nuestra propuesta. Nosotros tenemos un plan de gobierno que se fija en tres ejes, que también coinciden con propuestas de Franco París. Nuestros tres ejes son enfrentar el tema de la seguridad, el tema económico, trabajo, que él hace mucho acento en eso, incluido el tema del mérito, y el tema social, la crisis en salud, la crisis en vivienda y la crisis en educación. En base a esos tres ejes eh y y las treinta y tres medidas coincidimos en bastantes puntos con lo que plantea Franco Parisi y serán las personas, lo dijo el mismo Franco Parisi, yo no soy dueño de los votos, salgan a trabajar. Nosotros estamos trabajando. Así que. Lo tomó como una cuestión desafiante de París eso de salgan a trabajar? ¿Ellos tienen que hacer la pega? ¿El problema lo tienen ellos, no nosotros? Es entendible, porque él comprende que los votos no son personalísimos. Claro, es importante quizás que el candidato defina a quién va a apoyar él ha decidido ir por una línea contraria que no va a apoyar a nadie y que salgamos a trabajar nosotros lo entendemos de esa manera salimos a trabajar, estamos acostumbrados a eso y en el caso de El Eli Matei yo tengo que agradecer la postura de ella el mismo día de, a pesar de las diferencias que podemos haber tenido durante la campaña, asistir con su equipo y decir, aquí no nos perdemos, esto es continuismo o cambio. Y nosotros vamos por el cambio y queremos evitarle a Chile el desastre de un nuevo gobierno o un gobierno de Boric con una nueva vocera. Y en el caso de Johannes Kaiser ocurrió lo mismo, también llegó rápidamente, pudimos conversar largamente también, igual que con Evelyn, se hizo un punto de prensa y quedamos en que nuestros equipos iban a comenzar a intercambiar las propuestas políticas que tenemos, y de hecho ahora se va a realizar en horas más, una reunión con los encargados económicos de las distintas candidaturas de Evelyn y entonces de Johannes Kaiser. Y yo ayer estuve allí, en la misma línea, reunido con más de 15 alcaldes, con todos los cores, los concejales, de todo Chile vamos, del pacto de la lista K, que incluía a Nacional Libertario, al Partido Social Cristiano, nosotros, en un muy buen ánimo, y todos con mucha claridad, de que hay que salir a trabajar, que es lo mismo que dice Franco París. Estamos con el candidato republicano José Antonio Kast. A propósito de que not notó que Janet Jara estuvo en en matinales, no puedo dejar de preguntarle por un par de frases que que se despachó en un matinal, entiendo que en la entrevista en Chilevisión, dice, habla sobre usted, Jara, y dice, yo encuentro que Kast es una persona autoritaria, que es una persona que denosta al que piensa distinto, que estuvo 16 años en la Cámara y no se conoce ninguna ley en la cual Chile haya logrado avanzar. Esa es una. ¿Qué le parece? Bueno, aquí, por motivos de distinta índole, una de las leyes que presenté, presenté varias, ahí le pueden hacer check fast, o check, fast check, perdón, fast check, fast checking, y va a salir preocupada ella de la cantidad de leyes, pero a mí la que más me importaba ellas la votaron en contra que es la ley antipituto que nos podría haber hecho grandes cambios para todo lo que vemos hoy día de los distintos fraudes, de los apitutamientos le podríamos haber evitado esto al presidente de la república que dijo que no iba a apitutar a nadie más y que nadie iba a ganar más que el presidente o cierto monto. Si me hubiesen aprobado esa ley, que me la enterraron en la catacumba del Congreso, esto no habría pasado, el presidente quizás habría salido con la mejor situación de evaluación pública. Se trató de recuperar la ley a través de una moción del Partido Republicano y José Carlos Mesa, se votó a favor en la sala y sorpresa en la, perdón, en la comisión y sorpresa en la sala, la echaron abajo de nuevo. Entonces, claro, si me midieran por la cantidad de echaron abajo de nuevo. Entonces, claro, yo si me midieran por la cantidad de leyes a mí o a ella, claro, ella va a tener más leyes. Y mire cómo terminó Chile, con un millón de desempleados, con dos millones y medio de informales, y el mayor rango de desempleo en el área femenina. O sea, yo podría decir, con lo que ella hizo, dejó a Chile en el piso, en el tema de la economía, en el lado del trabajo de la economía. Y los colegas de ellos, que se esforzaron en otros proyectos más, destruyeron la educación pública, la salud pública, el sueño de la vivienda propia. Yo creo que no le conviene meterse en esa área. ¿Y sobre el rasgo autoritario? No, el que no está, el que piensa es distinto. Porque Evelyn Matei dijo algo así en los últimos días de la campaña de primera vuelta. ¿Qué le parece esa crítica? ¿por qué cree que la despierta? No sabría decirle yo he sido dentro de todo bastante amable con ella en todos los debates salvo si ella entiende por autoritario que yo diga que ella dice que iban a civilizar el cobre, ella dice que no es así, que yo soy mentiroso, y después tiene que pedir, no pide el escudo, pero dice que ella no dijo eso. Lo mismo con los retiros, no era clara. Oiga, pero es que usted aprobó el retiro. No, yo no lo aprobé, y sale como mentira entonces la hemos pillado en tantas falsedades en sus discursos públicos que finalmente decidió no seguir yendo a los debates porque en cada debate que iba cometía un error, si era temporera de una fruta o de otra fruta, siendo que tienen distancias distintas para la cosecha. Que ella nació en cuna de mimbre, que yo no. Descubrimos que ambos habíamos tenido una cuna que no era de oro. Y suma y sigue. Entonces, claro, ella dice, juntos en los debates, pero uno no la encuentra, y después la explicación era que de ella no había los encuentros con los empresarios, y sorpresa, después nos encontramos en la enade, en la herede, pero no vino a los debates en la Araucanía, ¿por qué no vino? Porque ella había dicho que aquí no había terrorismo, que había violencia rural, y que ella no sabía. yo le invito a recorrer a las víctimas que vaya a ver a los padres y las familias de personas que han sido asesinadas en el último tiempo durante el periodo de campaña asesinaron personas aquí en la araucanía para que decir el historial de asesinatos que hay yo estuve ayer a pocos metros de donde asesinaron a luxin macay antes de llegar ahí tuve que pasar por la casa de opal don tileff a quien también le asesinaron el hijo antes de eso en cohibuy también asesinaron a un trabajador agrícola. Bueno, esos son los planteamientos que hace Janet Jara. Ella se plantea, soy Janet Jara, hablo con la verdad. Ya se le acabó el tema de la verdad. Y el segundo eslogan es peor que el primero, porque dice, es Jara. Y como dicen los lolos, ahí nos las dejó. Jara es Boric. Boric es Jara. José Antonio, hay otra afirmación que hace Janet Jara ayer, que es más grave, porque ella dice que su encargado económico, que Jorge Quirós, organizó la colusión de las farmacias aparentemente se refiere a la de los pollos pero pero que organizó un acto colusivo o sea que organizó una conducta económica que finalmente fue declarada como delito por la fiscalía nacional económica delómica o el Tribunal de Libre Competencia. ¿Qué le parece esa afirmación? Falsa. No quiero hacerlo como el humorista que decía falso, falso, falso. Pero lo voy a hacer. Porque miente, miente, hay un dicho que ocupa mucho la izquierda. Miente, miente y que algo queda. Lo que han dicho sobre los beneficios sociales, lo que han dicho de temas de educación, es todo falso. Uno lo que más se encuentra en la calle es, oiga y es cierto que usted va a eliminar la PGU, ¿quién le dijo eso? es que lo andan diciendo los alcaldes y los líderes de la izquierda es mentira, nosotros vamos a fortalecer la PGU y ella lo sabe, lo único que discutimos es que el préstamo al Estado a este Estado ineficiente no lo pueden hacer los trabajadores. Y en el caso de Jorge Quirós, él estuvo en este mismo programa, fue aclarando paso por paso de una clase magistral, la ha dado en distintas partes, y nunca ha estado en una situación como la que por ejemplo acusan al ministro nicolás grau que no le cuadran las cifras lo que ha ocurrido con mario marcel que dejó designada la mejor directora de presupuestos de la historia de chile se fue y todavía no calza los números de ingresos y de gastos. Por lo tanto, estos 26 días que nos quedan van a ser duros, ya no es de mentira, pero como decía mi madre, la mentira tiene patas cortas, o si no decía, se pilla más rápido a un mentiroso que a un ladrón. Ahora, si aparece un informe de Quirós mencionado en la resolución del caso de la colusión de los pollos, ¿eso se lo ha explicado Quirós a usted? Sí, claro. Pero si Quirós era un asesor económico, analista, para distintas empresas. Uno puede emitir un informe en derecho, un informe económico. El hecho de emitir un informe no lo hace a él responsable de las decisiones que finalmente puedan tomar las empresas. Porque si no, si a usted le piden una presentación, o a mí me piden alguna presentación, y yo en la presentación ocupo ciertos números, ciertas propuestas, y después alguien toma esas propuestas y las pone en una defensa jurídica, eso no hace que la persona que hace la presentación esté involucrada en el tema. Por lo tanto, creo que Jan Jara comete un error, y de nuevo va a quedar frente a la opinión pública, como cuando dijo que ella no había querido nacionalizar el cobre, o cuando dijo que ella no había respaldado los retiros. Y hoy día trata de distanciarse del gobierno, porque todo lo que le dicen, oiga, pero es que este gobierno falló en seguridad, falló en administración, falló en salud, y ella le llama al orden al presidente, si ya no sabe cómo distanciarse más del presidente, pero finalmente termina siendo más de lo mismo, con una voz y un tono distinto. Ahora, independientemente de eso, es una pregunta pertinente si su encargado económico principal ha elaborado ese tipo de informes en casos de colusión, ¿Cuál va a ser la actitud de un eventual gobierno suyo en torno al comportamiento de la Fiscalía Nacional Económica respecto del cuidado de la libre competencia? ¿Usted garantiza que se va a mantener el criterio que ha mantenido la Fiscalía Nacional Económica en torno a defender la libre competencia en el país? Para la libertad económica y para el principio de economía social de mercado, economía de mercado, la libre competencia es esencial. Y nosotros vamos con todo. Aquí, por ejemplo, se emitió una ley y todo el mundo celebraba la ley de pronto pago, para que a las pymes se le pagaran 30 días. Usted salga y pregúntele a las pymes si esa ley les solucionó toda la vida y que hoy día hay libre competencia, porque ese era uno de los puntos fundamentales donde el más grande abusaba del pequeño. El mayor comprador en Chile es el Estado. Y pregúntale a las pymes que trabajan con el Estado si tienen pronto pago. Hoy día la cantidad de facturas pendientes de pago que está dejando este gobierno es una especie de deuda oculta, porque debería pagar a 30 días, pero no paga los insumos de los hospitales no le paga a los que ejecutan las obras públicas puentes carreteras mejoramientos de caminos laterales en las globales bueno es un desastre y lo más fácil más que ley, era que el Estado le pagara a todos sus proveedores a 30 días. Si usted mete publicidad para el Estado, para alguna política pública que quieran difundir, no siempre le pagan los 30 días. ¿Y qué le pasa al pequeño a veces cuando llega el grande? Y el grande le dice, el chico llega y le dice, oiga, págueme 30 días. El grande le dice, oiga, es que, mire, estoy con falta de caja. ¿Le puedo pagar en 60? No, la ley dice que me paguen 30. Bien, muy bien, le pago en los 30. Y después nunca más lo llama para pedirle nada. Entonces, ellos legislan en base a la ilusión de las personas como lo han hecho siempre y terminan destruyendo el sistema nosotros vamos a defender la libre competencia y Jorge Quiroz es la persona más adecuada para en un eventual gobierno nuestro para enfrentar ese tipo de temas y otros más porque el sistema de compra del estado es un abuso permanente o sea un ejecutivo con un ejecutivo liderado por usted no va a cambiar el criterio que ya se ha hecho tradicional desde el 2009 desde antes en adelante en adelante en todo respecto de la colusión y la libre competencia, considerándola como un delito grave. Para nada, para nada. Nosotros vamos a ir de manera muy dura contra aquellos que tratan de saltarse las normas. De hecho, por ejemplo, en la reforma tributaria que nosotros planteamos, que es una rebaja del 27 al 23 en un periodo, hay otra que dice que vamos a darle un crédito tributario a las empresas que contraten más mano de obra formal, sobre todo en aquellos montos de dinero que tienden a la informalidad. Cuando alguien gana hasta un millón de pesos, muchas veces se tiende a pagar una parte formal y una parte informal. Mientras más personas formalicen ese ingreso bajo esa cantidad, esa empresa va a tener un crédito contra el pago del impuesto a la renta al año siguiente con eso que se logra que no haya transferencias de recursos porque muchas veces se ha dado un subsidio para la contratación de mano de obra y en que termina en fraude contratemos a alguien para que después hagan el fraude las licencias médicas todo eso va a ser perseguido con dureza, pero si se hace bien, va a tener una posibilidad de bajar del 23% del impuesto a la renta, quizás hasta el 18% del impuesto a la renta, si contrata a más gente. Y eso genera más empleo. Una última cosa, José Antonio, para hacer todo eso necesitan los votos en el Congresoreso y la derecha tiene 76 diputados y está prácticamente empatada en el Senado. Ahora va a tener que negociar, ahora ya no es la teoría de la campaña y la teoría de las medidas que se sustentan en la propia voluntad, en la mera voluntad. ¿Cómo lo va a hacer? ¿Cómo pretende gobernar con un Congreso donde en la Cámara va a estar en minoría? Bueno, primero decir que es una minoría bastante alta. Digamos que es una mayoría relativa. Es una mayoría relativa. Y hay 14 personas que son del PDG. Yo les aseguro que esas personas del PDG son muy patriotas. Y muchas personas del Partido Socialista, del PPD, del Partido Radical y hay independientes también son muy patriotas, y por eso nosotros hablamos de un parlamento para Chile, las buenas leyes se aprueban por sí mismas, porque van a estar los argumentos van a estar bien redactadas, van a estar bien formuladas en cuanto a los números que se presentan a nosotros no nos va a pasar que alguien abra el Excel y diga, oiga, aquí hay un número incorrecto, y la directora de presupuesto diga, uy, sí, parece que me equivoqué. Y si equivoco tres veces, pues en una sola presentación. Cuando nosotros hagamos bien la pega, que esa es parte de lo que estamos proponiendo, hacer la pega que corresponde, los parlamentarios estoy seguro que van a aprobar lo que vaya en frente del país, sean temas de seguridad, sean temas de inversión y crecimiento, sean temas laborales, sean temas de salud, temas de vivienda y también de educación. Como digo siempre, los vamos a sorprender para bien y vamos a lograr ese cambio real que Chile necesita y hoy recurrimos de nuevo a nuestro slogan uno para todos y todos para el cambio Con José Antonio Cáceres, candidato al Partido Republicano desde Temuco, esta mañana aquí en Mesa Central, José Antonio, muchas gracias por la gentileza Muchas gracias a ustedes, que estén muy bien Buenos días",
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 6.14,
+      "text": "Sí, sigue en la Araucanía. ¿Por qué se fue a la Araucanía? Es lo primero que hizo ayer, como gesto de segunda vuelta.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 6.16,
+      "end": 10.8,
+      "text": "Nosotros siempre hemos partido nuestras campañas en primera y en segunda vuelta en regiones.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 11.16,
+      "end": 19.1,
+      "text": "En el año 2021 partimos aquí en Temuco, este año partimos en Antofagasta para revelar la situación de la inseguridad de los transportistas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 19.66,
+      "end": 22.7,
+      "text": "Y ahora en la segunda vuelta volvimos a Temuco,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 23.22,
+      "end": 52.52,
+      "text": "que es por lejos la zona más golpeada por el terrorismo, el crimen organizado, el narcotráfico de todo el país. también es una región",
+      "speaker": "Kast"
+    },
+    {
+      "start": 52.52,
+      "end": 54.32,
+      "text": "donde Franco París se salió segundo?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 55.64,
+      "end": 56.72,
+      "text": "Sí, en esta región",
+      "speaker": "SPK10"
+    },
+    {
+      "start": 56.72,
+      "end": 58.58,
+      "text": "nosotros tuvimos una muy buena",
+      "speaker": "SPK6"
+    },
+    {
+      "start": 58.58,
+      "end": 60.92,
+      "text": "muy buen resultado",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 60.92,
+      "end": 62.4,
+      "text": "de todo lo que es",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 62.4,
+      "end": 64.4,
+      "text": "el hipnoteico",
+      "speaker": "Kast"
+    },
+    {
+      "start": 64.4,
+      "end": 66.7,
+      "text": "en Chile vamos, Johannes Kaiser con Nacional",
+      "speaker": "Kast"
+    },
+    {
+      "start": 66.7,
+      "end": 71.38,
+      "text": "Libertarios y nosotros con el Partido Social Cristiano, tuvimos un muy buen resultado electoral",
+      "speaker": "Kast"
+    },
+    {
+      "start": 71.38,
+      "end": 78.3,
+      "text": "y eso refleja que la gente lo que quiere es paz. Nosotros en general, aquí en la Araucanía",
+      "speaker": "Kast"
+    },
+    {
+      "start": 78.3,
+      "end": 85.66,
+      "text": "hemos tenido altas votaciones, tanto en municipales, de consejeros regionales, diputados y senadores",
+      "speaker": "Kast"
+    },
+    {
+      "start": 85.66,
+      "end": 86.6,
+      "text": "Eso se mantiene",
+      "speaker": "Kast"
+    },
+    {
+      "start": 86.6,
+      "end": 90.92,
+      "text": "Y para nosotros es una muestra clara de que lo que la gente quiere es orden",
+      "speaker": "Kast"
+    },
+    {
+      "start": 90.92,
+      "end": 92.82,
+      "text": "Recuperar la libertad",
+      "speaker": "Kast"
+    },
+    {
+      "start": 92.82,
+      "end": 96.44,
+      "text": "Y en algún momento que esta región deje de ser la más pobre de Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 96.72,
+      "end": 99.92,
+      "text": "Ya veo que no queremos hablar de Franco Parisi, parece.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 101.1,
+      "end": 107.78,
+      "text": "No, no tengo ningún problema de hablar de Franco Parisi, estaba hablando de los partidos de oposición que ganaron en esta elección.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 107.9,
+      "end": 110.84,
+      "text": "No, en serio, le mencionaba que París salió segundo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 110.84,
+      "end": 116.62,
+      "text": "ahí porque, nada, porque puede ser un gesto para ese electorado, al que pretende apelar en algún",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 116.62,
+      "end": 124.1,
+      "text": "momento o no? A ver, nosotros ayer a la llegada al aeropuerto la primera pregunta fue cómo se van",
+      "speaker": "Kast"
+    },
+    {
+      "start": 124.1,
+      "end": 126.1,
+      "text": "a estructurar, y ahí yo creo que les dije",
+      "speaker": "SPK5"
+    },
+    {
+      "start": 126.1,
+      "end": 128.2,
+      "text": "mire, tenemos una tremenda mayoría",
+      "speaker": "Kast"
+    },
+    {
+      "start": 128.2,
+      "end": 130.1,
+      "text": "en esta elección, no nos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 130.1,
+      "end": 132.2,
+      "text": "confundamos, Janet Jara",
+      "speaker": "Kast"
+    },
+    {
+      "start": 132.2,
+      "end": 134.34,
+      "text": "parte, a mi juicio",
+      "speaker": "Kast"
+    },
+    {
+      "start": 134.34,
+      "end": 136.04,
+      "text": "al revés, yendo a todos los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 136.04,
+      "end": 137.78,
+      "text": "matinales posibles, o sea, ayer fue",
+      "speaker": "Kast"
+    },
+    {
+      "start": 137.78,
+      "end": 143.38,
+      "text": "una rutina de matinal, matinal y después otro programa más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 143.38,
+      "end": 151.82,
+      "text": "para tratar de explicar lo inexplicable, porque ella percibe que en los matinales puede revertir la sensación de derrota que tuvo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 151.82,
+      "end": 160.34,
+      "text": "que no le alcanzó ni para el 30%, aunque le sumara a Ameo, a Tess, y no le sumaría a Harold Magnico,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 160.44,
+      "end": 164.7,
+      "text": "porque claramente no creo que Harold Magnico esté en esa línea tan radical",
+      "speaker": "Kast"
+    },
+    {
+      "start": 164.7,
+      "end": 167.18,
+      "text": "del continuismo del actual gobierno, pero aunque le sumara a todo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 167.7,
+      "end": 173.66,
+      "text": "queda bajo el 30%, que era el mínimo a lo que ellos aspiraban, y eso requiere, claro, una movilización grande,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 173.76,
+      "end": 178.6,
+      "text": "una concientización en todos los programas, todos los espacios los van a ocupar con esa",
+      "speaker": "Kast"
+    },
+    {
+      "start": 178.6,
+      "end": 184.48,
+      "text": "línea, y desplegaron senadores, asesores, etcétera, para explicar lo inexplicable. Nosotros tuvimos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 184.48,
+      "end": 185.58,
+      "text": "un muy buen resultado,",
+      "speaker": "SPK9"
+    },
+    {
+      "start": 186.22,
+      "end": 191.48,
+      "text": "tanto en la presidencial, donde si sumamos los tres candidatos de oposición directa al gobierno,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 192.04,
+      "end": 199.28,
+      "text": "sumamos más del 50%, subimos en diputados, lo veíamos un buen número de senadores, por lo tanto,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 199.84,
+      "end": 200.28,
+      "text": "ella optó",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 200.28,
+      "end": 202.34,
+      "text": "por eso, nosotros optamos por seguir recorriendo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 202.34,
+      "end": 204.34,
+      "text": "Chile, como lo hemos hecho, como yo lo he hecho",
+      "speaker": "Kast"
+    },
+    {
+      "start": 204.34,
+      "end": 206.26,
+      "text": "ya de manera reiterada, reconozco",
+      "speaker": "Kast"
+    },
+    {
+      "start": 206.26,
+      "end": 208.24,
+      "text": "Chile completo, son estrategias",
+      "speaker": "Kast"
+    },
+    {
+      "start": 208.24,
+      "end": 210.3,
+      "text": "distintas, pero que terminan en un resultado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 210.3,
+      "end": 211.54,
+      "text": "común, ella es",
+      "speaker": "SPK8"
+    },
+    {
+      "start": 211.54,
+      "end": 213.82,
+      "text": "la continuadora de Boric, o sea nosotros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 213.82,
+      "end": 231.76,
+      "text": "ocupamos el mismo eslogan, si es increíble, ella nos regaló uno de nuestro eslogan ahora es boric y boric es cara hoy nosotros tenemos uno que dice uno para todos todos para el todo para el cambio ya pero me está contestando la pregunta que le hicieron ayer otra persona en el aeropuerto. Yo le pregunté, ¿cómo se iba a acercar a los votantes de París?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 232.4,
+      "end": 237.68,
+      "text": "Ah, con nuestra propuesta. A ver. Con nuestra propuesta. Nosotros tenemos un plan de gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 237.68,
+      "end": 244.22,
+      "text": "que se fija en tres ejes, que también coinciden con propuestas de Franco París. Nuestros tres ejes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 244.22,
+      "end": 245.6,
+      "text": "son enfrentar el tema de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 245.6,
+      "end": 250.48,
+      "text": "la seguridad, el tema económico, trabajo, que él hace mucho acento en eso, incluido",
+      "speaker": "Kast"
+    },
+    {
+      "start": 250.48,
+      "end": 257.48,
+      "text": "el tema del mérito, y el tema social, la crisis en salud, la crisis en vivienda y la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 257.48,
+      "end": 260.54,
+      "text": "crisis en educación. En base a esos tres",
+      "speaker": "Kast"
+    },
+    {
+      "start": 260.54,
+      "end": 263.1,
+      "text": "ejes eh y y las treinta y tres",
+      "speaker": "Kast"
+    },
+    {
+      "start": 263.1,
+      "end": 264.9,
+      "text": "medidas coincidimos en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 264.9,
+      "end": 266.38,
+      "text": "bastantes puntos con lo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 266.38,
+      "end": 267.96,
+      "text": "plantea Franco Parisi y serán",
+      "speaker": "Kast"
+    },
+    {
+      "start": 267.96,
+      "end": 269.42,
+      "text": "las personas, lo dijo el mismo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 269.42,
+      "end": 271.4,
+      "text": "Franco Parisi, yo no soy dueño",
+      "speaker": "Kast"
+    },
+    {
+      "start": 271.4,
+      "end": 272.3,
+      "text": "de los votos, salgan a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 272.3,
+      "end": 273.3,
+      "text": "trabajar. Nosotros estamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 273.3,
+      "end": 279.38,
+      "text": "trabajando. Así que. Lo tomó como una cuestión desafiante de París eso de salgan a trabajar?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 279.58,
+      "end": 282.68,
+      "text": "¿Ellos tienen que hacer la pega? ¿El problema lo tienen ellos, no nosotros?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 283.44,
+      "end": 289.28,
+      "text": "Es entendible, porque él comprende que los votos no son personalísimos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 291.24,
+      "end": 293.82,
+      "text": "Claro, es importante quizás que el candidato",
+      "speaker": "Kast"
+    },
+    {
+      "start": 293.82,
+      "end": 295.42,
+      "text": "defina a quién va a apoyar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 295.42,
+      "end": 297.24,
+      "text": "él ha decidido ir por una línea contraria",
+      "speaker": "Kast"
+    },
+    {
+      "start": 297.24,
+      "end": 299.48,
+      "text": "que no va a apoyar a nadie y que salgamos a trabajar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 299.48,
+      "end": 302.04,
+      "text": "nosotros lo entendemos de esa manera",
+      "speaker": "Kast"
+    },
+    {
+      "start": 302.04,
+      "end": 304.2,
+      "text": "salimos a trabajar, estamos acostumbrados",
+      "speaker": "Kast"
+    },
+    {
+      "start": 304.2,
+      "end": 320.22,
+      "text": "a eso y en el caso de El Eli Matei yo tengo que agradecer la postura de ella el mismo día de, a pesar de las diferencias que podemos haber tenido durante la campaña, asistir con su equipo y decir, aquí no nos perdemos, esto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 320.22,
+      "end": 324.0,
+      "text": "es continuismo o cambio. Y nosotros vamos por el cambio y queremos evitarle a Chile",
+      "speaker": "Kast"
+    },
+    {
+      "start": 324.0,
+      "end": 330.1,
+      "text": "el desastre de un nuevo gobierno o un gobierno de Boric con una nueva vocera. Y en el caso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 330.1,
+      "end": 350.62,
+      "text": "de Johannes Kaiser ocurrió lo mismo, también llegó rápidamente, pudimos conversar largamente también, igual que con Evelyn, se hizo un punto de prensa y quedamos en que nuestros equipos iban a comenzar a intercambiar las propuestas políticas que tenemos, y de hecho ahora se va a realizar en horas más, una reunión con los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 350.62,
+      "end": 357.58,
+      "text": "encargados económicos de las distintas candidaturas de Evelyn y entonces de Johannes Kaiser. Y yo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 357.58,
+      "end": 362.4,
+      "text": "ayer estuve allí, en la misma línea, reunido con más de 15 alcaldes, con todos los cores, los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 362.4,
+      "end": 370.66,
+      "text": "concejales, de todo Chile vamos, del pacto de la lista K, que incluía a Nacional Libertario, al Partido Social Cristiano,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 371.08,
+      "end": 375.56,
+      "text": "nosotros, en un muy buen ánimo, y todos con mucha claridad, de que hay que salir a trabajar,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 375.84,
+      "end": 377.44,
+      "text": "que es lo mismo que dice Franco París.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 377.52,
+      "end": 379.9,
+      "text": "Estamos con el candidato republicano José Antonio Kast.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 380.82,
+      "end": 382.2,
+      "text": "A propósito de que not notó que Janet Jara estuvo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 382.2,
+      "end": 383.98,
+      "text": "en en matinales, no puedo dejar",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 383.98,
+      "end": 385.06,
+      "text": "de preguntarle por un par de",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 385.06,
+      "end": 387.04,
+      "text": "frases que que se despachó en un",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 387.04,
+      "end": 387.94,
+      "text": "matinal, entiendo que en la",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 387.94,
+      "end": 389.64,
+      "text": "entrevista en Chilevisión, dice,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 390.24,
+      "end": 391.76,
+      "text": "habla sobre usted, Jara, y dice,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 391.88,
+      "end": 393.3,
+      "text": "yo encuentro que Kast es una",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 393.3,
+      "end": 394.96,
+      "text": "persona autoritaria, que es una",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 394.96,
+      "end": 398.66,
+      "text": "persona que denosta al que piensa distinto, que estuvo 16 años en la Cámara",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 398.66,
+      "end": 402.7,
+      "text": "y no se conoce ninguna ley en la cual Chile haya logrado avanzar. Esa es una. ¿Qué le parece?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 403.9,
+      "end": 425.04,
+      "text": "Bueno, aquí, por motivos de distinta índole, una de las leyes que presenté, presenté varias, ahí le pueden hacer check fast, o check, fast check, perdón, fast check, fast checking, y va a salir preocupada ella de la cantidad de leyes, pero a mí la que más me importaba",
+      "speaker": "Kast"
+    },
+    {
+      "start": 425.04,
+      "end": 426.12,
+      "text": "ellas la votaron en contra",
+      "speaker": "Kast"
+    },
+    {
+      "start": 426.12,
+      "end": 427.76,
+      "text": "que es la ley antipituto",
+      "speaker": "Kast"
+    },
+    {
+      "start": 427.76,
+      "end": 430.72,
+      "text": "que nos podría haber hecho grandes cambios",
+      "speaker": "Kast"
+    },
+    {
+      "start": 430.72,
+      "end": 432.4,
+      "text": "para todo lo que vemos hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 432.4,
+      "end": 434.68,
+      "text": "de los distintos fraudes, de los apitutamientos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 434.68,
+      "end": 437.2,
+      "text": "le podríamos haber evitado esto al presidente de la república",
+      "speaker": "Kast"
+    },
+    {
+      "start": 437.2,
+      "end": 439.06,
+      "text": "que dijo que no iba a apitutar a nadie más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 439.06,
+      "end": 443.42,
+      "text": "y que nadie iba a ganar más que el presidente o cierto monto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 443.94,
+      "end": 449.64,
+      "text": "Si me hubiesen aprobado esa ley, que me la enterraron en la catacumba del Congreso,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 450.28,
+      "end": 455.72,
+      "text": "esto no habría pasado, el presidente quizás habría salido con la mejor situación de evaluación pública.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 456.24,
+      "end": 461.02,
+      "text": "Se trató de recuperar la ley a través de una moción del Partido Republicano y José Carlos Mesa,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 461.44,
+      "end": 467.64,
+      "text": "se votó a favor en la sala y sorpresa en la, perdón, en la comisión y sorpresa en la sala, la echaron abajo de nuevo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 468.24,
+      "end": 470.32,
+      "text": "Entonces, claro, si me midieran por la cantidad de echaron abajo de nuevo. Entonces, claro, yo si me",
+      "speaker": "Kast"
+    },
+    {
+      "start": 470.32,
+      "end": 475.74,
+      "text": "midieran por la cantidad de leyes a mí o a ella, claro, ella va a tener más leyes. Y mire cómo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 475.74,
+      "end": 483.48,
+      "text": "terminó Chile, con un millón de desempleados, con dos millones y medio de informales, y el mayor",
+      "speaker": "Kast"
+    },
+    {
+      "start": 483.48,
+      "end": 486.88,
+      "text": "rango de desempleo en el área femenina. O sea, yo podría",
+      "speaker": "Kast"
+    },
+    {
+      "start": 486.88,
+      "end": 492.82,
+      "text": "decir, con lo que ella hizo, dejó a Chile en el piso, en el tema de la economía, en el lado del",
+      "speaker": "Kast"
+    },
+    {
+      "start": 492.82,
+      "end": 498.72,
+      "text": "trabajo de la economía. Y los colegas de ellos, que se esforzaron en otros proyectos más, destruyeron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 498.72,
+      "end": 502.42,
+      "text": "la educación pública, la salud pública, el sueño de la vivienda propia.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 503.0,
+      "end": 506.14,
+      "text": "Yo creo que no le conviene meterse en esa área.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 506.4,
+      "end": 509.2,
+      "text": "¿Y sobre el rasgo autoritario?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 509.2,
+      "end": 510.5,
+      "text": "No, el que no está, el que piensa es distinto.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 510.66,
+      "end": 514.5,
+      "text": "Porque Evelyn Matei dijo algo así en los últimos días de la campaña de primera vuelta.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 514.96,
+      "end": 515.98,
+      "text": "¿Qué le parece esa crítica?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 516.14,
+      "end": 517.44,
+      "text": "¿por qué cree que la despierta?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 518.82,
+      "end": 519.9,
+      "text": "No sabría decirle",
+      "speaker": "Kast"
+    },
+    {
+      "start": 519.9,
+      "end": 521.76,
+      "text": "yo he sido dentro de todo",
+      "speaker": "Kast"
+    },
+    {
+      "start": 521.76,
+      "end": 522.9,
+      "text": "bastante amable con ella",
+      "speaker": "Kast"
+    },
+    {
+      "start": 522.9,
+      "end": 527.42,
+      "text": "en todos los debates",
+      "speaker": "Kast"
+    },
+    {
+      "start": 527.42,
+      "end": 529.74,
+      "text": "salvo si ella",
+      "speaker": "Kast"
+    },
+    {
+      "start": 529.74,
+      "end": 533.0,
+      "text": "entiende por autoritario que yo diga que ella dice que iban a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 533.0,
+      "end": 538.2,
+      "text": "civilizar el cobre, ella dice que no es así, que yo soy mentiroso, y después tiene que pedir, no pide",
+      "speaker": "Kast"
+    },
+    {
+      "start": 538.2,
+      "end": 543.26,
+      "text": "el escudo, pero dice que ella no dijo eso. Lo mismo con los retiros, no era clara. Oiga, pero es que usted",
+      "speaker": "Kast"
+    },
+    {
+      "start": 543.26,
+      "end": 546.54,
+      "text": "aprobó el retiro. No, yo no lo aprobé, y sale como mentira",
+      "speaker": "Kast"
+    },
+    {
+      "start": 546.54,
+      "end": 548.06,
+      "text": "entonces la hemos pillado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 548.06,
+      "end": 550.18,
+      "text": "en tantas falsedades",
+      "speaker": "Kast"
+    },
+    {
+      "start": 550.18,
+      "end": 551.72,
+      "text": "en sus discursos públicos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 551.72,
+      "end": 553.98,
+      "text": "que finalmente decidió no seguir yendo a los debates",
+      "speaker": "Kast"
+    },
+    {
+      "start": 553.98,
+      "end": 556.12,
+      "text": "porque en cada debate que iba",
+      "speaker": "Kast"
+    },
+    {
+      "start": 556.12,
+      "end": 558.28,
+      "text": "cometía un error, si era temporera",
+      "speaker": "Kast"
+    },
+    {
+      "start": 558.28,
+      "end": 560.08,
+      "text": "de una fruta o de otra fruta,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 560.34,
+      "end": 563.08,
+      "text": "siendo que tienen distancias distintas para la cosecha.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 563.6,
+      "end": 565.56,
+      "text": "Que ella nació en cuna de mimbre, que yo no.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 565.82,
+      "end": 568.54,
+      "text": "Descubrimos que ambos habíamos tenido una cuna que no era de oro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 569.46,
+      "end": 570.58,
+      "text": "Y suma y sigue.",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 571.1,
+      "end": 575.82,
+      "text": "Entonces, claro, ella dice, juntos en los debates, pero uno no la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 575.82,
+      "end": 576.64,
+      "text": "encuentra, y después la",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 576.64,
+      "end": 577.68,
+      "text": "explicación era que de ella no",
+      "speaker": "Kast"
+    },
+    {
+      "start": 577.68,
+      "end": 578.68,
+      "text": "había los encuentros con los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 578.68,
+      "end": 581.2,
+      "text": "empresarios, y sorpresa, después",
+      "speaker": "Kast"
+    },
+    {
+      "start": 581.2,
+      "end": 583.26,
+      "text": "nos encontramos en la enade, en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 583.26,
+      "end": 585.62,
+      "text": "la herede, pero no vino a los",
+      "speaker": "Kast"
+    },
+    {
+      "start": 585.62,
+      "end": 587.02,
+      "text": "debates en la Araucanía, ¿por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 587.02,
+      "end": 588.3,
+      "text": "qué no vino? Porque ella había",
+      "speaker": "Kast"
+    },
+    {
+      "start": 588.3,
+      "end": 588.98,
+      "text": "dicho que aquí no había",
+      "speaker": "Kast"
+    },
+    {
+      "start": 588.98,
+      "end": 594.72,
+      "text": "terrorismo, que había violencia rural, y que ella no sabía. yo le invito a recorrer a las víctimas que vaya a ver",
+      "speaker": "Kast"
+    },
+    {
+      "start": 594.72,
+      "end": 599.64,
+      "text": "a los padres y las familias de personas que han sido asesinadas en el último tiempo durante el",
+      "speaker": "Kast"
+    },
+    {
+      "start": 599.64,
+      "end": 605.5,
+      "text": "periodo de campaña asesinaron personas aquí en la araucanía para que decir el historial de asesinatos que hay",
+      "speaker": "Kast"
+    },
+    {
+      "start": 605.5,
+      "end": 610.32,
+      "text": "yo estuve ayer a pocos metros de donde asesinaron a luxin macay antes de llegar ahí tuve que pasar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 610.32,
+      "end": 617.4,
+      "text": "por la casa de opal don tileff a quien también le asesinaron el hijo antes de eso en cohibuy también",
+      "speaker": "Kast"
+    },
+    {
+      "start": 617.4,
+      "end": 622.0,
+      "text": "asesinaron a un trabajador agrícola. Bueno, esos son",
+      "speaker": "Kast"
+    },
+    {
+      "start": 622.0,
+      "end": 629.86,
+      "text": "los planteamientos que hace Janet Jara. Ella se plantea, soy Janet Jara, hablo con la verdad.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 630.22,
+      "end": 635.58,
+      "text": "Ya se le acabó el tema de la verdad. Y el segundo eslogan es peor que el primero, porque dice, es Jara.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 641.62,
+      "end": 642.14,
+      "text": "Y como dicen los lolos, ahí nos las dejó. Jara es Boric. Boric es Jara.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 653.58,
+      "end": 657.36,
+      "text": "José Antonio, hay otra afirmación que hace Janet Jara ayer, que es más grave, porque ella dice que su encargado económico, que Jorge Quirós, organizó la colusión de las farmacias aparentemente se refiere a la de los pollos pero pero que organizó un acto",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 657.36,
+      "end": 662.94,
+      "text": "colusivo o sea que organizó una conducta económica que finalmente fue declarada",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 662.94,
+      "end": 665.96,
+      "text": "como delito por la fiscalía nacional económica delómica o el Tribunal de Libre Competencia.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 666.46,
+      "end": 667.62,
+      "text": "¿Qué le parece esa afirmación?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 668.5,
+      "end": 668.96,
+      "text": "Falsa.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 670.2,
+      "end": 673.58,
+      "text": "No quiero hacerlo como el humorista que decía falso, falso, falso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 673.96,
+      "end": 675.0,
+      "text": "Pero lo voy a hacer.",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 675.44,
+      "end": 679.74,
+      "text": "Porque miente, miente, hay un dicho que ocupa mucho la izquierda.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 679.9,
+      "end": 681.32,
+      "text": "Miente, miente y que algo queda.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 682.02,
+      "end": 689.78,
+      "text": "Lo que han dicho sobre los beneficios sociales, lo que han dicho de temas de educación, es todo falso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 690.3,
+      "end": 695.72,
+      "text": "Uno lo que más se encuentra en la calle es, oiga y es cierto que usted va a eliminar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 695.72,
+      "end": 697.48,
+      "text": "la PGU, ¿quién le dijo eso?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 697.6,
+      "end": 699.42,
+      "text": "es que lo andan diciendo los alcaldes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 699.42,
+      "end": 701.76,
+      "text": "y los líderes de la izquierda",
+      "speaker": "Kast"
+    },
+    {
+      "start": 701.76,
+      "end": 703.94,
+      "text": "es mentira, nosotros vamos a fortalecer",
+      "speaker": "Kast"
+    },
+    {
+      "start": 703.94,
+      "end": 705.68,
+      "text": "la PGU y ella lo sabe, lo único que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 705.68,
+      "end": 707.96,
+      "text": "discutimos es que el préstamo al Estado",
+      "speaker": "Kast"
+    },
+    {
+      "start": 707.96,
+      "end": 709.46,
+      "text": "a este Estado ineficiente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 709.46,
+      "end": 710.98,
+      "text": "no lo pueden hacer los trabajadores.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 711.4,
+      "end": 720.46,
+      "text": "Y en el caso de Jorge Quirós, él estuvo en este mismo programa, fue aclarando paso por paso de una clase magistral,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 720.96,
+      "end": 727.56,
+      "text": "la ha dado en distintas partes, y nunca ha estado en una situación como la que por ejemplo acusan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 727.56,
+      "end": 735.12,
+      "text": "al ministro nicolás grau que no le cuadran las cifras lo que ha ocurrido con mario marcel que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 735.12,
+      "end": 739.08,
+      "text": "dejó designada la mejor directora de presupuestos de la historia de chile se",
+      "speaker": "Kast"
+    },
+    {
+      "start": 739.08,
+      "end": 742.44,
+      "text": "fue y todavía no calza los números de ingresos y de gastos.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 742.94,
+      "end": 747.14,
+      "text": "Por lo tanto, estos 26 días que nos quedan van a ser duros, ya no es de mentira,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 747.74,
+      "end": 751.98,
+      "text": "pero como decía mi madre, la mentira tiene patas cortas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 752.58,
+      "end": 756.16,
+      "text": "o si no decía, se pilla más rápido a un mentiroso que a un ladrón.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 756.24,
+      "end": 761.74,
+      "text": "Ahora, si aparece un informe de Quirós mencionado en la resolución del caso de la colusión de los pollos,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 762.22,
+      "end": 763.34,
+      "text": "¿eso se lo ha explicado Quirós a usted?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 764.14,
+      "end": 774.86,
+      "text": "Sí, claro. Pero si Quirós era un asesor económico, analista, para distintas empresas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 775.3,
+      "end": 778.16,
+      "text": "Uno puede emitir un informe en derecho, un informe económico.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 778.6,
+      "end": 786.5,
+      "text": "El hecho de emitir un informe no lo hace a él responsable de las decisiones que finalmente puedan tomar las empresas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 787.04,
+      "end": 792.0,
+      "text": "Porque si no, si a usted le piden una presentación, o a mí me piden alguna presentación,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 792.7,
+      "end": 795.6,
+      "text": "y yo en la presentación ocupo ciertos números, ciertas propuestas,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 796.04,
+      "end": 801.16,
+      "text": "y después alguien toma esas propuestas y las pone en una defensa",
+      "speaker": "Kast"
+    },
+    {
+      "start": 801.16,
+      "end": 804.7,
+      "text": "jurídica, eso no hace que la persona que hace la presentación esté involucrada en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 804.7,
+      "end": 809.2,
+      "text": "el tema. Por lo tanto, creo que Jan Jara comete un error, y de nuevo va a quedar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 809.2,
+      "end": 813.52,
+      "text": "frente a la opinión pública, como cuando dijo que ella no había querido nacionalizar el cobre,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 813.6,
+      "end": 820.46,
+      "text": "o cuando dijo que ella no había respaldado los retiros. Y hoy día trata de distanciarse del gobierno,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 820.66,
+      "end": 824.74,
+      "text": "porque todo lo que le dicen, oiga, pero es que este gobierno falló en seguridad, falló en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 824.74,
+      "end": 830.0,
+      "text": "administración, falló en salud, y ella le llama al orden al presidente, si ya no sabe cómo distanciarse",
+      "speaker": "Kast"
+    },
+    {
+      "start": 830.0,
+      "end": 835.46,
+      "text": "más del presidente, pero finalmente termina siendo más de lo mismo, con una voz y un tono distinto.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 835.52,
+      "end": 840.24,
+      "text": "Ahora, independientemente de eso, es una pregunta pertinente si su encargado económico principal",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 840.24,
+      "end": 846.12,
+      "text": "ha elaborado ese tipo de informes en casos de colusión, ¿Cuál va a ser la actitud de un eventual gobierno suyo",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 846.12,
+      "end": 849.26,
+      "text": "en torno al comportamiento de la Fiscalía Nacional Económica",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 849.26,
+      "end": 853.38,
+      "text": "respecto del cuidado de la libre competencia?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 853.74,
+      "end": 856.46,
+      "text": "¿Usted garantiza que se va a mantener el criterio",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 856.46,
+      "end": 858.12,
+      "text": "que ha mantenido la Fiscalía Nacional Económica",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 858.12,
+      "end": 860.58,
+      "text": "en torno a defender la libre competencia en el país?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 861.6,
+      "end": 869.7,
+      "text": "Para la libertad económica y para el principio de economía social de mercado, economía de mercado, la libre competencia es esencial.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 870.48,
+      "end": 871.84,
+      "text": "Y nosotros vamos con todo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 872.02,
+      "end": 879.86,
+      "text": "Aquí, por ejemplo, se emitió una ley y todo el mundo celebraba la ley de pronto pago, para que a las pymes se le pagaran 30 días.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 880.48,
+      "end": 891.92,
+      "text": "Usted salga y pregúntele a las pymes si esa ley les solucionó toda la vida y que hoy día hay libre competencia, porque ese era uno de los puntos fundamentales donde el más grande abusaba del pequeño.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 892.36,
+      "end": 898.02,
+      "text": "El mayor comprador en Chile es el Estado. Y pregúntale a las pymes que trabajan con el Estado si tienen pronto pago.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 898.66,
+      "end": 903.0,
+      "text": "Hoy día la cantidad de facturas pendientes de pago que está dejando este gobierno es una especie de deuda oculta,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 903.88,
+      "end": 908.22,
+      "text": "porque debería pagar a 30 días, pero no paga los insumos de los hospitales no le paga a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 908.22,
+      "end": 913.88,
+      "text": "los que ejecutan las obras públicas puentes carreteras mejoramientos de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 913.88,
+      "end": 924.04,
+      "text": "caminos laterales en las globales bueno es un desastre y lo más fácil más que ley, era que el Estado le pagara a todos sus proveedores a 30 días.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 924.52,
+      "end": 928.0,
+      "text": "Si usted mete publicidad para el Estado, para alguna política pública que quieran difundir,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 928.84,
+      "end": 930.52,
+      "text": "no siempre le pagan los 30 días.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 930.74,
+      "end": 932.68,
+      "text": "¿Y qué le pasa al pequeño a veces cuando llega el grande?",
+      "speaker": "Kast"
+    },
+    {
+      "start": 932.74,
+      "end": 937.88,
+      "text": "Y el grande le dice, el chico llega y le dice, oiga, págueme 30 días. El grande le dice, oiga, es que, mire, estoy con falta de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 937.88,
+      "end": 943.44,
+      "text": "caja. ¿Le puedo pagar en 60? No, la ley dice que me paguen 30. Bien, muy bien, le pago en los 30.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 944.12,
+      "end": 950.4,
+      "text": "Y después nunca más lo llama para pedirle nada. Entonces, ellos legislan en base a la ilusión de las personas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 950.4,
+      "end": 951.48,
+      "text": "como lo han hecho siempre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 951.48,
+      "end": 952.54,
+      "text": "y terminan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 952.54,
+      "end": 953.64,
+      "text": "destruyendo el sistema",
+      "speaker": "Kast"
+    },
+    {
+      "start": 953.64,
+      "end": 954.74,
+      "text": "nosotros vamos a defender",
+      "speaker": "Kast"
+    },
+    {
+      "start": 954.74,
+      "end": 955.82,
+      "text": "la libre competencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 955.82,
+      "end": 956.48,
+      "text": "y Jorge Quiroz",
+      "speaker": "Kast"
+    },
+    {
+      "start": 956.48,
+      "end": 956.92,
+      "text": "es la persona",
+      "speaker": "Kast"
+    },
+    {
+      "start": 956.92,
+      "end": 958.16,
+      "text": "más adecuada",
+      "speaker": "Kast"
+    },
+    {
+      "start": 958.16,
+      "end": 958.64,
+      "text": "para",
+      "speaker": "Kast"
+    },
+    {
+      "start": 958.64,
+      "end": 961.26,
+      "text": "en un eventual",
+      "speaker": "Kast"
+    },
+    {
+      "start": 961.26,
+      "end": 962.04,
+      "text": "gobierno nuestro",
+      "speaker": "Kast"
+    },
+    {
+      "start": 962.04,
+      "end": 963.44,
+      "text": "para enfrentar",
+      "speaker": "Kast"
+    },
+    {
+      "start": 963.44,
+      "end": 964.34,
+      "text": "ese tipo de temas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 964.34,
+      "end": 965.08,
+      "text": "y otros más",
+      "speaker": "Kast"
+    },
+    {
+      "start": 965.08,
+      "end": 969.84,
+      "text": "porque el sistema de compra del estado es un abuso permanente o sea un",
+      "speaker": "Kast"
+    },
+    {
+      "start": 969.84,
+      "end": 973.96,
+      "text": "ejecutivo con un ejecutivo liderado por usted no va a cambiar el criterio que ya",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 973.96,
+      "end": 978.12,
+      "text": "se ha hecho tradicional desde el 2009 desde antes en adelante en adelante en",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 978.12,
+      "end": 980.92,
+      "text": "todo respecto de la colusión y la libre competencia, considerándola",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 980.92,
+      "end": 987.7,
+      "text": "como un delito grave. Para nada, para nada. Nosotros vamos a ir de manera muy dura contra",
+      "speaker": "Kast"
+    },
+    {
+      "start": 987.7,
+      "end": 992.98,
+      "text": "aquellos que tratan de saltarse las normas. De hecho, por ejemplo, en la reforma tributaria",
+      "speaker": "Kast"
+    },
+    {
+      "start": 992.98,
+      "end": 1010.02,
+      "text": "que nosotros planteamos, que es una rebaja del 27 al 23 en un periodo, hay otra que dice que vamos a darle un crédito tributario a las empresas que contraten más mano de obra formal, sobre todo en aquellos montos de dinero que tienden a la informalidad.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1015.06,
+      "end": 1015.54,
+      "text": "Cuando alguien gana hasta un millón de pesos, muchas veces se tiende a pagar una parte formal y una parte informal.",
+      "speaker": "SPK7"
+    },
+    {
+      "start": 1019.26,
+      "end": 1019.88,
+      "text": "Mientras más personas formalicen ese ingreso bajo esa cantidad,",
+      "speaker": "SPK4"
+    },
+    {
+      "start": 1024.74,
+      "end": 1028.4,
+      "text": "esa empresa va a tener un crédito contra el pago del impuesto a la renta al año siguiente con eso que se logra que no haya transferencias de recursos porque",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1028.4,
+      "end": 1032.6,
+      "text": "muchas veces se ha dado un subsidio para la contratación de mano de obra y en que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1032.6,
+      "end": 1036.8,
+      "text": "termina en fraude contratemos a alguien para que después hagan el fraude las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1036.8,
+      "end": 1042.62,
+      "text": "licencias médicas todo eso va a ser perseguido con dureza, pero si se hace bien,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1042.82,
+      "end": 1046.44,
+      "text": "va a tener una posibilidad de bajar del 23% del impuesto a la renta,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1046.52,
+      "end": 1049.78,
+      "text": "quizás hasta el 18% del impuesto a la renta, si contrata a más gente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1049.88,
+      "end": 1051.34,
+      "text": "Y eso genera más empleo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1051.34,
+      "end": 1072.32,
+      "text": "Una última cosa, José Antonio, para hacer todo eso necesitan los votos en el Congresoreso y la derecha tiene 76 diputados y está prácticamente empatada en el Senado. Ahora va a tener que negociar, ahora ya no es la teoría de la campaña y la teoría de las medidas que se sustentan en la propia voluntad,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1072.44,
+      "end": 1076.96,
+      "text": "en la mera voluntad. ¿Cómo lo va a hacer? ¿Cómo pretende gobernar con un Congreso",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1076.96,
+      "end": 1078.98,
+      "text": "donde en la Cámara va a estar en minoría?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1080.02,
+      "end": 1084.5,
+      "text": "Bueno, primero decir que es una minoría bastante alta.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1084.64,
+      "end": 1085.88,
+      "text": "Digamos que es una mayoría relativa.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1086.34,
+      "end": 1087.62,
+      "text": "Es una mayoría relativa.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1087.98,
+      "end": 1090.54,
+      "text": "Y hay 14 personas que son del PDG.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1091.26,
+      "end": 1094.52,
+      "text": "Yo les aseguro que esas personas del PDG son muy patriotas.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1094.94,
+      "end": 1100.74,
+      "text": "Y muchas personas del Partido Socialista, del PPD, del Partido Radical y hay independientes",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1100.74,
+      "end": 1102.68,
+      "text": "también son muy patriotas, y por eso nosotros hablamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1102.68,
+      "end": 1104.62,
+      "text": "de un parlamento para Chile, las buenas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1104.62,
+      "end": 1106.72,
+      "text": "leyes se aprueban por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1106.72,
+      "end": 1108.64,
+      "text": "sí mismas, porque van a estar los argumentos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1108.64,
+      "end": 1110.66,
+      "text": "van a estar bien redactadas, van a estar bien",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1110.66,
+      "end": 1112.86,
+      "text": "formuladas en cuanto a los números que se presentan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1112.86,
+      "end": 1114.26,
+      "text": "a nosotros no nos va a pasar que alguien",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1114.26,
+      "end": 1116.9,
+      "text": "abra el Excel y diga, oiga, aquí hay un número incorrecto, y la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1116.9,
+      "end": 1120.66,
+      "text": "directora de presupuesto diga, uy, sí, parece que me equivoqué. Y si equivoco tres veces,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1120.74,
+      "end": 1125.16,
+      "text": "pues en una sola presentación. Cuando nosotros hagamos bien la pega, que esa es parte de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1125.16,
+      "end": 1133.6,
+      "text": "lo que estamos proponiendo, hacer la pega que corresponde, los parlamentarios estoy seguro que van a aprobar lo que vaya en frente del país,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1133.94,
+      "end": 1139.02,
+      "text": "sean temas de seguridad, sean temas de inversión y crecimiento, sean temas laborales,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1139.24,
+      "end": 1142.96,
+      "text": "sean temas de salud, temas de vivienda y también de educación.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1143.44,
+      "end": 1145.3,
+      "text": "Como digo siempre, los vamos a sorprender",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1145.3,
+      "end": 1146.64,
+      "text": "para bien y vamos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1146.64,
+      "end": 1148.94,
+      "text": "lograr ese cambio real",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1148.94,
+      "end": 1149.84,
+      "text": "que Chile necesita",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1149.84,
+      "end": 1152.04,
+      "text": "y hoy recurrimos de nuevo a nuestro slogan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1152.04,
+      "end": 1154.08,
+      "text": "uno para todos y todos para el cambio",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1154.08,
+      "end": 1157.0,
+      "text": "Con José Antonio Cáceres, candidato al Partido Republicano",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1157.0,
+      "end": 1158.62,
+      "text": "desde Temuco, esta mañana",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1158.62,
+      "end": 1161.02,
+      "text": "aquí en Mesa Central, José Antonio, muchas gracias por la gentileza",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 1161.02,
+      "end": 1162.96,
+      "text": "Muchas gracias a ustedes, que estén muy bien",
+      "speaker": "Kast"
+    },
+    {
+      "start": 1162.96,
+      "end": 1163.34,
+      "text": "Buenos días",
+      "speaker": "SPK2"
+    }
+  ],
+  "speakers": [
+    "Kast",
+    "SPK2",
+    "SPK3",
+    "SPK4",
+    "SPK5",
+    "SPK6",
+    "SPK7",
+    "SPK8",
+    "SPK9",
+    "SPK10"
+  ]
+}

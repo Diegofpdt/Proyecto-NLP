@@ -1,0 +1,1004 @@
+{
+  "meta": {
+    "model": "openai/whisper-large-v3",
+    "language": "es",
+    "chunk_length_s": 25,
+    "stride_length_s": [
+      5,
+      5
+    ],
+    "speaker_method": "ecapa_cosine",
+    "sample_rate": 16000,
+    "min_seg_dur_s": 0.1,
+    "pad_s": 0.01,
+    "sim_threshold": 0.5,
+    "device_spk": "cuda",
+    "max_speakers": 10
+  },
+  "text": "desde donde nos comunicamos en directo para conocer cómo enfrenta esta nueva etapa. Pero primero que nada, candidato, buenas noches. Muy buenas noches, Iván. Lamento no estar hoy día ahí presencialmente con ustedes, pero como ha sido un sello en nuestra campaña, siempre partimos todas las etapas de las campañas en regiones, así como partimos la primera vuelta en Antofagasta, hoy día partimos la primera actividad en regiones de la segunda vuelta aquí en la Araucanía. Y vamos a hablar de temas de Araucanía, pero antes le quiero preguntar por algo político, candidato, porque no son pocas las voces que hoy día dicen que luego de conocer los resultados de la primera vuelta, le cito a Cristian Monqueren, entre otros, que Chile Vamos se acabó como ciclo político ha terminado. Primero que nada, ¿usted coincide con esto? ¿Los resultados de Chile Vamos hace prever que se acabó el ciclo político de esa derecha tradicional? Yo no me he caracterizado nunca por hacer análisis políticos de situaciones que están en desarrollo, porque la coalición de Chile Vamos también obtuvo un porcentaje importante de parlamentarios. Más allá de las diferencias que podamos haber tenido durante el transcurso de la campaña, hoy día lo más importante es que todos estamos trabajando por una causa común y por eso lo que hemos señalado, uno para todos y todos para Chile. Por lo tanto, hoy día conversar de si una colectividad política u otra es más grande, que tiene más futuro o menos futuro, puede ser una conversación importante, pero hoy día lo más relevante es que en estos 27 días todos tengamos el mismo norte, que es derrotar el continuismo. Y ese continuismo es la candidata de Gabriel Boric. Por lo tanto, entiendo los análisis y entiendo que los partidos tienen que tener una reflexión interna, todos los partidos, pero hoy día la principal reflexión que nos tiene que ocupar es el futuro de Chile. Ok, se lo pregunto porque también buena parte de la discusión tenía que ver con cuánto se iban a demorar los candidatos que no pasaran a segunda vuelta en apoyarlo. usted, si es que era el caso. En lo de Eveli Matei, naturalmente, eso se dio bien rápido, más rápido de lo que hacía suponer. ¿Qué rol van a jugar, si es que usted cree que van a jugar un rol en la campaña de segunda vuelta, Eveli Matei y Johar Skyser? Lo primero es agradecer, agradecer la actitud de ambos candidatos, Evelyn Matei, por todo lo que significa el conglomerado de Chile Vamos, y de los partidos que ella también logró aglutinar en esta campaña y por supuesto el trabajo y el apoyo de Johannes Kaiser con quien conformamos una misma lista parlamentaria junto con el Partido Social Cristiano. Esos tres partidos tomamos una decisión de plantearnos frente a la ciudadanía, nos fue bastante bien, pero a Chile Vamos también le fue bien y por eso era importante la posibilidad de que Evelyn Matei nos dijera, nuestros equipos, la gente que hoy día tiene cargos de representación popular, sobre todo los alcaldes, los cobres, los concejales, van a estar trabajando por una causa común, más allá de lo que cada uno pueda hacer. Y eso pasa por la disponibilidad, en tiempo, en cansancio también, porque esto ha sido una campaña agotadora. Yo espero que todo lo que se pueda hacer se haga en estos 27 días, tanto por Evelyn Matei, por Johannes Keiser, pero como les planteé ayer a ellos. Lo principal es que todas las personas que ejercen cargo de representación popular ayuden a convocar a sus vecinos y en eso puedo decirle que vengo saliendo de una reunión con más de 15 alcaldes de la Araucanía, con muchos consejeros regionales, muchos concejales, los candidatos a diputados y senadores que no llegaron a la meta y también con algunos que fueron electos y que hoy día acompañaron esta reunión, que refleja de nuevo ese concepto del equipo. Ya, pero para avanzar en otros temas me gustaría que me dijera si usted quiere que Johannes Kaiser y Evelyn Matei estén en su comando más allá de las bases más allá de los grupos de dirigentes ellos como personas usted quiere que estén en su campaña sí yo le yo le hago una analogía de lo que a mí me tocó el año 2017, cuando fui a apoyar a Sebastián Piñera. Yo no me moré un día en las disputas del comando, salí a trabajar. Y lo único que le dije, mire, presidente, porque yo también esa vez le dije, bueno, competimos y todo, pero yo estoy aquí para que usted sea presidente y usted le gane a ese proyecto que quiere cambiarnos Chile. O sea, si lo quiere su campaña. No entré en ninguna discusión con él, si oficina, si esto, si lo otro, que cada uno se despliegue lo máximo que pueda y cada uno tendrá que ver, analizar y jugarse por una causa común, si la causa común es la que tenemos todos y eso se ve reflejado hoy día en terreno, en la reunión, en el mismo encuentro que tuvimos con Evelyn Matei, estaba también el alcalde Palacios, el alcalde Contreras, el alcalde Alessandri, que representan a muchos alcaldes, todos dando el apoyo. Por lo tanto, más que la persona que es relevante, nosotros lo que queremos es que todas las personas se se matripulen. José Antonio, usted en una entrevista en radio nos dijo que una de sus primeras medidas del punto de vista estrictamente legal sería decretar como delito la migración irregular a nuestro país. Hoy día, eventualmente, si usted llega a la moneda en marzo, va a tener mayoría en ambas cámaras. ¿Va a ser delito ingresar ilegalmente a nuestro país? Y si nos puede explicar qué es lo que va a pasar con esos ciudadanos que cometerían delito a partir de ese momento. Sí, es una de las propuestas que le vamos a hacer llegar al Congreso para que tome una decisión, tanto en la Cámara de Diputados como en el Senado, para que las personas que no entren por la puerta a Chile, identificándose, diciendo si vienen como turistas, si vienen a trabajar, si vienen a estudiar y traten de entrar por alguna ruta alternativa, sean detenidos, sean retenidos, detenidos, expulsados o esperar, ¿no es cierto?, a que tomen la decisión de partir por el mismo lugar por donde vinieron. Y eso va a ser aplicado con todo el rigor de la ley. ¿Y si tienen hijos chilenos nacidos en nuestro país, aunque sean ciudadanos extranjeros, y que pueden estar en regulares, pero pueden tener hijos chilenos? ¿Qué pasa con ellos? Con esos niños. Bueno, en el caso que usted me plantea, sí si lo que nosotros hemos señalado siempre primero hagamos la distinción de cuando es delito porque lo que yo estoy diciendo es que vamos a enviar una ley al congreso a partir de la cual esto va a ser un delito por lo tanto si logra traspasar todas las barreras físicas, tecnológicas y diplomáticas que vamos a tener con los países vecinos, y en ese tiempo tiene un hijo en Chile que efectivamente por constitución tendría la nacionalidad chilena, el padre tendría que optar si va a jugarse por su hijo o le va a entregar el cuidado de su hijo al Estado. Igual que ocurre hoy día con algunos padres que no se hacen cargo de sus hijos y es el Estado o las organizaciones de la sociedad civil que hacen una tremenda labor en el cuidado de niños vulnerados en sus derechos o abandonados y los cuida. Si nosotros tenemos que hacernos cargo de los niños chilenos, de padre y madre chilena en instituciones del Estado, también seremos capaces de hacernos cargo de niños de padres extranjeros que al ser expulsados de Chile no quisieron llevarse a su hijo. Candidato, hoy día usted se despliega en la Araucanía y visita algunas zonas que han sido víctimas de atentados, incluso estuvo con algunas de las personas que han sido víctimas precisamente de estos atentados. El candidato hoy día, senador electo, el candidato Carter, que es la primera mayoría además en la Araucanía, propuso, y nos lo comentó en una entrevista en la radio, realizar extracciones aéreas con efectivos altamente calificados del tipo comando en la zona de Temucuicui. Yo en el debate le pregunté a usted, ¿qué va a hacer con Temucuicui? ¿Nos puede contestar ahora? ¿Qué es lo que va a hacer con Temucuicui? En el debate yo planteé que esto requiere mucha inteligencia y todas las operaciones policiales y si es que es necesario militares, tienen que ser con inteligencia, porque incluso si usted quisiera hacer una extracción, tiene que saber exactamente el lugar donde está. O sea, eso no lo descarta, José Antonio. Para entenderlo, ¿no descarta ese tipo de acciones? ¿No descarta entonces ese tipo de acciones? Nosotros no hemos descartado ninguna acción. Nosotros lo que dijimos, lo que yo plantee, perdón, en el debate, es que quien quiera entrar a Temocuicui tiene que identificarse, quien quiera salir tiene que identificarse y dejarse registrar, porque al interior de esa comunidad pueden también estar violándose los derechos humanos de personas que no tienen salud, que no tienen educación, que pueden ser objeto de maltrato, y no se sabe, porque incluso a medios de comunicación le han quemado sus vehículos cuando han tratado de entrar. Porque esta situación del terrorismo en la Araucanía, algunos dicen, no sé si hay terrorismo, algunos hablan de violencia rural. Al menos yo lo vengo denunciando desde el año 2017, que tengo el 2016. El primer video que hice en la zona, cuando los atentados partieron en Lumaco, bastante antes. Candidato, hablando de los temas que usted tiene que abordar, va a tener al menos tres... Perdón, y usted mismo ha sido objeto de atentados terroristas en la zona. Sí, sí, eso está registrado, lo hemos dicho y hemos dado hasta... Un camarógrafo suyo fue por eso, y yo agradezco que sean tan valientes los medios de prensa que entren. Pero nosotros las operaciones que realicemos no se las vamos a avisar a nadie. Porque una operación grande que se hizo aquí en la zona con muchos funcionarios de la PDI terminó siendo un funcionario asesinado. Tal cual. ¿Candidato? Y hay muchas personas que han sido víctimas de asesinatos a mansalva, por gente cobarde, por terroristas que atacan de noche y sobre seguro. Candidato, usted va a heredar, por decirlo entre comillas, al menos tres temas que tiene que resolver como presidente de la República. El primero, se lo pregunto, en función del tiempo, ¿va a apoyar o no la candidatura de Michelle Bachelet a la Secretaría General de Naciones Unidas? En esto, dos cosas. Uno, yo planteé el mismo día que el presidente nos anunció lo que él iba a hacer y el mismo día que en las mismas Naciones Unidas criticó a otro presidente de otra nación lo que él planteaba, señalé, fui el primero en señalar, qué lamentable que un tema como este no haya sido al menos sociabilizado con quienes tenían posibilidades reales de ser presidente o presidenta de la República antes de que él tomara la medida. Por lo tanto, nosotros no vamos a comunicar hoy día, yo no voy a comunicar hoy día lo que voy a hacer si es que gano o no gano ahora el 14 de diciembre. Lo primero es ganar. No estamos preocupados ni de los cargos a nivel nacional ni tampoco de los cargos a nivel internacional. Estamos preocupados de la crisis que vive Chile hoy día en temas de seguridad, en temas de economía y trabajo y en temas sociales. Porque en todo ello nos ha dejado un país destruido. O sea, eso lo va a resolver en marzo. Pero hay otros temas sobre los cuales a lo mejor ya tiene una posición. Por ejemplo, militares desplegados en la frontera. ¿Los va a mantener eventualmente en su gobierno? Lo que nunca vamos a hacer es usar una crisis como la que actualmente vive el gobierno como una plataforma política, porque lo que hizo el presidente de la República actual cuando fue a Colchane, bien protegido, bien escoltado en helicóptero, fue ir a anunciar que iba a mandar un proyecto de ley para que pudiera desplegar las fuerzas armadas en terreno sin pasar por el Congreso. Él lo que debería haber hecho en su segunda ida a Colchane, yo digo varias veces más, es haber ido a inaugurar la unidad policial que prometió que iba a instalar durante su gobierno, no ha hecho nada. Y a los militares, a las Fuerzas Armadas que están desplegadas ahí, les vamos a pedir colaboración siempre que sea necesario y mientras nuestras fuerzas policiales, porque hay también una unidad especializada de carabineros de límite de fronteras que tiene a su cargo el resguardo de las fronteras. Vamos a reforzarlo. Si eso no es suficiente, también vamos a pedir la colaboración de las Fuerzas Armadas, como corresponde, por ley y constitución, de acuerdo a la ley vigente. No prometiendo que vamos a cambiar una ley para hacer algo que hoy día se puede hacer y no han hecho. José Antonio Kask, candidato que ha pasado la segunda vuelta, representando al Partido Republicano. Le damos las gracias por esta entrevista. Estamos en contacto. Buenas noches. Muchas gracias a ustedes. Buenas noches.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "desde donde nos comunicamos en directo para conocer cómo enfrenta esta nueva etapa.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 2.96,
+      "end": 5.02,
+      "text": "Pero primero que nada, candidato, buenas noches.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 7.68,
+      "end": 9.1,
+      "text": "Muy buenas noches, Iván.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 9.82,
+      "end": 12.68,
+      "text": "Lamento no estar hoy día ahí presencialmente con ustedes,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 12.92,
+      "end": 15.82,
+      "text": "pero como ha sido un sello en nuestra campaña,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 16.36,
+      "end": 21.48,
+      "text": "siempre partimos todas las etapas de las campañas en regiones, así como partimos la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 21.48,
+      "end": 27.6,
+      "text": "primera vuelta en Antofagasta, hoy día partimos la primera actividad en regiones de la segunda",
+      "speaker": "Kast"
+    },
+    {
+      "start": 27.6,
+      "end": 31.24,
+      "text": "vuelta aquí en la Araucanía. Y vamos a hablar de temas de Araucanía, pero antes le quiero preguntar",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 31.24,
+      "end": 37.5,
+      "text": "por algo político, candidato, porque no son pocas las voces que hoy día dicen que luego de conocer los resultados de la primera vuelta,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 37.6,
+      "end": 42.74,
+      "text": "le cito a Cristian Monqueren, entre otros, que Chile Vamos se acabó como ciclo político ha terminado.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 42.84,
+      "end": 44.4,
+      "text": "Primero que nada, ¿usted coincide con esto?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 44.48,
+      "end": 49.36,
+      "text": "¿Los resultados de Chile Vamos hace prever que se acabó el ciclo político de esa derecha tradicional?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 52.0,
+      "end": 60.54,
+      "text": "Yo no me he caracterizado nunca por hacer análisis políticos de situaciones que están",
+      "speaker": "Kast"
+    },
+    {
+      "start": 60.54,
+      "end": 68.08,
+      "text": "en desarrollo, porque la coalición de Chile Vamos también obtuvo un porcentaje",
+      "speaker": "Kast"
+    },
+    {
+      "start": 68.08,
+      "end": 73.8,
+      "text": "importante de parlamentarios. Más allá de las diferencias que podamos haber tenido durante",
+      "speaker": "Kast"
+    },
+    {
+      "start": 73.8,
+      "end": 78.42,
+      "text": "el transcurso de la campaña, hoy día lo más importante es que todos estamos trabajando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 78.42,
+      "end": 81.22,
+      "text": "por una causa común y por eso",
+      "speaker": "Kast"
+    },
+    {
+      "start": 81.22,
+      "end": 88.52,
+      "text": "lo que hemos señalado, uno para todos y todos para Chile. Por lo tanto, hoy día conversar de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 88.52,
+      "end": 93.48,
+      "text": "si una colectividad política u otra es más grande, que tiene más futuro o menos futuro,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 94.02,
+      "end": 96.08,
+      "text": "puede ser una conversación importante,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 96.72,
+      "end": 102.94,
+      "text": "pero hoy día lo más relevante es que en estos 27 días todos tengamos el mismo norte, que es",
+      "speaker": "Kast"
+    },
+    {
+      "start": 102.94,
+      "end": 108.86,
+      "text": "derrotar el continuismo. Y ese continuismo es la candidata de Gabriel Boric. Por lo tanto,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 109.38,
+      "end": 111.82,
+      "text": "entiendo los análisis y entiendo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 111.82,
+      "end": 116.76,
+      "text": "los partidos tienen que tener una reflexión interna, todos los partidos, pero hoy día la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 116.76,
+      "end": 120.48,
+      "text": "principal reflexión que nos tiene que ocupar es el futuro de Chile. Ok, se lo pregunto porque también",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 120.48,
+      "end": 124.62,
+      "text": "buena parte de la discusión tenía que ver con cuánto se iban a demorar los candidatos que no",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 124.62,
+      "end": 126.8,
+      "text": "pasaran a segunda vuelta en apoyarlo. usted, si es que era el caso.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 127.5,
+      "end": 131.9,
+      "text": "En lo de Eveli Matei, naturalmente, eso se dio bien rápido, más rápido de lo que hacía suponer.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 132.46,
+      "end": 136.78,
+      "text": "¿Qué rol van a jugar, si es que usted cree que van a jugar un rol en la campaña de segunda vuelta,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 137.26,
+      "end": 138.74,
+      "text": "Eveli Matei y Johar Skyser?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 141.96,
+      "end": 144.66,
+      "text": "Lo primero es agradecer, agradecer la actitud",
+      "speaker": "Kast"
+    },
+    {
+      "start": 144.66,
+      "end": 147.8,
+      "text": "de ambos candidatos, Evelyn",
+      "speaker": "Kast"
+    },
+    {
+      "start": 147.8,
+      "end": 149.44,
+      "text": "Matei, por todo lo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 149.44,
+      "end": 150.96,
+      "text": "significa el conglomerado de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 150.96,
+      "end": 153.5,
+      "text": "Chile Vamos, y de los partidos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 153.5,
+      "end": 157.06,
+      "text": "que ella también logró aglutinar en esta",
+      "speaker": "Kast"
+    },
+    {
+      "start": 157.06,
+      "end": 163.52,
+      "text": "campaña y por supuesto el trabajo y el apoyo de Johannes Kaiser con quien conformamos una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 163.52,
+      "end": 169.4,
+      "text": "misma lista parlamentaria junto con el Partido Social Cristiano. Esos tres partidos tomamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 169.4,
+      "end": 185.92,
+      "text": "una decisión de plantearnos frente a la ciudadanía, nos fue bastante bien, pero a Chile Vamos también le fue bien y por eso era importante la posibilidad de que Evelyn Matei nos dijera, nuestros equipos, la gente que hoy día tiene cargos de representación",
+      "speaker": "Kast"
+    },
+    {
+      "start": 185.92,
+      "end": 191.08,
+      "text": "popular, sobre todo los alcaldes, los cobres, los concejales, van a estar trabajando por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 191.08,
+      "end": 198.8,
+      "text": "una causa común, más allá de lo que cada uno pueda hacer. Y eso pasa por la disponibilidad,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 199.42,
+      "end": 205.26,
+      "text": "en tiempo, en cansancio también, porque esto ha sido una campaña agotadora.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 206.04,
+      "end": 211.8,
+      "text": "Yo espero que todo lo que se pueda hacer se haga en estos 27 días, tanto por Evelyn Matei, por Johannes Keiser,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 212.18,
+      "end": 220.08,
+      "text": "pero como les planteé ayer a ellos. Lo principal es que todas las personas que ejercen cargo de representación popular",
+      "speaker": "Kast"
+    },
+    {
+      "start": 220.08,
+      "end": 225.98,
+      "text": "ayuden a convocar a sus vecinos y en eso puedo decirle que vengo saliendo de una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 225.98,
+      "end": 230.14,
+      "text": "reunión con más de 15 alcaldes de la Araucanía, con muchos consejeros",
+      "speaker": "Kast"
+    },
+    {
+      "start": 230.14,
+      "end": 235.24,
+      "text": "regionales, muchos concejales, los candidatos a diputados y senadores que no llegaron a la meta",
+      "speaker": "Kast"
+    },
+    {
+      "start": 235.24,
+      "end": 240.2,
+      "text": "y también con algunos que fueron electos y que hoy día acompañaron esta reunión, que refleja de",
+      "speaker": "Kast"
+    },
+    {
+      "start": 240.2,
+      "end": 243.98,
+      "text": "nuevo ese concepto del equipo. Ya, pero para avanzar en otros temas me gustaría que me dijera",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 243.98,
+      "end": 249.78,
+      "text": "si usted quiere que Johannes Kaiser y Evelyn Matei estén en su comando más allá de las bases",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 249.78,
+      "end": 255.94,
+      "text": "más allá de los grupos de dirigentes ellos como personas usted quiere que estén en su campaña sí",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 255.94,
+      "end": 265.16,
+      "text": "yo le yo le hago una analogía de lo que a mí me tocó el año 2017, cuando fui a apoyar a Sebastián Piñera.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 265.6,
+      "end": 270.82,
+      "text": "Yo no me moré un día en las disputas del comando, salí a trabajar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 271.4,
+      "end": 277.6,
+      "text": "Y lo único que le dije, mire, presidente, porque yo también esa vez le dije, bueno, competimos y todo,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 277.68,
+      "end": 282.9,
+      "text": "pero yo estoy aquí para que usted sea presidente y usted le gane a ese proyecto que quiere cambiarnos Chile.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 283.06,
+      "end": 284.1,
+      "text": "O sea, si lo quiere su campaña.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 284.22,
+      "end": 291.4,
+      "text": "No entré en ninguna discusión con él, si oficina, si esto, si lo otro, que cada uno se despliegue lo máximo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 291.4,
+      "end": 297.36,
+      "text": "pueda y cada uno tendrá que ver, analizar y jugarse por una causa común, si la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 297.36,
+      "end": 302.04,
+      "text": "causa común es la que tenemos todos y eso se ve reflejado hoy día en terreno, en",
+      "speaker": "Kast"
+    },
+    {
+      "start": 302.04,
+      "end": 313.74,
+      "text": "la reunión, en el mismo encuentro que tuvimos con Evelyn Matei, estaba también el alcalde Palacios, el alcalde Contreras, el alcalde Alessandri,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 313.92,
+      "end": 316.88,
+      "text": "que representan a muchos alcaldes, todos dando el apoyo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 317.16,
+      "end": 321.5,
+      "text": "Por lo tanto, más que la persona que es relevante, nosotros lo que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 321.5,
+      "end": 322.66,
+      "text": "queremos es que todas las",
+      "speaker": "Kast"
+    },
+    {
+      "start": 322.66,
+      "end": 324.78,
+      "text": "personas se se matripulen.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 325.12,
+      "end": 325.84,
+      "text": "José Antonio, usted en una",
+      "speaker": "SPK3"
+    },
+    {
+      "start": 325.84,
+      "end": 327.04,
+      "text": "entrevista en radio nos dijo que",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 327.04,
+      "end": 327.94,
+      "text": "una de sus primeras medidas del",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 327.94,
+      "end": 329.04,
+      "text": "punto de vista estrictamente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 329.04,
+      "end": 330.94,
+      "text": "legal sería decretar como",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 330.94,
+      "end": 333.26,
+      "text": "delito la migración irregular a",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 333.26,
+      "end": 334.86,
+      "text": "nuestro país. Hoy día,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 334.98,
+      "end": 335.64,
+      "text": "eventualmente, si",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 335.64,
+      "end": 340.22,
+      "text": "usted llega a la moneda en marzo, va a tener mayoría en ambas cámaras. ¿Va a ser delito",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 340.22,
+      "end": 344.08,
+      "text": "ingresar ilegalmente a nuestro país? Y si nos puede explicar qué es lo que va a pasar",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 344.08,
+      "end": 354.28,
+      "text": "con esos ciudadanos que cometerían delito a partir de ese momento. Sí, es una de las propuestas que le vamos a hacer llegar al Congreso para que tome una",
+      "speaker": "Kast"
+    },
+    {
+      "start": 354.28,
+      "end": 358.46,
+      "text": "decisión, tanto en la Cámara de Diputados como en el Senado, para que las personas que",
+      "speaker": "Kast"
+    },
+    {
+      "start": 358.46,
+      "end": 362.92,
+      "text": "no entren por la puerta a Chile, identificándose, diciendo si vienen como turistas, si vienen",
+      "speaker": "Kast"
+    },
+    {
+      "start": 362.92,
+      "end": 370.3,
+      "text": "a trabajar, si vienen a estudiar y traten de entrar por alguna ruta alternativa, sean detenidos,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 370.44,
+      "end": 376.16,
+      "text": "sean retenidos, detenidos, expulsados o esperar, ¿no es cierto?, a que tomen la",
+      "speaker": "Kast"
+    },
+    {
+      "start": 376.16,
+      "end": 382.84,
+      "text": "decisión de partir por el mismo lugar por donde vinieron. Y eso va a ser aplicado con todo el rigor de la ley.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 383.02,
+      "end": 386.0,
+      "text": "¿Y si tienen hijos chilenos nacidos en nuestro país, aunque sean ciudadanos extranjeros,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 386.72,
+      "end": 389.2,
+      "text": "y que pueden estar en regulares, pero pueden tener hijos chilenos?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 389.32,
+      "end": 392.36,
+      "text": "¿Qué pasa con ellos? Con esos niños.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 392.44,
+      "end": 397.56,
+      "text": "Bueno, en el caso que usted me plantea, sí si lo que nosotros hemos señalado siempre primero hagamos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 397.56,
+      "end": 401.46,
+      "text": "la distinción de cuando es delito porque lo que yo estoy diciendo es que vamos a",
+      "speaker": "Kast"
+    },
+    {
+      "start": 401.46,
+      "end": 405.96,
+      "text": "enviar una ley al congreso a partir de la cual esto va a ser un delito por",
+      "speaker": "Kast"
+    },
+    {
+      "start": 405.96,
+      "end": 411.06,
+      "text": "lo tanto si logra traspasar todas las barreras físicas, tecnológicas",
+      "speaker": "Kast"
+    },
+    {
+      "start": 411.06,
+      "end": 416.26,
+      "text": "y diplomáticas que vamos a tener con los países vecinos, y en ese tiempo tiene un",
+      "speaker": "Kast"
+    },
+    {
+      "start": 416.26,
+      "end": 420.5,
+      "text": "hijo en Chile que efectivamente por constitución tendría la nacionalidad chilena, el padre",
+      "speaker": "Kast"
+    },
+    {
+      "start": 420.5,
+      "end": 426.0,
+      "text": "tendría que optar si va a jugarse por su hijo o le va a entregar el cuidado de su hijo al Estado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 426.22,
+      "end": 433.08,
+      "text": "Igual que ocurre hoy día con algunos padres que no se hacen cargo de sus hijos y es el Estado o las organizaciones de la sociedad civil",
+      "speaker": "Kast"
+    },
+    {
+      "start": 433.08,
+      "end": 439.36,
+      "text": "que hacen una tremenda labor en el cuidado de niños vulnerados en sus derechos o abandonados y los cuida.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 439.74,
+      "end": 445.72,
+      "text": "Si nosotros tenemos que hacernos cargo de los niños chilenos, de padre y madre chilena en instituciones del Estado,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 445.88,
+      "end": 453.28,
+      "text": "también seremos capaces de hacernos cargo de niños de padres extranjeros que al ser expulsados de Chile no quisieron llevarse a su hijo.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 453.48,
+      "end": 458.48,
+      "text": "Candidato, hoy día usted se despliega en la Araucanía y visita algunas zonas que han sido víctimas de atentados,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 458.56,
+      "end": 461.8,
+      "text": "incluso estuvo con algunas de las personas que han sido víctimas precisamente de estos atentados.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 462.58,
+      "end": 467.78,
+      "text": "El candidato hoy día, senador electo, el candidato Carter, que es la primera mayoría además en la Araucanía,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 468.24,
+      "end": 471.46,
+      "text": "propuso, y nos lo comentó en una entrevista en la radio, realizar extracciones",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 471.46,
+      "end": 473.16,
+      "text": "aéreas con efectivos altamente",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 473.16,
+      "end": 475.28,
+      "text": "calificados del tipo comando en",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 475.28,
+      "end": 476.58,
+      "text": "la zona de Temucuicui. Yo en el",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 476.58,
+      "end": 477.8,
+      "text": "debate le pregunté a usted, ¿qué",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 477.8,
+      "end": 479.74,
+      "text": "va a hacer con Temucuicui? ¿Nos",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 479.74,
+      "end": 480.84,
+      "text": "puede contestar ahora? ¿Qué es",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 480.84,
+      "end": 481.94,
+      "text": "lo que va a hacer con Temucuicui?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 484.12,
+      "end": 485.94,
+      "text": "En el debate yo planteé",
+      "speaker": "Kast"
+    },
+    {
+      "start": 485.94,
+      "end": 488.0,
+      "text": "que esto requiere mucha inteligencia",
+      "speaker": "Kast"
+    },
+    {
+      "start": 488.0,
+      "end": 489.92,
+      "text": "y todas las operaciones",
+      "speaker": "Kast"
+    },
+    {
+      "start": 489.92,
+      "end": 491.54,
+      "text": "policiales",
+      "speaker": "Kast"
+    },
+    {
+      "start": 491.54,
+      "end": 493.16,
+      "text": "y si es que es necesario",
+      "speaker": "Kast"
+    },
+    {
+      "start": 493.16,
+      "end": 495.64,
+      "text": "militares, tienen que ser con",
+      "speaker": "Kast"
+    },
+    {
+      "start": 495.64,
+      "end": 498.0,
+      "text": "inteligencia, porque incluso si usted quisiera",
+      "speaker": "Kast"
+    },
+    {
+      "start": 498.0,
+      "end": 501.54,
+      "text": "hacer una extracción, tiene que saber exactamente el lugar donde está.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 501.7,
+      "end": 504.98,
+      "text": "O sea, eso no lo descarta, José Antonio. Para entenderlo, ¿no descarta ese tipo de acciones?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 505.72,
+      "end": 508.04,
+      "text": "¿No descarta entonces ese tipo de acciones?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 508.14,
+      "end": 510.28,
+      "text": "Nosotros no hemos descartado ninguna acción.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 510.7,
+      "end": 531.64,
+      "text": "Nosotros lo que dijimos, lo que yo plantee, perdón, en el debate, es que quien quiera entrar a Temocuicui tiene que identificarse, quien quiera salir tiene que identificarse y dejarse registrar, porque al interior de esa comunidad pueden también estar violándose los derechos humanos de personas que no tienen salud,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 531.78,
+      "end": 535.14,
+      "text": "que no tienen educación, que pueden ser objeto de maltrato, y no se sabe,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 535.52,
+      "end": 540.44,
+      "text": "porque incluso a medios de comunicación le han quemado sus vehículos cuando han tratado de entrar.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 540.7,
+      "end": 545.9,
+      "text": "Porque esta situación del terrorismo en la Araucanía, algunos dicen, no sé si hay terrorismo, algunos",
+      "speaker": "Kast"
+    },
+    {
+      "start": 545.9,
+      "end": 547.24,
+      "text": "hablan de violencia rural.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 547.88,
+      "end": 549.68,
+      "text": "Al menos yo lo vengo denunciando",
+      "speaker": "Kast"
+    },
+    {
+      "start": 549.68,
+      "end": 550.72,
+      "text": "desde el año",
+      "speaker": "Kast"
+    },
+    {
+      "start": 550.72,
+      "end": 553.9,
+      "text": "2017, que tengo el 2016.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 554.48,
+      "end": 555.82,
+      "text": "El primer video que hice",
+      "speaker": "Kast"
+    },
+    {
+      "start": 555.82,
+      "end": 557.7,
+      "text": "en la zona, cuando los atentados partieron",
+      "speaker": "Kast"
+    },
+    {
+      "start": 557.7,
+      "end": 559.18,
+      "text": "en Lumaco, bastante antes.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 559.92,
+      "end": 564.16,
+      "text": "Candidato, hablando de los temas que usted tiene que abordar, va a tener al menos tres...",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 564.16,
+      "end": 567.04,
+      "text": "Perdón, y usted mismo ha sido objeto de atentados terroristas en la zona.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 567.22,
+      "end": 570.58,
+      "text": "Sí, sí, eso está registrado, lo hemos dicho y hemos dado hasta...",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 570.58,
+      "end": 578.28,
+      "text": "Un camarógrafo suyo fue por eso, y yo agradezco que sean tan valientes los medios de prensa que entren.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 578.62,
+      "end": 581.84,
+      "text": "Pero nosotros las operaciones que realicemos no se las vamos a avisar a nadie.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 582.1,
+      "end": 586.6,
+      "text": "Porque una operación grande que se hizo aquí en la zona con muchos funcionarios de la PDI",
+      "speaker": "Kast"
+    },
+    {
+      "start": 586.6,
+      "end": 588.98,
+      "text": "terminó siendo un funcionario asesinado.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 589.02,
+      "end": 589.88,
+      "text": "Tal cual. ¿Candidato?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 591.94,
+      "end": 596.74,
+      "text": "Y hay muchas personas que han sido víctimas de asesinatos a mansalva, por gente cobarde, por terroristas que atacan",
+      "speaker": "Kast"
+    },
+    {
+      "start": 596.74,
+      "end": 598.22,
+      "text": "de noche y sobre seguro.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 598.64,
+      "end": 602.12,
+      "text": "Candidato, usted va a heredar, por decirlo entre comillas, al menos tres temas que tiene",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 602.12,
+      "end": 606.84,
+      "text": "que resolver como presidente de la República. El primero, se lo pregunto, en función del tiempo,",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 607.34,
+      "end": 611.26,
+      "text": "¿va a apoyar o no la candidatura de Michelle Bachelet a la Secretaría General de Naciones Unidas?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 613.74,
+      "end": 621.42,
+      "text": "En esto, dos cosas. Uno, yo planteé el mismo día que el presidente nos anunció lo que él iba",
+      "speaker": "Kast"
+    },
+    {
+      "start": 621.42,
+      "end": 625.62,
+      "text": "a hacer y el mismo día que en las mismas Naciones Unidas criticó a otro presidente",
+      "speaker": "Kast"
+    },
+    {
+      "start": 625.62,
+      "end": 633.1,
+      "text": "de otra nación lo que él planteaba, señalé, fui el primero en señalar, qué lamentable",
+      "speaker": "Kast"
+    },
+    {
+      "start": 633.1,
+      "end": 641.16,
+      "text": "que un tema como este no haya sido al menos sociabilizado con quienes tenían posibilidades reales",
+      "speaker": "Kast"
+    },
+    {
+      "start": 641.16,
+      "end": 645.6,
+      "text": "de ser presidente o presidenta de la República antes de que él tomara la medida.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 646.0,
+      "end": 648.7,
+      "text": "Por lo tanto, nosotros no vamos a comunicar hoy día, yo no voy a comunicar hoy día",
+      "speaker": "Kast"
+    },
+    {
+      "start": 648.7,
+      "end": 666.48,
+      "text": "lo que voy a hacer si es que gano o no gano ahora el 14 de diciembre. Lo primero es ganar. No estamos preocupados ni de los cargos a nivel nacional ni tampoco de los cargos a nivel internacional. Estamos preocupados de la crisis que vive Chile hoy día en temas de seguridad, en temas de economía y trabajo y en temas sociales.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 666.68,
+      "end": 670.08,
+      "text": "Porque en todo ello nos ha dejado un país destruido.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 670.38,
+      "end": 671.78,
+      "text": "O sea, eso lo va a resolver en marzo.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 672.16,
+      "end": 674.14,
+      "text": "Pero hay otros temas sobre los cuales a lo mejor ya tiene una posición.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 674.32,
+      "end": 677.9,
+      "text": "Por ejemplo, militares desplegados en la frontera.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 678.02,
+      "end": 680.0,
+      "text": "¿Los va a mantener eventualmente en su gobierno?",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 682.1,
+      "end": 687.86,
+      "text": "Lo que nunca vamos a hacer es usar una crisis como la que actualmente vive el gobierno",
+      "speaker": "Kast"
+    },
+    {
+      "start": 687.86,
+      "end": 692.74,
+      "text": "como una plataforma política, porque lo que hizo el presidente de la República actual",
+      "speaker": "Kast"
+    },
+    {
+      "start": 692.74,
+      "end": 705.84,
+      "text": "cuando fue a Colchane, bien protegido, bien escoltado en helicóptero, fue ir a anunciar que iba a mandar un proyecto de ley para que pudiera desplegar las fuerzas armadas en terreno sin pasar por el Congreso.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 706.46,
+      "end": 712.56,
+      "text": "Él lo que debería haber hecho en su segunda ida a Colchane, yo digo varias veces más, es haber ido a inaugurar la unidad policial",
+      "speaker": "Kast"
+    },
+    {
+      "start": 712.56,
+      "end": 715.96,
+      "text": "que prometió que iba a instalar durante su gobierno, no ha hecho nada.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 716.44,
+      "end": 720.12,
+      "text": "Y a los militares, a las Fuerzas Armadas que están desplegadas ahí,",
+      "speaker": "Kast"
+    },
+    {
+      "start": 720.12,
+      "end": 741.84,
+      "text": "les vamos a pedir colaboración siempre que sea necesario y mientras nuestras fuerzas policiales, porque hay también una unidad especializada de carabineros de límite de fronteras que tiene a su cargo el resguardo de las fronteras. Vamos a reforzarlo. Si eso no es suficiente, también vamos a pedir la colaboración de las Fuerzas Armadas, como corresponde, por ley y constitución, de acuerdo a la ley vigente.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 741.94,
+      "end": 746.16,
+      "text": "No prometiendo que vamos a cambiar una ley para hacer algo que hoy día se puede hacer y no han hecho.",
+      "speaker": "Kast"
+    },
+    {
+      "start": 746.5,
+      "end": 750.82,
+      "text": "José Antonio Kask, candidato que ha pasado la segunda vuelta, representando al Partido Republicano.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 750.9,
+      "end": 753.62,
+      "text": "Le damos las gracias por esta entrevista. Estamos en contacto. Buenas noches.",
+      "speaker": "SPK2"
+    },
+    {
+      "start": 755.72,
+      "end": 757.22,
+      "text": "Muchas gracias a ustedes. Buenas noches.",
+      "speaker": "Kast"
+    }
+  ],
+  "speakers": [
+    "Kast",
+    "SPK2",
+    "SPK3"
+  ]
+}
